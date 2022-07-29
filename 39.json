@@ -1,0 +1,83 @@
+{
+  "RestaurantName": "Fiilu",
+  "RestaurantUrl": "https://www.foodandco.fi/ravintolat/Ravintolat-kaupungeittain/jyvaskyla/fiilu/",
+  "PriceHeader": null,
+  "Footer": null,
+  "MenusForDays": [
+    {
+      "Date": "2022-07-29T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "10,70€ / Op 2,70€",
+          "Components": [
+            "Maissi-kvinoapihvejä (* ,A ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": [
+            "Valkosipulipaahdettua varhaisperunaa (G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto",
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Kebabrisottoa (* ,G ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Mausteista porsaanpaistia (A ,G ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Päärynäsmoothie (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-07-30T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-07-31T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
+  "ErrorText": null
+}

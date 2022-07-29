@@ -1,0 +1,61 @@
+{
+  "RestaurantName": "Ravintola Piato",
+  "RestaurantUrl": "https://www.semma.fi/ravintolat2/mattilanniemi/piato/",
+  "PriceHeader": null,
+  "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
+  "MenusForDays": [
+    {
+      "Date": "2022-07-29T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,70 / 5,80 / 7,90",
+          "Components": [
+            "Punajuurikroketteja (* ,G ,ILM ,L ,M ,Veg)",
+            "Lime-yrttimajoneesia (A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,70 / 5,80 / 7,90",
+          "Components": [
+            "Jauhelihatäytettä (* ,A ,L ,M ,VS)",
+            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,20/ 8,80 / 9,10",
+          "Components": [
+            "Kanaa Kiovan tapaan (A ,L ,VS)",
+            "Sitruuna-perunasosetta (A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,00",
+          "Components": [
+            "Mustaherukkakiisseliä (G ,L ,M ,Veg)",
+            "Kauravaahtoa (A ,G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-07-30T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-07-31T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
+  "ErrorText": null
+}

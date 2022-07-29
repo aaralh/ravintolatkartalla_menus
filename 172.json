@@ -1,0 +1,8 @@
+{
+  "RestaurantName": null,
+  "RestaurantUrl": null,
+  "PriceHeader": null,
+  "Footer": null,
+  "MenusForDays": null,
+  "ErrorText": "Restaurant not found with selected costnumber/language: 055701/fi "
+}

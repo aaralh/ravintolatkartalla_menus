@@ -1,0 +1,72 @@
+{
+  "RestaurantName": "Opiskelijaravintola Carelia",
+  "RestaurantUrl": "https://www.foodandco.fi/ravintolat/Ravintolat-kaupungeittain/joensuu/opiskelijaravintola-carelia/",
+  "PriceHeader": null,
+  "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
+  "MenusForDays": [
+    {
+      "Date": "2022-07-29T00:00:00+00:00",
+      "LunchTime": "Klo 10.30-14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "Opiskelija 1,60 € / Henkilökunta 4,12 € / Vierailija 4,29 €",
+          "Components": [
+            "Kikherne-kukkakaalicurrya (* ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kotiruokalounas",
+          "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Currymaustettu broilerinkoipi (G ,L ,M)",
+            "Chilikermaviilikastiketta (A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Keittolounas",
+          "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Kirjolohikeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Erikoisannos",
+          "Price": "Opiskelija 4,00-5,35 € / Henkilökunta 6,75-8,20 € / Vieras 10,90 €",
+          "Components": [
+            "Kauden kasviksia (G ,L ,M ,Veg)",
+            "Porsaan grillipihvi (* ,G ,L ,M)",
+            "Tummaa hunajakastiketta (A ,G ,ILM ,L ,M)",
+            "Juustoperunaa (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Opiskelija 0,50 € / Henkilökunta 0,57 € / Vieras 1,20 €",
+          "Components": [
+            "Mustaherukkakiisseliä (G ,L ,M ,Veg)",
+            "Kauravaahtoa (A ,G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-07-30T00:00:00+00:00",
+      "LunchTime": "Suljettu/closed",
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-07-31T00:00:00+00:00",
+      "LunchTime": "Suljettu/closed",
+      "SetMenus": []
+    }
+  ],
+  "ErrorText": null
+}
