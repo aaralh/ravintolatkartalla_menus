@@ -13,14 +13,20 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,70/7,90",
           "Components": [
-            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)"
+            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
+            "Vegaanista barbequemajoneesia (A ,G ,ILM ,L ,M ,Veg)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 1,
           "Name": "KASVISLOUNAS",
           "Price": "2,70/7,90",
-          "Components": []
+          "Components": [
+            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
+            "Vegaanista barbequemajoneesia (A ,G ,ILM ,L ,M ,Veg)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
         },
         {
           "SortOrder": 2,
