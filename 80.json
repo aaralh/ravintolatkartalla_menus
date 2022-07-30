@@ -5,45 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-07-29T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "2,70/ 5,36/ 7,90 €",
-          "Components": [
-            "Porkkana-pestolasagnettea (A ,ILM ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasviskeitto (KASVISLINJASTO)",
-          "Price": "1,80/ 4,39/ 7,20 €",
-          "Components": [
-            "Porkkanasosekeittoa    *, A, G, ILM, L, M, Veg ()"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70/ 5,36/ 7,90 €",
-          "Components": [
-            "Barbeque-maustettua broileri-tomaattipastaa (* ,A ,L ,M ,VS)",
-            "Saatavana gluteeniton vaihtoehto ()"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Salaattiaterian proteiiniosa",
-          "Price": "1,80/ 4,39/ 7,20 €",
-          "Components": [
-            "Halloumi-juustoa    A, G ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-07-30T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
