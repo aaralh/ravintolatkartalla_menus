@@ -5,37 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-07-30T00:00:00+00:00",
-      "LunchTime": "11:00-16:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Vönerlasagnettea (* ,A ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Kesäkurpitsa-lehtipinaattilasagnettea (A ,L)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Burgundinpataa naudasta ja porsaasta (* ,A ,G ,L ,M ,VS)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-07-31T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
