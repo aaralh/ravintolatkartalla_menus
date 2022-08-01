@@ -3,12 +3,6 @@
   "RestaurantUrl": "https://www.foodandco.fi/ravintolat/Ravintolat-kaupungeittain/jyvaskyla/fiilu/",
   "PriceHeader": null,
   "Footer": null,
-  "MenusForDays": [
-    {
-      "Date": "2022-07-31T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": []
-    }
-  ],
+  "MenusForDays": [],
   "ErrorText": null
 }
