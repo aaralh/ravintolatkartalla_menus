@@ -5,37 +5,12 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja \nsiten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. \nKiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-08-01T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas 6,10 €/ opisk. 2,70€",
-          "Price": null,
-          "Components": [
-            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)",
-            "Pico de gallo -linssisalsaa (* ,A ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,10 €/ opisk. 2,70€",
-          "Price": null,
-          "Components": [
-            "Broileria teriyakikastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-02T00:00:00+00:00",
-      "LunchTime": null,
+      "LunchTime": "11-14",
       "SetMenus": [
         {
           "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas 6,10 €/ opisk. 2,70€",
+          "Name": "Vegaaninen kasvislounas 6,80€/ opisk. 2,70€",
           "Price": null,
           "Components": [
             "Tahu goreng Indonesia (A ,G ,ILM ,L ,M ,Veg ,VS)",
@@ -44,7 +19,7 @@
         },
         {
           "SortOrder": 0,
-          "Name": "Lounas  6,10 €/ opisk. 2,70 €",
+          "Name": "Lounas  6,80 €/ opisk. 2,70 €",
           "Price": null,
           "Components": [
             "Kalapuikkoja (* ,A ,L ,M)",
@@ -56,11 +31,11 @@
     },
     {
       "Date": "2022-08-03T00:00:00+00:00",
-      "LunchTime": null,
+      "LunchTime": "11-14",
       "SetMenus": [
         {
           "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas 6,10 €/ opisk. 2,70€",
+          "Name": "Vegaaninen kasvislounas 6,80€/ opisk. 2,70€",
           "Price": null,
           "Components": [
             "Kikherne-bataattipataa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
@@ -69,7 +44,7 @@
         },
         {
           "SortOrder": 0,
-          "Name": "Lounas 6,10 €/ opisk. 2,70 €",
+          "Name": "Lounas 6,80 €/ opisk. 2,70 €",
           "Price": null,
           "Components": [
             "Paistettu kananmuna (A ,G ,L ,M)",
@@ -80,11 +55,11 @@
     },
     {
       "Date": "2022-08-04T00:00:00+00:00",
-      "LunchTime": null,
+      "LunchTime": "11-14",
       "SetMenus": [
         {
           "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas 6,10 €/ opisk. 2,70€",
+          "Name": "Vegaaninen kasvislounas 6,80€/ opisk. 2,70€",
           "Price": null,
           "Components": [
             "Chili con vege (* ,A ,ILM ,L ,M ,Veg ,VS)",
@@ -93,7 +68,7 @@
         },
         {
           "SortOrder": 0,
-          "Name": "Lounas  6,10 €/ opisk. 2,70 €",
+          "Name": "Lounas  6,80 €/ opisk. 2,70 €",
           "Price": null,
           "Components": [
             "Kuhapyöryköitä (A ,L ,M)",
@@ -105,11 +80,11 @@
     },
     {
       "Date": "2022-08-05T00:00:00+00:00",
-      "LunchTime": null,
+      "LunchTime": "11-14",
       "SetMenus": [
         {
           "SortOrder": 0,
-          "Name": "Kasvislounas 6,10 €/ opisk. 2,70 €",
+          "Name": "Kasvislounas 6,80 €/ opisk. 2,70 €",
           "Price": null,
           "Components": [
             "Halloumi-kasvispataa (* ,A ,ILM)",
@@ -118,7 +93,7 @@
         },
         {
           "SortOrder": 0,
-          "Name": "Lounas  6,10 €/ opisk. 2,70 €",
+          "Name": "Lounas  6,80 €/ opisk. 2,70 €",
           "Price": null,
           "Components": [
             "Lohkoperunoita (G ,ILM ,L ,M ,Veg)",

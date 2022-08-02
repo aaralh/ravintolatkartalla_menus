@@ -3,6 +3,205 @@
   "RestaurantUrl": "https://www.foodandco.fi/ravintolat/Ravintolat-kaupungeittain/jyvaskyla/fiilu/",
   "PriceHeader": null,
   "Footer": null,
-  "MenusForDays": [],
+  "MenusForDays": [
+    {
+      "Date": "2022-08-02T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "10,70€ / Op 2,70€",
+          "Components": [
+            "Halloumi-kasvispataa (* ,A ,ILM)",
+            "Valkosipulipaahdettua varhaisperunaa (G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)",
+            "Villikalapataa (* ,A ,G ,ILM ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Talon jauhelihamureketta (A ,L ,M)",
+            "Kurkkuraitaa (A ,G ,ILM ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Appelsiinismoothie (A ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-03T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "10,70€ / Op 2,70€",
+          "Components": [
+            "Porkkana-pestolasagnea (* ,A ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Broileria Curry-smetanakastikkeessa ( A, G, L ) (G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Porsasta hapanimeläkastikkeessa (* ,A ,G ,L ,M)",
+            "Kookosriisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Suklaamoussea (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-04T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": [
+            "Bataattisosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Savuriistakiusausta (* ,A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Lindströminpihvejä (A ,L ,M)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)",
+            "Kermakastiketta (* ,A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Pannukakkua (A ,L)",
+            "Vaniljakermavaahtoa (A ,G ,L)",
+            "Mansikkahilloa (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-05T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "10,70€ / Op 2,70€",
+          "Components": [
+            "Butter Mifua (A ,G ,ILM ,L ,VS)",
+            "Täysjyvänuudeleita (* ,A ,ILM ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Sitruunaisia kalapaloja (* ,A ,L ,M)",
+            "Tillikermaviilikastiketta (A ,G ,ILM ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Juustoista jauheliha-pastapannua (* ,A ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Mustikkapiirakkaa (A ,L)",
+            "Vaniljakastiketta (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-06T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-08-07T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
   "ErrorText": null
 }

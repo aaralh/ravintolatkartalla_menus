@@ -5,36 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-08-01T00:00:00+00:00",
-      "LunchTime": "11:00-16:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Falafel-pyöryköitä (A ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Kebablihaa ja kasviksia (* ,A ,G ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Suklaamoussea (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-02T00:00:00+00:00",
       "LunchTime": "11:00-16:00",
       "SetMenus": [
