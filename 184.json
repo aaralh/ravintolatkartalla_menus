@@ -5,40 +5,6 @@
   "Footer": "Huomioithan. että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\nLounashinnat opiskelija/ Aalto henkilökunta/ Vierailija\n\nPlease, kindly note that the raw materials used in the restaurants may vary from the planned and therefore the product specifications and dietary labels published at web sites may differ from the final and correct information that will be given at the restaurant. Persons with allergies are advised every time to check the suitability of the offered food choices to their diet at the restaurant. Thank you for your understanding\nLunch prices student/ Aalto University staff/ visitor",
   "MenusForDays": [
     {
-      "Date": "2022-08-02T00:00:00+00:00",
-      "LunchTime": "11-18",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "2,70/ 6,50/8,30 €",
-          "Components": [
-            "Kikherne-kukkakaalicurrya (* ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70/ 6,50/8,30 €",
-          "Components": [
-            "Kalapuikkoja (* ,A ,L ,M)",
-            "Tillikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Pizzat",
-          "Price": "5,08 / 9,60 / 10,40 €",
-          "Components": [
-            "Härkäpapu-paprikapizza (A ,L ,Veg)",
-            "Halloumjuusto-kanapizza  (A) ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-03T00:00:00+00:00",
       "LunchTime": "11-18",
       "SetMenus": [

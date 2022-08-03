@@ -5,53 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-08-02T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "10,70€ / Op 2,70€",
-          "Components": [
-            "Halloumi-kasvispataa (* ,A ,ILM)",
-            "Valkosipulipaahdettua varhaisperunaa (G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)",
-            "Villikalapataa (* ,A ,G ,ILM ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Talon jauhelihamureketta (A ,L ,M)",
-            "Kurkkuraitaa (A ,G ,ILM ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Appelsiinismoothie (A ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-03T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
