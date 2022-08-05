@@ -5,47 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-08-04T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "2,70 / 5,97 / 8,80 €",
-          "Components": [
-            "Raastepihvejä (* ,A ,L ,M)",
-            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasviskeitto (KASVISLINJASTO)",
-          "Price": "2,00 / 4,89 / 8,00 €",
-          "Components": [
-            "Bataattisosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70 / 5,97 / 8,80 €",
-          "Components": [
-            "Kebab-pastavuokaa (A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Salaattiaterian proteiiniosa",
-          "Price": "2,00 / 4,89 / 8,00 €",
-          "Components": [
-            "Broilerin paistia (G ,L ,M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-05T00:00:00+00:00",
       "LunchTime": "10.30 - 14.00",
       "SetMenus": [

@@ -5,54 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-08-04T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Bataattisosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Savuriistakiusausta (* ,A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Lindströminpihvejä (A ,L ,M)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)",
-            "Kermakastiketta (* ,A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Pannukakkua (A ,L)",
-            "Vaniljakermavaahtoa (A ,G ,L)",
-            "Mansikkahilloa (G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-05T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [

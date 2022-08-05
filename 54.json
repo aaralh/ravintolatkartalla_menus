@@ -5,38 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-08-04T00:00:00+00:00",
-      "LunchTime": "11:00-16:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Chakalaka- kasvispataa (A ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Ruotsalaista pyttipannua (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Pannukakkua (A ,L)",
-            "Mansikkahilloa (G ,L ,M ,Veg)",
-            "Vaniljakermavaahtoa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-05T00:00:00+00:00",
       "LunchTime": "11:00-16:00",
       "SetMenus": [
