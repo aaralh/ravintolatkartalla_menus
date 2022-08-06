@@ -5,54 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-08-05T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "10,70€ / Op 2,70€",
-          "Components": [
-            "Butter Mifua (A ,G ,ILM ,L ,VS)",
-            "Täysjyvänuudeleita (* ,A ,ILM ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Sitruunaisia kalapaloja (* ,A ,L ,M)",
-            "Tillikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Juustoista jauheliha-pastapannua (* ,A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Mustikkapiirakkaa (A ,L)",
-            "Vaniljakastiketta (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-06T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
