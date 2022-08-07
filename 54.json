@@ -5,36 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-08-06T00:00:00+00:00",
-      "LunchTime": "11:00-16:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Kasvispizzaa (A ,ILM ,L ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Feta-pinaatti-cashewpähkinäpizzaa (A ,VL)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Jauheliha-makaronilaatikkoa (A ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-07T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
