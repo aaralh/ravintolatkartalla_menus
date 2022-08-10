@@ -5,7 +5,70 @@
   "Footer": "Opiskelijalounas edellyttää voimassa olevaa kelan ateriatukeen oikeuttavaa opiskelijakorttia. \nMuulla kuin kelan tukemalla opiskelijatodistuksella: opiskelijalounas 6,50 € \ngrillipisteen erikoislounas 10,50 €.\n \nNordic Buffet on kaikille 10,20 € hintainen. Nordic Buffet sisältää liha-, kala- tai kanaruuan lisäksi päivittäin myös kasvisruokavaihtoehdon. _________________________________________  \n\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-08-07T00:00:00+00:00",
+      "Date": "2022-08-10T00:00:00+00:00",
+      "LunchTime": "11-13",
+      "SetMenus": [
+        {
+          "SortOrder": 1,
+          "Name": "Nordic Buffet",
+          "Price": "10,20€",
+          "Components": [
+            "Ranskankermaa (A ,G ,L)",
+            "Porkkanapihvejä (A ,G ,ILM ,L ,M)",
+            "Kebab-paprikatäytettä (G ,L ,M ,VS)",
+            "Tomaatti-jalapenosalsaa (* ,G ,ILM ,L ,M ,Veg)",
+            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-11T00:00:00+00:00",
+      "LunchTime": "11-13",
+      "SetMenus": [
+        {
+          "SortOrder": 1,
+          "Name": "Nordic Buffet",
+          "Price": "10,20€",
+          "Components": [
+            "Kreikkalaista juusto-kasvispataa (* ,A ,G ,ILM ,L)",
+            "Broileria currykastikkeessa (* ,A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "Jälkiruoka",
+          "Price": "1,00 €",
+          "Components": [
+            "Ohukaisia (A)",
+            "Mansikkahilloa (G ,L ,M ,Veg)",
+            "Vaniljakermavaahtoa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-12T00:00:00+00:00",
+      "LunchTime": "11-13",
+      "SetMenus": [
+        {
+          "SortOrder": 1,
+          "Name": "Nordic Buffet",
+          "Price": "10,20€",
+          "Components": [
+            "Butter Mifua (A ,G ,ILM ,L ,VS)",
+            "Kassleria cajunkastikkeessa (A ,G ,L ,VS)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-13T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-08-14T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
