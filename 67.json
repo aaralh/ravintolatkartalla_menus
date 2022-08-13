@@ -5,49 +5,6 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\n*= korkeakouluopiskelijoiden ruokailusuosituksen mukainen ateriavaihtoehto",
   "MenusForDays": [
     {
-      "Date": "2022-08-12T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "2,70 / 8,35",
-          "Components": [
-            "Falafel-pyöryköitä (A ,L ,M ,Veg ,VS)",
-            "Tzatsikia (A ,G ,ILM ,L ,VS)",
-            "Paahdettuja yrttiperunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70 / 8,35",
-          "Components": [
-            "Paahdettuja yrttiperunoita (G ,ILM ,L ,M ,Veg)",
-            "Saksanhirvi-sipulipataa (* ,A ,G ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Keittolounas",
-          "Price": "2,70 / 8,35",
-          "Components": [
-            "Meksikolaista chorizo-kasviskeittoa (* ,A ,G ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "5,35 / 12,55",
-          "Components": [
-            "Metsästäjänleike (A ,L)",
-            "Paahdettuja yrttiperunoita (G ,ILM ,L ,M ,Veg)",
-            "Kauden kasviksia (G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-13T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []

@@ -5,49 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-08-12T00:00:00+00:00",
-      "LunchTime": "10.30 - 15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 / 5,80 / 7,90",
-          "Components": [
-            "Ratatouillea (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 / 5,80 / 7,90",
-          "Components": [
-            "Uunimakkaraa juustokuorrutteella (A ,G ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,20/ 8,80 / 9,10",
-          "Components": [
-            "Pulled chicken briossihampurilainen kimchillä (A ,L ,M ,VS)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
-            "Chilimajoneesia (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,00",
-          "Components": [
-            "Ruusunmarja-banaanikiisseliä (G ,L ,M ,Veg)",
-            "Kauravaahtoa (A ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-13T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []

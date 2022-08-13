@@ -5,37 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-08-12T00:00:00+00:00",
-      "LunchTime": "11:00-16:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Tofu-kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Jauhelihapizzaa (A ,L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mustikka-ruismurupaistosta (A ,L ,M ,Veg)",
-            "Kauravaahtoa (A ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-13T00:00:00+00:00",
       "LunchTime": "11:00-16:00",
       "SetMenus": [
@@ -52,7 +21,7 @@
           "Name": "LOUNAS",
           "Price": "2,70/7,90",
           "Components": [
-            "Lasagnettea broilerin ja naudan jauhelihasta (A ,L ,VS)"
+            "Kalkkuna-pastavuoka A, L ()"
           ]
         }
       ]
