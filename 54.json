@@ -5,28 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-08-13T00:00:00+00:00",
-      "LunchTime": "11:00-16:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Bataatti-kookoscurryä (G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Kalkkuna-pastavuoka A, L ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-14T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
