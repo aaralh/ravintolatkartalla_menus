@@ -3,6 +3,229 @@
   "RestaurantUrl": "https://www.foodandco.fi/ravintolat/Ravintolat-kaupungeittain/espoo/dipoli/",
   "PriceHeader": null,
   "Footer": "Ravintolamme on kelan ateriatuen piirissä 2,30 €/ ateria. Opiskelijahintaisen aterian edellytyksenä on voimassa oleva opiskelijakortti.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
-  "MenusForDays": [],
+  "MenusForDays": [
+    {
+      "Date": "2022-08-16T00:00:00+00:00",
+      "LunchTime": "11.00-15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "2,70€ / 6,50€ / 9,30€",
+          "Components": [
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)",
+            "Härkistä ja kasviksia teriyakiakastikkeessa (A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 22,
+          "Name": "Lounas  II",
+          "Price": "2,70€ / 6,50€ / 9,30€",
+          "Components": [
+            "Jauheliha-makaronilaatikkoa (A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 23,
+          "Name": "Lounas III",
+          "Price": "2,70€ / 6,50€ / 9,30€",
+          "Components": [
+            "Rapeita kalapaloja (* ,A ,L ,M)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 30,
+          "Name": "Grillistä",
+          "Price": "5,30€ / 8,50€ / 11,50€",
+          "Components": [
+            "Feta-pinaattipizza (A ,VL)",
+            "Dipolin tapaan Aasialainen katkarapu Bowl (L) ()"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": "1,40€",
+          "Components": [
+            "Puolukka-kaurapiirakkaa (A ,L)",
+            "Vaniljakastiketta (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-17T00:00:00+00:00",
+      "LunchTime": "11.00-15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "2,70€ / 6,50€ / 9,30€",
+          "Components": [
+            "Kasvispataa (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": [
+            "Briossihampurilainen chilipaahdetulla lohella (A ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": [
+            "Parmesaani-bataattiranskalaiset (A ,G ,L)",
+            "Remouladekastiketta (A ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Lounas I",
+          "Price": "2,70€ / 6,50€ / 9,30€",
+          "Components": [
+            "Jauhelihakebakoita (A ,L ,M ,VS)",
+            "Chilimajoneesia (A ,G ,L)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 23,
+          "Name": "Lounas III",
+          "Price": "2,70€ / 6,50€ / 9,30€",
+          "Components": [
+            "Kalkkunaa rakuunakastikkeessa (* ,A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 30,
+          "Name": "Grillistä",
+          "Price": "5,30€ / 8,50€ / 11,50€",
+          "Components": [
+            "Feta-pinaattipizza (A ,VL)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": "1,40€",
+          "Components": [
+            "Mariannerahkaa (A ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-18T00:00:00+00:00",
+      "LunchTime": "11.00-15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "2,70€ / 6,50€ / 9,30€",
+          "Components": [
+            "Papu-paprika-maissitäytettä (A ,G ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": [
+            "Herkkusieni-pestopastaa (A ,ILM ,VL ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Lounas I",
+          "Price": "2,70€ / 6,50€ / 9,30€",
+          "Components": [
+            "Broileri-basilika-fenkolipastaa (* ,A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 23,
+          "Name": "Lounas III",
+          "Price": "2,70€ / 6,50€ / 9,30€",
+          "Components": [
+            "Puolukkahilloa (G ,L ,M ,Veg)",
+            "Maksakastiketta (* ,A ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 30,
+          "Name": "Grillistä",
+          "Price": "5,30€ / 8,50€ / 11,50€",
+          "Components": [
+            "Feta-pinaattipizza (A ,VL)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": "1,40€",
+          "Components": [
+            "Puutarhamarja-ruismurupaistosta (A ,L ,M ,Veg)",
+            "Kermavaahtoa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-19T00:00:00+00:00",
+      "LunchTime": "11.00 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 13,
+          "Name": "Kasvislounas",
+          "Price": "2,70€ / 6,50€ / 9,30€",
+          "Components": [
+            "Halloumi-porkkanahummuspizzaa (A ,ILM ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Lounas I",
+          "Price": "2,70€ / 6,50€ / 9,30€",
+          "Components": [
+            "Makkarakastiketta (* ,A ,G ,L ,M)",
+            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 22,
+          "Name": "Lounas  II",
+          "Price": "2,70€ / 6,50€ / 9,30€",
+          "Components": [
+            "Paneroitua seitifilettä (* ,A ,ILM ,L ,M)",
+            "Jogurtti-yrttikastiketta (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-20T00:00:00+00:00",
+      "LunchTime": "Suljettu",
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-08-21T00:00:00+00:00",
+      "LunchTime": "Suljettu",
+      "SetMenus": []
+    }
+  ],
   "ErrorText": null
 }

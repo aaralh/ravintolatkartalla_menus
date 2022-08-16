@@ -5,49 +5,6 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nRuokalistamuutokset ovat mahdollisia.",
   "MenusForDays": [
     {
-      "Date": "2022-08-15T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 1,
-          "Name": "BUFFEE KASVISKEITTO",
-          "Price": "10,80/2,70",
-          "Components": [
-            "Parsakaalisosekeittoa (* ,A ,G ,ILM ,L)",
-            "Ruis-auringonkukansiemencrumblea (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 4,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "11,30/2,70",
-          "Components": [
-            "Juustokuorrutettua seifileetä (* ,A ,L)",
-            "Yrttipaahdettua perunaa (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "11,30/2,70",
-          "Components": [
-            "Jauhelihapyöryköitä thaimaalaisittain (A ,L ,M ,VS)",
-            "Lime-chilijogurttikastiketta (A ,G ,ILM ,L)",
-            "Paahdettuja yrttiperunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 7,
-          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
-          "Price": null,
-          "Components": [
-            "Höyrytettyjä kasviksia (* ,G ,L ,M ,Veg)",
-            "Persiljaöljyä (* ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-16T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [

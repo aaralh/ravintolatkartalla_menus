@@ -5,44 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-08-15T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 / 5,80 /7,90",
-          "Components": [
-            "Kasviskroketteja (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 / 5,80/7,90",
-          "Components": [
-            "Butter Chicken (* ,A ,G ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,80/7,90",
-          "Components": [
-            "Lihakeittoa (* ,A ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Vaahtokarkki-kinuskirahkaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-16T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [
@@ -101,7 +63,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 / 5,80 /7,90",
           "Components": [
-            "Tomaatti-vuohenjuustokastiketta (* ,A ,G ,ILM ,VL ,VS)",
+            "Tomaatti-vuohenjuustokastiketta (* ,A ,G ,ILM ,L ,VS)",
             "Luomutäysjyväpennepastaa (* ,A ,ILM ,L ,M ,Veg)"
           ]
         },
@@ -148,8 +110,8 @@
           "Name": "LOUNAS",
           "Price": "2,70 / 5,80/7,90",
           "Components": [
+            "Tillikermaviilikastiketta (A ,G ,ILM ,L)",
             "Kapriksella ja tillillä maustettuja kalamurekepihvejä\n (* ,A ,ILM ,L ,M)",
-            "Muhennettua mustajuurta (A ,G ,L ,VS)",
             "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
           ]
         },
