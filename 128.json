@@ -5,49 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-08-16T00:00:00+00:00",
-      "LunchTime": "10.30- 14.00, Wicked Rabbit suljettu",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "Amk 2,70 / Lounasbuffet 10,90",
-          "Components": [
-            "Espanjalaista pinaatti-oliivimunakasta (A ,G ,ILM ,L ,VS)",
-            "Mustapapu-tomaattisalsaa (A ,G ,L ,M ,Veg)",
-            "Paprikariisiä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "Amk 2,70",
-          "Components": [
-            "Bolognesekastiketta (* ,A ,G ,L ,M ,VS)",
-            "Luomutäysjyväspagettia (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas erikoishintainen",
-          "Price": "Amk 5,30",
-          "Components": [
-            "Broileria inkivääri-chilikastikkeessa (* ,A ,G ,L ,M)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "Amk 1,60",
-          "Components": [
-            "Vadelma-puolukkakiisseliä (G ,L ,M ,Veg)",
-            "Vaniljakermavaahtoa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-17T00:00:00+00:00",
       "LunchTime": "10.30- 14.00, Wicked Rabbit suljettu",
       "SetMenus": [
