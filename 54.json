@@ -5,55 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-08-17T00:00:00+00:00",
-      "LunchTime": "11:00-16:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Juurespihvejä (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Currymajoneesia (A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Juurespihvejä (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Currymajoneesia (A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Talon jauhelihapihvi ja haudutettua sipulia (A ,L ,M)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70/6,30",
-          "Components": [
-            "Kirjolohikeittoa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Tyrni-jogurttipannacottaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-18T00:00:00+00:00",
       "LunchTime": "11:00-16:00",
       "SetMenus": [

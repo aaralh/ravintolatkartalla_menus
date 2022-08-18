@@ -5,40 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja \nsiten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. \nKiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-08-17T00:00:00+00:00",
-      "LunchTime": "11-15",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas 6,80 €/ opisk. 2,70 €",
-          "Price": null,
-          "Components": [
-            "Perunasosetta (* ,A ,G ,ILM ,L)",
-            "Paneroidut kasvispihvit (* ,A ,G ,L)",
-            "Jogurtti-kurkkukastiketta (A ,G ,ILM ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 2,70 €",
-          "Price": null,
-          "Components": [
-            "Kebabrisottoa (* ,G ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas  6,80 €/ opisk. 2,70 €",
-          "Price": null,
-          "Components": [
-            "Kalapuikkoja (* ,A ,L ,M)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)",
-            "Jogurtti-kurkkukastiketta (A ,G ,ILM ,L ,VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-18T00:00:00+00:00",
       "LunchTime": "11-15",
       "SetMenus": [

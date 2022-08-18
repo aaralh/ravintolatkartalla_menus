@@ -5,48 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-08-17T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "2,70 / 5,97 / 8,80 €",
-          "Components": [
-            "Paneroidut kasvispihvit (* ,A ,G ,L)",
-            "Jogurtti-kurkkukastiketta (A ,G ,ILM ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto (KASVISLINJASTO)",
-          "Price": "2,00/ 4,89 / 8,00 €",
-          "Components": [
-            "Pinaattikeittoa (* ,A ,ILM ,L)",
-            "Keitetty kananmuna (A ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70 / 5,97 / 8,80 €",
-          "Components": [
-            "Jauhelihamureketta (A ,L ,M)",
-            "Sipulikastiketta (* ,A ,L)",
-            "Persiljaperunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Salaattiaterian proteiiniosa",
-          "Price": "2,00 / 4,89 / 8,00 €",
-          "Components": [
-            "Basilikamarinoitua mozzarellaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-18T00:00:00+00:00",
       "LunchTime": "10.30 - 14.00",
       "SetMenus": [
@@ -96,6 +54,14 @@
           "Price": "2,70 / 5,97 / 8,80 €",
           "Components": [
             "Tofu-kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,00 / 4,89 / 8,00 €",
+          "Components": [
+            "Soija-kasviskeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {

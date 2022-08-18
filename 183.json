@@ -5,73 +5,6 @@
   "Footer": "Ravintolamme on kelan ateriatuen piirissä 2,30 €/ ateria. Opiskelijahintaisen aterian edellytyksenä on voimassa oleva opiskelijakortti.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-08-17T00:00:00+00:00",
-      "LunchTime": "11.00-15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Kasvispataa (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Briossihampurilainen chilipaahdetulla lohella (A ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Parmesaani-bataattiranskalaiset (A ,G ,L)",
-            "Remouladekastiketta (A ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 21,
-          "Name": "Lounas I",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Jauhelihakebakoita (A ,L ,M ,VS)",
-            "Chilimajoneesia (A ,G ,L)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 23,
-          "Name": "Lounas III",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Kalkkunaa rakuunakastikkeessa (* ,A ,G ,L)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 30,
-          "Name": "Grillistä",
-          "Price": "5,30€ / 8,50€ / 11,50€",
-          "Components": [
-            "Feta-pinaattipizza (A ,VL)"
-          ]
-        },
-        {
-          "SortOrder": 100,
-          "Name": "Jälkiruoka",
-          "Price": "1,40€",
-          "Components": [
-            "Mariannerahkaa (A ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-18T00:00:00+00:00",
       "LunchTime": "11.00-15.00",
       "SetMenus": [
@@ -88,7 +21,15 @@
           "Name": null,
           "Price": null,
           "Components": [
-            "Herkkusieni-pestopastaa (A ,ILM ,VL ,VS)"
+            "Briossihampurilainen chilipaahdetulla lohella (A ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": [
+            "Paahdettua perunaa (G ,L ,M ,Veg)"
           ]
         },
         {
@@ -114,16 +55,14 @@
           "Name": "Grillistä",
           "Price": "5,30€ / 8,50€ / 11,50€",
           "Components": [
-            "Feta-pinaattipizza (A ,VL)"
+            "Herkkusieni-pestopastaa (A ,ILM ,VL ,VS)"
           ]
         },
         {
           "SortOrder": 100,
           "Name": "Jälkiruoka",
           "Price": "1,40€",
-          "Components": [
-            "Puutarhamarja-ruismurupaistosta (A ,L ,M ,Veg)"
-          ]
+          "Components": []
         }
       ]
     },

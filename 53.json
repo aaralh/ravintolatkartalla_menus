@@ -5,63 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-08-17T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Mustapapupihvi (* ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Kurkkusalsaa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISKEITTO",
-          "Price": null,
-          "Components": [
-            "Kasvis-kaalikeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Jauhelihapizzaa (A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Kaali-jauhelihakeittoa (* ,A ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Kauden kasviksia (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Päärynä-jogurttipannacottaa (A ,G ,L)",
-            "Hedelmäsalaattia (G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-18T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [

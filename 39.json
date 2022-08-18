@@ -5,52 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-08-17T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "10,70€ / Op 2,70€",
-          "Components": [
-            "Kasvis-quorn-nuudelivuokaa (* ,A ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Broilerin-jauhelihalasagnettea (* ,A ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)",
-            "Chilimajoneesia (A ,G ,L)",
-            "Porsaanleike (A ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Hedelmärahkaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-18T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [

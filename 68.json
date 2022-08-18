@@ -5,48 +5,6 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nRuokalistamuutokset ovat mahdollisia.",
   "MenusForDays": [
     {
-      "Date": "2022-08-17T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 2,
-          "Name": "BUFFEE VEGAANINEN KASVISLOUNAS",
-          "Price": "11,30/2,70",
-          "Components": [
-            "Falafel-pyöryköitä (A ,L ,M ,Veg ,VS)",
-            "Pico De Gallo -salsaa (G ,L ,M ,Veg ,VS)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 4,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "11,30/2,70",
-          "Components": [
-            "Kylmäsavulohipastaa (A ,ILM ,L ,VS)",
-            "Pastajuustoraastetta (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "11,30/2,70",
-          "Components": [
-            "Kebablihaa ja kasviksia (* ,A ,G ,L ,M ,VS)",
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 7,
-          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
-          "Price": null,
-          "Components": [
-            "Paahdettuja kasviksia (G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-18T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [

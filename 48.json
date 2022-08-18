@@ -5,44 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-08-17T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 / 5,80 /7,90",
-          "Components": [
-            "Tomaatti-vuohenjuustokastiketta (* ,A ,G ,ILM ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 / 5,80/7,90",
-          "Components": [
-            "Kinkku-ananas-aurajuustopizzaa (A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,80/7,90",
-          "Components": [
-            "Broileri-juureskeittoa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Valkosuklaamoussea (A ,G)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-18T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [
