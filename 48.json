@@ -5,56 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-08-18T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 / 5,80 /7,90",
-          "Components": [
-            "Kasvispastavuokaa (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 / 5,80/7,90",
-          "Components": [
-            "Tillikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Kapriksella ja tillillä maustettuja kalamurekepihvejä\n (* ,A ,ILM ,L ,M)",
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,80/7,90",
-          "Components": [
-            "Jauheliha-gulassikeittoa (* ,A ,G ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,20 / 8,80 /9,10",
-          "Components": [
-            "Kanaa Kiovan tapaan (A ,L ,VS)",
-            "Currykermaviilikastiketta (A ,G ,L)",
-            "Kauden kasviksia (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Valkosuklaamoussea (A ,G)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-19T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [
@@ -63,9 +13,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 / 5,80 /7,90",
           "Components": [
-            "Mustapapu-fetapihvi (A ,L)",
-            "Yrttikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+            "Mustapapu-fetapihvi (A ,L)"
           ]
         },
         {
@@ -73,9 +21,7 @@
           "Name": "LOUNAS",
           "Price": "2,70 / 5,80/7,90",
           "Components": [
-            "Talon jauhelihamureketta (A ,L ,M)",
-            "Sipulikastiketta (* ,A ,L)",
-            "Persiljaperunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+            "Talon jauhelihamureketta (A ,L ,M)"
           ]
         },
         {

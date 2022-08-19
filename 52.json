@@ -5,38 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-08-18T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Kasvispastavuokaa (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,20 / 5,40 / 7,60",
-          "Components": [
-            "Juusto-paprikakeittoa (A ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70/5,20/5,80/7,90",
-          "Components": [
-            "Kapriksella ja tillillä maustettuja kalamurekepihvejä\n (* ,A ,ILM ,L ,M)",
-            "Muhennettua mustajuurta (A ,G ,L ,VS)",
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-19T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -45,9 +13,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
-            "Mustapapu-fetapihvi (A ,L)",
-            "Yrttikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+            "Mustapapu-fetapihvi (A ,L)"
           ]
         },
         {
