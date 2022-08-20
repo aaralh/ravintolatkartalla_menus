@@ -5,38 +5,6 @@
   "Footer": "Ravintolamme on kelan ateriatuen piirissä 2,30 €/ ateria. Opiskelijahintaisen aterian edellytyksenä on voimassa oleva opiskelijakortti.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-08-19T00:00:00+00:00",
-      "LunchTime": "11.00 - 15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 13,
-          "Name": "Kasvislounas",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Halloumi-porkkanahummuspizzaa (A ,ILM ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 21,
-          "Name": "Lounas I",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Makkarakastiketta (* ,A ,G ,L ,M)",
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 22,
-          "Name": "Lounas  II",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Paneroitua seitifilettä (* ,A ,ILM ,L ,M)",
-            "Jogurtti-yrttikastiketta (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-20T00:00:00+00:00",
       "LunchTime": "Suljettu",
       "SetMenus": []

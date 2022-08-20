@@ -5,46 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua !\n\nPlease, kindly note that the raw materials used in the restaurants may vary from the planned and therefore the product specifications and dietary labels published at web sites may differ from the final and correct information that will be given at the restaurant. Persons with allergies are advised every time to check the suitability of the offered food choices to their diet at the restaurant. Thank you for your understanding.",
   "MenusForDays": [
     {
-      "Date": "2022-08-19T00:00:00+00:00",
-      "LunchTime": "10.30 - 13.30, a la carte 11.00 - 13.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "Opiskelija 2,70 €/ Aalto henkilökunta 5,55 € / Vieras 7,55 €",
-          "Components": [
-            "Vöner- täytettä (* ,ILM ,L ,M ,Veg ,VS)",
-            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "Opiskelija 2,70 €/ Aalto henkilökunta 5,55 € / Vieras 7,55 €",
-          "Components": [
-            "Kalkkuna-juustokastiketta (* ,A ,G ,L)",
-            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Erikoisannos",
-          "Price": "Opiskelija 4,00 €/ Aalto henkilökunta 6,85 € / Vieras 7,55 €",
-          "Components": [
-            "Tonnikala-oliivipannupizzaa (A ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "1,65€ ( Pieni 0,85€)",
-          "Components": [
-            "Vaniljajäätelöä ja kinuskikastiketta (A ,G)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-08-20T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
