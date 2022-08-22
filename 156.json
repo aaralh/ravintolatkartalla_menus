@@ -5,7 +5,323 @@
   "Footer": "Opiskelijahinta 2,70€/5,35€ sisältää yhden (1) lämminruokavaihtoehdon, salaattibuffan, leivän ja yhden (1) ruokajuoman. Opiskelijabuffet 10,90€ (ei sisällä kelatukea). Joka päivä saatavilla gluteeniton ja vegaaninen vaihtoehto, jos ruokalistalla ei ole automaattisesti. Kysythän henkilökunnalta! \nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-08-21T00:00:00+00:00",
+      "Date": "2022-08-22T00:00:00+00:00",
+      "LunchTime": "10:30-14:00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS BUFFA",
+          "Price": "10,90 €/ opisk. 2,70€",
+          "Components": [
+            "Soija-kasvismoussakaa (A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PÄIVÄN SOPPA",
+          "Price": "9,60 € / opisk. 2,70 €",
+          "Components": [
+            "Parsakaalisosekeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS BUFFA",
+          "Price": "10,90 € / opisk. 2,70 €",
+          "Components": [
+            "Kuhapyöryköitä (A ,L ,M)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)",
+            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS BUFFA",
+          "Price": "10,90 € /opisk. 2,70  €",
+          "Components": [
+            "Juustoista jauheliha-pastapannua (* ,A ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "POP UP GRILL",
+          "Price": "10,90 €",
+          "Components": [
+            "Chicken & chips (A ,G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKKÄRI MAKEAT",
+          "Price": "opisk. 1,70€",
+          "Components": [
+            "Mustikkahyvettä (A ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-23T00:00:00+00:00",
+      "LunchTime": "10:30-14:00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS BUFFA",
+          "Price": "10,90 €/ opisk. 2,70€",
+          "Components": [
+            "Quornia kookoskastikkeessa (* ,A ,G ,ILM ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PÄIVÄN SOPPA",
+          "Price": "9,60 € / opisk. 2,70 €",
+          "Components": [
+            "Purjo-perunasosekeittoa (A ,G ,ILM ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS BUFFA",
+          "Price": "10,90 € / opisk. 2,70 €",
+          "Components": [
+            "Tonnikala-pastavuokaa (* ,A ,ILM ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS BUFFA",
+          "Price": "10,90 € /opisk. 2,70  €",
+          "Components": [
+            "Jauhelihapihvejä (A ,G ,L ,M)",
+            "Kermaperunoita (A ,G ,ILM ,L)",
+            "Aiolia (A ,G ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "POP UP GRILL",
+          "Price": "10,90 €",
+          "Components": [
+            "Chicken & chips (A ,G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKKÄRI MAKEAT",
+          "Price": "opisk. 1,70€",
+          "Components": [
+            "Valkosuklaamoussea (A ,G)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-24T00:00:00+00:00",
+      "LunchTime": "10:30-14:00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS BUFFA",
+          "Price": "10,90 €/ opisk. 2,70€",
+          "Components": [
+            "Tomaatti-paprikakastiketta (* ,G ,L ,M ,Veg ,VS)",
+            "Yrttispagettia (A ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PÄIVÄN SOPPA",
+          "Price": "9,60 € / opisk. 2,70 €",
+          "Components": [
+            "Pinaattikeittoa (* ,A ,L)",
+            "Keitetty kananmuna (A ,G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS BUFFA",
+          "Price": "10,90 € / opisk. 2,70 €",
+          "Components": [
+            "Katkarapucurrya (A ,G ,L ,M ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS BUFFA",
+          "Price": "10,90 € /opisk. 2,70  €",
+          "Components": [
+            "Uunimakkara sipuli-juustotäytteellä (A ,G ,L)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "POP UP GRILL",
+          "Price": "10,90 €",
+          "Components": [
+            "Kassleria aasialaisittain (A ,L ,M)",
+            "Basmatiriisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKKÄRI MAKEAT",
+          "Price": "opisk. 1,70€",
+          "Components": [
+            "Päärynärahkaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-25T00:00:00+00:00",
+      "LunchTime": "10:30-14:00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "PÄIVÄN SOPPA",
+          "Price": "9,60 € / opisk. 2,70 €",
+          "Components": [
+            "Juuressosekeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS BUFFA",
+          "Price": "10,90 € / opisk. 2,70 €",
+          "Components": [
+            "Broileri-Aurajuustokastiketta (* ,A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS BUFFA",
+          "Price": "10,90€ / opisk.5,35€",
+          "Components": [
+            "Porsaanleike (A ,L ,M)",
+            "Paahdettua perunaa (* ,G ,ILM ,L ,M ,Veg)",
+            "Chilimajoneesia (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "POP UP GRILL",
+          "Price": "10,90 €",
+          "Components": [
+            "Siitake-parmesanpannupizzaa (A ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKKÄRI MAKEAT",
+          "Price": "opisk. 1,70€",
+          "Components": [
+            "Mustikka-ruismurupaistosta (A ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-26T00:00:00+00:00",
+      "LunchTime": "10:30-14:00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS BUFFA",
+          "Price": "10,90 €/ opisk. 2,70€",
+          "Components": [
+            "Kaura-punajuuripyöryköitä (* ,A ,L ,M ,Veg)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)",
+            "Piparjuurimajoneesia (A ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PÄIVÄN SOPPA",
+          "Price": "9,60 € / opisk. 2,70 €",
+          "Components": [
+            "Kantarellikeittoa (* ,A ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS BUFFA",
+          "Price": "10,90 € / opisk. 2,70 €",
+          "Components": [
+            "Paahdettua perunaa (* ,G ,ILM ,L ,M ,Veg)",
+            "Lämminsavukirjolohitäytettä (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS BUFFA",
+          "Price": "10,90€ / opisk.5,35€",
+          "Components": [
+            "Saksanhirvikäristystä (* ,G ,L ,M)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)",
+            "Puolukkahilloa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "POP UP GRILL",
+          "Price": "10,90 €",
+          "Components": [
+            "Meetvursti-ananaspizzaa (A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKKÄRI MAKEAT",
+          "Price": "opisk. 1,70€",
+          "Components": [
+            "Omenavispipuuroa (A ,L ,M ,Veg)",
+            "Kanelikermavaahtoa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-27T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-08-28T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

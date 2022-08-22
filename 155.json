@@ -5,7 +5,284 @@
   "Footer": "Opiskelijalounas 1,25– 4,00 €, henkilökunta 3,81 – 6,75 €, vierailijat 3,92 – 6,86 €. Hyvää ruokahalua! \n\nMuistathan noudattaa ohjeitamme turvallisesta ruokailusta!\n\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-08-21T00:00:00+00:00",
+      "Date": "2022-08-22T00:00:00+00:00",
+      "LunchTime": "10.30 - 13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Op 1,60 € / Hk 4,21 € / Vierailija 4,29€",
+          "Components": [
+            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
+            "Pico de gallo -linssisalsaa (* ,A ,ILM ,L ,M ,Veg ,VS)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto",
+          "Price": "Op 1,25 € / Hk 3,81€ / Vierailija 3,92 €",
+          "Components": [
+            "Peruna-purjososekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Garam masala -popcornia (A ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Op 2,60 € / Hk 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Chili con Carnea jauhelihasta (* ,G ,L ,M)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Op 5,35 € / Hk 8,20 € / Vierailija 10,90 €",
+          "Components": [
+            "Paahdettua kirjolohta (* ,A ,G ,ILM ,L ,M)",
+            "Mausteista sinappikastiketta (A ,G ,ILM ,L ,VS)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)",
+            "Kauden kasviksia (G ,L ,M ,Veg)",
+            "Mango-pinaattishotti (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Op 0,57€ / Hk 0,57 € / Vierailija 0,57 €",
+          "Components": [
+            "Mustikkarahkaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-23T00:00:00+00:00",
+      "LunchTime": "10.30 - 13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Op 1,60 € / Hk 4,21 € / Vierailija 4,29€",
+          "Components": [
+            "Kikherne-bataattipataa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto",
+          "Price": "Op 1,25 € / Hk 3,81€ / Vierailija 3,92 €",
+          "Components": [
+            "Tomaattikeittoa ja välimerellistä juustoa (A ,G ,L ,VS)",
+            "Garam masala -popcornia (A ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Op 2,60 € / Hk 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Rapeita kalapaloja (* ,A ,L ,M)",
+            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Op 5,35 € / Hk 8,20 € / Vierailija 10,90 €",
+          "Components": [
+            "Kassleria cajunkastikkeessa (A ,G ,L ,VS)",
+            "Paahdettuja perunoita (G ,ILM ,L ,M ,Veg)",
+            "Kauden kasviksia (G ,L ,M ,Veg)",
+            "Appelsiini-porkkana-kurkumashotti (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Op 0,57€ / Hk 0,57 € / Vierailija 0,57 €",
+          "Components": [
+            "Omena-lime-pinaattismoothie (A ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-24T00:00:00+00:00",
+      "LunchTime": "10.30 - 13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "Op 1,60 € / Hk 4,21 € / Vierailija 4,29 €",
+          "Components": [
+            "Halloumi-kasvispataa (* ,A ,ILM)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto",
+          "Price": "Op 1,25 € / Hk 3,81€ / Vierailija 3,92 €",
+          "Components": [
+            "Kasvisgulassikeittoa (* ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Garam masala -popcornia (A ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Op 2,60 € / Hk 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Ruotsalaista pyttipannua (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Op 5,35 € / Hk 8,20 € / Vierailija 10,90 €",
+          "Components": [
+            "Saksanhirvikäristystä (* ,G ,L ,M)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)",
+            "Puolukkahilloa (G ,L ,M ,Veg)",
+            "Etikkakurkkua (G ,L ,M ,Veg)",
+            "Porkkana-inkiväärishotti (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Op 0,57€ / Hk 0,57 € / Vierailija 0,57 €",
+          "Components": [
+            "Appelsiinivaahtoa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-25T00:00:00+00:00",
+      "LunchTime": "10.30 - 13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "Op 1,60 € / Hk 4,21 € / Vierailija 4,29 €",
+          "Components": [
+            "Raastepihvejä (* ,A ,L ,M)",
+            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto",
+          "Price": "Op 1,25 € / Hk 3,81€ / Vierailija 3,92 €",
+          "Components": [
+            "Bataattisosekeittoa (* ,A ,G ,ILM ,L)",
+            "Garam masala -popcornia (A ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Op 2,60 € / Hk 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Kebab-pastavuokaa (A ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Keittolounas",
+          "Price": "Op 2,60 € / Hk 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Kalkkuna-kasviskeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Op 5,35 € / Hk 8,20 € / Vierailija 10,90 €",
+          "Components": [
+            "Pulled chicken briossihampurilainen kimchillä (A ,L ,M ,VS)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
+            "Chilimajoneesia (A ,G ,L)",
+            "Mango-persiljashotti (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Op 0,57€ / Hk 0,57 € / Vierailija 0,57 €",
+          "Components": [
+            "Ruusunmarjarahkaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-26T00:00:00+00:00",
+      "LunchTime": "10.30 - 13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "Op 1,60 € / Hk 4,21 € / Vierailija 4,29 €",
+          "Components": [
+            "Chili con vege (* ,A ,ILM ,L ,M ,Veg ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto",
+          "Price": "Op 1,25 € / Hk 3,81€ / Vierailija 3,92 €",
+          "Components": [
+            "Juusto-kasvissuikalekeittoa (* ,A ,G ,ILM ,L)",
+            "Garam masala -popcornia (A ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Op 2,60 € / Hk 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Pekoni-tomaattikuorrutettuja jauhelihapihvejä (A ,L ,M ,VS)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Op 5,35 € / Hk 8,20 € / Vierailija 10,90 €",
+          "Components": [
+            "Butter Chicken (A ,G ,L ,VS)",
+            "Basmatiriisiä (G ,L ,M ,Veg)",
+            "Kauden kasviksia (G ,L ,M ,Veg)",
+            "Mango-pinaattishotti (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Op 0,57€ / Hk 0,57 € / Vierailija 0,57 €",
+          "Components": [
+            "Omena-puolukkapiirakkaa (A ,L)",
+            "Kauravaahtoa (A ,G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-27T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-08-28T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

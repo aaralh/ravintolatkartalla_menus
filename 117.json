@@ -5,7 +5,268 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-08-21T00:00:00+00:00",
+      "Date": "2022-08-22T00:00:00+00:00",
+      "LunchTime": "10.30 - 13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas  2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Raastepihvejä (* ,A ,L ,M)",
+            "Jogurtti-kurkkukastiketta (A ,G ,ILM ,L ,VS)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasviskeitto",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Tomaatti-perunasosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas   2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Kirjolohta ja seitiä sekä kasviksia inkiväärikastikkeessa (* ,A ,G ,ILM ,L ,M)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas   2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)",
+            "Jauhelihapyöryköitä (* ,A ,L ,M)",
+            "Pippurikastiketta (* ,A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka   0,80 / 0,80 / 0,80",
+          "Price": "0,80 / 0,80 / 0,80",
+          "Components": [
+            "Mangosmoothie (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-23T00:00:00+00:00",
+      "LunchTime": "10.30 - 13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas  2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Porkkana-pestolasagnea (* ,A ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasviskeitto",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Kasvis-kaalikeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas   2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Chilimaustettua porsaspataa (* ,A ,G ,L ,M ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas   2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Rapeita kalapaloja (* ,A ,L ,M)",
+            "Tartarkastiketta (A ,G ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka   0,80 / 0,80 / 0,80",
+          "Price": "0,80 / 0,80 / 0,80",
+          "Components": [
+            "Omena-kanelirahkaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-24T00:00:00+00:00",
+      "LunchTime": "10.30 - 13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas  2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas   2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Broilerinugetteja (A ,L ,M)",
+            "Currymajoneesia (A ,G ,L ,M ,Veg)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas   2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Kaali-jauhelihalaatikkoa (* ,G ,L ,M)",
+            "Puolukkahilloa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Erikoisannos  4,55 / 7,60 / 9,15",
+          "Price": "opiskelija 4,55 / henkilökunta 7,60 / vieras 9,15",
+          "Components": [
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Paneroitu kampelafilee (* ,A ,L ,M)",
+            "Tillimajoneesia (A ,G ,L ,M ,Veg)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka   0,80 / 0,80 / 0,80",
+          "Price": "0,80 / 0,80 / 0,80",
+          "Components": [
+            "Passionhedelmä-jogurttipannacottaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-25T00:00:00+00:00",
+      "LunchTime": "10.30 - 13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas  2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Peruna-kasviscurrya luomutofulla (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas   2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Uunimakkaraa juustokuorrutteella (A ,G ,L)",
+            "Smetanassa haudutettua hapankaalia ja omenaa (A ,G ,ILM ,L)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Keittolounas   2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Kirjolohikeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Erikoisannos  4,55 / 7,60 / 9,15",
+          "Price": "opiskelija 4,55 / henkilökunta 7,60 / vieras 9,15",
+          "Components": [
+            "Paahdettua broileria gruusialaisittain (A ,G ,L ,VS)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka   0,80 / 0,80 / 0,80",
+          "Price": "0,80 / 0,80 / 0,80",
+          "Components": [
+            "Omena-puolukkapiirakkaa (A ,L)",
+            "Vaniljakermavaahtoa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-26T00:00:00+00:00",
+      "LunchTime": "10.30 - 13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas  2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
+            "Paholaisenhilloa (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto  2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Juuressosekeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas   2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Broileria currykastikkeessa (* ,A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas   2,70 / 5,85 / 7,60",
+          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
+          "Components": [
+            "Jauhemaksapihvejä (A ,G ,L ,M)",
+            "Sipulikastiketta (* ,A ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Puolukkahilloa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka   0,80 / 0,80 / 0,80",
+          "Price": "0,80 / 0,80 / 0,80",
+          "Components": [
+            "Mansikkakiisseliä (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-08-27T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-08-28T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
