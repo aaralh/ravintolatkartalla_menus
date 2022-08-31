@@ -5,7 +5,7 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-08-23T00:00:00+00:00",
+      "Date": "2022-08-31T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [
         {
@@ -13,15 +13,8 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 / 5,80 /7,90",
           "Components": [
-            "Soija-kauratäytteiset paprikat (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,80 /7,90",
-          "Components": [
-            "Porkkanasosekeittoa (* ,A ,G ,ILM ,L)"
+            "Vöner- täytettä (* ,ILM ,L ,M ,Veg ,VS)",
+            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
           ]
         },
         {
@@ -29,16 +22,23 @@
           "Name": "LOUNAS",
           "Price": "2,70 / 5,80/7,90",
           "Components": [
-            "Rapeita kalapaloja (* ,A ,L ,M)"
+            "Naudanlihaa ja kasviksia kiinalaisittain (A ,G ,L ,M ,VS)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "5,20 / 8,80 /9,10",
+          "Price": "2,70 / 5,80/7,90",
           "Components": [
-            "Paneroitua broileria (G ,L ,M)",
-            "Bearnaisekastiketta (A ,G)"
+            "Sitruunaisia kalapaloja (* ,A ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,70 / 5,80/7,90",
+          "Components": [
+            "Broileri-kookoskeittoa (* ,G ,ILM ,L ,M)"
           ]
         },
         {
@@ -46,13 +46,13 @@
           "Name": "JÄLKIRUOKA",
           "Price": "1,20",
           "Components": [
-            "Omena-kanelirahkaa (A ,G ,L)"
+            "Mansikkapannacottaa (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-24T00:00:00+00:00",
+      "Date": "2022-09-01T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [
         {
@@ -60,7 +60,15 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 / 5,80 /7,90",
           "Components": [
-            "Feta-pinaatti-cashewpähkinäpizzaa (A ,VL)"
+            "Intialaista sieni-kookoscurrya (* ,G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,70 / 5,80 /7,90",
+          "Components": [
+            "Kasvissosekeittoa (* ,A ,G ,ILM ,L)"
           ]
         },
         {
@@ -68,7 +76,7 @@
           "Name": "LOUNAS",
           "Price": "2,70 / 5,80 /7,90",
           "Components": [
-            "Broilerinugetteja (A ,L ,M)"
+            "Jauheliha-makaronilaatikkoa (A ,L)"
           ]
         },
         {
@@ -76,29 +84,21 @@
           "Name": "LOUNAS",
           "Price": "2,70 / 5,80/7,90",
           "Components": [
-            "Chilimaustettua porsaspataa (* ,A ,G ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,80/7,90",
-          "Components": [
-            "Kaali-jauhelihakeittoa (* ,A ,G ,L ,M)"
+            "Porsasta paprika-herkkusienikastikkeessa (* ,A ,G ,L ,M ,VS)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
+          "Price": "4,00 (sis.kahvi/tee)",
           "Components": [
-            "Tyrni-jogurttipannacottaa (A ,G ,L)"
+            "Jälkiruokapöytä ()"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-25T00:00:00+00:00",
+      "Date": "2022-09-02T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [
         {
@@ -106,15 +106,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 / 5,80 /7,90",
           "Components": [
-            "Porkkana-pestolasagnea (* ,A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 / 5,80 /7,90",
-          "Components": [
-            "Uunimakkaraa juustokuorrutteella (A ,G ,L)"
+            "Halloumi-kasvisbolognese-pennevuokaa (* ,A ,ILM)"
           ]
         },
         {
@@ -122,7 +114,7 @@
           "Name": "LOUNAS",
           "Price": "2,70 / 5,80/7,90",
           "Components": [
-            "Broileria currykastikkeessa (* ,A ,G ,L)"
+            "Talon paprikaista jauhelihamureketta (A ,L ,M)"
           ]
         },
         {
@@ -130,51 +122,13 @@
           "Name": "KEITTOLOUNAS",
           "Price": "2,70 / 5,80/7,90",
           "Components": [
-            "Kalkkuna-kasviskeittoa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "4,00 €",
-          "Components": [
-            "Jälkiruokapöytä (sis. kahvi/tee) ()"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-08-26T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 / 5,80 /7,90",
-          "Components": [
-            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)"
+            "Meksikolaista chorizo-kasviskeittoa (* ,A ,G ,L ,M ,VS)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "2,70 / 5,80/7,90",
-          "Components": [
-            "Talon jauhelihapihvi ja metsäsienikastiketta (A ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,80/7,90",
-          "Components": [
-            "Kirjolohikeittoa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "4,40 /7,10 /9,10",
+          "Price": "4,40 /7,10/9,10",
           "Components": [
             "Burgeriperjantai ()"
           ]
@@ -182,12 +136,12 @@
       ]
     },
     {
-      "Date": "2022-08-27T00:00:00+00:00",
+      "Date": "2022-09-03T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-08-28T00:00:00+00:00",
+      "Date": "2022-09-04T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

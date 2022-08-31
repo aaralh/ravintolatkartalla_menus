@@ -5,7 +5,7 @@
   "Footer": "Ravintolamme on kelan ateriatuen piirissä 2,30 €/ ateria. Opiskelijahintaisen aterian edellytyksenä on voimassa oleva opiskelijakortti.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-08-23T00:00:00+00:00",
+      "Date": "2022-08-31T00:00:00+00:00",
       "LunchTime": "11.00-15.00",
       "SetMenus": [
         {
@@ -13,9 +13,8 @@
           "Name": "Vegaaninen kasvislounas",
           "Price": "2,70€ / 6,50€ / 9,30€",
           "Components": [
-            "Punajuurikroketteja (* ,G ,ILM ,L ,M ,Veg)",
-            "Chilimajoneesia (A ,G ,L)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
+            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -23,58 +22,9 @@
           "Name": "Lounas I",
           "Price": "2,70€ / 6,50€ / 9,30€",
           "Components": [
-            "Perinteistä jauhelihakastiketta (* ,A ,ILM ,L ,M)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 23,
-          "Name": "Lounas III",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Broilerikiusausta (* ,A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 30,
-          "Name": "Grillistä",
-          "Price": "5,30€ / 8,50€ / 11,50€",
-          "Components": [
-            "Soijapizza (A ,L ,Veg)",
-            "Briossihampurilainen halloumi-kukkakaali (A ,L)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 47,
-          "Name": "Deli-salaatti ja keitto",
-          "Price": "5,30€ / 8,50€ / 11,50€",
-          "Components": [
-            "Lämminsavukirjolohta (A ,G ,L ,M)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-08-24T00:00:00+00:00",
-      "LunchTime": "11.00-15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Kasvisbolognese-pennevuokaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 21,
-          "Name": "Lounas I",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Yrttimaustettu broilerinkoipi (G ,L ,M)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)",
-            "Kurkku-tomaattisalsaa (A ,G ,ILM ,L ,M ,Veg ,VS)"
+            "Broilerinugetteja (A ,L ,M)",
+            "Currymajoneesia (A ,G ,L ,M ,Veg)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -82,8 +32,7 @@
           "Name": "Lounas  II",
           "Price": "2,70€ / 6,50€ / 9,30€",
           "Components": [
-            "Villikalapataa (* ,A ,G ,ILM ,L ,M ,VS)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
+            "Kebablihakiusausta (A ,G ,L ,VS)"
           ]
         },
         {
@@ -91,27 +40,34 @@
           "Name": "Grillistä",
           "Price": "5,30€ / 8,50€ / 11,50€",
           "Components": [
-            "Kanaa Kiovan tapaan (A ,L ,VS)",
-            "Sitruuna-perunasosetta (A ,G ,ILM ,L ,M ,Veg)",
-            "Kauden kasviksia (G ,L ,M ,Veg)"
+            "Tillimajoneesia (A ,G ,L ,M ,Veg)",
+            "Muhennettua perunaa (A ,G ,ILM ,L)",
+            "Mummonkurkkuja (G ,L ,M ,Veg)",
+            "Dipolin tapaan paistettuja muikkuja (L) ()"
           ]
         },
         {
           "SortOrder": 30,
           "Name": "Grillistä",
           "Price": "5,30€ / 8,50€ / 11,50€",
-          "Components": []
+          "Components": [
+            "Halloumihotdog chimichurrisalsalla (A ,L ,VS)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
+            "Chilimajoneesia (A ,G ,L)"
+          ]
         },
         {
           "SortOrder": 100,
           "Name": "Jälkiruoka",
           "Price": "1,40€",
-          "Components": []
+          "Components": [
+            "Tyrni-jogurttipannacottaa (A ,G ,L)"
+          ]
         }
       ]
     },
     {
-      "Date": "2022-08-25T00:00:00+00:00",
+      "Date": "2022-09-01T00:00:00+00:00",
       "LunchTime": "11.00-15.00",
       "SetMenus": [
         {
@@ -119,9 +75,8 @@
           "Name": "Vegaaninen kasvislounas",
           "Price": "2,70€ / 6,50€ / 9,30€",
           "Components": [
-            "Juurespihvejä (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Aurinkokuivatuilla tomaateilla maustettua majoneesia (A ,G ,ILM ,L ,M ,Veg)",
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
+            "Peruna-kasviscurrya luomutofulla (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
         {
@@ -129,15 +84,17 @@
           "Name": "Lounas I",
           "Price": "2,70€ / 6,50€ / 9,30€",
           "Components": [
-            "Lasagnettea broilerin ja naudan jauhelihasta (A ,L ,VS)"
+            "Uunimakkaraa juustokuorrutteella (A ,G ,L)",
+            "Smetanassa haudutettua hapankaalia ja omenaa (A ,G ,ILM ,L)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)"
           ]
         },
         {
-          "SortOrder": 22,
-          "Name": "Lounas  II",
+          "SortOrder": 23,
+          "Name": "Lounas III",
           "Price": "2,70€ / 6,50€ / 9,30€",
           "Components": [
-            "Kalkkunaa ja vihanneksia kookoskastikkeessa (* ,A ,G ,L ,M)",
+            "Kirjolohta ja seitiä sekä kasviksia inkiväärikastikkeessa (* ,A ,G ,ILM ,L ,M)",
             "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
@@ -146,10 +103,7 @@
           "Name": "Grillistä",
           "Price": "5,30€ / 8,50€ / 11,50€",
           "Components": [
-            "Saksanhirvikäristystä (* ,G ,L ,M)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)",
-            "Puolukkahilloa (G ,L ,M ,Veg)",
-            "Suolakurkkua (G ,L ,M ,Veg)"
+            "Pitakebab ja jogurttikastiketta (A ,L ,VS)"
           ]
         },
         {
@@ -157,7 +111,7 @@
           "Name": "Grillistä",
           "Price": "5,30€ / 8,50€ / 11,50€",
           "Components": [
-            "Soijapizza (A ,L ,Veg)"
+            "Paistetut nuudelit ja sticky Mifua (A ,ILM ,L ,VS)"
           ]
         },
         {
@@ -165,22 +119,22 @@
           "Name": "Jälkiruoka",
           "Price": "1,40€",
           "Components": [
-            "Omena-kanelirahkaa (A ,G ,L)"
+            "Omena-puolukkapiirakkaa (A ,L)",
+            "Vaniljakermavaahtoa (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-26T00:00:00+00:00",
+      "Date": "2022-09-02T00:00:00+00:00",
       "LunchTime": "11.00 - 15.00",
       "SetMenus": [
         {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
+          "SortOrder": 13,
+          "Name": "Kasvislounas",
           "Price": "2,70€ / 6,50€ / 9,30€",
           "Components": [
-            "Kikherne-kukkakaalicurrya (* ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Feta-pinaatti-cashewpähkinäpizzaa (A ,VL)"
           ]
         },
         {
@@ -188,29 +142,28 @@
           "Name": "Lounas I",
           "Price": "2,70€ / 6,50€ / 9,30€",
           "Components": [
-            "Makkarastroganoffia (* ,A ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+            "Broileria currykastikkeessa (* ,A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
         {
-          "SortOrder": 23,
-          "Name": "Lounas III",
+          "SortOrder": 22,
+          "Name": "Lounas  II",
           "Price": "2,70€ / 6,50€ / 9,30€",
           "Components": [
-            "Jauhelihatäytettä (* ,A ,L ,M ,VS)",
-            "Tacoja (G ,L ,M ,Veg)",
-            "Chili-kermaviilikastiketta (A ,G ,ILM ,L)"
+            "Jauhelihapihvejä ja metsäsienikastiketta (* ,A ,L)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-27T00:00:00+00:00",
+      "Date": "2022-09-03T00:00:00+00:00",
       "LunchTime": "Suljettu",
       "SetMenus": []
     },
     {
-      "Date": "2022-08-28T00:00:00+00:00",
+      "Date": "2022-09-04T00:00:00+00:00",
       "LunchTime": "Suljettu",
       "SetMenus": []
     }

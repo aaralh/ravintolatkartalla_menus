@@ -5,23 +5,15 @@
   "Footer": "Hyvää ruokahalua!\n\nKELA - tukee jokaista opiskelija-ateriaa 2,30€ / päivä.\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-08-23T00:00:00+00:00",
+      "Date": "2022-08-31T00:00:00+00:00",
       "LunchTime": "10.30-13.30",
       "SetMenus": [
         {
           "SortOrder": 0,
-          "Name": "Kasvislounas",
+          "Name": "Vegaaninen kasvislounas",
           "Price": "2,70€ / 9,70€",
           "Components": [
-            "Porkkana-pestolasagnea (* ,A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70€ /9,70€",
-          "Components": [
-            "Chilimaustettua porsaspataa (* ,A ,G ,L ,M ,VS)",
+            "Chili sin carnea (* ,A ,ILM ,L ,M ,Veg)",
             "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
@@ -30,48 +22,17 @@
           "Name": "Lounas",
           "Price": "2,70€/9,70€",
           "Components": [
-            "Rapeita kalapaloja (* ,A ,L ,M)",
-            "Tartarkastiketta (A ,G ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+            "Sitruunaisia kalapaloja (* ,A ,L ,M)",
+            "Mintturaitaa (A ,G ,ILM ,L)",
+            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Keittolounas",
           "Price": "2,70€ / 8,40€",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "1,80€",
           "Components": [
-            "Omena-kanelirahkaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-08-24T00:00:00+00:00",
-      "LunchTime": "10.30-13.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
-          "Price": "2,70€ / 9,70€",
-          "Components": [
-            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70€ / 9,70€",
-          "Components": [
-            "Broilerinugetteja (A ,L ,M)",
-            "Currymajoneesia (A ,G ,L ,M ,Veg)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+            "Broileri-kookoskeittoa (* ,G ,ILM ,L ,M)"
           ]
         },
         {
@@ -79,13 +40,13 @@
           "Name": "Jälkiruoka",
           "Price": "1,80€",
           "Components": [
-            "Tyrni-porkkananektaria (G ,L ,M ,Veg)"
+            "Mustikkavispipuuroa (A ,L ,M ,Veg)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-25T00:00:00+00:00",
+      "Date": "2022-09-01T00:00:00+00:00",
       "LunchTime": "10.30-13.30",
       "SetMenus": [
         {
@@ -93,38 +54,47 @@
           "Name": "Kasvislounas",
           "Price": "2,70€ / 9,70€",
           "Components": [
-            "Ratatouillea (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
+            "Halloumi-kasvisbolognese-pennevuokaa (* ,A ,ILM)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Lounas",
           "Price": "2,70€ / 9,70€",
-          "Components": [
-            "Uunimakkaraa juustokuorrutteella (A ,G ,L)",
-            "Smetanassa haudutettua hapankaalia ja omenaa (A ,G ,ILM ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
           "Name": "Lounas",
-          "Price": "2,70€/9,70€",
-          "Components": []
+          "Price": "2,70€ /9,70€",
+          "Components": [
+            "Broileri-pekonikastiketta (* ,A ,G ,L ,VS)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Päivän special",
+          "Price": "5,35€ / 11,30€",
+          "Components": [
+            "Porsaanleike, paprikaa ja sipulia (A ,L ,M)",
+            "Porkkana-perunasosetta (A ,G ,ILM ,L)"
+          ]
         },
         {
           "SortOrder": 0,
           "Name": "Jälkiruoka",
           "Price": "1,80€",
           "Components": [
-            "Omena-puolukkapiirakkaa (A ,L)"
+            "Vohveleita (A)",
+            "Kermavaahtoa (A ,G ,L)",
+            "Mansikkahilloa (G ,L ,M ,Veg)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-26T00:00:00+00:00",
+      "Date": "2022-09-02T00:00:00+00:00",
       "LunchTime": "10.30-13.30",
       "SetMenus": [
         {
@@ -132,26 +102,27 @@
           "Name": "Vegaaninen kasvislounas",
           "Price": "2,70€ / 9,70€",
           "Components": [
-            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
-            "Paholaisenhilloa (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
+            "Paprikamajoneesia (A ,G ,L ,M ,Veg)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Rapeita kasvispuikkoja (G ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Lounas",
-          "Price": "2,70€ /9,70€",
+          "Price": "2,70€ / 9,70€",
           "Components": [
-            "Jauhelihapihvejä ja metsäsienikastiketta (A ,L)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
+            "Seitifilettä intialaisittain (* ,A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
-          "Name": "Keittolounas",
-          "Price": "2,70€ / 8,40€",
+          "Name": "Lounas",
+          "Price": "2,70€/9,70€",
           "Components": [
-            "Kirjolohikeittoa (* ,A ,G ,ILM ,L)"
+            "Saksanhirvi-juurespataa (* ,G ,L ,M)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)"
           ]
         },
         {
@@ -159,18 +130,18 @@
           "Name": "Jälkiruoka",
           "Price": "1,80€",
           "Components": [
-            "Ruusunmarja-banaanikiisseliä (G ,L ,M ,Veg)"
+            "Mansikkapannacottaa (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-27T00:00:00+00:00",
+      "Date": "2022-09-03T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-08-28T00:00:00+00:00",
+      "Date": "2022-09-04T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

@@ -5,7 +5,7 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-08-23T00:00:00+00:00",
+      "Date": "2022-08-31T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
         {
@@ -13,7 +13,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
-            "Chili sin carnea (* ,A ,ILM ,L ,M ,Veg)",
+            "Luomutofua ja kasviksia soijakastikkeessa (* ,A ,G ,ILM ,L ,M ,Veg)",
             "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
@@ -23,15 +23,8 @@
           "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
             "Broilerijauheliha-kasvispihvejä (* ,A ,L ,M)",
-            "Harissalla maustettua jogurttikastiketta (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Kirjolohi-seitikeittoa (* ,A ,G ,ILM ,L)"
+            "Valkosipuli-limejogurttikastiketta (A ,G ,ILM ,L ,VS)",
+            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -39,10 +32,9 @@
           "Name": "LOUNAS",
           "Price": "5,20 / 7,80 / 8,80 / 9,70",
           "Components": [
-            "Kauden kasviksia (G ,L ,M ,Veg)",
-            "Yrttimaustettua porsaanfileetä (* ,G ,L ,M)",
-            "BBQ-kastiketta (* ,A ,G ,L ,M)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+            "Pulled chicken -hot dog (A ,L)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
+            "Tomaatti-chilimajoneesia (A ,G ,L ,M ,Veg)"
           ]
         },
         {
@@ -50,7 +42,37 @@
           "Name": null,
           "Price": null,
           "Components": [
-            "Kauden kasviksia (G ,L ,M ,Veg)"
+            "Mango-pinaattishotti (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-01T00:00:00+00:00",
+      "LunchTime": "10.30–14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,70 / 5,20 / 5,80 / 7,90",
+          "Components": [
+            "Vönerlasagnettea (* ,A ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,70 / 5,20 / 5,80 / 7,90",
+          "Components": [
+            "Kinkku-ananaspizzaa (A ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,70 / 5,20 / 5,80 / 7,90",
+          "Components": [
+            "Siskonmakkarakeittoa (A ,G ,L ,M)"
           ]
         },
         {
@@ -58,7 +80,7 @@
           "Name": null,
           "Price": null,
           "Components": [
-            "Mango-sitruunashotti (G ,L ,M ,Veg)"
+            "Mango-pinaattishotti (G ,L ,M ,Veg)"
           ]
         },
         {
@@ -66,193 +88,82 @@
           "Name": "JÄLKIRUOKA",
           "Price": "1,20",
           "Components": [
+            "Uuniomenoita (G ,L ,M ,Veg)",
+            "Kermavaahtoa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-02T00:00:00+00:00",
+      "LunchTime": "10.30–14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,70 / 5,20 / 5,80 / 7,90",
+          "Components": [
+            "Kasvispuikkoja (A ,L ,M ,Veg)",
+            "Maalaisranskalaisia (G ,L ,M ,Veg)",
+            "Bataattiranskalaisia (G ,L ,M ,Veg)",
+            "Avokadomajoneesia (A ,G ,L ,M ,Veg ,VS)",
+            "Chilimajoneesia (A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,70 / 5,20 / 5,80 / 7,90",
+          "Components": [
+            "Keitettyjä nakkeja (G ,L ,M)",
+            "Tomaattiketsuppia (G ,L ,M ,Veg)",
+            "Sinappia (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Broilerinugetteja (A ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,70 / 5,20 / 5,80 / 7,90",
+          "Components": [
+            "Kebablihakastiketta (* ,A ,L ,M ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,70 / 5,20 / 5,80 / 7,90",
+          "Components": [
+            "Meksikolaista jauhelihakeittoa (* ,A ,G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": [
+            "Mango-pinaattishotti (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Appelsiini-suklaamoussea (A ,G ,VL)",
             "Suklaamoussea (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-24T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Vöner- täytettä (* ,ILM ,L ,M ,Veg ,VS)",
-            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Lindströminpihvejä (A ,L ,M)",
-            "Sipulikastiketta (* ,A ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Broileri-kookoskeittoa (* ,G ,ILM ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Kauden kasviksia (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Mango-sitruunashotti (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mustikkavispipuuroa (A ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-08-25T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Kasviskiusausta (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISKEITTO",
-          "Price": null,
-          "Components": [
-            "Kasvis-hernekeittoa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Hernekeittoa (* ,A ,ILM ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,20 / 7,80 / 8,80 / 9,70",
-          "Components": [
-            "Karamellisoitua kassleria ja kasvispaistosta (A ,G ,L ,M ,VS)",
-            "Paahdettuja perunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Kauden kasviksia (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Mango-sitruunashotti (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Pannukakkua (A ,L)",
-            "Mansikkahilloa (G ,L ,M ,Veg)",
-            "Kermavaahtoa (A ,G ,L)",
-            "Vegaanista kaurapannukakkua (A ,L ,M ,Veg)",
-            "Kauravaahtoa (A ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-08-26T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Rapeita kasvispuikkoja (G ,L ,M ,Veg)",
-            "Kurkkusalsaa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Teriyakimaustettua seitiä ja paahdettuja kasviksia (* ,A ,G ,ILM ,L ,M ,VS)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,20 / 7,80 / 8,80 / 9,70",
-          "Components": [
-            "Tulinen nyhtöpossu briossihampurilainen (A ,L ,M)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
-            "BBQ -majoneesia (A ,G ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Mango-sitruunashotti (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Passionpannacottaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-08-27T00:00:00+00:00",
+      "Date": "2022-09-03T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-08-28T00:00:00+00:00",
+      "Date": "2022-09-04T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

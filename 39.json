@@ -5,7 +5,7 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-08-23T00:00:00+00:00",
+      "Date": "2022-08-31T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
         {
@@ -13,8 +13,7 @@
           "Name": "Kasvislounas",
           "Price": "10,70€ / Op 2,70€",
           "Components": [
-            "Talon pinaattiohukaisia (* ,A ,ILM ,L)",
-            "Puolukkahilloa (G ,L ,M ,Veg)"
+            "Härkislasagnea (* ,A ,ILM ,L ,VS)"
           ]
         },
         {
@@ -22,8 +21,7 @@
           "Name": "Lounas",
           "Price": null,
           "Components": [
-            "Broileri-pekonikastiketta (* ,A ,G ,L ,VS)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+            "Broileripastavuokaa (* ,A ,ILM ,L)"
           ]
         },
         {
@@ -31,8 +29,9 @@
           "Name": "Lounas",
           "Price": null,
           "Components": [
-            "Mausteista porsaanpaistia (A ,G ,L ,M ,VS)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+            "Jauhemaksapihvejä (A ,G ,L ,M)",
+            "Ruskeaa kastiketta (A ,ILM ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -46,23 +45,31 @@
           "Name": "Jälkiruoka",
           "Price": null,
           "Components": [
-            "Marjapiirakkaa (A ,L)",
-            "Vaniljakastiketta (A ,G ,L)"
+            "Omenapiirakkaa (A ,L)",
+            "Kanelikermavaahtoa (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-24T00:00:00+00:00",
+      "Date": "2022-09-01T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "10,70€ / Op 2,70€",
+          "Components": [
+            "Kikherne-ricottapihvejä (* ,A ,VS)",
+            "Avokado-kermaviilikastiketta (A ,G ,L ,VS)"
+          ]
+        },
         {
           "SortOrder": 0,
           "Name": null,
           "Price": null,
           "Components": [
-            "Luomutofu-kasviscurrya (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Höyrytettyä tummaa riisiä (G ,L ,M ,Veg)"
+            "Porkkanasosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -70,7 +77,7 @@
           "Name": "Lounas",
           "Price": null,
           "Components": [
-            "Tonnikala-pastavuokaa (* ,A ,ILM ,L ,VS)"
+            "Makkara-kasvisrisottoa (* ,G ,L ,M)"
           ]
         },
         {
@@ -78,7 +85,7 @@
           "Name": "Lounas",
           "Price": null,
           "Components": [
-            "Talon chilinen jauhelihapihvi (A ,L ,M ,VS)",
+            "Riistapyöryköitä (A ,L ,M)",
             "Savumajoneesia (A ,G ,L ,M ,Veg)"
           ]
         },
@@ -93,13 +100,14 @@
           "Name": "Jälkiruoka",
           "Price": null,
           "Components": [
-            "Mansikkamoussea (A ,G ,L)"
+            "Pannukakkua (A ,L)",
+            "Vaniljakermavaahtoa (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-25T00:00:00+00:00",
+      "Date": "2022-09-02T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
         {
@@ -107,15 +115,8 @@
           "Name": null,
           "Price": null,
           "Components": [
-            "Tahu goreng Indonesia (A ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto",
-          "Price": null,
-          "Components": [
-            "Juuressosekeittoa (* ,A ,G ,ILM ,L)"
+            "Papu-linssicurryä (* ,G ,ILM ,L ,M ,Veg)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
           ]
         },
         {
@@ -123,8 +124,8 @@
           "Name": "Lounas",
           "Price": null,
           "Components": [
-            "Savumarinoitua kirjolohta (* ,A ,G ,ILM ,L ,M)",
-            "Tartarkastiketta (A ,G ,L ,M ,Veg)"
+            "Broileria ja kasviksia teriyakikastikkeessa (A ,G ,L ,M ,VS)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
           ]
         },
         {
@@ -132,7 +133,8 @@
           "Name": "Lounas",
           "Price": null,
           "Components": [
-            "Jauhelihalasagnettea (* ,A ,L)"
+            "Kalapuikkoja (* ,A ,L ,M)",
+            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)"
           ]
         },
         {
@@ -146,63 +148,18 @@
           "Name": "Jälkiruoka",
           "Price": null,
           "Components": [
-            "Raparperivispipuuroa (A ,L ,M ,Veg)"
+            "Suklaa-vaniljamoussea (A ,G ,VL)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-26T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Yrttikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Parsakaali-mantelipihvejä (* ,A ,G ,ILM ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Pollo con romesco, broileria paprikakastikkeessa (A ,G ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Kinkkukiusausta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Hovijälkiruoka marjoilla (A ,L)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-08-27T00:00:00+00:00",
+      "Date": "2022-09-03T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-08-28T00:00:00+00:00",
+      "Date": "2022-09-04T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

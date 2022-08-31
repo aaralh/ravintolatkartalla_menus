@@ -5,7 +5,7 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-08-23T00:00:00+00:00",
+      "Date": "2022-08-31T00:00:00+00:00",
       "LunchTime": "11:00-14:00",
       "SetMenus": [
         {
@@ -19,137 +19,41 @@
           "Name": "Kasviskeitto",
           "Price": "6,40€ / Aalto henkilökunta 5,00€/ Opiskelija 2,30€",
           "Components": [
-            "Tomaattikeittoa ja välimerellistä juustoa (A ,G ,L ,VS)",
-            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
+            "Pinaattista juusto-perunasosekeittoa (* ,A ,G ,ILM ,L)"
           ]
         },
         {
           "SortOrder": 3,
-          "Name": "Vegaaninen Kasvislounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
-          "Components": [
-            "Kikherne-bataattipataa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 4,
-          "Name": "Lounas",
+          "Name": "Kasvislounas",
           "Price": null,
           "Components": [
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Rapeita kalapaloja (* ,A ,L ,M)",
-            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "Lounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
-          "Components": [
-            "Barbeque-maustettua broileri-tomaattipastaa (* ,A ,L ,M ,VS)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-08-24T00:00:00+00:00",
-      "LunchTime": "11:00-14:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "Vegaaninen kasviskeitto",
-          "Price": "6,40€/ Aalto henkilökunta 5,00€ / Opiskelija 2,30€€",
-          "Components": [
-            "Kasvisgulassikeittoa (* ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "Vegaaninen Kasvislounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
-          "Components": [
-            "Kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "Lounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
-          "Components": [
-            "Kalaa kormakastikkeessa (* ,A ,G ,ILM ,L ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "Lounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
-          "Components": [
-            "Pyttipannua (G ,L ,M)",
-            "Paistettu kananmuna (A ,G ,L ,M)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-08-25T00:00:00+00:00",
-      "LunchTime": "11:00-14:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "Vegaaninen kasviskeitto",
-          "Price": "6,40€/ Aalto henkilökunta 5,00€ / Opiskelija 2,30€€",
-          "Components": [
-            "Bataattisosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "Vegaaninen Kasvislounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
-          "Components": [
-            "Chili con vege (* ,A ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "Lounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
-          "Components": [
-            "Uunibroilerinuijia (G ,L ,M)",
-            "Chilimajoneesia (A ,G ,L)",
+            "Herne-kasvispihvejä (A ,L ,M)",
+            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)",
             "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
+          "SortOrder": 4,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Kirjolohikiusausta (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
           "SortOrder": 6,
           "Name": "Lounas",
           "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
           "Components": [
-            "Kebab-pastavuokaa (A ,L ,VS)"
+            "Jauhelihapyöryköitä (* ,A ,L ,M)",
+            "Chilimajoneesia (A ,G ,L)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-26T00:00:00+00:00",
+      "Date": "2022-09-01T00:00:00+00:00",
       "LunchTime": "11:00-14:00",
       "SetMenus": [
         {
@@ -163,8 +67,7 @@
           "Name": "Vegaaninen kasviskeitto",
           "Price": "6,40€/ Aalto henkilökunta 5,00€ / Opiskelija 2,30€€",
           "Components": [
-            "Linssi-kasviskeittoa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
+            "Parsakaalisosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -172,17 +75,8 @@
           "Name": "Vegaaninen Kasvislounas",
           "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
           "Components": [
-            "Tahu goreng Indonesia (A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 4,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Pekoni-tomaattikuorrutettuja jauhelihapihvejä (A ,L ,M ,VS)",
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
+            "Papu-paprika-maissitäytettä (A ,G ,L ,M ,Veg ,VS)",
+            "Tacoja (G ,L ,M ,Veg)"
           ]
         },
         {
@@ -190,19 +84,78 @@
           "Name": "Lounas",
           "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
           "Components": [
-            "Broileria teriyakikastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)",
+            "Kebablihaa ja kasviksia (* ,A ,G ,L ,M ,VS)",
             "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 6,
+          "Name": "Lounas",
+          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
+          "Components": [
+            "Broileri-basilika-fenkolipastaa (* ,A ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-27T00:00:00+00:00",
+      "Date": "2022-09-02T00:00:00+00:00",
+      "LunchTime": "11:00-14:00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": [
+            "Herne-tilli-cappelipastasalaattia (A ,L ,M ,Veg)",
+            "Chilimarinoituja kidneypapuja (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Vegaaninen kasviskeitto",
+          "Price": "6,40€/ Aalto henkilökunta 5,00€ / Opiskelija 2,30€€",
+          "Components": [
+            "Ohraista curry-kasviskeittoa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Name": "Kasvislounas",
+          "Price": null,
+          "Components": [
+            "Puolukkahilloa (G ,L ,M ,Veg)",
+            "Porkkanaohukaisia (* ,A ,ILM)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Jauhelihapizzaa (A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "Lounas",
+          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
+          "Components": [
+            "Paneroitua seitifilettä (* ,A ,ILM ,L ,M)",
+            "Jogurtti-yrttikastiketta (A ,G ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-03T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-08-28T00:00:00+00:00",
+      "Date": "2022-09-04T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

@@ -5,7 +5,7 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-08-23T00:00:00+00:00",
+      "Date": "2022-08-31T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
         {
@@ -13,15 +13,17 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
-            "Soija-kauratäytteiset paprikat (* ,A ,ILM ,L ,M ,Veg)"
+            "Täysjyvävehnätortilla (A ,L ,M ,Veg)",
+            "Vöner- täytettä (* ,ILM ,L ,M ,Veg ,VS)",
+            "Chilimajoneesia (A ,G ,L)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,20 / 5,40 / 7,60",
+          "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
-            "Porkkanasosekeittoa (* ,A ,G ,ILM ,L)"
+            "Kasvissosekeittoa (* ,A ,G ,ILM ,L)"
           ]
         },
         {
@@ -29,13 +31,14 @@
           "Name": "LOUNAS",
           "Price": "2,70/5,20/5,80/7,90",
           "Components": [
-            "Rapeita kalapaloja (* ,A ,L ,M)"
+            "Sitruunaisia kalapaloja (* ,A ,L ,M)",
+            "Mintturaitaa (A ,G ,ILM ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-24T00:00:00+00:00",
+      "Date": "2022-09-01T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
         {
@@ -43,7 +46,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
-            "Feta-pinaatti-cashewpähkinäpizzaa (A ,VL)"
+            "Tomaatti-pestopannupizzaa (A ,L ,VS)"
           ]
         },
         {
@@ -51,21 +54,21 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
-            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)"
+            "Intialaista sieni-kookoscurrya (* ,G ,ILM ,L ,M ,Veg ,VS)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,20 / 5,40 / 7,60",
+          "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
-            "Kaali-jauhelihakeittoa (* ,A ,G ,L ,M)"
+            "Broileri-kookoskeittoa (* ,G ,ILM ,L ,M)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-25T00:00:00+00:00",
+      "Date": "2022-09-02T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
         {
@@ -73,37 +76,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
-            "Porkkana-pestolasagnea (* ,A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Kasvisgulassikeittoa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70/5,20/5,80/7,90",
-          "Components": [
-            "Broileria currykastikkeessa (* ,A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-08-26T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Juurespyttipannua (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
+            "Halloumi-kasvisbolognese-pennevuokaa (* ,A ,ILM)"
           ]
         },
         {
@@ -111,26 +84,27 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
-            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)"
+            "Rapeita kasvispuikkoja (G ,L ,M ,Veg)",
+            "Kurkkusalsaa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,20 / 5,40 / 7,60",
+          "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
-            "Kirjolohikeittoa (* ,A ,G ,ILM ,L)"
+            "Siskonmakkarakeittoa (A ,G ,L ,M)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-27T00:00:00+00:00",
+      "Date": "2022-09-03T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-08-28T00:00:00+00:00",
+      "Date": "2022-09-04T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

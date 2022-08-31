@@ -5,108 +5,7 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja \nsiten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. \nKiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-08-23T00:00:00+00:00",
-      "LunchTime": "11-15",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas 6,80€/ opisk. 2,70€",
-          "Price": null,
-          "Components": [
-            "Vegaanista sitruunamajoneesia (A ,G ,L ,M ,Veg)",
-            "Mustapapupihvi (* ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 2,70 €",
-          "Price": null,
-          "Components": [
-            "Jauheliha-pennepastaa (* ,A ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas  6,80 €/ opisk. 2,70 €",
-          "Price": null,
-          "Components": [
-            "Silakka-kirjolohimurekepihvejä (* ,A ,L)",
-            "Vegaanista sitruunamajoneesia (A ,G ,L ,M ,Veg)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-08-24T00:00:00+00:00",
-      "LunchTime": "11-15",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas 6,80€/ opisk. 2,70€",
-          "Price": null,
-          "Components": [
-            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 2,70 €",
-          "Price": null,
-          "Components": [
-            "Broilerinugetteja (A ,L ,M)",
-            "Currymajoneesia (A ,G ,L ,M ,Veg)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 2,70€",
-          "Price": null,
-          "Components": [
-            "Kebablihakiusausta (A ,G ,L ,VS)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-08-25T00:00:00+00:00",
-      "LunchTime": "11-15",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas 6,80€/ opisk. 2,70€",
-          "Price": null,
-          "Components": [
-            "Peruna-kasviscurrya luomutofulla (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 2,70 €",
-          "Price": null,
-          "Components": [
-            "Uunimakkaraa juustokuorrutteella (A ,G ,L)",
-            "Smetanassa haudutettua hapankaalia ja omenaa (A ,G ,ILM ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas  6,80 €/ opisk. 2,70 €",
-          "Price": null,
-          "Components": [
-            "Kirjolohta ja seitiä sekä kasviksia inkiväärikastikkeessa (* ,A ,G ,ILM ,L ,M)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-08-26T00:00:00+00:00",
+      "Date": "2022-08-31T00:00:00+00:00",
       "LunchTime": "11-15",
       "SetMenus": [
         {
@@ -115,8 +14,8 @@
           "Price": null,
           "Components": [
             "Chilimajoneesia (A ,G ,ILM ,L ,M ,Veg)",
-            "Tuoreyrteillä maustettuja perunoita (A ,G ,ILM ,L ,M ,Veg)",
-            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)"
+            "Vöner- täytettä (* ,ILM ,L ,M ,Veg ,VS)",
+            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
           ]
         },
         {
@@ -124,7 +23,74 @@
           "Name": "Lounas 6,80 €/ opisk. 2,70 €",
           "Price": null,
           "Components": [
-            "Broileria currykastikkeessa (* ,A ,G ,L)",
+            "Lindströminpihvejä (A ,L ,M)",
+            "Meiramikastiketta (A ,ILM ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas 6,80 €/ opisk. 2,70€",
+          "Price": null,
+          "Components": [
+            "Broileria ja kasviksia soijakastikkeessa (* ,A ,G ,ILM ,L ,M)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-01T00:00:00+00:00",
+      "LunchTime": "11-15",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas 6,80 €/ opisk. 2,70 €",
+          "Price": null,
+          "Components": [
+            "Halloumi-kasvisbolognese-pennevuokaa (* ,A ,ILM)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas 6,80 €/ opisk. 2,70 €",
+          "Price": null,
+          "Components": [
+            "Jauheliha-makaronilaatikkoa (A ,L)",
+            "Tomaattiketsuppia (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas 6,80 €/ opisk. 2,70€",
+          "Price": null,
+          "Components": [
+            "Broileri-pekonikastiketta (* ,A ,G ,L ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-02T00:00:00+00:00",
+      "LunchTime": "11-15",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas 6,80€/ opisk. 2,70€",
+          "Price": null,
+          "Components": [
+            "Rapeita kasvispuikkoja (G ,L ,M ,Veg)",
+            "Kurkkusalsaa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas 6,80 €/ opisk. 2,70 €",
+          "Price": null,
+          "Components": [
+            "Seitifilettä intialaisittain (* ,A ,G ,L)",
             "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
@@ -133,19 +99,19 @@
           "Name": "Lounas 6,80 €/ opisk. 2,70€",
           "Price": null,
           "Components": [
-            "Tuoreyrteillä maustettuja perunoita (A ,G ,ILM ,L ,M ,Veg)",
-            "Jauhelihapihvejä ja metsäsienikastiketta (* ,A ,L)"
+            "Kalkkuna-juustokastiketta (* ,A ,G ,L)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-08-27T00:00:00+00:00",
+      "Date": "2022-09-03T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-08-28T00:00:00+00:00",
+      "Date": "2022-09-04T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
