@@ -5,47 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-08-31T00:00:00+00:00",
-      "LunchTime": "10.30- 14.00, Wicked Rabbit suljettu",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "Amk 2,70 / Lounasbuffet 10,90",
-          "Components": [
-            "Mustapapu-fetapihvi (A ,L)",
-            "Basilikakermaviilikastiketta (A ,G ,ILM ,L)",
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "Amk 2,70",
-          "Components": [
-            "Jauhelihakiusausta (* ,A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas erikoishintainen",
-          "Price": "Amk 5,30",
-          "Components": [
-            "Murg Makhani- broileria tomaatti-kermakastikkeessa (A ,G ,L ,VS)",
-            "Kookosriisiä (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "Amk 1,60",
-          "Components": [
-            "Puolukka-kauraherkkua (A ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-01T00:00:00+00:00",
       "LunchTime": "10.30- 14.00, Wicked Rabbit suljettu",
       "SetMenus": [

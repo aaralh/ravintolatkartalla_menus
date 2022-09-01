@@ -5,53 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-08-31T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "10,70€ / Op 2,70€",
-          "Components": [
-            "Härkislasagnea (* ,A ,ILM ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Broileripastavuokaa (* ,A ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Jauhemaksapihvejä (A ,G ,L ,M)",
-            "Ruskeaa kastiketta (A ,ILM ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Omenapiirakkaa (A ,L)",
-            "Kanelikermavaahtoa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-01T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [

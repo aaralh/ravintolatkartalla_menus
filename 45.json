@@ -5,37 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-08-31T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 /5,80 /7,90",
-          "Components": [
-            "Vöner- täytettä (* ,ILM ,L ,M ,Veg ,VS)",
-            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 /5,80 /7,90",
-          "Components": [
-            "Sitruunaisia kalapaloja (* ,A ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 /5,80 /7,90",
-          "Components": [
-            "Broileri-kookoskeittoa (* ,G ,ILM ,L ,M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-01T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [

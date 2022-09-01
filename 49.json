@@ -5,49 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-08-31T00:00:00+00:00",
-      "LunchTime": "10.30 - 16.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 / 5,80 / 7,90",
-          "Components": [
-            "Kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 / 5,80 / 7,90",
-          "Components": [
-            "Paneroituja kalapihvejä (A ,L ,M)",
-            "Tillikermaviilikastiketta (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,20/ 8,80 / 9,10",
-          "Components": [
-            "Street food- linjastosta ()",
-            "Broileritacoja ja smetanaa (A ,G ,L ,VS)",
-            "Paputacoja ja smetanaa (A ,L ,VS)",
-            "Paistettua chili-inkivääririisiä (A ,G ,L ,M)",
-            "Korianteria (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,00",
-          "Components": [
-            "Suklaakiisseliä (A ,G)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-01T00:00:00+00:00",
       "LunchTime": "10.30 - 16.30",
       "SetMenus": [

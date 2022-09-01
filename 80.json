@@ -5,62 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-08-31T00:00:00+00:00",
-      "LunchTime": "10.30 - 15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas (KASVISLINJASTO)",
-          "Price": "2,70 / 5,97 / 8,80 €",
-          "Components": [
-            "Vöner- täytettä (* ,ILM ,L ,M ,Veg ,VS)",
-            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto (KASVISLINJASTO)",
-          "Price": "2,00/ 4,89 / 8,00 €",
-          "Components": [
-            "Metsäsienikeittoa (A ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70 / 5,97 / 8,80 €",
-          "Components": [
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70 / 5,97 / 8,80 €",
-          "Components": [
-            "Sitruunaisia kalapaloja (* ,A ,L ,M)",
-            "Mintturaitaa (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70/ 5,97 / 8,80 €",
-          "Components": [
-            "Porsasta paprika-herkkusienikastikkeessa (* ,A ,G ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Salaattiaterian proteiiniosa",
-          "Price": "2,00 / 4,89 / 8,00 €",
-          "Components": [
-            "Raejuustoa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-01T00:00:00+00:00",
       "LunchTime": "10.30 - 15.00",
       "SetMenus": [
