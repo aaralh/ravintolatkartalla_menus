@@ -5,52 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-09-01T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 / 5,80 /7,90",
-          "Components": [
-            "Intialaista sieni-kookoscurrya (* ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,80 /7,90",
-          "Components": [
-            "Kasvissosekeittoa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 / 5,80 /7,90",
-          "Components": [
-            "Jauheliha-makaronilaatikkoa (A ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 / 5,80/7,90",
-          "Components": [
-            "Porsasta paprika-herkkusienikastikkeessa (* ,A ,G ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "4,00 (sis.kahvi/tee)",
-          "Components": [
-            "Jälkiruokapöytä ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-02T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [

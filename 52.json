@@ -5,36 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-09-01T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Tomaatti-pestopannupizzaa (A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Intialaista sieni-kookoscurrya (* ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Broileri-kookoskeittoa (* ,G ,ILM ,L ,M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-02T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [

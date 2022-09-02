@@ -5,47 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-09-01T00:00:00+00:00",
-      "LunchTime": "10.30 - 15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas (KASVISLINJASTO)",
-          "Price": "2,70 / 5,97 / 8,80 €",
-          "Components": [
-            "Halloumi-kasvisbolognese-pennevuokaa (* ,A ,ILM)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasviskeitto (KASVISLINJASTO)",
-          "Price": "2,00 / 4,89 / 8,00 €",
-          "Components": [
-            "Kasvis-hernekeittoa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70 / 5,97 / 8,80 €",
-          "Components": [
-            "Saksanhirvi-juurespataa (* ,G ,L ,M)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70/ 5,97 / 8,80 €",
-          "Components": [
-            "Lindströminpihvejä (A ,L ,M)",
-            "Meiramikastiketta (A ,ILM ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-02T00:00:00+00:00",
       "LunchTime": "10.30 - 15.00",
       "SetMenus": [

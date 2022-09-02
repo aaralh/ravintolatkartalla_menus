@@ -5,61 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-09-01T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "10,70€ / Op 2,70€",
-          "Components": [
-            "Kikherne-ricottapihvejä (* ,A ,VS)",
-            "Avokado-kermaviilikastiketta (A ,G ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Porkkanasosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Makkara-kasvisrisottoa (* ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Riistapyöryköitä (A ,L ,M)",
-            "Savumajoneesia (A ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Pannukakkua (A ,L)",
-            "Vaniljakermavaahtoa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-02T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
