@@ -5,69 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-09-02T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Kasvispuikkoja (A ,L ,M ,Veg)",
-            "Maalaisranskalaisia (G ,L ,M ,Veg)",
-            "Bataattiranskalaisia (G ,L ,M ,Veg)",
-            "Avokadomajoneesia (A ,G ,L ,M ,Veg ,VS)",
-            "Chilimajoneesia (A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Keitettyjä nakkeja (G ,L ,M)",
-            "Tomaattiketsuppia (G ,L ,M ,Veg)",
-            "Sinappia (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Broilerinugetteja (A ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Kebablihakastiketta (* ,A ,L ,M ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Meksikolaista jauhelihakeittoa (* ,A ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Mango-pinaattishotti (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Appelsiini-suklaamoussea (A ,G ,VL)",
-            "Suklaamoussea (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-03T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []

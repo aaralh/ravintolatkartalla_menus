@@ -5,36 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-09-02T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 /5,80 /7,90",
-          "Components": [
-            "Halloumi-kasvisbolognese-pennevuokaa (* ,A ,ILM)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 /5,80 /7,90",
-          "Components": [
-            "Talon paprikaista jauhelihamureketta (A ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 /5,80 /7,90",
-          "Components": [
-            "Meksikolaista chorizo-kasviskeittoa (* ,A ,G ,L ,M ,VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-03T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []

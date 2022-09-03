@@ -5,48 +5,6 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nRuokalistamuutokset ovat mahdollisia.",
   "MenusForDays": [
     {
-      "Date": "2022-09-02T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 1,
-          "Name": "BUFFEE KASVISKEITTO",
-          "Price": "10,80/2,70",
-          "Components": [
-            "Kukkakaalisosekeittoa (* ,A ,G ,ILM ,L)",
-            "Paahdettuja kurpitsansiemeniä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "BUFFEE KASVISLOUNAS",
-          "Price": "11,30/2,70",
-          "Components": [
-            "Bataatti-halloumipaistosta (A ,G ,VS)",
-            "Tzatsikia (A ,G ,ILM ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 4,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "11,30/2,70",
-          "Components": [
-            "Porsaanleike (A ,L ,M)",
-            "BBQ-kastiketta (* ,A ,G ,L ,M)",
-            "Paahdettuja perunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 7,
-          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
-          "Price": null,
-          "Components": [
-            "Seesammarinoitua parsakaalia (A ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-03T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
