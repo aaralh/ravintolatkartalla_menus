@@ -5,7 +5,262 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-09-04T00:00:00+00:00",
+      "Date": "2022-09-05T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas (KASVISLINJASTO)",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Quornia tomaatti-kasviskastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)",
+            "Luomutäysjyväpennepastaa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,00 / 4,89 / 8,00 €",
+          "Components": [
+            "Vegaanista pinaattikeittoa (A ,ILM ,L ,M ,Veg)",
+            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Tonnikala-katkarapukastiketta (* ,A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Jauhelihapyöryköitä (* ,A ,L ,M)",
+            "Rosepippurikastiketta (* ,A ,ILM ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,00 / 4,89 / 8,00 €",
+          "Components": [
+            "Palvikinkkua (* ,G ,L ,M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-06T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas (KASVISLINJASTO)",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Puolukkahilloa (G ,L ,M ,Veg)",
+            "Pinaattiohukaisia (* ,A ,ILM)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,00 / 4,89 / 8,00 €",
+          "Components": [
+            "Kukkakaalisosekeittoa (A ,G ,ILM ,L ,M ,Veg)",
+            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Broileria ja jogurttia Madras Chicken (A ,G ,L ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Kreetalaista kalapataa (* ,A ,G ,ILM ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,00 / 4,89 / 8,00 €",
+          "Components": [
+            "Palvikinkkua (* ,G ,L ,M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-07T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas (KASVISLINJASTO)",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Luomutofua ja kasviksia soijakastikkeessa (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,00/ 4,89 / 8,00 €",
+          "Components": [
+            "Juusto-yrttikeittoa (* ,A ,G ,ILM ,L)",
+            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Broilerijauheliha-kasvispihvejä (* ,A ,L ,M)",
+            "Valkosipuli-limejogurttikastiketta (A ,G ,ILM ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Porsaanliha-juureskastiketta (* ,A ,G ,L ,M ,VS)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,00 / 4,89 / 8,00 €",
+          "Components": [
+            "Tonnikalaa (A ,G ,L ,M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-08T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas (KASVISLINJASTO)",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Maissi-kvinoapihvejä (* ,A ,L ,M ,VS)",
+            "Tzatsikia (A ,G ,ILM ,L ,VS)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,00 / 4,89 / 8,00 €",
+          "Components": [
+            "Tomaattikeittoa (A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Bolognesekastiketta (* ,A ,G ,L ,M ,VS)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Välimerellistä seitiä (* ,A ,G ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,00 / 4,89 / 8,00 €",
+          "Components": [
+            "Tonnikalaa (A ,G ,L ,M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-09T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas (KASVISLINJASTO)",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Chakalaka- kasvispataa (A ,L ,M ,Veg ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,00/ 4,89 / 8,00 €",
+          "Components": [
+            "Juustoista porkkanasosekeittoa (* ,A ,G ,ILM ,L)",
+            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)",
+            "Kalapyöryköitä (* ,A ,G ,L ,M)",
+            "Tillikastiketta (* ,A ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Broileri-nuudelivuokaa (* ,A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,00 / 4,89 / 8,00 €",
+          "Components": [
+            "Tonnikalaa (A ,G ,L ,M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-10T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-09-11T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
