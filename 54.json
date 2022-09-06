@@ -5,47 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-09-05T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Cappellipastaa (A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Cappellipastaa (A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Broileribolognesea (* ,G ,ILM ,L ,M)",
-            "Cappellipastaa (A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Suklaamoussea (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-06T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
@@ -131,7 +90,7 @@
         {
           "SortOrder": 3,
           "Name": "KEITTOLOUNAS",
-          "Price": "2,70/6,30",
+          "Price": "2,70/7,90",
           "Components": [
             "Kirjolohi-seitikeittoa (* ,A ,G ,ILM ,L)"
           ]
@@ -181,7 +140,7 @@
         {
           "SortOrder": 3,
           "Name": "KEITTOLOUNAS",
-          "Price": "2,70/6,30",
+          "Price": "2,70/7,90",
           "Components": [
             "Hernekeittoa (* ,A ,ILM ,L ,M)"
           ]

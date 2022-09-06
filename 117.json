@@ -5,57 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-09-05T00:00:00+00:00",
-      "LunchTime": "10.30 - 13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas  2,70 / 5,85 / 7,60",
-          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Luomutofua ja kasviksia soijakastikkeessa (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto  2,70 / 5,85 / 7,60",
-          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Pinaattikeittoa (* ,A ,ILM ,L)",
-            "Keitetty kananmuna (A ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas   2,70 / 5,85 / 7,60",
-          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Kalapyöryköitä (* ,A ,G ,L ,M)",
-            "Tillikastiketta (* ,A ,ILM ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas   2,70 / 5,85 / 7,60",
-          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Broileria ja jogurttia Madras Chicken (A ,G ,L ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka   0,80 / 0,80 / 0,80",
-          "Price": "0,80 / 0,80 / 0,80",
-          "Components": [
-            "Päärynärahkaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-06T00:00:00+00:00",
       "LunchTime": "10.30 - 13.00",
       "SetMenus": [

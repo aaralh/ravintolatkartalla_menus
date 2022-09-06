@@ -5,52 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-09-05T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Kaura-punajuuripyöryköitä (* ,A ,L ,M ,Veg)",
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "10,70€",
-          "Components": [
-            "Barbeque-maustettua broileri-tomaattipastaa (* ,A ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Jauhelihapyöryköitä (A ,L ,M)",
-            "Sinappikastiketta (A ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Mustikkarahkaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-06T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
