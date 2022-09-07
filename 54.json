@@ -5,57 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-09-06T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Kasvispataa (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Kasvispataa (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Talon jauhelihapihvi ja metsäsienikastiketta (A ,L)",
-            "Porkkana-perunasosetta (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "PAISTOPISTE",
-          "Price": "5,20/9,90",
-          "Components": [
-            "Täysjyvävehnää (* ,A ,L ,Veg)",
-            "Salaatti paahdetuista juureksista (G ,L ,M ,Veg)",
-            "Broileria kookos-sitruunaruohokastikkeessa (A ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mansikkarahkaa kerroksittain (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-07T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [

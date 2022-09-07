@@ -5,41 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja \nsiten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. \nKiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-09-06T00:00:00+00:00",
-      "LunchTime": "11-15",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas 6,80€/ opisk. 2,70€",
-          "Price": null,
-          "Components": [
-            "Juurespihvejä (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Tomaattisalsaa (A ,G ,ILM ,L ,M ,Veg)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 2,70 €",
-          "Price": null,
-          "Components": [
-            "Kalapyöryköitä (* ,A ,G ,L ,M)",
-            "Tillikastiketta (* ,A ,ILM ,L)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 2,70€",
-          "Price": null,
-          "Components": [
-            "Broileria ja jogurttia Madras Chicken (A ,G ,L ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-07T00:00:00+00:00",
       "LunchTime": "11-15",
       "SetMenus": [

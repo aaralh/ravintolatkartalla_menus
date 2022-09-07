@@ -5,38 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-09-06T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 /5,80 /7,90",
-          "Components": [
-            "Kreikkalaista kasvis-juustokiusausta (* ,A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Pinaattikeittoa (* ,A ,ILM ,L)",
-            "Keitetty kananmuna (A ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 /5,80 /7,90",
-          "Components": [
-            "Broileria ja jogurttia Madras Chicken (A ,G ,L ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-07T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [

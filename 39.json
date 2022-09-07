@@ -5,53 +5,22 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-09-06T00:00:00+00:00",
+      "Date": "2022-09-07T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
         {
           "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "10,70€",
+          "Name": "KASVISLOUNAS",
+          "Price": "11,30€/2,70€",
           "Components": [
-            "Chili con Carnea (* ,G ,L ,M)",
+            "Kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)",
             "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Lounas",
-          "Price": "10,70€ /",
-          "Components": [
-            "Rapeita kalapaloja (* ,A ,L ,M)",
-            "Tartarkastiketta (A ,G ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Omenakiisseliä (G ,L ,M ,Veg)",
-            "Kanelikermavaahtoa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-09-07T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "10,70€",
+          "Price": "11,30€",
           "Components": [
             "Uunibroileria (G ,L ,M)",
             "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)",
@@ -61,7 +30,7 @@
         {
           "SortOrder": 0,
           "Name": "Lounas",
-          "Price": "10,70€ /",
+          "Price": "11,30€/2,70€",
           "Components": [
             "Pippurista possupataa (* ,A ,L)",
             "Persiljaperunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
@@ -89,8 +58,8 @@
       "SetMenus": [
         {
           "SortOrder": 0,
-          "Name": null,
-          "Price": null,
+          "Name": "KASVISLOUNAS",
+          "Price": "11,30€ / Op 2,70€",
           "Components": [
             "Raastepihvejä (* ,A ,L ,M)",
             "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)"
@@ -98,8 +67,16 @@
         },
         {
           "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "9,10€ / Op 2,70€",
+          "Components": [
+            "Kasvisgulassikeittoa (* ,G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
           "Name": "Lounas",
-          "Price": "10,70€",
+          "Price": "11,30€/2,70€",
           "Components": [
             "Kalaa kormakastikkeessa (* ,A ,G ,ILM ,L ,VS)",
             "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
@@ -138,8 +115,8 @@
       "SetMenus": [
         {
           "SortOrder": 0,
-          "Name": null,
-          "Price": null,
+          "Name": "KASVISLOUNAS",
+          "Price": "11,30€ / Op 2,70€",
           "Components": [
             "Härkismusakaa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
           ]
@@ -147,7 +124,7 @@
         {
           "SortOrder": 0,
           "Name": "Lounas",
-          "Price": "10,70€",
+          "Price": "11,30€",
           "Components": [
             "Broileria teriyakikastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)",
             "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
@@ -156,7 +133,7 @@
         {
           "SortOrder": 0,
           "Name": "Lounas",
-          "Price": "10,70€ /",
+          "Price": "11,30€/2,70€",
           "Components": [
             "Talon jauhelihapihvi pekoni-tomaattikuorrutteella (A ,L ,M ,VS)",
             "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
