@@ -5,37 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-09-07T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 /5,80 /7,90",
-          "Components": [
-            "Luomutofua ja kasviksia soijakastikkeessa (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 /5,80 /7,90",
-          "Components": [
-            "Kebablihapizzaa  (A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 /5,80 /7,90",
-          "Components": [
-            "Broileri-nuudelikeittoa (* ,A ,ILM ,L ,M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-08T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [

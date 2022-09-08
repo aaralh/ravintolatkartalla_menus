@@ -5,64 +5,6 @@
   "Footer": "Ravintolamme on kelan ateriatuen piirissä 2,30 €/ ateria. Opiskelijahintaisen aterian edellytyksenä on voimassa oleva opiskelijakortti.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-09-07T00:00:00+00:00",
-      "LunchTime": "11.00-15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Chili sin carnea (* ,A ,ILM ,L ,M ,Veg)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 21,
-          "Name": "Lounas I",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Jauheliha-makaronilaatikkoa (A ,L)"
-          ]
-        },
-        {
-          "SortOrder": 23,
-          "Name": "Lounas III",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Broileria kormakastikkeessa (A ,G ,L ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 29,
-          "Name": "Grillistä",
-          "Price": "5,30€ / 8,50€ / 11,50€",
-          "Components": [
-            "Halloumjuusto-kirsikkatomaattipizza (A)"
-          ]
-        },
-        {
-          "SortOrder": 30,
-          "Name": "Grillistä",
-          "Price": "5,30€ / 8,50€ / 11,50€",
-          "Components": [
-            "Briossihampurilainen vuohenjuustolla (A ,VL)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
-            "BBQ -majoneesia (A ,G ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 100,
-          "Name": "Jälkiruoka",
-          "Price": "1,40€",
-          "Components": [
-            "Suklaamoussea (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-08T00:00:00+00:00",
       "LunchTime": "11.00-15.00",
       "SetMenus": [

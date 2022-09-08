@@ -5,47 +5,6 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nRuokalistamuutokset ovat mahdollisia.",
   "MenusForDays": [
     {
-      "Date": "2022-09-07T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 2,
-          "Name": "BUFFEE KASVISLOUNAS",
-          "Price": "11,30/2,70",
-          "Components": [
-            "Luomutofua ja kasviksia kormakastikkeessa (* ,A ,G ,ILM ,L ,VS)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 4,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "11,30/2,70",
-          "Components": [
-            "Kurkkukermaviilikastiketta (A ,G ,ILM ,L)",
-            "Luonnonkala-tattaripihvejä (A ,ILM ,L)",
-            "Tilliperunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "11,30/2,70",
-          "Components": [
-            "Jauhelihalasagnettea (A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 7,
-          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
-          "Price": null,
-          "Components": [
-            "Paahdettua kukkakaalia (G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-08T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
