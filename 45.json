@@ -5,38 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-09-08T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 /5,80 /7,90",
-          "Components": [
-            "Vönerlasagnettea (* ,A ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Tomaattikeittoa (* ,A ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 /5,80 /7,90",
-          "Components": [
-            "Makkara-juustopihvi (A ,G ,L)",
-            "Sinappikastiketta (* ,A ,G ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-09T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
