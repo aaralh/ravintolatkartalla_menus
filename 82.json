@@ -5,39 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja \nsiten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. \nKiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-09-09T00:00:00+00:00",
-      "LunchTime": "11-15",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas 6,80 €/ opisk. 2,70 €",
-          "Price": null,
-          "Components": [
-            "Pinaattiohukaisia (* ,A ,ILM)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)",
-            "Puolukkahilloa (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 2,70 €",
-          "Price": null,
-          "Components": [
-            "Pekoninakkeja (G ,L ,M)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 2,70€",
-          "Price": null,
-          "Components": [
-            "Broileri-nuudelivuokaa (* ,A ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-10T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []

@@ -5,54 +5,6 @@
   "Footer": "Hyvää ruokahalua!\n\nKELA - tukee jokaista opiskelija-ateriaa 2,30€ / päivä.\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-09-09T00:00:00+00:00",
-      "LunchTime": "10.30-13.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto",
-          "Price": "2,50€ / 8,40€",
-          "Components": [
-            "Juustoista porkkanasosekeittoa (* ,A ,G ,ILM ,L)",
-            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70€ / 9,70€",
-          "Components": [
-            "Tillikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Kalapyöryköitä (* ,A ,G ,L ,M)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70€/9,70€",
-          "Components": [
-            "Palapaistia (* ,A ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Keittolounas",
-          "Price": "2,70€ / 8,40€",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "1,80€",
-          "Components": [
-            "Omena-puolukkapiirakkaa (A ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-10T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []

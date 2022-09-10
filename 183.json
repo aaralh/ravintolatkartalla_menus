@@ -5,49 +5,6 @@
   "Footer": "Ravintolamme on kelan ateriatuen piirissä 2,30 €/ ateria. Opiskelijahintaisen aterian edellytyksenä on voimassa oleva opiskelijakortti.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-09-09T00:00:00+00:00",
-      "LunchTime": "11.00 - 15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 13,
-          "Name": "Kasvislounas",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Herne-kasvispihvejä (A ,L ,M)",
-            "Harissalla maustettua jogurttikastiketta (A ,G ,ILM ,L)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 21,
-          "Name": "Lounas I",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Kaalikääryleitä (* ,G ,L ,M)",
-            "Ruskeaa kastiketta (A ,ILM ,L)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 22,
-          "Name": "Lounas  II",
-          "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": [
-            "Kalkkuna-juustokastiketta (* ,A ,G ,L)",
-            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 100,
-          "Name": "Jälkiruoka",
-          "Price": "1,40€",
-          "Components": [
-            "Kaakaomoussea (G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-10T00:00:00+00:00",
       "LunchTime": "Suljettu",
       "SetMenus": []

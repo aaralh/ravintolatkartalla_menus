@@ -5,55 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-09-09T00:00:00+00:00",
-      "LunchTime": "11:00-14:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "Vegaaninen kasviskeitto",
-          "Price": "6,40€/ Aalto henkilökunta 5,00€ / Opiskelija 2,30€€",
-          "Components": [
-            "Soija-kasviskeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "Vegaaninen Kasvislounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
-          "Components": [
-            "Tofu-kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 4,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Jauhelihatäytettä (* ,A ,L ,M ,VS)",
-            "Tacoja (G ,L ,M ,Veg)",
-            "Chili-kermaviilikastiketta (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "Lounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
-          "Components": [
-            "Yrttimaustettu broilerinkoipi (G ,L ,M)",
-            "Yrttikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-10T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
