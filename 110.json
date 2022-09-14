@@ -5,57 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-09-13T00:00:00+00:00",
-      "LunchTime": "Alkaen ti 13.9.2022",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
-          "Price": "Opiskelija 1,60 € / Henkilökunta 4,12 € / Vieras 4,29 €",
-          "Components": [
-            "Tomaatti-vuohenjuustokastiketta (* ,A ,G ,ILM ,L ,VS)",
-            "Luomutäysjyväpennepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasviskeitto",
-          "Price": "Opiskelija 1,25 € / Henkilökunta 3,81 € / Vieras 3,92 €",
-          "Components": [
-            "Thai-linssikeittoa (* ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kotiruokalounas",
-          "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vieras 5,36 €",
-          "Components": [
-            "Rapeita kalapaloja (* ,A ,L ,M)",
-            "Tartarkastiketta (A ,G ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Erikoisannos",
-          "Price": "Opiskelija 4,00-5,35 € / Henkilökunta 6,75-8,20 € / Vieras 10,90 €",
-          "Components": [
-            "Halloumihotdog chimichurrisalsalla (A ,L ,VS)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
-            "Chilimajoneesia (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "Opiskelija 0,50 € / Henkilökunta 0,57 € / Vieras 1,20 €",
-          "Components": [
-            "Omena-kanelirahkaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-14T00:00:00+00:00",
       "LunchTime": "Alkaen ti 13.9.2022",
       "SetMenus": [
