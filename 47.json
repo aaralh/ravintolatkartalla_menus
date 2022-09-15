@@ -5,54 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2022-09-14T00:00:00+00:00",
-      "LunchTime": "10.30 - 18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Quornia tomaatti-kasviskastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISKEITTO",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Pinaattikeittoa (* ,A ,ILM ,L)",
-            "Keitetty kananmuna (A ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Paneroitua seitifilettä (* ,A ,ILM ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "4,40 / 6,70 / 7,20 / 9,10",
-          "Components": [
-            "Klo 15 alkaen: Tulinen nyhtöpossu briossihampurilainen (A ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Puolukka-kauramurupaistosta (A ,L ,M ,Veg)",
-            "Vaniljakastiketta (A ,G)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-15T00:00:00+00:00",
       "LunchTime": "10.30 -1 8.00",
       "SetMenus": [

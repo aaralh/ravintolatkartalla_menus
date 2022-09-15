@@ -5,54 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-09-14T00:00:00+00:00",
-      "LunchTime": "11:00-14:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "Vegaaninen kasviskeitto",
-          "Price": "6,40€/ Aalto henkilökunta 5,00€ / Opiskelija 2,30€€",
-          "Components": [
-            "Kasvis-kaalikeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "Vegaaninen Kasvislounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
-          "Components": [
-            "Mustapapupihvi (* ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Kurkkusalsaa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "Lounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
-          "Components": [
-            "Kebablihakiusausta (A ,G ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "Lounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 2,70€",
-          "Components": [
-            "Broilerinugetteja (A ,L ,M)",
-            "Currymajoneesia (A ,G ,L ,M ,Veg)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-15T00:00:00+00:00",
       "LunchTime": "11:00-14:00",
       "SetMenus": [

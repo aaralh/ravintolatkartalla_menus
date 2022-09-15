@@ -5,64 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-09-14T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Papu-paprika-maissitäytettä (A ,G ,L ,M ,Veg ,VS)",
-            "Vehnätortillat (A ,L ,M ,Veg)",
-            "Vegaanista barbequemajoneesia (A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Papu-paprika-maissitäytettä (A ,G ,L ,M ,Veg ,VS)",
-            "Vehnätortillat (A ,L ,M ,Veg)",
-            "Vegaanista barbequemajoneesia (A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Jauhelihatäytettä (* ,A ,L ,M ,VS)",
-            "Vehnätortillat (A ,L ,M ,Veg)",
-            "Vegaanista barbequemajoneesia (A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70/7,90",
-          "Components": [
-            "Kermaista lohi-seitikeittoa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "PAISTOPISTE",
-          "Price": "5,20/9,90",
-          "Components": []
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Lakritsivaahtoa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-15T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
