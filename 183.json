@@ -5,15 +5,17 @@
   "Footer": "Ravintolamme on kelan ateriatuen piirissä 2,30 €/ ateria. Opiskelijahintaisen aterian edellytyksenä on voimassa oleva opiskelijakortti.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-09-15T00:00:00+00:00",
+      "Date": "2022-09-22T00:00:00+00:00",
       "LunchTime": "11.00-15.00",
       "SetMenus": [
         {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
+          "SortOrder": 13,
+          "Name": "Kasvislounas",
           "Price": "2,70€ / 6,50€ / 9,30€",
           "Components": [
-            "Vönerlasagnettea (* ,A ,L ,M ,Veg ,VS)"
+            "Raastepihvejä (* ,A ,L ,M)",
+            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -21,17 +23,17 @@
           "Name": "Lounas I",
           "Price": "2,70€ / 6,50€ / 9,30€",
           "Components": [
-            "Harissalla maustettua kalkkunapataa (* ,A ,G ,L ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Mac & Cheese (A ,L)"
           ]
         },
         {
-          "SortOrder": 23,
-          "Name": "Lounas III",
+          "SortOrder": 22,
+          "Name": "Lounas  II",
           "Price": "2,70€ / 6,50€ / 9,30€",
           "Components": [
-            "Välimerellistä seitiä (* ,A ,G ,L ,VS)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+            "Uunibroilerinuijia (G ,L ,M)",
+            "Chilimajoneesia (A ,G ,L)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -39,32 +41,75 @@
           "Name": "Grillistä",
           "Price": "5,30€ / 8,50€ / 11,50€",
           "Components": [
-            "Kauden kasviksia (G ,L ,M ,Veg)",
-            "Lohta smetana-kesäkurpitsakastikkeessa (A ,G ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
+            "Porsaan grillipihvi (* ,G ,L ,M)",
+            "BBQ-kastiketta (* ,A ,G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 30,
+          "Name": "Grillistä",
+          "Price": "5,30€ / 8,50€ / 11,50€",
+          "Components": [
+            "Serrano-päärynä-Aurajuustopizza (A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": "1,40€",
+          "Components": [
+            "Porkkanakakkua (A ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-16T00:00:00+00:00",
+      "Date": "2022-09-23T00:00:00+00:00",
       "LunchTime": "11.00 - 15.00",
       "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "2,70€ / 6,50€ / 9,30€",
+          "Components": [
+            "Tahu goreng Indonesia (A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
         {
           "SortOrder": 21,
           "Name": "Lounas I",
           "Price": "2,70€ / 6,50€ / 9,30€",
-          "Components": []
+          "Components": [
+            "Juustohampurilainen (A)",
+            "Maalaisranskalaisia (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 23,
+          "Name": "Lounas III",
+          "Price": "2,70€ / 6,50€ / 9,30€",
+          "Components": [
+            "Broilernuggetteja (A ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": "1,40€",
+          "Components": [
+            "Juustokakku Brownie (A ,VL)"
+          ]
         }
       ]
     },
     {
-      "Date": "2022-09-17T00:00:00+00:00",
+      "Date": "2022-09-24T00:00:00+00:00",
       "LunchTime": "Suljettu",
       "SetMenus": []
     },
     {
-      "Date": "2022-09-18T00:00:00+00:00",
+      "Date": "2022-09-25T00:00:00+00:00",
       "LunchTime": "Suljettu",
       "SetMenus": []
     }

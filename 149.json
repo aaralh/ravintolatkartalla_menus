@@ -5,7 +5,7 @@
   "Footer": "Opiskelijalounas 1,25 – 4,00 e, henkilökunta 3,81 – 6,86 e, vierailijat 3,92 – 6,86 e.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-09-15T00:00:00+00:00",
+      "Date": "2022-09-22T00:00:00+00:00",
       "LunchTime": "10.30-12.30",
       "SetMenus": [
         {
@@ -13,9 +13,8 @@
           "Name": "Kasvislounas",
           "Price": "Op1,60€/Hk 4,21€/Vieras 4,29€",
           "Components": [
-            "Raastepihvejä (* ,A ,L ,M)",
-            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+            "Papu-paprika-maissitäytettä (A ,G ,L ,M ,Veg ,VS)",
+            "Tacoja (G ,L ,M ,Veg)"
           ]
         },
         {
@@ -23,24 +22,8 @@
           "Name": "Kasviskeitto",
           "Price": "Op 1,25€/Hk 3,81€/Vieras 3,92€",
           "Components": [
-            "Bataattisosekeittoa (* ,A ,G ,ILM ,L)",
-            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "Op 2,60€/ Hk 5,24€/Vieras 5,36€",
-          "Components": [
-            "Kebab-pastavuokaa (A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Keittolounas",
-          "Price": "Op 2,60€/ Hk 5,24€/Vieras 5,36€",
-          "Components": [
-            "Kalkkuna-kasviskeittoa (* ,A ,G ,ILM ,L)"
+            "Tortilla-chipsejä (G ,L ,M ,Veg)",
+            "Parsakaalisosekeittoa (* ,A ,G ,ILM ,L)"
           ]
         },
         {
@@ -48,7 +31,8 @@
           "Name": "Jälkiruoka",
           "Price": "Op0,57€/Hk 0,57€/Vieras 0,57€",
           "Components": [
-            "Ruusunmarjarahkaa (A ,G ,L)"
+            "Puutarhamarja-ruismurupaistosta (A ,L ,M ,Veg)",
+            "Kermavaahtoa (A ,G ,L)"
           ]
         },
         {
@@ -56,16 +40,14 @@
           "Name": "Wicked rabbit",
           "Price": "Op 5,35€/Hk 8,90€/Vieras 11,00€",
           "Components": [
-            "Pitaleipää (A ,L ,M ,Veg)",
-            "Butter Mifua (A ,G ,ILM ,L ,VS)",
-            "Basmatiriisiä (G ,L ,M ,Veg)",
-            "Jogurttia (A ,G ,ILM ,L)"
+            "Pinaattia (G ,L ,M ,Veg)",
+            "Punajuuri-halloumilasagnettea (A ,VL)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-16T00:00:00+00:00",
+      "Date": "2022-09-23T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
         {
@@ -82,12 +64,6 @@
         },
         {
           "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "Op 2,60€/ Hk 5,24€/Vieras 5,36€",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
           "Name": "Jälkiruoka",
           "Price": "Op0,57€/Hk 0,57€/Vieras 0,57€",
           "Components": []
@@ -101,12 +77,12 @@
       ]
     },
     {
-      "Date": "2022-09-17T00:00:00+00:00",
+      "Date": "2022-09-24T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-09-18T00:00:00+00:00",
+      "Date": "2022-09-25T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

@@ -5,7 +5,7 @@
   "Footer": "Opiskelijalounas 2,11€, henkilökunta 5,00 €, vieraat 9,10 €.\n\nHyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nPlease, kindly note that the raw materials used in the restaurants may vary from the planned and therefore the product specifications and dietary labels published at web sites may differ from the final and correct information that will be given at the restaurant. Persons with allergies are advised every time to check the suitability of the offered food choices to their diet at the restaurant. Thank you for your understanding.\n\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "MenusForDays": [
     {
-      "Date": "2022-09-15T00:00:00+00:00",
+      "Date": "2022-09-22T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
         {
@@ -13,8 +13,7 @@
           "Name": "Linjasto 2 & 3 & 4 & 5",
           "Price": null,
           "Components": [
-            "Chili con vege (* ,A ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+            "Kasvislasagnettea (A ,ILM ,L)"
           ]
         },
         {
@@ -22,13 +21,14 @@
           "Name": "Linjasto 2 & 3 & 4 & 5",
           "Price": null,
           "Components": [
-            "Kebab-pastavuokaa (A ,L ,VS)"
+            "Broileria rakuunakastikkeessa (* ,A ,G ,L)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-16T00:00:00+00:00",
+      "Date": "2022-09-23T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
         {
@@ -36,8 +36,8 @@
           "Name": "Linjasto 2 & 3 & 4 & 5",
           "Price": null,
           "Components": [
-            "Tahu goreng Indonesia (A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+            "Quornia tomaatti-kasviskastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)",
+            "Värikästä pennepastaa (A ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -45,8 +45,9 @@
           "Name": "Linjasto 2 & 3 & 4 & 5",
           "Price": null,
           "Components": [
-            "Tilliperunoita (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Seitifilettä sinappi-purjokastikkeessa (* ,A ,G ,L)"
+            "Rapeita kalapaloja (* ,A ,L ,M)",
+            "Tartarkastiketta (A ,G ,L)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)"
           ]
         },
         {
@@ -54,19 +55,18 @@
           "Name": "Jälkiruoka",
           "Price": null,
           "Components": [
-            "Karamellisoitua päärynää (A ,G ,L)",
-            "Kanelikermavaahtoa (A ,G ,L)"
+            "Chili-suklaamoussea (A ,G)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-17T00:00:00+00:00",
+      "Date": "2022-09-24T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-09-18T00:00:00+00:00",
+      "Date": "2022-09-25T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

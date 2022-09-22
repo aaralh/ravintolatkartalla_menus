@@ -5,7 +5,7 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-09-15T00:00:00+00:00",
+      "Date": "2022-09-22T00:00:00+00:00",
       "LunchTime": "10.30- 14.00, Wicked Rabbit 10.30-13.30",
       "SetMenus": [
         {
@@ -13,9 +13,10 @@
           "Name": "Kasvislounas",
           "Price": "Amk 2,70 / Lounasbuffet 10,90",
           "Components": [
-            "Paneroidut kasvispihvit (* ,A ,G ,L)",
-            "Minttujogurttikastiketta (A ,G ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
+            "Härkäpapu-paprikatäytettä (* ,G ,ILM ,L ,M)",
+            "Täysjyvävehnätortilla (A ,L ,M ,Veg)",
+            "Chilikermaviilikastiketta (A ,G ,L)",
+            "Kurkumariisiä (G ,L ,M ,Veg)"
           ]
         },
         {
@@ -23,9 +24,7 @@
           "Name": "Lounas",
           "Price": "Amk 2,70",
           "Components": [
-            "Kotimaisia kirjolohipyöryköitä (A ,L)",
-            "Tillikastiketta (* ,A ,ILM ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+            "Kinkkukiusausta (* ,A ,G ,ILM ,L)"
           ]
         },
         {
@@ -33,9 +32,9 @@
           "Name": "Lounas erikoishintainen",
           "Price": "Amk 5,30",
           "Components": [
-            "Paahdettua broileria sekä currylla maustettua kukkakaalia ja kikherneitä (G ,L ,M)",
-            "Minttujogurttikastiketta (A ,G ,L)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Savumarinoitua kirjolohta (* ,A ,G ,ILM ,L ,M)",
+            "Ruohosipuliranskankermakastiketta (A ,G ,ILM ,L)",
+            "Tillillä maustettuja viipaleperunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -43,7 +42,7 @@
           "Name": "Jälkiruoka",
           "Price": "Amk 1,60",
           "Components": [
-            "Mansikka-raparperikiisseliä (G ,L ,M ,Veg)",
+            "Mustaherukkakiisseliä (G ,L ,M ,Veg)",
             "Vaniljakermavaahtoa (A ,G ,L)"
           ]
         },
@@ -52,8 +51,7 @@
           "Name": "Wicked Rabbit kasvisruoka",
           "Price": null,
           "Components": [
-            "Munakoisovuokaa juustolla (A ,G ,L ,VS)",
-            "Gremolataa (G ,L ,M ,Veg ,VS)"
+            "Halloumi-pinaattipiirakkaa (A ,VS)"
           ]
         },
         {
@@ -61,8 +59,8 @@
           "Name": "Wicked Rabbit  vegaani kasvisruoka",
           "Price": null,
           "Components": [
-            "Soijanakki-hotdog ( A, L, M, Veg ) ()",
-            "Kurkku-sinappirelishsalaattia (A ,G ,L ,M ,Veg)"
+            "Minimaissi-suolapähkinärisottoa (* ,A ,G ,L ,M ,Veg)",
+            "Lehtikaalipestoa (A ,G ,ILM ,L)"
           ]
         },
         {
@@ -70,7 +68,7 @@
           "Name": "Wicked Rabbit lämmin lisäke",
           "Price": null,
           "Components": [
-            "Karamellisoitua ruusukaalia (A ,G ,L)"
+            "Timjamipaahdettua porkkanaa (G ,L ,M ,Veg)"
           ]
         },
         {
@@ -78,13 +76,13 @@
           "Name": "Wicked Rabbit kasviskeitto",
           "Price": null,
           "Components": [
-            "Herkkusienikeittoa (A ,G ,ILM ,L ,M ,Veg)"
+            "Hernesosekeittoa ja kotijuustoa (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-16T00:00:00+00:00",
+      "Date": "2022-09-23T00:00:00+00:00",
       "LunchTime": "10.30- 14.00, Wicked Rabbit 10.30-13.30",
       "SetMenus": [
         {
@@ -92,8 +90,7 @@
           "Name": "Kasvislounas",
           "Price": "Amk 2,70 / Lounasbuffet 10,90",
           "Components": [
-            "Punajuuri-sinihomejuustopataa (* ,A ,G ,ILM ,L)",
-            "Persiljaperunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+            "Soija-kasvislasagnea (A ,VS)"
           ]
         },
         {
@@ -101,7 +98,9 @@
           "Name": "Lounas",
           "Price": "Amk 2,70",
           "Components": [
-            "Broileri-pastavuokaa (* ,A ,ILM ,L)"
+            "Kuhapyöryköitä (A ,L ,M)",
+            "Sinappirelishkermaviilikastiketta (A ,G ,L)",
+            "Annanperunoita (A ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -109,9 +108,8 @@
           "Name": "Lounas erikoishintainen",
           "Price": "Amk 5,30",
           "Components": [
-            "Porsaanleike (A ,L ,M)",
-            "Herkkusienikastiketta (* ,A ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
+            "Pulled chicken -hampurilainen (A ,L ,VS)",
+            "Ranskalaisia perunoita (G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -119,7 +117,7 @@
           "Name": "Jälkiruoka",
           "Price": "Amk 1,60",
           "Components": [
-            "Mokkavaahtoa (A ,G ,L ,M ,Veg)"
+            "Päärynä-jogurttipannacottaa (A ,G ,L)"
           ]
         },
         {
@@ -127,7 +125,7 @@
           "Name": "Wicked Rabbit kasvisruoka",
           "Price": null,
           "Components": [
-            "Juustoista pinaattipastaa (A ,L)",
+            "Pinaatti-ricottacanneloneja (A ,VS)",
             "Pastajuustoraastetta (A ,G ,L)"
           ]
         },
@@ -136,9 +134,7 @@
           "Name": "Wicked Rabbit  vegaani kasvisruoka",
           "Price": null,
           "Components": [
-            "Kasviskaalikääryleitä (A ,L ,M ,Veg ,VS)",
-            "Karpalohilloketta (G ,L ,M ,Veg)",
-            "Palsternakka-perunasosetta (A ,G ,ILM ,L ,VS)"
+            "Punajuurikuorrutettua tofua (A ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -146,7 +142,7 @@
           "Name": "Wicked Rabbit lämmin lisäke",
           "Price": null,
           "Components": [
-            "Paahdettua kurpitsaa (G ,L ,M ,Veg)"
+            "Peruna-juuressärää (* ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -154,19 +150,18 @@
           "Name": "Wicked Rabbit kasviskeitto",
           "Price": null,
           "Components": [
-            "Tomaattikeittoa (A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Basilikaöljyä (G ,L ,M ,Veg)"
+            "Valkopapusosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-17T00:00:00+00:00",
+      "Date": "2022-09-24T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-09-18T00:00:00+00:00",
+      "Date": "2022-09-25T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

@@ -5,7 +5,7 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-09-15T00:00:00+00:00",
+      "Date": "2022-09-22T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
         {
@@ -13,8 +13,8 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,70/7,90",
           "Components": [
-            "Chili sin carnea (* ,A ,ILM ,L ,M ,Veg)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+            "Ratatouillea (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -22,8 +22,8 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70/7,90",
           "Components": [
-            "Chili sin carnea (* ,A ,ILM ,L ,M ,Veg)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+            "Ratatouillea (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -31,15 +31,18 @@
           "Name": "LOUNAS",
           "Price": "2,70/7,90",
           "Components": [
-            "Tonnikala-pastavuokaa (* ,A ,ILM ,L ,VS)"
+            "Sitruunaseitifilettä (* ,A ,ILM ,L)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
-          "SortOrder": 3,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70/7,90",
+          "SortOrder": 5,
+          "Name": "PAISTOPISTE",
+          "Price": "5,20/9,90",
           "Components": [
-            "Hernekeittoa (* ,A ,ILM ,L ,M)"
+            "Ranskalaisia perunoita (G ,ILM ,L ,M ,Veg)",
+            "Halloumihotdog chimichurrisalsalla (A ,L ,VS)",
+            "Chilimajoneesia (A ,G ,L)"
           ]
         },
         {
@@ -47,14 +50,14 @@
           "Name": "JÄLKIRUOKA",
           "Price": "1,20",
           "Components": [
-            "Pannukakkua (A ,L)",
-            "Mansikkahilloa (G ,L ,M ,Veg)"
+            "Omena-puolukkapiirakkaa (A ,L)",
+            "Vaniljakermavaahtoa (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-16T00:00:00+00:00",
+      "Date": "2022-09-23T00:00:00+00:00",
       "LunchTime": "11:00-17:00",
       "SetMenus": [
         {
@@ -62,7 +65,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,70/7,90",
           "Components": [
-            "Tofu-kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Peruna-kasviscurrya luomutofulla (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
             "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
@@ -71,7 +74,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70/7,90",
           "Components": [
-            "Tofu-kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Peruna-kasviscurrya luomutofulla (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
             "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
@@ -80,7 +83,17 @@
           "Name": "LOUNAS",
           "Price": "2,70/7,90",
           "Components": [
-            "Jauhelihapizzaa (A ,L)"
+            "Kinkku-ananas-aurajuustopizzaa (A ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "PAISTOPISTE",
+          "Price": "5,20/9,90",
+          "Components": [
+            "Karamellisoitua kassleria ja kasvispaistosta (A ,G ,L ,M ,VS)",
+            "Paahdettuja perunoita (G ,ILM ,L ,M ,Veg)",
+            "Kauden kasviksia (G ,L ,M ,Veg)"
           ]
         },
         {
@@ -88,14 +101,13 @@
           "Name": "JÄLKIRUOKA",
           "Price": "1,20",
           "Components": [
-            "Mustikka-ruismurupaistosta (A ,L ,M ,Veg)",
-            "Kauravaahtoa (A ,G ,L ,M ,Veg)"
+            "Suklaamoussea (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-17T00:00:00+00:00",
+      "Date": "2022-09-24T00:00:00+00:00",
       "LunchTime": "11:00-16:00",
       "SetMenus": [
         {
@@ -103,8 +115,8 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,70/7,90",
           "Components": [
-            "Bataatti-kookoscurryä (G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -112,8 +124,8 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70/7,90",
           "Components": [
-            "Bataatti-kookoscurryä (G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -121,7 +133,7 @@
           "Name": "LOUNAS",
           "Price": "2,70/7,90",
           "Components": [
-            "Lasagnettea broilerin ja naudan jauhelihasta (A ,L ,VS)"
+            "Jauheliha-pennepastaa (* ,A ,L ,M)"
           ]
         },
         {
@@ -129,14 +141,15 @@
           "Name": "PAISTOPISTE",
           "Price": "5,20/9,90",
           "Components": [
-            "Briossihampurilainen rotukarjapihvi ja savujuusto (A ,L)",
+            "Pulled chicken briossihampurilainen kimchillä (A ,L ,M ,VS)",
+            "Chilimajoneesia (A ,G ,L)",
             "Ranskalaisia perunoita (G ,ILM ,L ,M ,Veg)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-18T00:00:00+00:00",
+      "Date": "2022-09-25T00:00:00+00:00",
       "LunchTime": "12:00-16:00",
       "SetMenus": [
         {
@@ -144,9 +157,9 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,70/7,90",
           "Components": [
-            "Punajuurikroketteja (* ,G ,ILM ,L ,M ,Veg)",
-            "Tartarkastiketta (A ,G ,L ,M ,Veg)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
+            "Paholaisenhilloa (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -154,9 +167,9 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70/7,90",
           "Components": [
-            "Punajuurikroketteja (* ,G ,ILM ,L ,M ,Veg)",
-            "Tartarkastiketta (A ,G ,L ,M ,Veg)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
+            "Paholaisenhilloa (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -164,7 +177,7 @@
           "Name": "LOUNAS",
           "Price": "2,70/7,90",
           "Components": [
-            "Kalkkunaa ja vihanneksia kookoskastikkeessa (* ,A ,G ,L ,M)",
+            "Broileria currykastikkeessa (* ,A ,G ,L)",
             "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
@@ -173,10 +186,9 @@
           "Name": "PAISTOPISTE",
           "Price": "5,20/9,90",
           "Components": [
-            "Porsaan grillipihvi (* ,G ,L ,M)",
-            "Punaviinikastiketta (G ,L ,M ,VS)",
-            "Juustoperunaa (A ,G ,L)",
-            "Kauden kasviksia (G ,L ,M ,Veg)"
+            "Porsaanleike (A ,L ,M)",
+            "Juustoperunoita (A ,G ,L)",
+            "Paahdettuja juureksia (G ,L ,M)"
           ]
         }
       ]

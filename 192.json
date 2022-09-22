@@ -5,7 +5,7 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua !\n\nPlease, kindly note that the raw materials used in the restaurants may vary from the planned and therefore the product specifications and dietary labels published at web sites may differ from the final and correct information that will be given at the restaurant. Persons with allergies are advised every time to check the suitability of the offered food choices to their diet at the restaurant. Thank you for your understanding.",
   "MenusForDays": [
     {
-      "Date": "2022-09-15T00:00:00+00:00",
+      "Date": "2022-09-22T00:00:00+00:00",
       "LunchTime": "10.30 - 14.00, chef´s corner 11.00 - 13.30",
       "SetMenus": [
         {
@@ -13,18 +13,18 @@
           "Name": "Kasvislounas",
           "Price": "Opiskelija 2,70 €/ Aalto henkilökunta 5,55 € / Vieras 7,55 €",
           "Components": [
-            "Paneroidut kasvispihvit (* ,A ,G ,L)",
-            "Jogurtti-kurkkukastiketta (A ,G ,ILM ,L ,VS)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
+            "Soija-kauratäytteiset paprikat (* ,A ,ILM ,L ,M ,Veg)",
+            "Kurkkusalsaa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Lounas",
-          "Price": "Opiskelija 2,70€/ Aalto henkilökunta 5,55 € / Vieras 7,55€",
+          "Price": "Opiskelija 2,70 €/ Aalto henkilökunta 5,55 € / Vieras 7,55 €",
           "Components": [
-            "Broileria Kung Po (* ,A ,G ,L ,M ,VS)",
-            "Kurkumariisiä (G ,L ,M ,Veg)"
+            "Broileria currykastikkeessa (* ,A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
         {
@@ -36,10 +36,11 @@
         {
           "SortOrder": 0,
           "Name": "Erikoisannos",
-          "Price": "Opiskelija 4,00 €/ Aalto henkilökunta 6,85 € / Vieras 7,55 €",
+          "Price": "Opiskelija 5,35€/ Aalto henkilökunta 8,10 € / Vieras 10,50 €",
           "Components": [
-            "Leipäjuustosalaattia (A ,G ,L)",
-            "Metsäsieniohukaisia (* ,A ,ILM ,L)"
+            "Paneroitu kampelafilee (* ,A ,L ,M)",
+            "Tillimajoneesia (A ,G ,L ,M ,Veg)",
+            "Muhennettua perunaa (A ,G ,ILM ,L)"
           ]
         },
         {
@@ -47,15 +48,14 @@
           "Name": "Jälkiruoka",
           "Price": "1,65€ ( Pieni 0,85€)",
           "Components": [
-            "Pannukakkua (A ,L)",
-            "Mansikkahilloa (G ,L ,M ,Veg)",
-            "Kermavaahtoa (A ,G ,L)"
+            "Omena-puolukkapiirakkaa (A ,L)",
+            "Vaniljakermavaahtoa (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-16T00:00:00+00:00",
+      "Date": "2022-09-23T00:00:00+00:00",
       "LunchTime": "10.30 - 13.30, chef´s corner 11.00 - 13.30",
       "SetMenus": [
         {
@@ -63,7 +63,7 @@
           "Name": "Kasvislounas",
           "Price": "Opiskelija 2,70 €/ Aalto henkilökunta 5,55 € / Vieras 7,55 €",
           "Components": [
-            "Kasvis-pastavuokaa (* ,A ,ILM ,L)"
+            "Porkkana-pestolasagnea (* ,A ,L ,VS)"
           ]
         },
         {
@@ -71,7 +71,7 @@
           "Name": "Lounas",
           "Price": "Opiskelija 2,70€/ Aalto henkilökunta 5,55 € / Vieras 7,55€",
           "Components": [
-            "Kalkkunaa ja vihanneksia kookoskastikkeessa (* ,A ,G ,L ,M)",
+            "Naudanlihaa ja kasviksia kiinalaisittain (A ,G ,L ,M ,VS)",
             "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
@@ -80,7 +80,7 @@
           "Name": "Erikoisannos",
           "Price": "Opiskelija 4,00 €/ Aalto henkilökunta 6,85 € / Vieras 7,55 €",
           "Components": [
-            "Kylmäsavukirjolohi-mozzarellapizzaa (A ,VL)"
+            "Pitakebab ja jogurttikastiketta (A ,L ,VS)"
           ]
         },
         {
@@ -88,18 +88,18 @@
           "Name": "Jälkiruoka",
           "Price": "1,65€ ( Pieni 0,85€)",
           "Components": [
-            "Vaniljajäätelöä ja mansikkakastiketta (A ,G)"
+            "Vaniljajäätelöä ja suklaakastiketta (A ,G)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-17T00:00:00+00:00",
+      "Date": "2022-09-24T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-09-18T00:00:00+00:00",
+      "Date": "2022-09-25T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

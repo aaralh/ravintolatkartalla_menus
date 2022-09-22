@@ -5,7 +5,7 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-09-15T00:00:00+00:00",
+      "Date": "2022-09-22T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [
         {
@@ -13,7 +13,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 / 5,80 /7,90",
           "Components": [
-            "Chili con vege (* ,A ,ILM ,L ,M ,Veg ,VS)"
+            "Quornia Aurajuustokastikkeessa (* ,A ,G ,ILM ,L)"
           ]
         },
         {
@@ -21,8 +21,7 @@
           "Name": "LOUNAS",
           "Price": "2,70 / 5,80 /7,90",
           "Components": [
-            "Pyttipannua (G ,L ,M)",
-            "Paistettu kananmuna (A ,G ,L ,M)"
+            "Broileri-basilika-fenkolipastaa (* ,A ,L)"
           ]
         },
         {
@@ -30,7 +29,7 @@
           "Name": "LOUNAS",
           "Price": "2,70 / 5,80/7,90",
           "Components": [
-            "Kalkkunaa ja kasviksia inkiväärikastikkeessa (* ,A ,G ,L ,M)"
+            "Maksakastiketta (* ,A ,L)"
           ]
         },
         {
@@ -38,13 +37,13 @@
           "Name": "KEITTOLOUNAS",
           "Price": "2,70 / 5,80/7,90",
           "Components": [
-            "Seitikeittoa L (* ,A ,G ,ILM)"
+            "Juustoista riistakeittoa (A ,G ,L)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "JÄLKIRUOKA",
-          "Price": "4,00",
+          "Price": "4,00 €",
           "Components": [
             "Herkkupöytä ()"
           ]
@@ -52,7 +51,7 @@
       ]
     },
     {
-      "Date": "2022-09-16T00:00:00+00:00",
+      "Date": "2022-09-23T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [
         {
@@ -60,16 +59,15 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 / 5,80 /7,90",
           "Components": [
-            "Tahu goreng Indonesia (A ,G ,ILM ,L ,M ,Veg ,VS)"
+            "Talon juurespihvejä (* ,A ,G ,ILM ,L ,M ,VS)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "2,70 / 5,80/7,90",
+          "Price": "2,70 / 5,80 /7,90",
           "Components": [
-            "Savulohitäytettä uuniperunalle (A ,G ,L)",
-            "Uuniperunaa (* ,G ,ILM ,L ,M ,Veg)"
+            "Saksanhirvi-sipulipataa (* ,A ,G ,L ,VS)"
           ]
         },
         {
@@ -77,26 +75,26 @@
           "Name": "KEITTOLOUNAS",
           "Price": "2,70 / 5,80/7,90",
           "Components": [
-            "Portugalilaista makkarakeittoa (A ,G ,L ,M ,VS)"
+            "Kirjolohikeittoa (* ,A ,G ,ILM ,L)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "4,40 /7,10/9,10",
+          "Price": "4,40 /7,10 /9,10",
           "Components": [
-            "Burgeriperjantai (jauheliha / kasvis) ()"
+            "Burgeriperjantai ()"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-17T00:00:00+00:00",
+      "Date": "2022-09-24T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-09-18T00:00:00+00:00",
+      "Date": "2022-09-25T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

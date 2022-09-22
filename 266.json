@@ -5,7 +5,7 @@
   "Footer": "Opiskelijalounas edellyttää voimassa olevaa kelan ateriatukeen oikeuttavaa opiskelijakorttia. \nMuulla kuin kelan tukemalla opiskelijatodistuksella: opiskelijalounas 6,50 € \ngrillipisteen erikoislounas 11,20 €.\n \nNordic Buffet on kaikille 10,20 € hintainen. Nordic Buffet sisältää liha-, kala- tai kanaruuan lisäksi päivittäin myös kasvisruokavaihtoehdon. _________________________________________  \n\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-09-15T00:00:00+00:00",
+      "Date": "2022-09-22T00:00:00+00:00",
       "LunchTime": "11-13",
       "SetMenus": [
         {
@@ -13,7 +13,7 @@
           "Name": "Päivän keitto",
           "Price": "7,10 €",
           "Components": [
-            "Bataattisosekeittoa (* ,A ,G ,ILM ,L)"
+            "Parsakaalisosekeittoa (* ,A ,G ,ILM ,L)"
           ]
         },
         {
@@ -21,7 +21,8 @@
           "Name": "Grillipisteessä",
           "Price": "11,20 €",
           "Components": [
-            "Meetvursti-paprikapizza (A ,L ,VS)"
+            "Kirjolohta (* ,A ,G ,ILM ,L ,M)",
+            "Hollandaise-kastiketta (A ,G ,ILM)"
           ]
         },
         {
@@ -29,7 +30,7 @@
           "Name": "Kasvislounas opiskelija",
           "Price": null,
           "Components": [
-            "Chili con vege (* ,A ,ILM ,L ,M ,Veg ,VS)"
+            "Punajuuri-halloumilasagnettea (A ,VL)"
           ]
         },
         {
@@ -37,7 +38,7 @@
           "Name": "Opiskelijalounas",
           "Price": null,
           "Components": [
-            "Kebab-pastavuokaa (A ,L ,VS)"
+            "Porsas-ananaspataa (* ,G ,L ,M ,VS)"
           ]
         },
         {
@@ -45,13 +46,14 @@
           "Name": "Jälkiruoka",
           "Price": "1,00 €",
           "Components": [
-            "Ruusunmarjarahkaa (A ,G ,L)"
+            "Puutarhamarja-ruismurupaistosta (A ,L ,M ,Veg)",
+            "Kermavaahtoa (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-16T00:00:00+00:00",
+      "Date": "2022-09-23T00:00:00+00:00",
       "LunchTime": "11-13",
       "SetMenus": [
         {
@@ -59,7 +61,7 @@
           "Name": "Päivän keitto",
           "Price": "7,10 €",
           "Components": [
-            "Juusto-kasvissuikalekeittoa (* ,A ,G ,ILM ,L)"
+            "Maissikeittoa (* ,A ,G ,ILM ,L)"
           ]
         },
         {
@@ -67,7 +69,8 @@
           "Name": "Nordic Buffet",
           "Price": "10,20€",
           "Components": [
-            "Kassleria cajunkastikkeessa (A ,G ,L ,VS)"
+            "Paneroitu kampelafilee (* ,A ,L ,M)",
+            "Tillikermaviilikastiketta (A ,G ,ILM ,L)"
           ]
         },
         {
@@ -76,7 +79,7 @@
           "Price": null,
           "Components": [
             "Puolukkahilloa (G ,L ,M ,Veg)",
-            "Smetanaista kaalivuokaa (A ,G ,ILM ,L ,VS)"
+            "Porkkanaohukaisia (* ,A ,ILM)"
           ]
         },
         {
@@ -84,7 +87,7 @@
           "Name": "Opiskelijalounas",
           "Price": null,
           "Components": [
-            "Rukiista seitiä (* ,A ,L)"
+            "Saksanhirvi-sipulipataa (* ,A ,G ,L ,VS)"
           ]
         },
         {
@@ -92,19 +95,18 @@
           "Name": "Jälkiruoka",
           "Price": "1,00 €",
           "Components": [
-            "Omena-puolukkapiirakkaa (A ,L)",
-            "Vaniljakermavaahtoa (A ,G ,L)"
+            "Valkosuklaamoussea (A ,G)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-17T00:00:00+00:00",
+      "Date": "2022-09-24T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-09-18T00:00:00+00:00",
+      "Date": "2022-09-25T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

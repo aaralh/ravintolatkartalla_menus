@@ -5,7 +5,7 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-09-15T00:00:00+00:00",
+      "Date": "2022-09-22T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
         {
@@ -13,8 +13,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 /5,80 /7,90",
           "Components": [
-            "Chili con vege (* ,A ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Quornia Aurajuustokastikkeessa (* ,A ,G ,ILM ,L)"
           ]
         },
         {
@@ -22,8 +21,7 @@
           "Name": "LOUNAS",
           "Price": "2,70 /5,80 /7,90",
           "Components": [
-            "Pyttipannua (G ,L ,M)",
-            "Paistettu kananmuna (A ,G ,L ,M)"
+            "Broileri-basilika-fenkolipastaa (* ,A ,L)"
           ]
         },
         {
@@ -31,13 +29,13 @@
           "Name": "KEITTOLOUNAS",
           "Price": "2,70 /5,80 /7,90",
           "Components": [
-            "Seitikeittoa (* ,A ,G ,ILM)"
+            "Juustoista riistakeittoa (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-16T00:00:00+00:00",
+      "Date": "2022-09-23T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
         {
@@ -45,8 +43,8 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,70 /5,80 /7,90",
           "Components": [
-            "Tahu goreng Indonesia (A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Talon juurespihvejä (* ,A ,G ,ILM ,L ,M ,VS)",
+            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)"
           ]
         },
         {
@@ -54,8 +52,8 @@
           "Name": "LOUNAS",
           "Price": "2,70 /5,80 /7,90",
           "Components": [
-            "Savulohitäytettä uuniperunalle (A ,G ,L)",
-            "Uuniperunaa (* ,G ,ILM ,L ,M ,Veg)"
+            "Saksanhirvi-sipulipataa (* ,A ,G ,L ,VS)",
+            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -63,18 +61,18 @@
           "Name": "KEITTOLOUNAS",
           "Price": "2,70 /5,80 /7,90",
           "Components": [
-            "Portugalilaista makkarakeittoa (A ,G ,L ,M ,VS)"
+            "Kirjolohikeittoa (* ,A ,G ,ILM ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-17T00:00:00+00:00",
+      "Date": "2022-09-24T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-09-18T00:00:00+00:00",
+      "Date": "2022-09-25T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

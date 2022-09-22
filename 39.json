@@ -5,41 +5,43 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-09-15T00:00:00+00:00",
+      "Date": "2022-09-22T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "11,30€/2,70€",
-          "Components": [
-            "Linssi-kasvislasagnea (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
         {
           "SortOrder": 0,
           "Name": "KEITTOLOUNAS",
           "Price": "9,10€ / Op 2,70€",
           "Components": [
-            "Parsakaalisosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
+            "Palsternakkasosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "11,30€ / Op 2,70€",
+          "Components": [
+            "Bataatti-maissipihvejä (* ,A ,G ,ILM ,L ,M ,VS)",
+            "Tzatsikia (A ,G ,ILM ,L ,VS)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Lounas",
-          "Price": "11,30€/2,70€",
+          "Price": "11,30€",
           "Components": [
-            "Jauhelihakebakoita (A ,L ,M)",
-            "Chilimajoneesia (A ,G ,L)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+            "Butter Chicken (* ,A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Lounas",
-          "Price": "11,30€/2,70€",
+          "Price": null,
           "Components": [
-            "Kirjolohikiusausta (* ,A ,G ,ILM ,L)"
+            "Paneroitua yrttikalaa (A ,ILM ,L ,M)",
+            "Tillikermaviilikastiketta (A ,G ,ILM ,L)",
+            "Peruna-juuressärää (* ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -53,21 +55,23 @@
           "Name": "Jälkiruoka",
           "Price": null,
           "Components": [
-            "Mariannerahkaa (A ,L)"
+            "Puolukkavispipuuroa (A ,L ,M ,Veg)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-16T00:00:00+00:00",
+      "Date": "2022-09-23T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
         {
           "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
+          "Name": "Kasvislounas",
           "Price": "11,30€ / Op 2,70€",
           "Components": [
-            "Talon porkkanaohukaisia (* ,A ,ILM ,L)"
+            "Tomaatti-vuohenjuustokastiketta (* ,A ,G ,ILM ,L ,VS)",
+            "Luomutäysjyväspagettia (* ,A ,ILM ,L ,M ,Veg)",
+            "Pastajuustoraastetta (A ,G ,L)"
           ]
         },
         {
@@ -75,8 +79,8 @@
           "Name": "Lounas",
           "Price": "11,30€/2,70€",
           "Components": [
-            "Riista-sipulipataa (* ,A ,G ,L ,VS)",
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
+            "Kebablihaa ja kasviksia (* ,A ,G ,L ,M ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
         {
@@ -84,33 +88,37 @@
           "Name": "Lounas",
           "Price": null,
           "Components": [
-            "Broilerinpaistia curry-smetanakastikeessa (A ,G ,L)",
-            "Höyrytettyä tummaa riisiä ( * ) (G ,ILM ,L ,M ,Veg)"
+            "Kanaa Kiovan tapaan (A ,L ,VS)",
+            "Tzatsikia (A ,G ,ILM ,L ,VS)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": null,
           "Price": null,
-          "Components": []
+          "Components": [
+            "Kauden kasviksia (G ,L ,M ,Veg)"
+          ]
         },
         {
           "SortOrder": 0,
           "Name": "Jälkiruoka",
           "Price": null,
           "Components": [
-            "Hedelmäsalaattia (G ,L ,M ,Veg)"
+            "Uuniomenoita (G ,L ,M ,Veg)",
+            "Kanelikermavaahtoa (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-17T00:00:00+00:00",
+      "Date": "2022-09-24T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-09-18T00:00:00+00:00",
+      "Date": "2022-09-25T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

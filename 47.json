@@ -5,7 +5,7 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2022-09-15T00:00:00+00:00",
+      "Date": "2022-09-22T00:00:00+00:00",
       "LunchTime": "10.30 -1 8.00",
       "SetMenus": [
         {
@@ -13,7 +13,15 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
-            "Juurespihvejä (* ,A ,G ,ILM ,L ,M ,Veg)"
+            "Vönerlasagnettea (* ,A ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISKEITTO",
+          "Price": "2,70 / 5,20 / 5,80 / 7,90",
+          "Components": [
+            "Tomaattikeittoa (* ,A ,ILM ,L)"
           ]
         },
         {
@@ -21,7 +29,7 @@
           "Name": "LOUNAS",
           "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
-            "Lasagnettea broilerin ja naudan jauhelihasta (A ,L ,VS)"
+            "Burgundin porsaspataa (A ,G ,L ,M ,VS)"
           ]
         },
         {
@@ -29,16 +37,7 @@
           "Name": "LOUNAS",
           "Price": "4,40 / 6,70 / 7,20 / 9,10",
           "Components": [
-            "Klo 15 alkaen: Kanaa Kiovan tapaan (A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Hernekeittoa (* ,A ,ILM ,L ,M)",
-            "Hienonnettua sipulia (* ,G ,L ,M ,Veg)"
+            "Alkaen klo 15: Chicken & chips (A ,G ,L ,M)"
           ]
         },
         {
@@ -46,14 +45,14 @@
           "Name": "JÄLKIRUOKA",
           "Price": "1,20",
           "Components": [
-            "Pannukakkua (A ,L)",
-            "Mansikkahilloa (G ,L ,M ,Veg)"
+            "Uuniomenoita (G ,L ,M ,Veg)",
+            "Kermavaahtoa (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-16T00:00:00+00:00",
+      "Date": "2022-09-23T00:00:00+00:00",
       "LunchTime": "10.30 - 18.00",
       "SetMenus": [
         {
@@ -61,7 +60,15 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
-            "Tofu-kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)"
+            "Chakalaka- kasvispataa (A ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISKEITTO",
+          "Price": "2,70 / 5,20 / 5,80 / 7,90",
+          "Components": [
+            "Juustoista porkkanasosekeittoa (* ,A ,G ,ILM ,L)"
           ]
         },
         {
@@ -69,7 +76,7 @@
           "Name": "LOUNAS",
           "Price": "2,70 / 5,20 / 5,80 / 7,90",
           "Components": [
-            "Harissalla maustettua kalkkunapataa (* ,A ,G ,L ,VS)"
+            "Kalapyöryköitä (* ,A ,G ,L ,M)"
           ]
         },
         {
@@ -77,15 +84,7 @@
           "Name": "LOUNAS",
           "Price": "4,40 / 6,70 / 7,20 / 9,10",
           "Components": [
-            "Klo 15 alkaen: Porsaan grillipihvi (* ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,70 / 5,20 / 5,80 / 7,90",
-          "Components": [
-            "Kalaseljankaa (* ,A ,ILM ,L ,M)"
+            "Alkaen klo 15: Briossihampurilainen (A ,L ,M)"
           ]
         },
         {
@@ -93,19 +92,18 @@
           "Name": "JÄLKIRUOKA",
           "Price": "1,20",
           "Components": [
-            "Mustikka-ruismurupaistosta (A ,L ,M ,Veg)",
-            "Kauravaahtoa (A ,G ,L ,M ,Veg)"
+            "Kirsikkamoussea (A ,G ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-17T00:00:00+00:00",
+      "Date": "2022-09-24T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-09-18T00:00:00+00:00",
+      "Date": "2022-09-25T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
