@@ -5,41 +5,6 @@
   "Footer": "Huomioithan. että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\nLounashinnat opiskelija/ Aalto henkilökunta/ Vierailija\n\nPlease, kindly note that the raw materials used in the restaurants may vary from the planned and therefore the product specifications and dietary labels published at web sites may differ from the final and correct information that will be given at the restaurant. Persons with allergies are advised every time to check the suitability of the offered food choices to their diet at the restaurant. Thank you for your understanding\nLunch prices student/ Aalto University staff/ visitor",
   "MenusForDays": [
     {
-      "Date": "2022-09-24T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "2,70 / 6,50 / 8,30 €",
-          "Components": [
-            "Herne-kasvispihvejä (A ,L ,M)",
-            "Harissalla maustettua jogurttikastiketta (A ,G ,ILM ,L)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70/ 6,50/8,30 €",
-          "Components": [
-            "Tomaattisalsaa (A ,G ,ILM ,L ,M ,Veg)",
-            "Makkaravalikoima (A ,L)",
-            "Juustoperunoita (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Pizzat",
-          "Price": "5,08 / 9,60 / 10,40 €",
-          "Components": [
-            "Feta-punasipulipizza (A ,VL)",
-            "Pepperonipannupizza (A ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-25T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []

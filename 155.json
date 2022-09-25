@@ -5,40 +5,6 @@
   "Footer": "Opiskelijalounas 1,25– 4,00 €, henkilökunta 3,81 – 6,75 €, vierailijat 3,92 – 6,86 €. Hyvää ruokahalua! \n\nMuistathan noudattaa ohjeitamme turvallisesta ruokailusta!\n\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-09-24T00:00:00+00:00",
-      "LunchTime": "11.00 - 13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "Op 1,60 € / Hk 4,21 € / Vierailija 4,29€",
-          "Components": [
-            "Falafel-pyöryköitä (A ,L ,M ,Veg ,VS)",
-            "Lime-yrttimajoneesia (A ,G ,ILM ,L ,M ,Veg)",
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "Op 2,60 € / Hk 5,24 € / Vierailija 5,36 €",
-          "Components": [
-            "Broileri-pekonikastiketta (* ,A ,G ,L ,VS)",
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "Op 5,35 € / Hk 8,20 € / Vierailija 10,90 €",
-          "Components": [
-            "Kinkku-ananaspizzaa (A ,L ,VS)",
-            "Appelsiini-porkkana-kurkumashotti (G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-09-25T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
