@@ -5,7 +5,248 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua !\n\nPlease, kindly note that the raw materials used in the restaurants may vary from the planned and therefore the product specifications and dietary labels published at web sites may differ from the final and correct information that will be given at the restaurant. Persons with allergies are advised every time to check the suitability of the offered food choices to their diet at the restaurant. Thank you for your understanding.",
   "MenusForDays": [
     {
-      "Date": "2022-09-25T00:00:00+00:00",
+      "Date": "2022-09-26T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.00,  chef´s corner 11.00 - 13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": "Opiskelija 2,70 €/ Aalto henkilökunta 5,55 € / Vieras 7,55 €",
+          "Components": [
+            "Falafel-pyöryköitä (A ,L ,M ,Veg ,VS)",
+            "Lime-yrttimajoneesia (A ,G ,ILM ,L ,M ,Veg)",
+            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Opiskelija 2,70€/ Aalto henkilökunta 5,55 € / Vieras 7,55€",
+          "Components": [
+            "Butter Chicken (* ,A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Fresh Bufee",
+          "Price": "Opiskelija 1,90 €/ Aalto henkilökunta 4,35 € / Vieras 6,40 €. Lisäproteiini 1,30 €/ kpl.",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Erikoisannos",
+          "Price": "Opiskelija 5,35€/ Aalto henkilökunta 8,10 € / Vieras 10,50 €",
+          "Components": [
+            "Saksanhirvikäristystä (* ,G ,L ,M)",
+            "Puolukkahilloa (G ,L ,M ,Veg)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "1,65€ ( Pieni 0,85€)",
+          "Components": [
+            "Banaanirahkaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-27T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.00 ,chef´s corner 11.00 - 13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": "Opiskelija 2,70 €/ Aalto henkilökunta 5,55 € / Vieras 7,55 €",
+          "Components": [
+            "Kikherneitä ja kasviksia kormakastikkeessa (* ,A ,G ,ILM ,L ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Opiskelija 2,70 €/ Aalto henkilökunta 5,55 € / Vieras 7,55 €",
+          "Components": [
+            "Jauheliha-makaronilaatikkoa (A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Fresh Bufee",
+          "Price": "Opiskelija 1,90 €/ Aalto henkilökunta 4,35 € / Vieras 6,40 €. Lisäproteiini 1,30 €/ kpl.",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Erikoisannos",
+          "Price": "Opiskelija 5,35€/ Aalto henkilökunta 8,10 € / Vieras 10,50 €",
+          "Components": [
+            "Seesaminsiemenillä kuorrutettu broilerinfilee (A ,G ,L ,M)",
+            "Bearnaisekastiketta (A ,G)",
+            "Villiriisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "1,65€ ( Pieni 0,85€)",
+          "Components": [
+            "Omena-kaurapiirakkaa (A ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-28T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.00 , chef´s corner 11.00 - 13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": "Opiskelija 2,70 €/ Aalto henkilökunta 5,55 € / Vieras 7,55 €",
+          "Components": [
+            "Intialaista sieni-kookoscurrya (* ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Opiskelija 2,70 €/ Aalto henkilökunta 5,55 € / Vieras 7,55 €",
+          "Components": [
+            "Yrttimaustettu broilerinkoipi (G ,L ,M)",
+            "Currykastiketta (* ,A ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Fresh Bufee",
+          "Price": "Opiskelija 1,90 €/ Aalto henkilökunta 4,35 € / Vieras 6,40 €. Lisäproteiini 1,30 €/ kpl.",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Erikoisannos",
+          "Price": "Opiskelija 5,35€/ Aalto henkilökunta 8,10 € / Vieras 10,50 €",
+          "Components": [
+            "Sinappi-smetanakirjolohta (A ,G ,L)",
+            "Paahdettuja perunoita (G ,ILM ,L ,M ,Veg)",
+            "Paahdettua kesäkurpitsaa (G ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "1,65€ ( Pieni 0,85€)",
+          "Components": [
+            "Suklaamoussea (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-29T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.00, chef´s corner 11.00 - 13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": "Opiskelija 2,70 €/ Aalto henkilökunta 5,55 € / Vieras 7,55 €",
+          "Components": [
+            "Rapeita kasvispuikkoja (G ,L ,M ,Veg)",
+            "Kurkkusalsaa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Opiskelija 2,70€/ Aalto henkilökunta 5,55 € / Vieras 7,55€",
+          "Components": [
+            "Yrttiöljymaustettuja jauhelihapyöryköitä (A ,L ,M)",
+            "Metsäsienikastiketta (A ,ILM ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Fresh Bufee",
+          "Price": "Opiskelija 1,90 €/ Aalto henkilökunta 4,35 € / Vieras 6,40 €. Lisäproteiini 1,30 €/ kpl.",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Erikoisannos",
+          "Price": "Opiskelija 5,35€/ Aalto henkilökunta 8,10 € / Vieras 10,50 €",
+          "Components": [
+            "Porsaanleike, paprikaa ja sipulia (A ,L ,M)",
+            "Porkkana-perunasosetta (A ,G ,ILM ,L)",
+            "Kauden kasviksia (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "1,65€ ( Pieni 0,85€)",
+          "Components": [
+            "Pannukakkua (A ,L)",
+            "Mansikkahilloa (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-30T00:00:00+00:00",
+      "LunchTime": "10.30 - 13.30, chef´s corner 11.00 - 13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "Opiskelija 2,70 €/ Aalto henkilökunta 5,55 € / Vieras 7,55 €",
+          "Components": [
+            "Vöner- täytettä (* ,ILM ,L ,M ,Veg ,VS)",
+            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Opiskelija 2,70 €/ Aalto henkilökunta 5,55 € / Vieras 7,55 €",
+          "Components": [
+            "Jauhelihalasagnettea (A ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Erikoisannos",
+          "Price": "Opiskelija 4,00 €/ Aalto henkilökunta 6,85 € / Vieras 7,55 €",
+          "Components": [
+            "Tonnikala-oliivipannupizzaa (A ,L)",
+            "Rucolaa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "1,65€ ( Pieni 0,85€)",
+          "Components": [
+            "Vaniljajäätelöä ja kinuskikastiketta (A ,G)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-01T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-10-02T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

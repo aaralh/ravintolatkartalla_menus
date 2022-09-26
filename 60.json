@@ -5,7 +5,214 @@
   "Footer": "Hyvää ruokahalua!\n\nKELA - tukee jokaista opiskelija-ateriaa 2,30€ / päivä.\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-09-25T00:00:00+00:00",
+      "Date": "2022-09-26T00:00:00+00:00",
+      "LunchTime": "10.30-13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "2,70€ / 9,70€",
+          "Components": [
+            "Punajuurikroketteja (* ,G ,ILM ,L ,M ,Veg)",
+            "Omena-inkiväärikastiketta (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70€ /9,70€",
+          "Components": [
+            "Butter Chicken (* ,A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Keittolounas",
+          "Price": "2,70€ / 8,40€",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "1,80€",
+          "Components": [
+            "Vaahtokarkki-kinuskirahkaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-27T00:00:00+00:00",
+      "LunchTime": "10.30-13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto",
+          "Price": "2,50€ / 8,40€",
+          "Components": [
+            "Bataattisosekeittoa (* ,A ,G ,ILM ,L)",
+            "Paahdettua hapankorppurouhetta (A ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70€ /9,70€",
+          "Components": [
+            "Skandinaavista seitiä (* ,A ,G ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70€/9,70€",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Päivän special",
+          "Price": "5,35€ / 11,30€",
+          "Components": [
+            "Kauden kasviksia (G ,L ,M ,Veg)",
+            "Kanaa Kiovan tapaan (A ,L ,VS)",
+            "Currykermaviilikastiketta (A ,G ,L)",
+            "Sitruuna-perunasosetta (A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "1,80€",
+          "Components": [
+            "Omenavispipuuroa (A ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-28T00:00:00+00:00",
+      "LunchTime": "10.30-13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "2,70€ / 9,70€",
+          "Components": [
+            "Paneroidut kasvispihvit (* ,A ,G ,L)",
+            "Jogurtti-kurkkukastiketta (A ,G ,ILM ,L ,VS)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70€ / 9,70€",
+          "Components": [
+            "Makkarastroganoffia (* ,A ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "1,80€",
+          "Components": [
+            "Marjakiisseliä (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-29T00:00:00+00:00",
+      "LunchTime": "10.30-13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "2,70€ / 9,70€",
+          "Components": [
+            "Kasvis-pastavuokaa (* ,A ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70€ /9,70€",
+          "Components": [
+            "Kalkkunaa ja vihanneksia kookoskastikkeessa (* ,A ,G ,L ,M)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Keittolounas",
+          "Price": "2,70€ / 8,40€",
+          "Components": [
+            "Hernekeittoa (* ,A ,ILM ,L ,M)",
+            "Hienonnettua sipulia (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "1,80€",
+          "Components": [
+            "Pannukakkua (A ,L)",
+            "Mansikkahilloa (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-30T00:00:00+00:00",
+      "LunchTime": "10.30-13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "2,70€ / 9,70€",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "2,70€ / 9,70€",
+          "Components": [
+            "Tofu-kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70€/9,70€",
+          "Components": [
+            "Jauhelihamureketta (A ,L ,M)",
+            "Sipulikastiketta (* ,A ,L)",
+            "Persiljaperunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "1,80€",
+          "Components": [
+            "Mustikka-ruismurupaistosta (A ,L ,M ,Veg)",
+            "Kauravaahtoa (A ,G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-01T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-10-02T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

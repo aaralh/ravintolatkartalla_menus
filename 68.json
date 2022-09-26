@@ -5,7 +5,222 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nRuokalistamuutokset ovat mahdollisia.",
   "MenusForDays": [
     {
-      "Date": "2022-09-25T00:00:00+00:00",
+      "Date": "2022-09-26T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 2,
+          "Name": "BUFFEE KASVISLOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Kikherneitä ja kasviksia kormakastikkeessa (* ,A ,G ,ILM ,L ,VS)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Itämaista broileripataa (A ,G ,L ,M)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Jauhelihapyöryköitä ja tomaatti-pekonikastiketta (A ,L ,M ,VS)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 7,
+          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
+          "Price": null,
+          "Components": [
+            "Punajuurta (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-27T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 2,
+          "Name": "BUFFEE VEGAANINEN KASVISLOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Luomutäysjyväspagettia (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Rukiilla ja siemenillä paneroitua seitifileetä (* ,A ,ILM ,L)",
+            "Hunajajogurttikastiketta (A ,G ,ILM ,L)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Porsaan kassleria punaviinikastikkeessa (G ,L ,M ,VS)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 7,
+          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
+          "Price": null,
+          "Components": [
+            "Paahdettua kaalia ja porkkanaa (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-28T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 2,
+          "Name": "BUFFEE VEGAANINEN KASVISLOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)",
+            "Tofu-kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Broileria ja kasviksia hapanimeläkastikkeessa (* ,A ,G ,L ,M)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Jauhelihapihvejä (A ,G ,L ,M)",
+            "Metsäsienikastiketta (A ,ILM ,L)",
+            "Perunasosetta (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 7,
+          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
+          "Price": null,
+          "Components": [
+            "Kauden kasviksia (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-29T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 2,
+          "Name": "BUFFEE KASVISLOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Maissi-kvinoapihvejä (* ,A ,L ,M ,VS)",
+            "Jogurtti-basilikakastiketta (A ,G ,L)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Kylmäsavukirjolohilasagnea (A ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)",
+            "TexMex-uunimakkaraa (A ,G ,L)",
+            "Maissihöystöä (A ,G ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 7,
+          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
+          "Price": null,
+          "Components": [
+            "Kasvispaistosta (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-30T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 2,
+          "Name": "BUFFEE VEGAANINEN KASVISLOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)",
+            "Falafel-pyöryköitä (A ,L ,M ,Veg ,VS)",
+            "Lime-chilikauragurttikastiketta (A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Kylmäsavukirjolohitäytettä (A ,G ,ILM ,L)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "11,30/2,70",
+          "Components": [
+            "Pippurista tuorejuustokastiketta (A ,G ,L)",
+            "Porsaanleike (A ,L ,M)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 7,
+          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
+          "Price": null,
+          "Components": [
+            "Kauden kasviksia (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-01T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-10-02T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

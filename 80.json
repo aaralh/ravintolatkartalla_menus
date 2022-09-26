@@ -5,7 +5,275 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-09-25T00:00:00+00:00",
+      "Date": "2022-09-26T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas (KASVISLINJASTO)",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Punajuurikroketteja (* ,G ,ILM ,L ,M ,Veg)",
+            "Omena-inkiväärikastiketta (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,00/ 4,89 / 8,00 €",
+          "Components": [
+            "Kurpitsasosekeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Savupalvikastiketta (* ,A ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Kalapuikkoja (* ,A ,L ,M)",
+            "Tillikermaviilikastiketta (A ,G ,ILM ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,00 / 4,89 / 8,00 €",
+          "Components": [
+            "Kylmäsavustettua kirjolohta (A ,G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": [
+            "Annos, Satay broileria&basmatiriisiä, 355 g, Food&Co ()",
+            "Annos, Herkuttelijan kasvismoussaka, 360 g, Food&Co ()"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-27T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas (KASVISLINJASTO)",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Kikherne-kukkakaalicurrya (* ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,00/ 4,89 / 8,00 €",
+          "Components": [
+            "Bataattisosekeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Skandinaavista seitiä (* ,A ,G ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Broilerikiusausta (* ,A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,00 / 4,89 / 8,00 €",
+          "Components": [
+            "Kylmäsavustettua kirjolohta (A ,G ,L ,M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-28T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas (KASVISLINJASTO)",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Paneroidut kasvispihvit (* ,A ,G ,L)",
+            "Jogurtti-kurkkukastiketta (A ,G ,ILM ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,00/ 4,89 / 8,00 €",
+          "Components": [
+            "Pinaattikeittoa (* ,A ,ILM ,L)",
+            "Keitetty kananmuna (A ,G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Villikalapataa (* ,A ,G ,ILM ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Jauhelihamureketta (A ,L ,M)",
+            "Sipulikastiketta (* ,A ,L)",
+            "Persiljaperunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,00 / 4,89 / 8,00 €",
+          "Components": [
+            "Basilikamarinoitua mozzarellaa (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": [
+            "Annos, Nuudelisalaattia karamellipossulla, 310g, Food&Co ()",
+            "Annos, Härkis ragu alla bolognese, 320 g, Food&Co ()"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-29T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas (KASVISLINJASTO)",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Juurespihvejä (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Aurinkokuivatuilla tomaateilla maustettua majoneesia (A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,00/ 4,89 / 8,00 €",
+          "Components": [
+            "Punajuurisosekeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Kalkkunaa ja vihanneksia kookoskastikkeessa (* ,A ,G ,L ,M)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Tomaattimajoneesia (A ,G ,ILM ,L ,M ,Veg)",
+            "Kirjolohimurekepihvejä (A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,00 / 4,89 / 8,00 €",
+          "Components": [
+            "Basilikamarinoitua mozzarellaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-09-30T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas (KASVISLINJASTO)",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Tofu-kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,00/ 4,89 / 8,00 €",
+          "Components": [
+            "Juusto-paprikakeittoa (A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Makkarastroganoffia (* ,A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "2,70 / 5,97 / 8,80 €",
+          "Components": [
+            "Yrttimaustettu broilerinkoipi (G ,L ,M)",
+            "Yrttikermaviilikastiketta (A ,G ,ILM ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,00 / 4,89 / 8,00 €",
+          "Components": [
+            "Basilikamarinoitua mozzarellaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-01T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-10-02T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
