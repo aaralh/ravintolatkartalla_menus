@@ -5,111 +5,101 @@
   "Footer": "Huomioithan. että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\nLounashinnat opiskelija/ Aalto henkilökunta/ Vierailija\n\nPlease, kindly note that the raw materials used in the restaurants may vary from the planned and therefore the product specifications and dietary labels published at web sites may differ from the final and correct information that will be given at the restaurant. Persons with allergies are advised every time to check the suitability of the offered food choices to their diet at the restaurant. Thank you for your understanding\nLunch prices student/ Aalto University staff/ visitor",
   "MenusForDays": [
     {
-      "Date": "2022-09-26T00:00:00+00:00",
+      "Date": "2022-10-05T00:00:00+00:00",
       "LunchTime": "11-18",
       "SetMenus": [
         {
           "SortOrder": 0,
           "Name": "Kasvislounas",
-          "Price": "2,70/ 6,50/8,30 €",
+          "Price": "3,20 / 6,50 / 8,30 €",
           "Components": [
-            "Luomutofu-kasvishöystöä (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Paneroidut kasvispihvit (* ,A ,G ,L)",
+            "Jogurtti-kurkkukastiketta (A ,G ,ILM ,L ,VS)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Lounas",
-          "Price": "2,70/ 6,50/8,30 €",
+          "Price": "3,20/ 6,50/8,30 €",
           "Components": [
-            "Jauhelihapyöryköitä (A ,L ,M)",
-            "Kermakastiketta (* ,A ,G ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
+            "Jauhelihapihvejä ja metsäsienikastiketta (* ,A ,L)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Chef´s kitchen",
-          "Price": "5,08 / 9,60 / 10,40 €",
+          "Price": "5,58 / 9,60 / 10,40 €",
           "Components": [
-            "Paneroitu kampelafilee (* ,A ,L ,M)",
-            "Tillimajoneesia (A ,G ,L ,M ,Veg)",
-            "Veneperunoita (A ,G ,ILM ,L ,M ,Veg)"
+            "Chicken & chips (A ,G ,L ,M)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Pizzat",
-          "Price": "5,08 / 9,60 / 10,40 €",
+          "Price": "5,58 / 9,60 / 10,40 €",
           "Components": [
-            "Härkäpapu-paprikapizza (A ,L ,Veg)",
-            "Pulled pork-ananaspizza (A ,L ,VS)"
+            "Halloumjuusto-kirsikkatomaattipizza (A)",
+            "Meetvursti-paprikapizza (A ,L ,VS)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Wicked Rabbit Buffet",
-          "Price": "5,08 / 9,60 / 10,40 €",
+          "Price": "5,58 / 9,60 / 10,40 €",
           "Components": [
-            "Härkislasagnea (* ,A ,ILM ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Peruna-purjososekeittoa (* ,A ,G ,ILM ,L)"
+            "Bowl! (Veg) ()"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-27T00:00:00+00:00",
+      "Date": "2022-10-06T00:00:00+00:00",
       "LunchTime": "11-18",
       "SetMenus": [
         {
           "SortOrder": 0,
           "Name": "Kasvislounas",
-          "Price": "2,70/ 6,50/8,30 €",
+          "Price": "3,20/ 6,50/8,30 €",
           "Components": [
-            "Kasvispataa (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Kasvisbolognese-pennevuokaa (* ,A ,ILM ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Lounas",
-          "Price": "2,70/ 6,50/8,30 €",
+          "Price": "3,20/ 6,50/8,30 €",
           "Components": [
-            "Villikala-pennevuokaa (A ,L ,VS)"
+            "Yrttimaustettu broilerinkoipi (G ,L ,M)",
+            "Yrttikermaviilikastiketta (A ,G ,ILM ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Chef´s kitchen",
-          "Price": "5,08 / 9,60 / 10,40 €",
+          "Price": "5,58 / 9,60 / 10,40 €",
           "Components": [
-            "Paneroitu kampelafilee (* ,A ,L ,M)",
-            "Tillimajoneesia (A ,G ,L ,M ,Veg)",
-            "Veneperunoita (A ,G ,ILM ,L ,M ,Veg)"
+            "Chicken & chips (A ,G ,L ,M)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Pizzat",
-          "Price": "5,08 / 9,60 / 10,40 €",
+          "Price": "5,58 / 9,60 / 10,40 €",
           "Components": [
-            "Härkäpapu-paprikapizza (A ,L ,Veg)",
-            "Pulled pork-ananaspizza (A ,L ,VS)"
+            "Halloumjuusto-kirsikkatomaattipizza (A)",
+            "Meetvursti-paprikapizza (A ,L ,VS)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Wicked Rabbit Buffet",
-          "Price": "5,08 / 9,60 / 10,40 €",
+          "Price": "5,58 / 9,60 / 10,40 €",
           "Components": [
-            "Butter Mifua (A ,G ,ILM ,L ,VS)",
+            "Mifukormaa (A ,G ,L ,VS)",
+            "Mintturaitaa (A ,G ,ILM ,L)",
             "Basmatiriisiä (G ,L ,M ,Veg)"
           ]
         },
@@ -118,111 +108,58 @@
           "Name": null,
           "Price": null,
           "Components": [
-            "Tomaattikeittoa ja välimerellistä juustoa (A ,G ,L ,VS)"
+            "Parsakaalisosekeittoa (* ,A ,G ,ILM ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-28T00:00:00+00:00",
+      "Date": "2022-10-07T00:00:00+00:00",
       "LunchTime": "11-18",
       "SetMenus": [
         {
           "SortOrder": 0,
           "Name": "Kasvislounas",
-          "Price": "2,70/ 6,50/8,30 €",
+          "Price": "3,20/ 6,50/8,30 €",
           "Components": [
-            "Kasvispihvi, juurespihvi, pakaste (A ,G ,L ,M ,Veg)",
-            "Paahdettua perunaa (G ,L ,M ,Veg)",
-            "Avokadomajoneesia (A ,G ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70/ 6,50/8,30 €",
-          "Components": [
-            "Mausteista makkara-kasviskastiketta (* ,G ,L ,M ,VS)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Chef´s kitchen",
-          "Price": "5,08 / 9,60 / 10,40 €",
-          "Components": [
-            "Paneroitu kampelafilee (* ,A ,L ,M)",
-            "Tillimajoneesia (A ,G ,L ,M ,Veg)",
-            "Veneperunoita (A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Pizzat",
-          "Price": "5,08 / 9,60 / 10,40 €",
-          "Components": [
-            "Härkäpapu-paprikapizza (A ,L ,Veg)",
-            "Pulled pork-ananaspizza (A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Wicked Rabbit Buffet",
-          "Price": "5,08 / 9,60 / 10,40 €",
-          "Components": [
-            "BOWL DAY  (A, G, L, M, Veg) ()"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-09-29T00:00:00+00:00",
-      "LunchTime": "11-18",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "2,70/ 6,50/8,30 €",
-          "Components": [
-            "Papu-linssicurryä (* ,G ,ILM ,L ,M ,Veg)",
+            "Tofu-kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)",
             "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Lounas",
-          "Price": "2,70/ 6,50/8,30 €",
+          "Price": "3,20/ 6,50/8,30 €",
           "Components": [
-            "Broileri-basilika-fenkolipastaa (* ,A ,L)"
+            "Kirjolohimurekepihvejä (A ,L)",
+            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Chef´s kitchen",
-          "Price": "5,08 / 9,60 / 10,40 €",
+          "Price": "5,58 / 9,60 / 10,40 €",
           "Components": [
-            "Paneroitu kampelafilee (* ,A ,L ,M)",
-            "Tillimajoneesia (A ,G ,L ,M ,Veg)",
-            "Veneperunoita (A ,G ,ILM ,L ,M ,Veg)"
+            "Chicken & chips (A ,G ,L ,M)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Pizzat",
-          "Price": "5,08 / 9,60 / 10,40 €",
+          "Price": "5,58 / 9,60 / 10,40 €",
           "Components": [
-            "Härkäpapu-paprikapizza (A ,L ,Veg)",
-            "Pulled pork-ananaspizza (A ,L ,VS)"
+            "Halloumjuusto-kirsikkatomaattipizza (A)",
+            "Meetvursti-paprikapizza (A ,L ,VS)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Wicked Rabbit Buffet",
-          "Price": "5,08 / 9,60 / 10,40 €",
+          "Price": "5,58 / 9,60 / 10,40 €",
           "Components": [
-            "Kikherne-ricottapihvejä ja linssi-papusalsaa (* ,A ,VS)",
-            "Tzatsikia (A ,G ,ILM ,L ,VS)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+            "Kukkakaali-manchegojuustopihvejä (A ,G ,ILM ,L)",
+            "Inkivääri-korianterijogurttikastiketta (A ,G ,ILM ,L)",
+            "Paahdettuja yrttiperunoita (G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -230,100 +167,44 @@
           "Name": null,
           "Price": null,
           "Components": [
-            "Bataattisosekeittoa (* ,A ,G ,ILM ,L)"
+            "Maissikeittoa (* ,A ,G ,ILM ,L)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-09-30T00:00:00+00:00",
-      "LunchTime": "11-18",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "2,70 / 6,50 / 8,30 €",
-          "Components": [
-            "Porkkanaohukaisia (* ,A ,ILM)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,70/ 6,50/8,30 €",
-          "Components": [
-            "Paneroitua seitifilettä (* ,A ,ILM ,L ,M)",
-            "Jogurtti-yrttikastiketta (A ,G ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Chef´s kitchen",
-          "Price": "5,08 / 9,60 / 10,40 €",
-          "Components": [
-            "Paneroitu kampelafilee (* ,A ,L ,M)",
-            "Tillimajoneesia (A ,G ,L ,M ,Veg)",
-            "Veneperunoita (A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Pizzat",
-          "Price": "5,08 / 9,60 / 10,40 €",
-          "Components": [
-            "Härkäpapu-paprikapizza (A ,L ,Veg)",
-            "Pulled pork-ananaspizza (A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Wicked Rabbit Buffet",
-          "Price": "5,08 / 9,60 / 10,40 €",
-          "Components": [
-            "Härkäpapu-chilitäytettä (A ,G ,L ,M ,Veg ,VS)",
-            "Tacoja (G ,L ,M ,Veg)",
-            "Tomaattisalsalla maustettua couscoussalaattia (A ,L ,M ,Veg)",
-            "Lime-chilikauragurttikastiketta (A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Linssi-kasviskeittoa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2022-10-01T00:00:00+00:00",
+      "Date": "2022-10-08T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
         {
           "SortOrder": 0,
           "Name": "Kasvislounas",
-          "Price": "2,70/ 6,50/8,30 €",
+          "Price": "3,20/ 6,50/8,30 €",
           "Components": [
-            "Chili con vege (* ,A ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Soija-pinaattilasagnettea (A ,ILM ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "Lounas",
-          "Price": "2,70/ 6,50/8,30 €",
+          "Price": "3,20/ 6,50/8,30 €",
           "Components": [
-            "Chili con Carnea jauhelihasta (* ,G ,L ,M)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Lasagnettea broilerin ja naudan jauhelihasta (A ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Pizzat",
+          "Price": "5,58 / 9,60 / 10,40 €",
+          "Components": [
+            "Halloumjuusto-kirsikkatomaattipizza (A)",
+            "Meetvursti-paprikapizza (A ,L ,VS)"
           ]
         }
       ]
     },
     {
-      "Date": "2022-10-02T00:00:00+00:00",
+      "Date": "2022-10-09T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
