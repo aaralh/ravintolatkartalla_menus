@@ -5,56 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-10-05T00:00:00+00:00",
-      "LunchTime": "10.30 - 16.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
-            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Broileria teriyakikastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,70 / 9,50 / 10,50",
-          "Components": [
-            "Fish 'n chips (* ,A ,ILM ,L ,M)",
-            "Tartarkastiketta (A ,G ,L ,M ,Veg)",
-            "Sitruunaa ()"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Suklaakiisseliä (A ,G)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Patonkilounas/ Salaattilounas (*, A, L) ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-06T00:00:00+00:00",
       "LunchTime": "10.30 - 16.30",
       "SetMenus": [
@@ -80,7 +30,7 @@
           "Name": "LOUNAS",
           "Price": "5,70/ 9,30 / 9,60",
           "Components": [
-            "Paahdettua kirjolohta (* ,A ,G ,ILM ,L ,M)",
+            "From The Table: Paahdettua kirjolohta (* ,A ,G ,ILM ,L ,M)",
             "Mausteista sinappikastiketta (A ,G ,ILM ,L ,VS)",
             "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)",
             "Kauden kasviksia (G ,L ,M ,Veg)"
@@ -130,7 +80,7 @@
           "Name": "LOUNAS",
           "Price": "5,70/ 9,30 / 9,60",
           "Components": [
-            "Tacobuffa (A ,G ,L ,VS)"
+            "From the Table: Tacobuffa (A ,G ,L ,VS)"
           ]
         },
         {
@@ -179,9 +129,9 @@
           "Name": "LOUNAS",
           "Price": "5,70/ 9,30 / 9,60",
           "Components": [
-            "Porsaanleike, paprikaa ja sipulia (A ,L ,M)",
             "Paahdettua perunaa (* ,G ,ILM ,L ,M ,Veg)",
-            "Kauden kasviksia (G ,L ,M ,Veg)"
+            "Kauden kasviksia (G ,L ,M ,Veg)",
+            "From The Table: Porsaanleikettä bearnaisekastikkeella  A ()"
           ]
         },
         {

@@ -5,47 +5,6 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nRuokalistamuutokset ovat mahdollisia.",
   "MenusForDays": [
     {
-      "Date": "2022-10-05T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 2,
-          "Name": "BUFFEE KASVISLOUNAS",
-          "Price": "11,30/3,20",
-          "Components": [
-            "Smetanaista kaalivuokaa (A ,G ,ILM ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 4,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "11,30/3,20",
-          "Components": [
-            "Kalkkunaa ja kasviksia inkiväärikastikkeessa (* ,A ,G ,L ,M)",
-            "Täysjyvänuudeleita (* ,A ,ILM ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "11,30/3,20",
-          "Components": [
-            "Pyttipannua (G ,L ,M)",
-            "Munakokkelia (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 7,
-          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
-          "Price": null,
-          "Components": [
-            "Kauden kasviksia (G ,L ,M ,Veg)",
-            "Paahdettuja porkkanoita (G ,L ,M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-06T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
