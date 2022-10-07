@@ -5,62 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-10-06T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "11,30€ / Op 2,70€",
-          "Components": [
-            "Kikherneitä ja kasviksia kormakastikkeessa / Op 3,20€ (* ,A ,G ,ILM ,L ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "9,10€ / Op 2,70€",
-          "Components": [
-            "Intialaista tomaattikeittoa / Op 3,20€ (* ,A ,G ,ILM ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Porsaanpaistia sataykastikkeessa / Op 5,85€ (A ,G ,L ,M ,VS)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Keitto",
-          "Price": "9,10€ / Op 2,70€",
-          "Components": [
-            "Kermaista kirjolohikeittoa / Op 3,20€ (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Mansikkahilloa (G ,L ,M ,Veg)",
-            "Ohukaisia (A)",
-            "Vaniljakermavaahtoa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-07T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
