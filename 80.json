@@ -5,12 +5,280 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-10-08T00:00:00+00:00",
+      "Date": "2022-10-10T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas (KASVISLINJASTO)",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Falafel-pyöryköitä (A ,L ,M ,Veg ,VS)",
+            "Lime-yrttimajoneesia (A ,G ,ILM ,L ,M ,Veg)",
+            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,50 / 5,14 / 8,00 €",
+          "Components": [
+            "Kasvisminestronea (* ,A ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Jauheliha-pastavuokaa (* ,A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Lohimurekepihvejä (* ,A ,G ,L ,M)",
+            "Tillikermaviilikastiketta (A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,50 / 5,14 / 8,00 €",
+          "Components": [
+            "Broilerin paistia (G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-11T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas (KASVISLINJASTO)",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Kreikkalaista juusto-kasvispataa (* ,A ,G ,ILM ,L)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,50 / 5,14 / 8,00 €",
+          "Components": [
+            "Kikherne-kasviskeittoa (A ,G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Kinkkukiusausta (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Jauhelihapyöryköitä (* ,A ,L ,M)",
+            "Rosepippurikastiketta (* ,A ,ILM ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,50 / 5,14 / 8,00 €",
+          "Components": [
+            "Broilerin paistia (G ,L ,M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-12T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas (KASVISLINJASTO)",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Vöner- täytettä (* ,ILM ,L ,M ,Veg ,VS)",
+            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,50/ 5,14 / 8,00 €",
+          "Components": [
+            "Suolapähkinöitä (A ,G ,L ,M ,Veg)",
+            "Metsäsienikeittoa (A ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Sitruunaisia kalapaloja (* ,A ,L ,M)",
+            "Mintturaitaa (A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Porsasta paprika-herkkusienikastikkeessa (* ,A ,G ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,50 / 5,14 / 8,00 €",
+          "Components": [
+            "Raejuustoa (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-13T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas (KASVISLINJASTO)",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Pinaattiohukaisia (* ,A ,ILM)",
+            "Puolukkahilloa (G ,L ,M ,Veg)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,50 / 5,14 / 8,00 €",
+          "Components": [
+            "Kasvis-hernekeittoa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Saksanhirvi-juurespataa (* ,G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Lindströminpihvejä (A ,L ,M)",
+            "Meiramikastiketta (A ,ILM ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,50 / 5,14 / 8,00 €",
+          "Components": [
+            "Raejuustoa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-14T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas (KASVISLINJASTO)",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Rapeita kasvispuikkoja (G ,L ,M ,Veg)",
+            "Kurkkusalsaa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto (KASVISLINJASTO)",
+          "Price": "2,50/ 5,14 / 8,00 €",
+          "Components": [
+            "Pinaattikeittoa (* ,A ,ILM ,L)",
+            "Keitetty kananmuna (A ,G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Seitifilettä intialaisittain (* ,A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 5,97 / 8,80 €",
+          "Components": [
+            "Kalkkuna-juustokastiketta (* ,A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,50 / 5,14 / 8,00 €",
+          "Components": [
+            "Raejuustoa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-15T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-10-09T00:00:00+00:00",
+      "Date": "2022-10-16T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

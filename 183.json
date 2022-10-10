@@ -5,12 +5,257 @@
   "Footer": "Ravintolamme on kelan ateriatuen piirissä 2,30 €/ ateria. Opiskelijahintaisen aterian edellytyksenä on voimassa oleva opiskelijakortti.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-10-08T00:00:00+00:00",
+      "Date": "2022-10-10T00:00:00+00:00",
+      "LunchTime": "11.00-15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 13,
+          "Name": "Kasvislounas",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Quornia currykastikkeessa (* ,A ,G ,ILM ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Lounas I",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Broileria teriyakikastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 23,
+          "Name": "Lounas III",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Jauhelihapyöryköitä (* ,A ,L ,M)",
+            "Pippurikastiketta (* ,A ,L)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 47,
+          "Name": "Deli-salaatti ja keitto",
+          "Price": "5,80€ / 8,50€ / 11,50€",
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-11T00:00:00+00:00",
+      "LunchTime": "11.00-15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Chilimajoneesia (A ,G ,ILM ,L ,M ,Veg)",
+            "Mustapapupihvi (* ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 22,
+          "Name": "Lounas  II",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Chilimaustettua porsaspataa (* ,A ,G ,L ,M ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 23,
+          "Name": "Lounas III",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Rapeita kalapaloja (* ,A ,L ,M)",
+            "Tartarkastiketta (A ,G ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 29,
+          "Name": "Grillistä",
+          "Price": "5,80€ / 8,50€ / 11,50€",
+          "Components": [
+            "Halloumjuusto-kirsikkatomaattipizza (A)"
+          ]
+        },
+        {
+          "SortOrder": 30,
+          "Name": "Grillistä",
+          "Price": "5,80€ / 8,50€ / 11,50€",
+          "Components": [
+            "Pulled chicken briossihampurilainen kimchillä (A ,L ,M ,VS)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
+            "Chilimajoneesia (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": "1,40€",
+          "Components": [
+            "Omena-kanelirahkaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-12T00:00:00+00:00",
+      "LunchTime": "11.00-15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Lounas I",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Broileria currykastikkeessa (* ,A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 23,
+          "Name": "Lounas III",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Kaali-jauhelihalaatikkoa (* ,G ,L ,M)",
+            "Puolukkahilloa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 29,
+          "Name": "Grillistä",
+          "Price": "5,80€ / 8,50€ / 11,50€",
+          "Components": [
+            "Halloumjuusto-kirsikkatomaattipizza (A)"
+          ]
+        },
+        {
+          "SortOrder": 30,
+          "Name": "Grillistä",
+          "Price": "5,80€ / 8,50€ / 11,50€",
+          "Components": [
+            "Pulled chicken briossihampurilainen kimchillä (A ,L ,M ,VS)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
+            "Chilimajoneesia (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": "1,40€",
+          "Components": [
+            "Tyrni-jogurttipannacottaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-13T00:00:00+00:00",
+      "LunchTime": "11.00-15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 13,
+          "Name": "Kasvislounas",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Ratatouillea (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Lounas I",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Uunimakkaraa juustokuorrutteella (A ,G ,L)",
+            "Smetanassa haudutettua hapankaalia ja omenaa (A ,G ,ILM ,L)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 23,
+          "Name": "Lounas III",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Kirjolohta ja seitiä sekä kasviksia inkiväärikastikkeessa (* ,A ,G ,ILM ,L ,M)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 29,
+          "Name": "Grillistä",
+          "Price": "5,80€ / 8,50€ / 11,50€",
+          "Components": [
+            "Halloumjuusto-kirsikkatomaattipizza (A)",
+            "Pitakebab ja jogurttikastiketta (A ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": "1,40€",
+          "Components": [
+            "Omena-puolukkapiirakkaa (A ,L)",
+            "Vaniljakermavaahtoa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-14T00:00:00+00:00",
+      "LunchTime": "11.00 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 13,
+          "Name": "Kasvislounas",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Feta-pinaatti-cashewpähkinäpizzaa (A ,VL)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Lounas I",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Broilerinugetteja (A ,L ,M)",
+            "Currymajoneesia (A ,G ,L ,M ,Veg)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 23,
+          "Name": "Lounas III",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Tomaatti-savupalvikastiketta (* ,A ,L)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-15T00:00:00+00:00",
       "LunchTime": "Suljettu",
       "SetMenus": []
     },
     {
-      "Date": "2022-10-09T00:00:00+00:00",
+      "Date": "2022-10-16T00:00:00+00:00",
       "LunchTime": "Suljettu",
       "SetMenus": []
     }

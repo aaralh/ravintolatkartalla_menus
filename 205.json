@@ -5,12 +5,154 @@
   "Footer": "Opiskelijalounas 2,36€, henkilökunta 5,00 €, vieraat 8,90 €.\n\nHyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nPlease, kindly note that the raw materials used in the restaurants may vary from the planned and therefore the product specifications and dietary labels published at web sites may differ from the final and correct information that will be given at the restaurant. Persons with allergies are advised every time to check the suitability of the offered food choices to their diet at the restaurant. Thank you for your understanding.\n\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "MenusForDays": [
     {
-      "Date": "2022-10-08T00:00:00+00:00",
+      "Date": "2022-10-10T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 13,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Chili sin carnea (* ,A ,ILM ,L ,M ,Veg)",
+            "Persiljaperunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)",
+            "Broileria ja kasviksia soijakastikkeessa (* ,A ,G ,ILM ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Mariannerahkaa (A ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-11T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 13,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Kasvis-jalapenopastaa (* ,A ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Jauheliha-kasviskastiketta (* ,A ,L ,M ,VS)",
+            "Persiljaperunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-12T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 13,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Kikherneitä ja kasviksia kormakastikkeessa (* ,A ,G ,ILM ,L ,VS)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Juustokuorrutettua seitifilettä (* ,A ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Puolukka-kermavispipuuroa (A ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-13T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 13,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Kasvismusakaa (* ,A ,G ,ILM ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Broiler-tomaattikastiketta (* ,A ,ILM ,L ,M)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-14T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 13,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Peruna-juuressosetta (A ,G ,L)",
+            "Rapeita kasvispuikkoja (G ,L ,M ,Veg)",
+            "Harissalla maustettua jogurttikastiketta (A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Jauheliha-makaronipataa (* ,A ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Appelsiini-suklaamoussea (A ,G ,VL)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-15T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     },
     {
-      "Date": "2022-10-09T00:00:00+00:00",
+      "Date": "2022-10-16T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
