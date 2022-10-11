@@ -5,56 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-10-10T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Rapeita kasvispuikkoja (G ,L ,M ,Veg)",
-            "Kurkkusalsaa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Savujuustokeittoa (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Broileri-pekonikastiketta (* ,A ,G ,L ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Lohimurekepihvejä (* ,A ,G ,L ,M)",
-            "Tillikermaviilikastiketta (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mariannerahkaa (A ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-11T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [
@@ -63,8 +13,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "3,20 /6,30 /8,40",
           "Components": [
-            "Kikherneitä ja kasviksia kormakastikkeessa (* ,A ,G ,ILM ,L ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Kikherneitä ja kasviksia kormakastikkeessa (* ,A ,G ,ILM ,L ,VS)"
           ]
         },
         {
@@ -72,8 +21,7 @@
           "Name": "LOUNAS",
           "Price": "3,20 /6,30 /8,40",
           "Components": [
-            "Uunibroilerinuijia (G ,L ,M)",
-            "Currykermaviilikastiketta (A ,G ,L)"
+            "Uunibroilerinuijia (G ,L ,M)"
           ]
         },
         {
@@ -89,9 +37,7 @@
           "Name": "LOUNAS",
           "Price": "5,70 / 9,30 /9,60",
           "Components": [
-            "Porsaanleike, paprikaa ja sipulia (A ,L ,M)",
-            "Porkkana-perunasosetta (A ,G ,ILM ,L)",
-            "Kauden kasviksia (G ,L ,M ,Veg)"
+            "Porsaanleike, paprikaa ja sipulia (A ,L ,M)"
           ]
         },
         {
@@ -113,7 +59,6 @@
           "Name": "KASVISLOUNAS",
           "Price": "3,20 /6,30 /8,40",
           "Components": [
-            "Chilimajoneesia (A ,G ,L)",
             "Vöner- täytettä (* ,ILM ,L ,M ,Veg ,VS)",
             "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
           ]
@@ -131,8 +76,7 @@
           "Name": "LOUNAS",
           "Price": "3,20 /6,30 /8,40",
           "Components": [
-            "Sitruunaisia kalapaloja (* ,A ,L ,M)",
-            "Mintturaitaa (A ,G ,ILM ,L)"
+            "Kalapuikkoja (* ,A ,L ,M)"
           ]
         },
         {
@@ -186,7 +130,15 @@
           "Name": "LOUNAS",
           "Price": "3,20 /6,30 /8,40",
           "Components": [
-            "Porsasta paprika-herkkusienikastikkeessa (* ,A ,G ,L ,M ,VS)"
+            "Chili-porsaspataa (* ,A ,G ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "4,00",
+          "Components": [
+            "Herkkupöytä ()"
           ]
         }
       ]
@@ -200,8 +152,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "3,20 /6,30 /8,40",
           "Components": [
-            "Herne-kasvispihvejä (A ,L ,M)",
-            "Harissalla maustettua jogurttikastiketta (A ,G ,ILM ,L)"
+            "Herne-kasvispihvejä (A ,L ,M)"
           ]
         },
         {
@@ -209,9 +160,7 @@
           "Name": "LOUNAS",
           "Price": "3,20 /6,30 /8,40",
           "Components": [
-            "Talon Lindströminpihvi (A ,L ,M)",
-            "Meiramikastiketta (A ,ILM ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+            "Talon Lindströminpihvi (A ,L ,M)"
           ]
         },
         {
@@ -220,6 +169,14 @@
           "Price": "3,20 /6,30 /8,40",
           "Components": [
             "Meksikolaista chorizo-kasviskeittoa (* ,A ,G ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "4,90 /7,60 /9,60",
+          "Components": [
+            "Burgeriperjantai ()"
           ]
         }
       ]
