@@ -5,46 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-10-11T00:00:00+00:00",
-      "LunchTime": "10.30 - 13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas  2,70 / 5,85 / 7,60",
-          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Kreikkalaista juusto-kasvispataa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasviskeitto",
-          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Porkkanasosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas   2,70 / 5,85 / 7,60",
-          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Jauheliha-pastavuokaa (* ,A ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas   2,70 / 5,85 / 7,60",
-          "Price": "opiskelija 2,70 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Broileripyöryköitä (* ,A ,G ,L ,M ,VS)",
-            "Currykastiketta (* ,A ,L)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-12T00:00:00+00:00",
       "LunchTime": "10.30 - 13.00",
       "SetMenus": [
