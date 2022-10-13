@@ -5,63 +5,6 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\n*= korkeakouluopiskelijoiden ruokailusuosituksen mukainen ateriavaihtoehto",
   "MenusForDays": [
     {
-      "Date": "2022-10-12T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
-          "Price": "3,20 / 9,30",
-          "Components": [
-            "Papu-paprika-maissitäytettä (A ,G ,L ,M ,Veg ,VS)",
-            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto",
-          "Price": "3,20 / 9,30",
-          "Components": [
-            "Metsäsienikeittoa (A ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 9,30",
-          "Components": [
-            "Lindströminpihvejä (A ,L ,M)",
-            "Meiramikastiketta (A ,ILM ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Keittolounas",
-          "Price": "3,20 / 9,30",
-          "Components": [
-            "Kirjolohi-seitikeittoa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Päivän salaatti",
-          "Price": "3,20 / 9,30",
-          "Components": [
-            "Päivän salaatti ()"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "1,80",
-          "Components": [
-            "Suklaamoussea (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-13T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [

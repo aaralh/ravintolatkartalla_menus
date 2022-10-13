@@ -5,39 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-10-12T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Chilimajoneesia (A ,G ,L)",
-            "Vöner- täytettä (* ,ILM ,L ,M ,Veg ,VS)",
-            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Sitruunaisia kalapaloja (* ,A ,L ,M)",
-            "Mintturaitaa (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Broileri-kookoskeittoa (* ,G ,ILM ,L ,M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-13T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [

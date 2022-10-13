@@ -5,65 +5,6 @@
   "Footer": "Ravintolamme on kelan ateriatuen piirissä 2,30 €/ ateria. Opiskelijahintaisen aterian edellytyksenä on voimassa oleva opiskelijakortti.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-10-12T00:00:00+00:00",
-      "LunchTime": "11.00-15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
-          "Price": "3,20€ / 6,50€ / 9,30€",
-          "Components": [
-            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 21,
-          "Name": "Lounas I",
-          "Price": "3,20€ / 6,50€ / 9,30€",
-          "Components": [
-            "Broileria currykastikkeessa (* ,A ,G ,L)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 23,
-          "Name": "Lounas III",
-          "Price": "3,20€ / 6,50€ / 9,30€",
-          "Components": [
-            "Kaali-jauhelihalaatikkoa (* ,G ,L ,M)",
-            "Puolukkahilloa (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 29,
-          "Name": "Grillistä",
-          "Price": "5,80€ / 8,50€ / 11,50€",
-          "Components": [
-            "Halloumjuusto-kirsikkatomaattipizza (A)"
-          ]
-        },
-        {
-          "SortOrder": 30,
-          "Name": "Grillistä",
-          "Price": "5,80€ / 8,50€ / 11,50€",
-          "Components": [
-            "Pulled chicken briossihampurilainen kimchillä (A ,L ,M ,VS)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
-            "Chilimajoneesia (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 100,
-          "Name": "Jälkiruoka",
-          "Price": "1,40€",
-          "Components": [
-            "Tyrni-jogurttipannacottaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-13T00:00:00+00:00",
       "LunchTime": "11.00-15.00",
       "SetMenus": [
@@ -108,10 +49,7 @@
           "SortOrder": 100,
           "Name": "Jälkiruoka",
           "Price": "1,40€",
-          "Components": [
-            "Omena-puolukkapiirakkaa (A ,L)",
-            "Vaniljakermavaahtoa (A ,G ,L)"
-          ]
+          "Components": []
         }
       ]
     },

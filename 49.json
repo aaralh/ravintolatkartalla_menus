@@ -5,49 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-10-12T00:00:00+00:00",
-      "LunchTime": "10.30 - 16.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Papu-paprika-maissitäytettä (A ,G ,L ,M ,Veg ,VS)",
-            "Täysjyvävehnätortilla (A ,L ,M ,Veg)",
-            "Chili-kermaviilikastiketta (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Kalamurekepihvejä (* ,A ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,70 / 9,50 / 10,50",
-          "Components": [
-            "From the Grill 10.30-14.00: Sataymaustettua broileria (A ,G ,L ,M ,VS)",
-            "Naanleipää (A ,L)",
-            "Paistettua riisiä (G ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Chilillä maustettua hedelmäsalaattia (G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-13T00:00:00+00:00",
       "LunchTime": "10.30 - 16.30",
       "SetMenus": [
