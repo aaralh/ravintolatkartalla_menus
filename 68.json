@@ -5,47 +5,6 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nRuokalistamuutokset ovat mahdollisia.",
   "MenusForDays": [
     {
-      "Date": "2022-10-13T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 2,
-          "Name": "BUFFEE VEGAANINEN KASVISLOUNAS",
-          "Price": "11,30/3,20",
-          "Components": [
-            "Falafel-pyöryköitä (A ,L ,M ,Veg ,VS)",
-            "Porkkanahummusta (* ,A ,G ,L ,Veg)",
-            "Yrttiriisiä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "BUFFEE KEITTOLOUNAS",
-          "Price": "11,30/3,20",
-          "Components": [
-            "Kermaista kirjolohikeittoa (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 4,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "11,30/3,20",
-          "Components": [
-            "Porsaan paistia ja bataattia (G ,ILM ,L ,M)",
-            "Viipaleperunoita (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 7,
-          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
-          "Price": null,
-          "Components": [
-            "Kasvispaistosta (G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-14T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
