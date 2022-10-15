@@ -5,39 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-10-14T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Herne-kasvispihvejä (A ,L ,M)",
-            "Harissalla maustettua jogurttikastiketta (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Talon Lindströminpihvi (A ,L ,M)",
-            "Meiramikastiketta (A ,ILM ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Meksikolaista chorizo-kasviskeittoa (* ,A ,G ,L ,M ,VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-15T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
