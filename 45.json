@@ -3,12 +3,6 @@
   "RestaurantUrl": "https://www.semma.fi/ravintolat2/seminaarimaki/kahvila-syke/",
   "PriceHeader": null,
   "Footer": null,
-  "MenusForDays": [
-    {
-      "Date": "2022-10-16T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": []
-    }
-  ],
+  "MenusForDays": [],
   "ErrorText": null
 }

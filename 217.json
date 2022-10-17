@@ -5,7 +5,131 @@
   "Footer": "Opiskelijalounas 2,36€, henkilökunta 5,00 €, vieraat 8,90 €.\n\nHyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nPlease, kindly note that the raw materials used in the restaurants may vary from the planned and therefore the product specifications and dietary labels published at web sites may differ from the final and correct information that will be given at the restaurant. Persons with allergies are advised every time to check the suitability of the offered food choices to their diet at the restaurant. Thank you for your understanding.\n\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "MenusForDays": [
     {
-      "Date": "2022-10-16T00:00:00+00:00",
+      "Date": "2022-10-17T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 13,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Luomutofua ja kasviksia soijakastikkeessa (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Kreetalaista kalapataa (* ,A ,G ,ILM ,L ,M)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-18T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 13,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Maissi-kvinoapihvejä (* ,A ,L ,M ,VS)",
+            "Tzatsikia (A ,G ,ILM ,L ,VS)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Jauheliha-pennepastaa (* ,A ,L ,M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-19T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 13,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Quornia tomaatti-kasviskastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)",
+            "Pennepastaa (A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Harissalla maustettua kalkkunapataa (* ,A ,G ,L ,VS)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-20T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 13,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Kreikkalaista kasvis-juustokiusausta (* ,A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Nautaa ja kasviksia soija-chilikastikkeessa (A ,G ,L ,M)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-21T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 13,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Vihannespastaa (* ,A ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Linjasto 2 & 3 & 4 & 5",
+          "Price": null,
+          "Components": [
+            "Kalapyöryköitä (* ,A ,G ,L ,M)",
+            "Tartarkastiketta (A ,G ,L)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-22T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-10-23T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

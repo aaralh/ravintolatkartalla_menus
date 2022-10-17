@@ -3,12 +3,6 @@
   "RestaurantUrl": "https://www.foodandco.fi/ravintolat/Ravintolat-kaupungeittain/tampere/minerva/",
   "PriceHeader": null,
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja \nsiten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. \nKiitos ymmärryksestänne.",
-  "MenusForDays": [
-    {
-      "Date": "2022-10-16T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": []
-    }
-  ],
+  "MenusForDays": [],
   "ErrorText": null
 }
