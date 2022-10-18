@@ -5,61 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-10-17T00:00:00+00:00",
-      "LunchTime": "10.30 - 15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas (KASVISLINJASTO)",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Quornia tomaatti-kasviskastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)",
-            "Luomutäysjyväpennepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasviskeitto (KASVISLINJASTO)",
-          "Price": "2,50 / 5,14 / 8,00 €",
-          "Components": [
-            "Vegaanista pinaattikeittoa (A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Tonnikala-katkarapukastiketta (* ,A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Broileripyöryköitä (* ,A ,G ,L ,M ,VS)",
-            "Currykastiketta (* ,A ,L)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Salaattiaterian proteiiniosa",
-          "Price": "2,50 / 5,14 / 8,00 €",
-          "Components": [
-            "Serranokinkkua (G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2022-10-18T00:00:00+00:00",
       "LunchTime": "10.30 - 15.00",
       "SetMenus": [
@@ -214,7 +159,7 @@
     },
     {
       "Date": "2022-10-21T00:00:00+00:00",
-      "LunchTime": "10.30 - 13.00",
+      "LunchTime": "10.30 - 15.00",
       "SetMenus": [
         {
           "SortOrder": 0,

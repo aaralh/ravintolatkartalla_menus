@@ -5,59 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-10-17T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "11,30€ / Op 2,70€",
-          "Components": [
-            "Kaura-punajuuripyöryköitä / Op. 3,20€ (* ,A ,L ,M ,Veg)",
-            "Linssisalsaa (* ,A ,ILM ,L ,M ,Veg)",
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "11,30€",
-          "Components": [
-            "Barbeque-maustettua broileri-tomaattipastaa/ Op. 3.20€ (* ,A ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Jauhelihapyöryköitä / Op. 5.85€ (A ,L ,M)",
-            "Dijonsinappikastiketta (A ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Mustikkarahkaa (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2022-10-18T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
