@@ -5,61 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-10-18T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Pinaattiohukaisia (A ,G ,ILM ,L ,M ,Veg)",
-            "Puolukkahilloa (G ,L ,M ,Veg)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Talon pinaattiohukaisia (* ,A ,ILM ,L)",
-            "Puolukkahilloa (G ,L ,M ,Veg)",
-            "Tomaattista täysjyvävehnää (A ,L ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Talon jauhelihamureketta (A ,L ,M)",
-            "Pippurikastiketta (* ,A ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "PAISTOPISTE",
-          "Price": "5,70/10,40",
-          "Components": [
-            "Kauden kasviksia (G ,L ,M ,Veg)",
-            "Kanaa Kiovan tapaan (A ,L ,VS)",
-            "Currykermaviilikastiketta (A ,G ,L)",
-            "Sitruuna-perunasosetta (A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Suklaapuuroa (A ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-19T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
