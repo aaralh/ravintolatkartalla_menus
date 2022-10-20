@@ -5,62 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-10-19T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Peruna-juustopihvejä (A ,ILM ,L)",
-            "Hunajajogurttikastiketta (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISKEITTO",
-          "Price": null,
-          "Components": [
-            "Kasvis-kaalikeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kebablihakiusausta (A ,G ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Kauden kasviksia (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Mustaherukka-ananasshotti (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Päärynä-jogurttipannacottaa (A ,G ,L)",
-            "Hedelmäsalaattia (G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-20T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -77,10 +21,7 @@
           "SortOrder": 0,
           "Name": "LOUNAS",
           "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Broileria currykastikkeessa (* ,A ,G ,L)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
@@ -94,7 +35,7 @@
         {
           "SortOrder": 0,
           "Name": null,
-          "Price": null,
+          "Price": "1,00",
           "Components": [
             "Kauden kasviksia (G ,L ,M ,Veg)"
           ]
@@ -127,8 +68,7 @@
           "Price": "3,20 / 5,70 / 6,30 / 8,40",
           "Components": [
             "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
-            "Paholaisenhilloa (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
+            "Paholaisenhilloa (* ,A ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -136,14 +76,13 @@
           "Name": "LOUNAS",
           "Price": "3,20 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Broileria currykastikkeessa (* ,A ,G ,L)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Broileria currykastikkeessa (* ,A ,G ,L)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "5,70 / 8,30 / 9,20 / 10,20",
+          "Price": "5,70/ 8,30/ 9,30/ 10,20",
           "Components": [
             "Briossihampurilainen rotukarjapihvi ja pekoni (A ,L ,M)",
             "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
