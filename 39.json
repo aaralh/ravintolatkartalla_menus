@@ -5,62 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-10-20T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "11,30€ / Op 2,70€",
-          "Components": [
-            "Raastepihvejä / Op.3,20€ (* ,A ,L ,M)",
-            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "9,10€ / Op 2,70€",
-          "Components": [
-            "Kasvisgulassikeittoa / Op. 3,20€ (* ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "11,30€",
-          "Components": [
-            "Savukirjolohikastiketta / Op. 3,20€ (* ,A ,ILM ,L)",
-            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Porsaanleike / Op. 5,85€ (A ,L ,M)",
-            "Metsäsienikastiketta (A ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Mokkavaahtoa (A ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-21T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
