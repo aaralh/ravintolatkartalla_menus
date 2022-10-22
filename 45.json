@@ -5,38 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-10-21T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Maissi-kvinoapihvejä (* ,A ,L ,M ,VS)",
-            "Tzatsikia (A ,G ,ILM ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Talon kirjolohimurekepihvejä (* ,A ,L ,M)",
-            "Kermaviilikastiketta tuoreista yrteistä (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Naudanlihagulassikeittoa (* ,A ,G ,L ,M ,VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-22T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
