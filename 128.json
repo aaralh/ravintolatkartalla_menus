@@ -5,7 +5,399 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-10-23T00:00:00+00:00",
+      "Date": "2022-10-24T00:00:00+00:00",
+      "LunchTime": "10.30- 14.00, Wicked rabbit 10.30-13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "Amk 3,20 / Lounasbuffet 11,30",
+          "Components": [
+            "Falafel-pyöryköitä (A ,L ,M ,Veg ,VS)",
+            "Harissalla maustettua jogurttikastiketta (A ,G ,ILM ,L)",
+            "Jeeralla maustettuja uuniperunalohkoja (G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Amk 3,20",
+          "Components": [
+            "Chili con Carnea jauhelihasta (* ,G ,L ,M ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas erikoishintainen",
+          "Price": "Amk 5,85",
+          "Components": [
+            "Uunikirjolohta (* ,A ,G ,ILM ,L ,M)",
+            "Sahramikastiketta (A ,G ,ILM ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Amk 1,00",
+          "Components": [
+            "Mansikkarahkaa (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit kasvisruoka",
+          "Price": null,
+          "Components": [
+            "Linssi-kasvispyöryköitä (A ,L ,M)",
+            "Kurkkuraitaa (A ,G ,ILM ,L ,VS)",
+            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit  vegaani kasvisruoka",
+          "Price": null,
+          "Components": [
+            "Bataatti-kookoskermacurrya (A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Jasminriisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit lämmin lisäke",
+          "Price": null,
+          "Components": [
+            "Grillattuja kasviksia (G ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit kasviskeitto",
+          "Price": null,
+          "Components": [
+            "Palsternakkasosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-25T00:00:00+00:00",
+      "LunchTime": "10.30- 14.00, Wicked Rabbit 10.30-13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "Amk 3,20 / Lounasbuffet 11,30",
+          "Components": [
+            "Quornia curry-kasviskastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Amk 3,20",
+          "Components": [
+            "Tonnikalakiusausta (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas erikoishintainen",
+          "Price": "Amk 5,85",
+          "Components": [
+            "Broileria herkkusieni-pekonikastikkeessa (* ,A ,G ,L ,M ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Amk 1,00",
+          "Components": [
+            "Suklaakiisseliä (A ,G ,L)",
+            "Marianne-kermavaahtoa (A ,VL)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit kasvisruoka",
+          "Price": null,
+          "Components": [
+            "Nokkosohukaisia (A ,ILM)",
+            "Raejuusto-yrttitäytettä (A ,G ,L)",
+            "Paistettuja perunoita (A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit  vegaani kasvisruoka",
+          "Price": null,
+          "Components": [
+            "Tomaattista munakoisopataa ja gremolataa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Basmatiriisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit lämmin lisäke",
+          "Price": null,
+          "Components": [
+            "Kauden kasviksia (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit kasviskeitto",
+          "Price": null,
+          "Components": [
+            "Bataattisosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Persiljaöljyä (* ,G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-26T00:00:00+00:00",
+      "LunchTime": "10.30- 14.00, Wicked Rabbit 10.30-13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "Amk 3,20 / Lounasbuffet 11,30",
+          "Components": [
+            "Soija-kaalilaatikkoa (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Puolukkahilloa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Amk 3,20",
+          "Components": [
+            "Kalkkuna-juustokastiketta (* ,A ,G ,L)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas erikoishintainen",
+          "Price": "Amk 5,85",
+          "Components": [
+            "Briossihampurilainen (A ,L ,M)",
+            "Paistettuja perunoita (A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Amk 1,00",
+          "Components": [
+            "Mangojogurttia (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit kasvisruoka",
+          "Price": null,
+          "Components": [
+            "Raastepihvejä (* ,A ,L ,M)",
+            "Sinappikermaviilikastiketta (A ,G ,L)",
+            "Annanperunoita (A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit  vegaani kasvisruoka",
+          "Price": null,
+          "Components": [
+            "Soijapastaa (A ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit lämmin lisäke",
+          "Price": null,
+          "Components": [
+            "Paahdettuja porkkanoita (G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit kasviskeitto",
+          "Price": null,
+          "Components": [
+            "Vegaanista pinaattikeittoa (A ,ILM ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-27T00:00:00+00:00",
+      "LunchTime": "10.30- 14.00, Wicked Rabbit 10.30-13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "Amk 3,20 / Lounasbuffet 11,30",
+          "Components": [
+            "Paneroidut kasvispihvit (* ,A ,G ,L)",
+            "Minttujogurttikastiketta (A ,G ,L)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Amk 3,20",
+          "Components": [
+            "Kotimaisia kirjolohipyöryköitä (A ,L)",
+            "Tillikastiketta (* ,A ,ILM ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas erikoishintainen",
+          "Price": "Amk 5,85",
+          "Components": [
+            "Paahdettua broileria sekä currylla maustettua kukkakaalia ja kikherneitä (G ,L ,M)",
+            "Minttujogurttikastiketta (A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Amk 1,00",
+          "Components": [
+            "Mansikka-raparperikiisseliä (G ,L ,M ,Veg)",
+            "Vaniljakermavaahtoa (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit kasvisruoka",
+          "Price": null,
+          "Components": [
+            "Munakoisovuokaa juustolla (A ,G ,L ,VS)",
+            "Gremolataa (G ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit  vegaani kasvisruoka",
+          "Price": null,
+          "Components": [
+            "Tofu-auringonkukansiemenmureketta (A ,ILM ,L ,M ,Veg)",
+            "Kurkku-soijagurttikastiketta (A ,G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit lämmin lisäke",
+          "Price": null,
+          "Components": [
+            "Karamellisoitua ruusukaalia (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit kasviskeitto",
+          "Price": null,
+          "Components": [
+            "Herkkusienikeittoa (A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-28T00:00:00+00:00",
+      "LunchTime": "10.30- 14.00, Wicked Rabbit 10.30-13.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "Amk 3,20 / Lounasbuffet 11,30",
+          "Components": [
+            "Punajuuri-sinihomejuustopataa (* ,A ,G ,ILM ,L)",
+            "Persiljaperunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Amk 3,20",
+          "Components": [
+            "Broileri-pastavuokaa (* ,A ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas erikoishintainen",
+          "Price": "Amk 5,85",
+          "Components": [
+            "Yrttimaustettua porsaanfileetä (* ,G ,L ,M)",
+            "Punaviinikastiketta (G ,L ,M ,VS)",
+            "Valkosipuli-kermaperunoita (A ,G ,ILM ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Amk 1,00",
+          "Components": [
+            "Mokkavaahtoa (A ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit kasvisruoka",
+          "Price": null,
+          "Components": [
+            "Juustoista pinaattipastaa (A ,L)",
+            "Pastajuustoraastetta (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit  vegaani kasvisruoka",
+          "Price": null,
+          "Components": [
+            "Kasviskaalikääryleitä (A ,L ,M ,Veg ,VS)",
+            "Puolukkahilloa (G ,L ,M ,Veg)",
+            "Perunasosetta  ( G, L, M, Veg ) ()"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit lämmin lisäke",
+          "Price": null,
+          "Components": [
+            "Paahdettua kurpitsaa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked Rabbit kasviskeitto",
+          "Price": null,
+          "Components": [
+            "Tomaattikeittoa (A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Basilikaöljyä (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-10-29T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-10-30T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
