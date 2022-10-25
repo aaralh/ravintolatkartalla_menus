@@ -5,52 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-10-24T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Bataattisosekeittoa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Jauhelihakastiketta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Kalapuikkoja L, M, * ()"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mustikkarahkaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-25T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [
@@ -83,10 +37,7 @@
           "Name": "LOUNAS",
           "Price": "5,70 / 9,30 /9,60",
           "Components": [
-            "Paahdettua kirjolohta (* ,A ,G ,ILM ,L ,M)",
-            "Mausteista sinappikastiketta (A ,G ,ILM ,L ,VS)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)",
-            "Kauden kasviksia (G ,L ,M ,Veg)"
+            "Paahdettua kirjolohta (* ,A ,G ,ILM ,L ,M)"
           ]
         },
         {
@@ -108,8 +59,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "3,20 /6,30 /8,40",
           "Components": [
-            "Kikherne-bataattipataa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Kikherne-bataattipataa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
           ]
         },
         {
@@ -117,8 +67,7 @@
           "Name": "LOUNAS",
           "Price": "3,20 /6,30 /8,40",
           "Components": [
-            "Pippurista possupataa (* ,A ,L)",
-            "Persiljaperunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+            "Pippurista possupataa (* ,A ,L)"
           ]
         },
         {
@@ -141,9 +90,7 @@
           "SortOrder": 0,
           "Name": "JÄLKIRUOKA",
           "Price": "1,20",
-          "Components": [
-            "Suklaakiisseliä (A ,G)"
-          ]
+          "Components": []
         }
       ]
     },
@@ -156,8 +103,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "3,20 /6,30 /8,40",
           "Components": [
-            "Chili con vege (* ,A ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Chili con vege (* ,A ,ILM ,L ,M ,Veg ,VS)"
           ]
         },
         {
@@ -174,8 +120,7 @@
           "Name": "LOUNAS",
           "Price": "3,20 /6,30 /8,40",
           "Components": [
-            "Kalkkunaa ja kasviksia inkiväärikastikkeessa (* ,A ,G ,L ,M)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Kalkkunaa ja kasviksia inkiväärikastikkeessa (* ,A ,G ,L ,M)"
           ]
         },
         {
@@ -183,7 +128,15 @@
           "Name": "KEITTOLOUNAS",
           "Price": "3,20 /6,30 /8,40",
           "Components": [
-            "Seitikeittoa (* ,A ,G ,ILM)"
+            "Seitikeittoa L (* ,A ,G ,ILM)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "4,00 €",
+          "Components": [
+            "Herkkupöytä ()"
           ]
         }
       ]
@@ -205,9 +158,7 @@
           "Name": "LOUNAS",
           "Price": "3,20 /6,30 /8,40",
           "Components": [
-            "Chilimaustettu broilerinkoipi (G ,L ,M)",
-            "Currykermaviilikastiketta (A ,G ,L)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+            "Chilimaustettu broilerinkoipi (G ,L ,M)"
           ]
         },
         {
@@ -216,6 +167,14 @@
           "Price": "3,20 /6,30 /8,40",
           "Components": [
             "Portugalilaista makkarakeittoa (A ,G ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "4,90 /7,60 /9,60",
+          "Components": [
+            "Mörköbuffa (burgeri, broilerinugetit, punajuurikroketit) ()"
           ]
         }
       ]

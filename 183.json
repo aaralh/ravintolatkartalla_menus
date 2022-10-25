@@ -5,54 +5,6 @@
   "Footer": "Ravintolamme on kelan ateriatuen piirissä 2,30 €/ ateria. Opiskelijahintaisen aterian edellytyksenä on voimassa oleva opiskelijakortti.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-10-24T00:00:00+00:00",
-      "LunchTime": "11.00-15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 13,
-          "Name": "Kasvislounas",
-          "Price": "3,20€ / 6,50€ / 9,30€",
-          "Components": [
-            "Quornia tomaatti-kasviskastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)",
-            "Luomutäysjyväpennepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 22,
-          "Name": "Lounas  II",
-          "Price": "3,20€ / 6,50€ / 9,30€",
-          "Components": [
-            "Tonnikala-katkarapukastiketta (* ,A ,G ,L)",
-            "Luomutäysjyväpennepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 23,
-          "Name": "Lounas III",
-          "Price": "3,20€ / 6,50€ / 9,30€",
-          "Components": [
-            "Makkara-juustopihvi (A ,G ,L)",
-            "Sinappikastiketta (* ,A ,G ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 47,
-          "Name": "Deli-salaatti ja keitto",
-          "Price": "5,80€ / 8,50€ / 11,50€",
-          "Components": []
-        },
-        {
-          "SortOrder": 100,
-          "Name": "Jälkiruoka",
-          "Price": "1,40€",
-          "Components": [
-            "Päärynärahkaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-25T00:00:00+00:00",
       "LunchTime": "11.00-15.00",
       "SetMenus": [
@@ -80,7 +32,8 @@
           "Price": "3,20€ / 6,50€ / 9,30€",
           "Components": [
             "Jauhelihapyöryköitä (* ,A ,L ,M)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)",
+            "Rosepippurikastiketta (* ,A ,ILM ,L)"
           ]
         },
         {
@@ -208,9 +161,9 @@
           "Name": "Grillistä",
           "Price": "5,80€ / 8,50€ / 11,50€",
           "Components": [
-            "Kauden kasviksia (G ,L ,M ,Veg)",
             "Lohta smetana-kesäkurpitsakastikkeessa (A ,G ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
+            "Perunasosetta (* ,A ,G ,ILM ,L)",
+            "Kauden kasviksia (G ,L ,M ,Veg)"
           ]
         },
         {
@@ -227,8 +180,8 @@
           "Price": "1,40€",
           "Components": [
             "Pannukakkua (A)",
-            "Mansikkahilloa (G ,L ,M ,Veg)",
-            "Kermavaahtoa (A ,G ,L)"
+            "Kermavaahtoa (A ,G ,L)",
+            "Mansikkahilloa (G ,L ,M ,Veg)"
           ]
         }
       ]

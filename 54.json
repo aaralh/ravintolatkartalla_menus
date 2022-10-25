@@ -5,47 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-10-24T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Tofu-kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Tofu-kasviswokkia (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Broileria teriyakikastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)",
-            "Cappellipastaa (A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mustikkarahkaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-25T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
@@ -70,7 +29,7 @@
           "Name": "LOUNAS",
           "Price": "3,20/8,40",
           "Components": [
-            "Jauhelihapyöryköitä (* ,A ,L ,M)",
+            "Talon jauhelihamureketta (A ,L ,M)",
             "Pippurista tuorejuustokastiketta (A ,G ,L)",
             "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
@@ -274,7 +233,7 @@
           "Name": "LOUNAS",
           "Price": "3,20/8,40",
           "Components": [
-            "Jauheliha-pennepastaa (* ,A ,L ,M)"
+            "Tonnikala-pastavuokaa (* ,A ,ILM ,L ,VS)"
           ]
         },
         {

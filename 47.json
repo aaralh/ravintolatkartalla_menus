@@ -5,53 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2022-10-24T00:00:00+00:00",
-      "LunchTime": "10.30 - 18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Chili con vege (* ,A ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISKEITTO",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Peruna-purjososekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Paneroitua seitifilettä (* ,A ,ILM ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "4,90 / 7,20 / 7,70 / 9,60",
-          "Components": [
-            "Pariloitu broilerinfilee (G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Marjarahkaa kerroksittain (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-25T00:00:00+00:00",
       "LunchTime": "10.30 -1 8.00",
       "SetMenus": [
@@ -93,7 +46,7 @@
           "Name": "LOUNAS",
           "Price": "4,90 / 7,20 / 7,70 / 9,60",
           "Components": [
-            "Porsaanleike, paprikaa ja sipulia (A ,L ,M)"
+            "Klo 15 alkaen: Porsaanleike, paprikaa ja sipulia (A ,L ,M)"
           ]
         },
         {
@@ -140,7 +93,7 @@
           "Name": "LOUNAS",
           "Price": "4,90 / 7,20 / 7,70 / 9,60",
           "Components": [
-            "Kirjolohta tandoori-smetanakastikkeessa (A ,G ,L)"
+            "Klo 15 alkaen: Kirjolohta tandoori-smetanakastikkeessa (A ,G ,L)"
           ]
         },
         {
@@ -179,7 +132,7 @@
           "Name": "LOUNAS",
           "Price": "4,90 / 7,20 / 7,70 / 9,60",
           "Components": [
-            "Soija-coleslawhampurilainen (A ,L ,M ,Veg ,VS)"
+            "Klo 15 alkaen: Soija-coleslawhampurilainen (A ,L ,M ,Veg ,VS)"
           ]
         },
         {
@@ -233,7 +186,8 @@
           "Name": "LOUNAS",
           "Price": "4,90 / 7,20 / 7,70 / 9,60",
           "Components": [
-            "Kinkku-ananaspizza (A ,L ,VS)"
+            "Vöner-pannupizzaa (A ,ILM ,L ,M ,Veg)",
+            "Klo 15 alkaen: Kinkku-ananaspizza (A ,L ,VS)"
           ]
         },
         {
