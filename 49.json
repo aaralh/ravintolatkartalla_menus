@@ -5,45 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-10-25T00:00:00+00:00",
-      "LunchTime": "10.30 - 16.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Meksikolaista maissi-kasvishöystöä (* ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Kalapyöryköitä (* ,A ,G ,L ,M)",
-            "Ruohosipuli-kermaviilikastiketta (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,70/ 9,30 / 9,60",
-          "Components": [
-            "Kebab ranskalaisilla (A ,G ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Valkosuklaamoussea (A ,G)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-26T00:00:00+00:00",
       "LunchTime": "10.30 - 16.30",
       "SetMenus": [
@@ -162,9 +123,9 @@
         {
           "SortOrder": 0,
           "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
+          "Price": "3,50",
           "Components": [
-            "Lakritsimoussea (A ,L)"
+            "Halloween jälkkäribuffa (A) ()"
           ]
         }
       ]

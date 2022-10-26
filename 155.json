@@ -5,57 +5,6 @@
   "Footer": "Opiskelijalounas 1,25– 4,00 €, henkilökunta 3,81 – 6,75 €, vierailijat 3,92 – 6,86 €. Hyvää ruokahalua! \n\nMuistathan noudattaa ohjeitamme turvallisesta ruokailusta!\n\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-10-25T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "Op 1,60 € / Hk 4,21 € / Vierailija 4,29 €",
-          "Components": [
-            "Porkkana-pestolasagnea (* ,A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto",
-          "Price": "Op 1,25 € / Hk 3,81€ / Vierailija 3,92 €",
-          "Components": [
-            "Thai-linssikeittoa (* ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Paahdettuja auringonkukansiemeniä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "Op 2,60 € / Hk 5,24 € / Vierailija 5,36 €",
-          "Components": [
-            "Seitifilettä intialaisittain (* ,A ,G ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "Op 5,85 € / Hk 8,80 € / Vierailija 11,40 €",
-          "Components": [
-            "Paahdettua broileria gruusialaisittain (A ,G ,L ,VS)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)",
-            "Kauden kasviksia (G ,L ,M ,Veg)",
-            "Mango-pinaattishotti (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "Op 0,57€ / Hk 0,57 € / Vierailija 0,57 €",
-          "Components": [
-            "Omena-kanelirahkaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-26T00:00:00+00:00",
       "LunchTime": "10.30 - 14.00",
       "SetMenus": [

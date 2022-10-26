@@ -5,66 +5,8 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\n*= korkeakouluopiskelijoiden ruokailusuosituksen mukainen ateriavaihtoehto",
   "MenusForDays": [
     {
-      "Date": "2022-10-25T00:00:00+00:00",
-      "LunchTime": "10.30-14",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "3,20 / 9,30",
-          "Components": [
-            "Luomutofu-kasvistäytettä (A ,G ,L)",
-            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto",
-          "Price": "3,20 / 9,30",
-          "Components": [
-            "Pinaattikeittoa (* ,A ,ILM ,L)",
-            "Keitetty kananmuna (A ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 9,30",
-          "Components": [
-            "Rapeita kalapaloja (* ,A ,L ,M)",
-            "Tartarkastiketta (A ,G ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 9,30",
-          "Components": [
-            "Kaali-jauhelihalaatikkoa (* ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Päivän salaatti",
-          "Price": "3,20 / 9,30",
-          "Components": [
-            "Päivän salaatti ()"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "1,80",
-          "Components": [
-            "Omena-lime-pinaattismoothie (A ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-26T00:00:00+00:00",
-      "LunchTime": "10.30-14",
+      "LunchTime": "10.30-14.00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -120,7 +62,7 @@
     },
     {
       "Date": "2022-10-27T00:00:00+00:00",
-      "LunchTime": "10.30-14",
+      "LunchTime": "10.30-14.00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -177,7 +119,7 @@
     },
     {
       "Date": "2022-10-28T00:00:00+00:00",
-      "LunchTime": "10.30-14",
+      "LunchTime": "10.30-14.00",
       "SetMenus": [
         {
           "SortOrder": 0,
