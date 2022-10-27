@@ -5,45 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-10-26T00:00:00+00:00",
-      "LunchTime": "10.30 - 16.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Kasvisbolognese-pennevuokaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Kalkkunaa ja vihanneksia kookoskastikkeessa (* ,A ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,70 / 9,50 / 10,50",
-          "Components": [
-            "Pippurituorejuustotäytteinen porsaanlehtipihvi (A ,G ,L)",
-            "Maalaisranskalaisia (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Kaakao-kanelihyytelöä (A ,G)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-27T00:00:00+00:00",
       "LunchTime": "10.30 - 16.30",
       "SetMenus": [

@@ -5,65 +5,6 @@
   "Footer": "Ravintolamme on kelan ateriatuen piirissä 2,30 €/ ateria. Opiskelijahintaisen aterian edellytyksenä on voimassa oleva opiskelijakortti.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-10-26T00:00:00+00:00",
-      "LunchTime": "11.00-15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 13,
-          "Name": "Kasvislounas",
-          "Price": "3,20€ / 6,50€ / 9,30€",
-          "Components": [
-            "Pinaattiohukaisia (* ,A ,ILM)",
-            "Puolukkahilloa (G ,L ,M ,Veg)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 22,
-          "Name": "Lounas  II",
-          "Price": "3,20€ / 6,50€ / 9,30€",
-          "Components": [
-            "Porsaanliha-juureskastiketta (* ,A ,G ,L ,M ,VS)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 23,
-          "Name": "Lounas III",
-          "Price": "3,20€ / 6,50€ / 9,30€",
-          "Components": [
-            "Kinkkukiusausta (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 29,
-          "Name": "Grillistä",
-          "Price": "5,80€ / 8,50€ / 11,50€",
-          "Components": [
-            "Feta-pinaattipannupizza (A ,VL)"
-          ]
-        },
-        {
-          "SortOrder": 30,
-          "Name": "Grillistä",
-          "Price": "5,80€ / 8,50€ / 11,50€",
-          "Components": [
-            "Briossihampurilainen chilipaahdetulla lohella (A ,L ,M)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
-            "Tomaatti-chilimajoneesia (A ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 100,
-          "Name": "Jälkiruoka",
-          "Price": "1,40€",
-          "Components": [
-            "Vaahtokarkki-kinuskirahkaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-27T00:00:00+00:00",
       "LunchTime": "11.00-15.00",
       "SetMenus": [
@@ -73,7 +14,6 @@
           "Price": "3,20€ / 6,50€ / 9,30€",
           "Components": [
             "Maissi-kvinoapihvejä (* ,A ,L ,M ,VS)",
-            "Tzatsikia (A ,G ,ILM ,L ,VS)",
             "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
           ]
         },
