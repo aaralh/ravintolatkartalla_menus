@@ -5,61 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-10-27T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "11,30€/2,70€",
-          "Components": [
-            "Linssi-kasvislasagnea / Op.3,20€ (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "9,10€ / Op 2,70€",
-          "Components": [
-            "Pinaattikeittoa / Op.3,20€ (* ,A ,L)",
-            "Keitetty kananmuna (A ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "11,30€",
-          "Components": [
-            "Jauhelihakebakoita / Op.5,85€ (A ,L ,M)",
-            "Chilimajoneesia (A ,G ,L)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "11,30€",
-          "Components": [
-            "Kirjolohikiusausta / Op.3,20€ (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Mariannerahkaa (A ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-28T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [

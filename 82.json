@@ -5,39 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja \nsiten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. \nKiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-10-27T00:00:00+00:00",
-      "LunchTime": "11-15",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas 6,80€/ opisk. 3,20€",
-          "Price": null,
-          "Components": [
-            "Chili con vege (* ,A ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 3,20 €",
-          "Price": null,
-          "Components": [
-            "Barbeque-maustettua broileri-tomaattipastaa (* ,A ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas  6,80 €/ opisk. 3,20 €",
-          "Price": null,
-          "Components": [
-            "Kuhapyöryköitä (A ,L ,M)",
-            "Tillikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-28T00:00:00+00:00",
       "LunchTime": "11-15",
       "SetMenus": [
@@ -72,7 +39,11 @@
           "SortOrder": 0,
           "Name": "BISTRO 9,10 €/opisk.5,85€ avoinna 11-13",
           "Price": null,
-          "Components": []
+          "Components": [
+            "Pulled chicken briossihampurilainen kimchillä (A ,L ,M ,VS)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
+            "Chilimajoneesia (A ,G ,L)"
+          ]
         }
       ]
     },

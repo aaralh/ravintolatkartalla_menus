@@ -5,52 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2022-10-27T00:00:00+00:00",
-      "LunchTime": "10.30 -1 8.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kreikkalaista kasviskiusausta (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Currymaustettu broilerinkoipi (G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "4,90 / 7,20 / 7,70 / 9,60",
-          "Components": [
-            "Klo 15 alkaen: Soija-coleslawhampurilainen (A ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kookos-kalakeittoa (A ,G ,ILM ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Puolukka-kinuskirahkaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-28T00:00:00+00:00",
       "LunchTime": "10.30 - 18.00",
       "SetMenus": [

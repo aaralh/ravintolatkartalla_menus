@@ -5,55 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-10-27T00:00:00+00:00",
-      "LunchTime": "10.30 - 13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Porkkana-pestolasagnea (* ,A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasviskeitto",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Mausteista linssisosekeittoa (A ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Uunimakkaraa juustokuorrutteella (A ,G ,L)",
-            "Sinappikastiketta (A ,G ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Keittolounas",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Hernekeittoa (* ,A ,G ,ILM ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "0,80 / 0,80 / 0,80",
-          "Components": [
-            "Omena-puolukkapiirakkaa (A ,L)",
-            "Vaniljakermavaahtoa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-28T00:00:00+00:00",
       "LunchTime": "10.30 - 13.00",
       "SetMenus": [

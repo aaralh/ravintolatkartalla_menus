@@ -5,61 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-10-27T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kookos-kasviscurrya luomutofulla (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Jauheliha-makaronilaatikkoa (A ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,70/ 8,30 / 9,30 / 10,20",
-          "Components": [
-            "Karamellisoitua kassleria ja kasvispaistosta (A ,G ,L ,M ,VS)",
-            "Paahdettuja perunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": "1,00",
-          "Components": [
-            "Kauden kasviksia (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": "1,00",
-          "Components": [
-            "Mustikka-vadelmashotti (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Suklaamoussea (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-28T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
@@ -67,19 +12,13 @@
           "SortOrder": 0,
           "Name": null,
           "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
-            "Paholaisenhilloa (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
           "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kalkkuna-juustokastiketta (* ,A ,G ,L)",
-            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
@@ -91,25 +30,26 @@
           "SortOrder": 0,
           "Name": null,
           "Price": "1,00",
-          "Components": [
-            "Kauden kasviksia (G ,L ,M ,Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
           "Name": null,
           "Price": "1,00",
-          "Components": [
-            "Mustikka-vadelmashotti (A ,L ,M ,Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
           "Name": "JÄLKIRUOKA",
           "Price": "1,20",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Passionpannacottaa (A ,G ,L)",
-            "Ananas-omenakiisseliä (G ,L ,M ,Veg)"
+            "Ravintola Kvarkki on suljettu perjantaina 28.10. Ravintola Ylistö palvelee 8.00-14.30 (lounas 10.30.-14.00) ()"
           ]
         }
       ]
