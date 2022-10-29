@@ -5,56 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-10-28T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,70/ 8,30 / 9,30 / 10,20",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": "1,00",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": "1,00",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Ravintola Kvarkki on suljettu perjantaina 28.10. Ravintola Ylistö palvelee 8.00-14.30 (lounas 10.30.-14.00) ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-10-29T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
