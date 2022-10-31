@@ -3,12 +3,6 @@
   "RestaurantUrl": "https://www.semma.fi/ravintolat2/ylistonrinne/ravintola-ylisto/",
   "PriceHeader": null,
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
-  "MenusForDays": [
-    {
-      "Date": "2022-10-30T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": []
-    }
-  ],
+  "MenusForDays": [],
   "ErrorText": null
 }
