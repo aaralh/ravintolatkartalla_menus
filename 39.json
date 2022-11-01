@@ -3,6 +3,251 @@
   "RestaurantUrl": "https://www.foodandco.fi/ravintolat/Ravintolat-kaupungeittain/jyvaskyla/fiilu/",
   "PriceHeader": null,
   "Footer": null,
-  "MenusForDays": [],
+  "MenusForDays": [
+    {
+      "Date": "2022-11-01T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "11,30€ / Op 2,70€",
+          "Components": [
+            "Härkistä tikka masala/ Op.3,20€ (* ,A ,G ,L ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Tillikermaviilikastiketta (A ,G ,ILM ,L)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)",
+            "Paneroitu kampelafilee/ Op.5,85€ (* ,A ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Bolognesekastiketta/ Op.3,20€ (* ,A ,G ,L ,M ,VS)",
+            "Luomutäysjyväspagettia (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Aprikoosipiirakkaa (A ,L)",
+            "Vaniljakastiketta (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-02T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "11,30€/2,70€",
+          "Components": [
+            "Kasvisbolognese-pennevuokaa/ Op.3,20€ (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Tonnikala-pinaattilasagnettea/ Op.3,20€ (A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Talon jauhelihamureketta/ Op.5,85€ (A ,L ,M)",
+            "Sipulikastiketta (* ,A ,L)",
+            "Persiljaperunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Marjakiisseliä (G ,L ,M ,Veg)",
+            "Vaniljakermavaahtoa (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KoKoa Bowl",
+          "Price": "10,50€",
+          "Components": [
+            "KoKoa Bowl ()"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KoKoa Salaatti",
+          "Price": "10,50€",
+          "Components": [
+            "KoKoa SALAATTI ()"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-03T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "9,10€ / Op 2,70€",
+          "Components": [
+            "Palsternakkasosekeittoa/ Op.3,20€ (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "11,30€ / Op 2,70€",
+          "Components": [
+            "Bataatti-maissipihvejä/ Op.3,20€ (* ,A ,G ,ILM ,L ,M ,VS)",
+            "Tzatsikia (A ,G ,ILM ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Butter Chicken/ Op.3,20€ (* ,A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Paneroitua yrttikalaa/ Op.5,85€ (A ,ILM ,L ,M)",
+            "Tillikermaviilikastiketta (A ,G ,ILM ,L)",
+            "Peruna-juuressärää (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Puolukkavispipuuroa (A ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KoKoa Salaatti",
+          "Price": "10,50€",
+          "Components": [
+            "KoKoa SALAATTI ()"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KoKoa Bowl",
+          "Price": "10,50€",
+          "Components": [
+            "KoKoa BOWL ()"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-04T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "11,30€ / Op 2,70€",
+          "Components": [
+            "Tomaatti-vuohenjuustokastiketta/ Op.3,20€ (* ,A ,G ,ILM ,L ,VS)",
+            "Luomutäysjyväspagettia (* ,A ,ILM ,L ,M ,Veg)",
+            "Pastajuustoraastetta (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Kebablihaa ja kasviksia/ Op.3,20€ (* ,A ,G ,L ,M ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Kanaa Kiovan tapaan/ Op.5,85€ (A ,L ,VS)",
+            "Tzatsikia (A ,G ,ILM ,L ,VS)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Uuniomenoita (G ,L ,M ,Veg)",
+            "Kanelikermavaahtoa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-05T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-11-06T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
   "ErrorText": null
 }

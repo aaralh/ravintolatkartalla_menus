@@ -3,6 +3,226 @@
   "RestaurantUrl": "https://www.semma.fi/ravintolat2/ylistonrinne/kahvila-kvarkki/",
   "PriceHeader": null,
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
-  "MenusForDays": [],
+  "MenusForDays": [
+    {
+      "Date": "2022-11-01T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Paputacoja ja smetanaa (A ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kikherne-kasviskeittoa (A ,G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Broileri-fetapizzaa BBQ (A ,VL ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Porsasta paprika-herkkusienikastikkeessa (* ,A ,G ,L ,M ,VS)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": "1,00",
+          "Components": [
+            "Mango-sitruunashotti (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Suklaamoussea (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-02T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Vöner- täytettä (* ,ILM ,L ,M ,Veg ,VS)",
+            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Lindströminpihvejä (A ,L ,M)",
+            "Sipulikastiketta (* ,A ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,70/ 8,30 / 9,30 / 10,20",
+          "Components": [
+            "Briossihampurilainen vuohenjuustolla (A ,VL)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
+            "BBQ -majoneesia (A ,G ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": "1,00",
+          "Components": [
+            "Kauden kasviksia (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": "1,00",
+          "Components": [
+            "Mango-sitruunashotti (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Suklaamoussea (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-03T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kasviskiusausta (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kasvis-hernekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Hernekeittoa (* ,A ,G ,ILM ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": "1,00",
+          "Components": [
+            "Kauden kasviksia (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": "1,00",
+          "Components": [
+            "Mango-sitruunashotti (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Mansikkahilloa (G ,L ,M ,Veg)",
+            "Kermavaahtoa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-04T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kikhernepataa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Jauhelihakastiketta (* ,A ,L ,M)",
+            "Spagettia (A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,70/ 8,30 / 9,30 / 10,20",
+          "Components": [
+            "Wieninleike (A ,L)",
+            "Kermaperunoita (A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Passionpannacottaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-05T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-11-06T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
   "ErrorText": null
 }

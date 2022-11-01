@@ -3,6 +3,208 @@
   "RestaurantUrl": "https://www.foodandco.fi/ravintolat/Ravintolat-kaupungeittain/espoo/alvari/",
   "PriceHeader": null,
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
-  "MenusForDays": [],
+  "MenusForDays": [
+    {
+      "Date": "2022-11-01T00:00:00+00:00",
+      "LunchTime": "11:00-14:30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Kasviskeitto",
+          "Price": "6,40€ / Aalto henkilökunta 5,00€/ Opiskelija 2,80€",
+          "Components": [
+            "Kasvissosekeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Name": "Kasvislounas",
+          "Price": null,
+          "Components": [
+            "Halloumi-kasvisbolognese-pennevuokaa (* ,A ,ILM)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Broileri-Aurajuustokastiketta (* ,A ,G ,L)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 6,
+          "Name": "Lounas",
+          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 3,20€",
+          "Components": [
+            "Kinkkukiusausta (* ,A ,G ,ILM ,L)",
+            "Etikkakurkkua (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-02T00:00:00+00:00",
+      "LunchTime": "11:00-14:30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Kasviskeitto",
+          "Price": "6,40€ / Aalto henkilökunta 5,00€/ Opiskelija 2,80€",
+          "Components": [
+            "Metsäsienikeittoa (A ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Name": "Kasvislounas",
+          "Price": null,
+          "Components": [
+            "Luomutofu-kasvistäytettä (A ,G ,L)",
+            "Täysjyvävehnätortilla (A ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Paneroitu kalaleike (A ,L ,M)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "Lounas",
+          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 3,200€",
+          "Components": [
+            "Naudanlihaa ja kasviksia kiinalaisittain (A ,G ,L ,M ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-03T00:00:00+00:00",
+      "LunchTime": "11:00-14:30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Kasviskeitto",
+          "Price": "6,40€ / Aalto henkilökunta 5,00€/ Opiskelija 2,80€",
+          "Components": [
+            "Hernesosekeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Name": "Kasvislounas",
+          "Price": null,
+          "Components": [
+            "Kikherneitä ja kasviksia kormakastikkeessa (* ,A ,G ,ILM ,L ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "Lounas",
+          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 3,200€",
+          "Components": [
+            "Lohimurekepihvejä (* ,A ,G ,L ,M)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Tillikermaviilikastiketta (A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 6,
+          "Name": "Lounas",
+          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 3,20€",
+          "Components": [
+            "Jauheliha-makaronilaatikkoa (A ,L)",
+            "Tomaattiketsuppia (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-04T00:00:00+00:00",
+      "LunchTime": "11:00-14:30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Kasviskeitto",
+          "Price": "6,40€ / Aalto henkilökunta 5,00€/ Opiskelija 2,80€",
+          "Components": [
+            "Porkkanasosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Suolapähkinöitä (A ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Name": "Kasvislounas",
+          "Price": null,
+          "Components": [
+            "Herne-kasvispihvejä (A ,L ,M)",
+            "Harissalla maustettua jogurttikastiketta (A ,G ,ILM ,L)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "Lounas",
+          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 3,200€",
+          "Components": [
+            "Kalkkuna-juustokastiketta (* ,A ,G ,L)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 6,
+          "Name": "Lounas",
+          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 3,20€",
+          "Components": [
+            "Teriyakimaustettua seitiä ja paahdettuja kasviksia (* ,A ,G ,ILM ,L ,M ,VS)",
+            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-05T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-11-06T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
   "ErrorText": null
 }

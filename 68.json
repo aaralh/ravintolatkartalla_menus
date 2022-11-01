@@ -5,59 +5,6 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nRuokalistamuutokset ovat mahdollisia.",
   "MenusForDays": [
     {
-      "Date": "2022-10-31T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Annos, Lihapata ja paah perunoita, 325 g, Food&Co ()",
-            "Annos, Nuudelisalaattia karamellipossulla, 310g, Food&Co ()",
-            "Annos, Satay broileria&basmatiriisiä, 355 g, Food&Co ()",
-            "Annos, Herkuttelijan kasvismoussaka, 360 g, Food&Co ()"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "BUFFEE KASVISLOUNAS",
-          "Price": "11,30€/3,20€",
-          "Components": [
-            "Kaura-punajuuripyöryköitä (* ,A ,L ,M ,Veg)",
-            "Yrttikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Höyrytettyä  riisiä (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 4,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "11,30€/3,20€",
-          "Components": [
-            "Broileri-kasviskiusausta (* ,A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "11,30€/3,20€",
-          "Components": [
-            "Bolognesekastiketta (* ,A ,G ,L ,M ,VS)",
-            "Luomutäysjyväspagettia (* ,A ,ILM ,L ,M ,Veg)",
-            "Pastajuustoraastetta (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 7,
-          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
-          "Price": null,
-          "Components": [
-            "Seesammarinoitua parsakaalia (A ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-01T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
