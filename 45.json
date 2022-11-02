@@ -5,39 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-11-01T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Quornia Aurajuustokastikkeessa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Kasvis-hernekeittoa (A ,G ,ILM ,L ,M ,Veg)",
-            "Vegaanista kaurapannukakkua (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Jauhelihakebakoita (A ,L ,M)",
-            "Chilimajoneesia (A ,G ,L)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-02T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
