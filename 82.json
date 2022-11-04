@@ -5,37 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja \nsiten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. \nKiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-03T00:00:00+00:00",
-      "LunchTime": "11-15",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas 6,80 €/ opisk. 3,20 €",
-          "Price": null,
-          "Components": [
-            "Punajuuri-halloumilasagnettea (A ,VL)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 3,20 €",
-          "Price": null,
-          "Components": [
-            "Tonnikala-pastavuokaa (* ,A ,ILM ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 3,20€",
-          "Price": null,
-          "Components": [
-            "Kebablihaa ja kasviksia (* ,A ,G ,L ,M ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-04T00:00:00+00:00",
       "LunchTime": "11-15",
       "SetMenus": [
@@ -71,7 +40,11 @@
           "SortOrder": 0,
           "Name": "BISTRO 9,10 €/opisk.5,85€ avoinna 11-13",
           "Price": null,
-          "Components": []
+          "Components": [
+            "Briossihampurilainen chilipaahdetulla lohella (A ,L ,M)",
+            "Tomaatti-chilimajoneesia (A ,G ,L ,M ,Veg)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
         }
       ]
     },
