@@ -5,50 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja \nsiten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. \nKiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-04T00:00:00+00:00",
-      "LunchTime": "11-15",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas 6,80 €/ opisk. 3,20 €",
-          "Price": null,
-          "Components": [
-            "Kasvispyöryköitä (* ,A ,G ,L ,M)",
-            "Jogurtti-yrttikastiketta (A ,G ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 3,20€",
-          "Price": null,
-          "Components": [
-            "Paneroitua seitifilettä (* ,A ,ILM ,L ,M)",
-            "Jogurtti-yrttikastiketta (A ,G ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas  6,80 €/ opisk. 3,20 €",
-          "Price": null,
-          "Components": [
-            "Kinkku-ananaspizzaa (A ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "BISTRO 9,10 €/opisk.5,85€ avoinna 11-13",
-          "Price": null,
-          "Components": [
-            "Briossihampurilainen chilipaahdetulla lohella (A ,L ,M)",
-            "Tomaatti-chilimajoneesia (A ,G ,L ,M ,Veg)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-05T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []

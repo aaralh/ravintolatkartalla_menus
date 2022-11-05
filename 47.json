@@ -5,58 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2022-11-04T00:00:00+00:00",
-      "LunchTime": "10.30 - 18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Soija-kasvismoussakaa (A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISKEITTO",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kebablihaa ja kasviksia (* ,A ,G ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "4,90 / 7,20 / 7,70 / 9,60",
-          "Components": [
-            "Alkaen 15:00: Tee oma tortillasi!!Siis täällä Lozzilla :) (A ,G ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Ananas-kookosriisiä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISKEITTO",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Ohraista curry-kasviskeittoa *, A, L, M, Veg, ILM ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-05T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []

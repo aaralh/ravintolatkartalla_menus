@@ -5,59 +5,6 @@
   "Footer": "Opiskelijalounas 1,25 – 4,50 e, henkilökunta 3,81 – 7,28 e, vierailijat 3,92 – 7,40 e.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-11-04T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "Op1,60€/Hk 4,21€/Vieras 4,29€",
-          "Components": [
-            "Porkkanaohukaisia (* ,A ,ILM)",
-            "Puolukkahilloa (G ,L ,M ,Veg)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto",
-          "Price": "Op 1,25€/Hk 3,81€/Vieras 3,92€",
-          "Components": [
-            "Maissikeittoa (* ,A ,G ,ILM ,L)",
-            "Tortilla-chipsejä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Paneroitua seitifilettä (* ,A ,ILM ,L ,M)",
-            "Jogurtti-yrttikastiketta (A ,G ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "Op0,57€/Hk 0,57€/Vieras 0,57€",
-          "Components": [
-            "Puolukkavispipuuroa (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Wicked rabbit",
-          "Price": "Op 5,35€/Hk 8,90€/Vieras 11,00€",
-          "Components": [
-            "Kukkakaali-manchegojuustopihvejä (A ,G ,ILM ,L)",
-            "Sitruunalla maustettua hummusta (G ,L ,M ,Veg ,VS)",
-            "Paahdettuja yrttiperunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-05T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
