@@ -3,6 +3,216 @@
   "RestaurantUrl": "https://www.semma.fi/ravintolat2/mattilanniemi/piato/",
   "PriceHeader": null,
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
-  "MenusForDays": [],
+  "MenusForDays": [
+    {
+      "Date": "2022-11-08T00:00:00+00:00",
+      "LunchTime": "10.30 - 16.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 6,30 / 8,40",
+          "Components": [
+            "Chili con vege (* ,A ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "3,20 / 6,30 / 8,40",
+          "Components": [
+            "Kalkkunaa ja vihanneksia kookoskastikkeessa (* ,A ,G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PAISTOPISTE",
+          "Price": "5,70 / 9,50 / 10,50",
+          "Components": [
+            "Yrtti-juustotäytteinen porsaanlehtipihvi (A ,G ,L)",
+            "Ranskalaisia perunoita (G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Mustaherukkakiisseliä (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-09T00:00:00+00:00",
+      "LunchTime": "10.30 - 16.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 6,30 / 8,40",
+          "Components": [
+            "Härkäpapu-makaronilaatikkoa (A ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "3,20 / 6,30 / 8,40",
+          "Components": [
+            "Rapeita kalapaloja (* ,A ,L ,M)",
+            "Tillikermaviilikastiketta (A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,70/ 9,30 / 9,60",
+          "Components": [
+            "Paahdettua broileria mustapippurikastikeella (G ,L ,M)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)",
+            "Kauden kasviksia (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Mariannetrifle ja  kiiviä (A ,L ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-10T00:00:00+00:00",
+      "LunchTime": "10.30 - 16.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 6,30 / 8,40",
+          "Components": [
+            "Rapeita kasvispuikkoja (G ,L ,M ,Veg)",
+            "Piparjuurimajoneesia (A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "3,20 / 6,30 / 8,40",
+          "Components": [
+            "Broileripastavuokaa (* ,A ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,70/ 9,30 / 9,60",
+          "Components": [
+            "Karamellisoitua kassleria ja kasvispaistosta (A ,G ,L ,M ,VS)",
+            "Paahdettuja lohkoperunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Uuniomenoita (G ,L ,M ,Veg)",
+            "Kauravaahtoa (A ,G ,L ,M ,Veg)",
+            "Kermavaahtoa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-11T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 6,30 / 8,40",
+          "Components": [
+            "Kookos-kasviscurrya luomutofulla (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "3,20 / 6,30 / 8,40",
+          "Components": [
+            "Jauhelihapyöryköitä (* ,A ,L ,M)",
+            "Ruskeaa kastiketta (* ,A ,L)",
+            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,70/ 9,30 / 9,60",
+          "Components": [
+            "Paneroitu kampelafilee (* ,A ,L ,M)",
+            "Kaprismajoneesia (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Puolukka-karpalokiisseliä (G ,L ,M ,Veg)",
+            "Kauravaahtoa (A ,G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-12T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 6,30 / 8,40",
+          "Components": [
+            "Kreikkalaista kasvis-juustokiusausta (* ,A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "3,20 / 6,30 / 8,40",
+          "Components": [
+            "Broileri-nuudelivuokaa (* ,A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,70/ 9,30 / 9,60",
+          "Components": [
+            "Mureaksi haudutettua nautaa ja porsasta punaviini-tattikastikkeessa (G ,L ,M)",
+            "Paahdettua perunaa (* ,G ,ILM ,L ,M ,Veg)",
+            "Grillattuja kasviksia (G ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Valkosuklaamoussea (A ,G)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-13T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
   "ErrorText": null
 }

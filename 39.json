@@ -3,6 +3,235 @@
   "RestaurantUrl": "https://www.foodandco.fi/ravintolat/Ravintolat-kaupungeittain/jyvaskyla/fiilu/",
   "PriceHeader": null,
   "Footer": null,
-  "MenusForDays": [],
+  "MenusForDays": [
+    {
+      "Date": "2022-11-08T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "11,30€",
+          "Components": [
+            "Soija-kasvisbolognesea / OP.3,20€ (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Pyttipannua / Op. 3,20€ (G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Rapeita kalapaloja / Op.5,85€ (* ,A ,L ,M)",
+            "Tartarkastiketta (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Mango-banaani fruitie (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KoKoa Bowl",
+          "Price": "10,50€",
+          "Components": [
+            "KoKoa Bowl ()",
+            "KoKoa Salaatti ()"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-09T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "11,30€",
+          "Components": [
+            "Kookos-kasviscurrya luomutofulla / Op.3,20€ (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Broilerinugetteja / Op.5,85€ (A ,L ,M)",
+            "Currymajoneesia (A ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Chilimaustettua porsaspataa / Op.3,20€ (* ,A ,G ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Mustikka-ruismurupaistosta (A ,L ,M ,Veg)",
+            "Kauravaahtoa (A ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KoKoa Bowl",
+          "Price": "10,50€",
+          "Components": [
+            "KoKoa Bowl ()",
+            "KoKoa Salaatti ()"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-10T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "9,10€",
+          "Components": [
+            "Thai-linssikeittoa / Op.3,20€ (* ,G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "11,30€",
+          "Components": [
+            "Metsäsieni-kasviskiusausta / Op.3,20€ (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Uunimakkara sipuli-juustotäytteellä / Op.5,85€ (A ,G ,L)",
+            "Perunasosetta (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Kalaa curry-kookoskastikkeessa / Op,3,20€ (* ,A ,G ,ILM ,L ,M)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Pannukakkua (A ,L)",
+            "Mansikkahilloa (G ,L ,M ,Veg)",
+            "Vaniljakermavaahtoa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-11T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "11,30€",
+          "Components": [
+            "Kasviskroketteja / Op,3,20€ (G ,ILM ,L ,M ,Veg ,VS)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "RIistabolognesea / Op.3,20€ (* ,A ,G ,L ,M ,VS)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": null,
+          "Components": [
+            "Juustokuorrutettua broileria / OP.5,85€ (A ,L)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": null,
+          "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": null,
+          "Components": [
+            "Tyrni-jogurttipannacottaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-12T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-11-13T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
   "ErrorText": null
 }

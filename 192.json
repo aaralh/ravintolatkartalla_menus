@@ -5,61 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua !\n\nPlease, kindly note that the raw materials used in the restaurants may vary from the planned and therefore the product specifications and dietary labels published at web sites may differ from the final and correct information that will be given at the restaurant. Persons with allergies are advised every time to check the suitability of the offered food choices to their diet at the restaurant. Thank you for your understanding.",
   "MenusForDays": [
     {
-      "Date": "2022-11-07T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00,  chef´s corner 11.00 - 13.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": "Opiskelija 3,20 €/ Aalto henkilökunta 5,89 € / Vieras 7,55 €",
-          "Components": [
-            "Falafel-pyöryköitä (A ,L ,M ,Veg ,VS)",
-            "Lime-yrttimajoneesia (A ,G ,ILM ,L ,M ,Veg)",
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "Opiskelija 3,20€/ Aalto henkilökunta 5,89 € / Vieras 7,55€",
-          "Components": [
-            "Butter Chicken (* ,A ,G ,L)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Fresh Bufee",
-          "Price": "Opiskelija 2,40 €/ Aalto henkilökunta 5,03 € / Vieras 6,40 €. Lisäproteiini 1,30 €/ kpl.",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Erikoisannos",
-          "Price": "Opiskelija 5,85€/ Aalto henkilökunta 8,72 € / Vieras 10,50 €",
-          "Components": [
-            "Pitkään haudutettua porsasta, pekonia ja bratwurstia punaviinikastikkeessa (G ,L ,M ,VS)",
-            "Paahdettuja perunoita (G ,ILM ,L ,M ,Veg)",
-            "Omenaista kaalihöystöä (A ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "1,65€ ( Pieni 0,85€)",
-          "Components": [
-            "Banaanirahkaa (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2022-11-08T00:00:00+00:00",
       "LunchTime": "10.30 - 14.00 ,chef´s corner 11.00 - 13.30",
       "SetMenus": [

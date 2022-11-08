@@ -5,57 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-07T00:00:00+00:00",
-      "LunchTime": "10.30 - 13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Pinaattiohukaisia (* ,A ,ILM)",
-            "Puolukkahilloa (G ,L ,M ,Veg)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasviskeitto",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Kukkakaalisosekeittoa (A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Jauhelihapyöryköitä (* ,A ,L ,M)",
-            "Rosepippurikastiketta (* ,A ,ILM ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Tonnikala-katkarapukastiketta (* ,A ,G ,L)",
-            "Luomutäysjyväpennepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "0,80 / 0,80 / 0,80",
-          "Components": [
-            "Päärynärahkaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-08T00:00:00+00:00",
       "LunchTime": "10.30 - 13.00",
       "SetMenus": [

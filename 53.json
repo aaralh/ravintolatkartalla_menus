@@ -5,64 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-11-07T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Quornia kookoskastikkeessa (* ,A ,G ,ILM ,L)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISKEITTO",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Tomaatti-perunasosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Broileria teriyakikastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Jauhelihapyöryköitä (* ,A ,L ,M)",
-            "Pippurikastiketta (* ,A ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": "1,00",
-          "Components": [
-            "Mustaherukka-ananasshotti (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mangorahkaa kerroksittain (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-08T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [

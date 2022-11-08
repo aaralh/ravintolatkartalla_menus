@@ -5,54 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-07T00:00:00+00:00",
-      "LunchTime": "11:00-14:30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "Vegaaninen kasviskeitto",
-          "Price": "6,40€/ Aalto henkilökunta 5,00€ / Opiskelija 2,80€€",
-          "Components": [
-            "Vegaanista pinaattikeittoa (A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "Kasvislounas",
-          "Price": null,
-          "Components": [
-            "Luomutäysjyväpennepastaa (* ,A ,ILM ,L ,M ,Veg)",
-            "Quornia Aurajuustokastikkeessa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 4,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Jauhelihapyöryköitä (* ,A ,L ,M)",
-            "Rosepippurikastiketta (* ,A ,ILM ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "Lounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 3,200€",
-          "Components": [
-            "Tonnikala-katkarapukastiketta (* ,A ,G ,L)",
-            "Luomutäysjyväpennepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-08T00:00:00+00:00",
       "LunchTime": "11:00-14:30",
       "SetMenus": [

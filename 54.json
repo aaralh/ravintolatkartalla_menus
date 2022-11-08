@@ -5,49 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-11-07T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
-            "Pico de gallo -linssisalsaa (* ,A ,ILM ,L ,M ,Veg ,VS)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
-            "Pico de gallo -linssisalsaa (* ,A ,ILM ,L ,M ,Veg ,VS)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Chili con Carnea jauhelihasta (* ,G ,L ,M)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mustikkarahkaa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-08T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
