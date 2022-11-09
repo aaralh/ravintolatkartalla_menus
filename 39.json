@@ -5,60 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-11-08T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "11,30€",
-          "Components": [
-            "Soija-kasvisbolognesea / OP.3,20€ (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "11,30€",
-          "Components": [
-            "Pyttipannua / Op. 3,20€ (G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "11,30€",
-          "Components": [
-            "Rapeita kalapaloja / Op.5,85€ (* ,A ,L ,M)",
-            "Tartarkastiketta (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Mango-banaani fruitie (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KoKoa Bowl",
-          "Price": "10,50€",
-          "Components": [
-            "KoKoa Bowl ()",
-            "KoKoa Salaatti ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-09T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [

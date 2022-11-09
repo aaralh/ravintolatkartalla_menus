@@ -5,54 +5,6 @@
   "Footer": "Hyvää ruokahalua!\n\nKELA - tukee jokaista opiskelija-ateriaa 2,30€ / päivä.\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-08T00:00:00+00:00",
-      "LunchTime": "10.30-13.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto",
-          "Price": "3,00€ / 8,40€",
-          "Components": [
-            "Bataattisosekeittoa (* ,A ,G ,ILM ,L)",
-            "Paahdettua hapankorppurouhetta (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20€ /9,70€",
-          "Components": [
-            "Skandinaavista seitiä (* ,A ,G ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20€/9,70€",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Päivän special",
-          "Price": "5,85€ / 11,30€",
-          "Components": [
-            "Kauden kasviksia (G ,L ,M ,Veg)",
-            "Kanaa Kiovan tapaan (A ,L ,VS)",
-            "Currykermaviilikastiketta (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "1,80€",
-          "Components": [
-            "Omenavispipuuroa (A ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-09T00:00:00+00:00",
       "LunchTime": "10.30-13.30",
       "SetMenus": [

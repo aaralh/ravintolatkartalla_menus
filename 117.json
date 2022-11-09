@@ -5,56 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-08T00:00:00+00:00",
-      "LunchTime": "10.30 - 13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas  2,85 / 5,85 / 7,60",
-          "Price": "opiskelija 2,85 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Kasvisbolognese-pennevuokaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas   2,85 / 5,85 / 7,60",
-          "Price": "opiskelija 2,85 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Perinteistä jauhelihakastiketta (* ,A ,ILM ,L ,M)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas   2,85 / 5,85 / 7,60",
-          "Price": "opiskelija 2,85 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Skandinaavista seitiä (* ,A ,G ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Erikoisannos  4,55 / 7,60 / 9,15",
-          "Price": "opiskelija 4,55 / henkilökunta 7,60 / vieras 9,15",
-          "Components": [
-            "Kanaa Kiovan tapaan (A ,L ,VS)",
-            "Currykermaviilikastiketta (A ,G ,L)",
-            "Keitettyjä perunoita  *, A, G, ILM, L, M, Veg ()"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka   0,80 / 0,80 / 0,80",
-          "Price": "0,80 / 0,80 / 0,80",
-          "Components": [
-            "Omenavispipuuroa (A ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-09T00:00:00+00:00",
       "LunchTime": "10.30 - 13.00",
       "SetMenus": [

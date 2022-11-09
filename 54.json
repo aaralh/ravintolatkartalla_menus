@@ -5,58 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-11-08T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Kikherne-bataattipataa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Kikherne-bataattipataa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Talon jauhelihapihvi pekoni-tomaattikuorrutteella (A ,L ,M ,VS)",
-            "Paahdettuja lohkoperunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "PAISTOPISTE",
-          "Price": "5,70/10,40",
-          "Components": [
-            "Porsaan grillipihvi (* ,G ,L ,M)",
-            "BBQ-kastiketta (* ,A ,G ,L ,M)",
-            "Porkkana-perunasosetta (A ,G ,ILM ,L)",
-            "Kauden kasviksia (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mangosmoothie (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-09T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
