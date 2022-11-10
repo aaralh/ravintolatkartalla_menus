@@ -5,40 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja \nsiten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. \nKiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-09T00:00:00+00:00",
-      "LunchTime": "11-15",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas 6,80 €/ opisk. 3,20 €",
-          "Price": null,
-          "Components": [
-            "Paneroidut kasvispihvit (* ,A ,G ,L)",
-            "Jogurtti-kurkkukastiketta (A ,G ,ILM ,L ,VS)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 3,20 €",
-          "Price": null,
-          "Components": [
-            "Kebabrisottoa (* ,G ,L ,M ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas  6,80 €/ opisk. 3,20 €",
-          "Price": null,
-          "Components": [
-            "Kalapuikkoja (* ,A ,L ,M)",
-            "Jogurtti-kurkkukastiketta (A ,G ,ILM ,L ,VS)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-10T00:00:00+00:00",
       "LunchTime": "11-15",
       "SetMenus": [
@@ -108,7 +74,11 @@
           "SortOrder": 0,
           "Name": "BISTRO 9,10 €/opisk.5,85€ avoinna 11-13",
           "Price": null,
-          "Components": []
+          "Components": [
+            "Briossihampurilainen vuohenjuustolla (A ,VL)",
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
+            "BBQ -majoneesia (A ,G ,L ,M ,Veg ,VS)"
+          ]
         }
       ]
     },

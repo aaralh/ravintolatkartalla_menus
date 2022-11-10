@@ -5,57 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-09T00:00:00+00:00",
-      "LunchTime": "10.30 - 13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Chakalaka- kasvispataa (A ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Broilerijauheliha-kasvispihvejä (* ,A ,L ,M)",
-            "Valkosipuli-limejogurttikastiketta (A ,G ,ILM ,L ,VS)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Villikalakiusausta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Erikoisannos",
-          "Price": "4,55 / 7,60 / 9,15",
-          "Components": [
-            "Porsaan grillipihvi (* ,G ,L ,M)",
-            "Pippurista tuorejuustokastiketta (A ,G ,L)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "0,80 / 0,80 / 0,80",
-          "Components": [
-            "Pappilan hätävaraa (A ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-10T00:00:00+00:00",
       "LunchTime": "10.30 - 13.00",
       "SetMenus": [
