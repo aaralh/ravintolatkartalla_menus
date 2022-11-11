@@ -5,55 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-11-10T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Kasvispastavuokaa (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Bolognesekastiketta (* ,A ,G ,L ,M ,VS)",
-            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Kapriksella ja tillillä maustettuja kalamurekepihvejä (* ,A ,ILM ,L ,M)",
-            "Tillikermaviilikastiketta (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Nakkiborssikeittoa (A ,G ,L ,M)",
-            "Smetanaa (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "4,00",
-          "Components": [
-            "Herkkupöytä ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-11T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [
@@ -96,7 +47,7 @@
           "Name": "LOUNAS",
           "Price": "4,90 / 7,60 / 9,60",
           "Components": [
-            "Burgeri ()"
+            "Burgeri perjantai ()"
           ]
         }
       ]
