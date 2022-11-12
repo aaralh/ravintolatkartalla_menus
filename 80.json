@@ -5,57 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-11-11T00:00:00+00:00",
-      "LunchTime": "10.30 - 15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Yrttimaustettu broilerinkoipi (G ,L ,M)",
-            "Yrttikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Salaattiaterian proteiiniosa",
-          "Price": "2,50 / 5,14 / 8,00 €",
-          "Components": [
-            "Basilikamarinoitua mozzarellaa (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Teemalounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Kvinoalla ja mungpavuilla täytettyjä paprikoita (* ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)",
-            "Aiolia (A ,G ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Teema kasviskeitto",
-          "Price": "2,50/ 5,14 / 8,00 €",
-          "Components": [
-            "Tomaattikeittoa (A ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Teemalounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Broileri-katkarapupaellaa (* ,A ,G ,L ,M ,VS)",
-            "Aiolia (A ,G ,L ,M ,Veg ,VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-12T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []

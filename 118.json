@@ -5,57 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-11T00:00:00+00:00",
-      "LunchTime": "10.30 - 13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Juurespihvejä (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Ruohosipulimajoneesia (A ,G ,L ,M ,Veg)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Juustoista porkkanasosekeittoa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Kalapyöryköitä (* ,A ,G ,L ,M)",
-            "Tillikastiketta (* ,A ,ILM ,L)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "2,85 / 5,85 / 7,60",
-          "Components": [
-            "Broileri-nuudelivuokaa (* ,A ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "0,80 / 0,80 / 0,80",
-          "Components": [
-            "Omena-kauramurupaistosta (A ,L ,M ,Veg)",
-            "Vaniljakermavaahtoa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-12T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
