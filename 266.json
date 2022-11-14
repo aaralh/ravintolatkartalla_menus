@@ -5,7 +5,302 @@
   "Footer": "Opiskelijalounas edellyttää voimassa olevaa kelan ateriatukeen oikeuttavaa opiskelijakorttia. \nMuulla kuin kelan tukemalla opiskelijatodistuksella: opiskelijalounas 6,50 € \ngrillipisteen erikoislounas 11,20 €.\n \nNordic Buffet on kaikille 10,20 € hintainen. Nordic Buffet sisältää liha-, kala- tai kanaruuan lisäksi päivittäin myös kasvisruokavaihtoehdon. _________________________________________  \n\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-13T00:00:00+00:00",
+      "Date": "2022-11-14T00:00:00+00:00",
+      "LunchTime": "11-13",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Päivän keitto",
+          "Price": "7,10 €",
+          "Components": [
+            "Tomaatti-vuohenjuustokeittoa (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Nordic Buffet",
+          "Price": "10,20€",
+          "Components": [
+            "Raastepihvejä (* ,A ,L ,M)",
+            "Jogurtti-kurkkukastiketta (A ,G ,ILM ,L ,VS)",
+            "Broileria teriyakikastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Grillipisteessä",
+          "Price": "11,20 €",
+          "Components": [
+            "Paahdettua kirjolohta (* ,A ,G ,ILM ,L ,M)",
+            "Tzatsikia (A ,G ,ILM ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Name": "Kasvislounas opiskelija",
+          "Price": null,
+          "Components": [
+            "Raastepihvejä (* ,A ,L ,M)",
+            "Jogurtti-kurkkukastiketta (A ,G ,ILM ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Name": "Opiskelijalounas",
+          "Price": null,
+          "Components": [
+            "Broileria teriyakikastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "Jälkiruoka",
+          "Price": "1,50 €",
+          "Components": [
+            "Mandariinirahkaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-15T00:00:00+00:00",
+      "LunchTime": "11-13",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Päivän keitto",
+          "Price": "7,10 €",
+          "Components": [
+            "Porkkanasosekeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Nordic Buffet",
+          "Price": "10,20€",
+          "Components": [
+            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Jauhelihapihvejä ja metsäsienikastiketta (* ,A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Grillipisteessä",
+          "Price": "11,20 €",
+          "Components": [
+            "Chicken & chips (A ,G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Name": "Kasvislounas opiskelija",
+          "Price": null,
+          "Components": [
+            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Name": "Opiskelijalounas",
+          "Price": null,
+          "Components": [
+            "Jauhelihapihvejä ja metsäsienikastiketta (* ,A ,L)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "Jälkiruoka",
+          "Price": "1,50 €",
+          "Components": [
+            "Puolukka-kauramurupaistosta (A ,L ,M ,Veg)",
+            "Vaniljakastiketta (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-16T00:00:00+00:00",
+      "LunchTime": "11-13",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Päivän keitto",
+          "Price": "7,10 €",
+          "Components": [
+            "Täyteläistä mustajuurisosekeittoa (A ,G ,ILM ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Nordic Buffet",
+          "Price": "10,20€",
+          "Components": [
+            "Quornia currykastikkeessa (* ,A ,G ,ILM ,L)",
+            "Chilimaustettua porsaspataa (* ,A ,G ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Grillipisteessä",
+          "Price": "11,20 €",
+          "Components": [
+            "Naudanlihaa (G ,L ,M)",
+            "Täyteläistä tattikastiketta (A ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Name": "Kasvislounas opiskelija",
+          "Price": null,
+          "Components": [
+            "Quornia currykastikkeessa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Name": "Opiskelijalounas",
+          "Price": null,
+          "Components": [
+            "Chilimaustettua porsaspataa (* ,A ,G ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "Jälkiruoka",
+          "Price": "1,50 €",
+          "Components": [
+            "Valkosuklaamoussea (A ,G)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-17T00:00:00+00:00",
+      "LunchTime": "11-13",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Päivän keitto",
+          "Price": "7,10 €",
+          "Components": [
+            "Kukkakaalisosekeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Nordic Buffet",
+          "Price": "10,20€",
+          "Components": [
+            "Ratatouillea (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Kebablihakiusausta (A ,G ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Grillipisteessä",
+          "Price": "11,20 €",
+          "Components": [
+            "Pulled pork-hampurilainen (A ,L ,M ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Name": "Kasvislounas opiskelija",
+          "Price": null,
+          "Components": [
+            "Ratatouillea (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Name": "Opiskelijalounas",
+          "Price": null,
+          "Components": [
+            "Kebablihakiusausta (A ,G ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "Jälkiruoka",
+          "Price": "1,50 €",
+          "Components": [
+            "Mokkapala (A ,VL)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-18T00:00:00+00:00",
+      "LunchTime": "11-13",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Päivän keitto",
+          "Price": "7,10 €",
+          "Components": [
+            "Juuressosekeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kiilan salaattilounas",
+          "Price": "8,40 €",
+          "Components": []
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Nordic Buffet",
+          "Price": "10,20€",
+          "Components": [
+            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
+            "Paholaisenhilloa (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Broilerinugetteja (A ,L ,M)",
+            "Currymajoneesia (A ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 1,
+          "Name": "Grillipisteessä",
+          "Price": "11,20 €",
+          "Components": [
+            "Chorizo-paprikapizza (A ,VL)"
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Name": "Kasvislounas opiskelija",
+          "Price": null,
+          "Components": [
+            "Kasviskroketteja (G ,ILM ,L ,M ,Veg ,VS)",
+            "Paholaisenhilloa (* ,A ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Name": "Opiskelijalounas",
+          "Price": null,
+          "Components": [
+            "Broilerinugetteja (A ,L ,M)",
+            "Currymajoneesia (A ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "Jälkiruoka",
+          "Price": "1,50 €",
+          "Components": [
+            "Omena-kanelirahkaa (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-19T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-11-20T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

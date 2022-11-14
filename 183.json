@@ -3,12 +3,6 @@
   "RestaurantUrl": "https://www.foodandco.fi/ravintolat/Ravintolat-kaupungeittain/espoo/dipoli/",
   "PriceHeader": null,
   "Footer": "Ravintolamme on kelan ateriatuen piirissä 3,20 €/ ateria. Opiskelijahintaisen aterian edellytyksenä on voimassa oleva opiskelijakortti.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
-  "MenusForDays": [
-    {
-      "Date": "2022-11-13T00:00:00+00:00",
-      "LunchTime": "Suljettu",
-      "SetMenus": []
-    }
-  ],
+  "MenusForDays": [],
   "ErrorText": null
 }

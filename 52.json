@@ -5,7 +5,179 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-11-13T00:00:00+00:00",
+      "Date": "2022-11-14T00:00:00+00:00",
+      "LunchTime": "10.30–14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Soija-makaronilaatikkoa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Tomaatti-vuohenjuustokeittoa (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Broileria teriyakikastikkeessa (* ,A ,G ,ILM ,L ,M ,VS)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-15T00:00:00+00:00",
+      "LunchTime": "10.30–14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Härkismusakaa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Pinaattikeittoa (* ,A ,ILM ,L)",
+            "Keitetty kananmuna (A ,G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Rapeita kalapaloja (* ,A ,L ,M)",
+            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-16T00:00:00+00:00",
+      "LunchTime": "10.30–14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Feta-pinaatti-cashewpähkinäpizzaa (A ,VL)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)",
+            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kaali-jauhelihakeittoa (* ,A ,G ,L ,M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PAISTOPISTELOUNAS LINJASTA",
+          "Price": "5,70/8,30/9,30/9,60",
+          "Components": [
+            "Paneroitu kampelafilee (* ,A ,L ,M)",
+            "Tillimajoneesia (A ,G ,L ,M ,Veg)",
+            "Muhennettua perunaa (A ,G ,ILM ,L)",
+            "Timjamipaahdettua porkkanaa (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-17T00:00:00+00:00",
+      "LunchTime": "10.30–14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Porkkana-pestolasagnea (* ,A ,L ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Ratatouillea (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kalkkuna-kasviskeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-18T00:00:00+00:00",
+      "LunchTime": "10.30–14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Tahu goreng Indonesia (A ,G ,ILM ,L ,M ,Veg ,VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kesäkurpitsa-halloumipihvejä (A ,G ,VL)",
+            "Hunaja-limemajoneesia (* ,A ,G ,ILM ,L ,M)",
+            "Paahdettua perunaa (* ,G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kirjolohikeittoa (* ,A ,G ,ILM ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-19T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-11-20T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
