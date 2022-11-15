@@ -5,57 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-14T00:00:00+00:00",
-      "LunchTime": "10.30 - 13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas  2,85 / 5,85 / 7,60",
-          "Price": "opiskelija 2,85 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Raastepihvejä (* ,A ,L ,M)",
-            "Jogurtti-kurkkukastiketta (A ,G ,ILM ,L ,VS)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasviskeitto",
-          "Price": "opiskelija 2,85 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Tomaatti-perunasosekeittoa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas   2,85 / 5,85 / 7,60",
-          "Price": "opiskelija 2,85 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Kirjolohta ja seitiä sekä kasviksia inkiväärikastikkeessa (* ,A ,G ,ILM ,L ,M)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas   2,85 / 5,85 / 7,60",
-          "Price": "opiskelija 2,85 / henkilökunta 5,85 / vieras 7,60",
-          "Components": [
-            "Jauhelihapyöryköitä (* ,A ,L ,M)",
-            "Pippurikastiketta (* ,A ,L)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka   0,80 / 0,80 / 0,80",
-          "Price": "0,80 / 0,80 / 0,80",
-          "Components": [
-            "Mangosmoothie (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-15T00:00:00+00:00",
       "LunchTime": "10.30 - 13.00",
       "SetMenus": [

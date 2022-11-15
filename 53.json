@@ -5,66 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-11-14T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Falafel-pyöryköitä (A ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Butter Chicken (* ,A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Makkarakeittoa (* ,A ,G ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,70 / 8,30 / 9,20 / 10,20",
-          "Components": [
-            "Valkosipuliperuna-kebab (A ,G ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": "1,00",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": "1,00",
-          "Components": [
-            "Mustikka-vadelmashotti (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mariannerahkaa (A ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-15T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -91,6 +31,7 @@
           "Name": "LOUNAS",
           "Price": "3,20 / 5,70 / 6,30 / 8,40",
           "Components": [
+            "Etikkakurkkua (G ,L ,M ,Veg)",
             "Bolognesekastiketta (* ,A ,G ,L ,M ,VS)"
           ]
         },
@@ -115,7 +56,8 @@
           "Name": "JÄLKIRUOKA",
           "Price": "1,20",
           "Components": [
-            "Mansikkarahkaa (A ,G ,L)"
+            "Mansikkarahkaa (A ,G ,L)",
+            "Suklaamoussea (A ,G ,L)"
           ]
         }
       ]
@@ -146,14 +88,17 @@
           "Name": "LOUNAS",
           "Price": "3,20 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Naudanlihaa ja kasviksia kiinalaisittain (A ,G ,L ,M ,VS)"
+            "Naudanlihaa ja kasviksia kiinalaisittain (A ,G ,L ,M ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": null,
           "Price": "1,00",
-          "Components": []
+          "Components": [
+            "Kauden kasviksia (G ,L ,M ,Veg)"
+          ]
         },
         {
           "SortOrder": 0,
@@ -168,7 +113,8 @@
           "Name": "JÄLKIRUOKA",
           "Price": "1,20",
           "Components": [
-            "Suklaamoussea (A ,G ,L)"
+            "Suklaamoussea (A ,G ,L)",
+            "Mustikkavispipuuroa (A ,L ,M ,Veg)"
           ]
         }
       ]
@@ -182,7 +128,9 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "3,20 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Kookos-kasviscurrya luomutofulla (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
+            "Kookos-kasviscurrya luomutofulla (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)",
+            "Kasviskiusausta (* ,A ,G ,ILM ,L ,M ,Veg)"
           ]
         },
         {
@@ -190,7 +138,8 @@
           "Name": "LOUNAS",
           "Price": "3,20 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Jauheliha-makaronilaatikkoa (A ,L)"
+            "Jauheliha-makaronilaatikkoa (A ,L)",
+            "Tomaattiketsuppia (G ,L ,M ,Veg)"
           ]
         },
         {
@@ -198,6 +147,9 @@
           "Name": "LOUNAS",
           "Price": "5,70 / 8,30 / 9,20 / 10,20",
           "Components": [
+            "Choronkastiketta (A ,G)",
+            "Kauden kasviksia (G ,L ,M ,Veg)",
+            "Paahdettuja perunoita (G ,ILM ,L ,M ,Veg)",
             "Kanaa Kiovan tapaan (A ,L ,VS)"
           ]
         },
@@ -205,7 +157,9 @@
           "SortOrder": 0,
           "Name": null,
           "Price": "1,00",
-          "Components": []
+          "Components": [
+            "Kauden kasviksia (G ,L ,M ,Veg)"
+          ]
         },
         {
           "SortOrder": 0,
@@ -242,7 +196,9 @@
           "Name": "LOUNAS",
           "Price": "3,20 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Broilerinugetteja (A ,L ,M)"
+            "Broilerinugetteja (A ,L ,M)",
+            "Omena-currykastiketta (* ,A ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
           ]
         },
         {
@@ -250,6 +206,7 @@
           "Name": "LOUNAS",
           "Price": "5,70 / 8,30 / 9,20 / 10,20",
           "Components": [
+            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
             "Tulinen nyhtöpossu briossihampurilainen (A ,L ,M)"
           ]
         },
