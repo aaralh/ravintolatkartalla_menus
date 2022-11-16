@@ -5,63 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-11-15T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "11,30€",
-          "Components": [
-            "Halloumi-kasvispataa / Op. 3,20€ (* ,A ,ILM)",
-            "Yrteillä maustettuja perunoita (A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "11,30€",
-          "Components": [
-            "Saksanhirvi-juurespataa / Op. 3,20€ (* ,G ,L ,M)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "11,30€",
-          "Components": [
-            "Sitruunaisia kalapaloja / Op, 5,85€ (* ,A ,L ,M)",
-            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Keitettyjä perunoita (* ,A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Mustikkavispipuuroa (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KoKoa Bowl",
-          "Price": "10,50€",
-          "Components": [
-            "KoKoa Bowl ()",
-            "KoKoa Salaatti ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-16T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [

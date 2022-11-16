@@ -5,57 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-11-15T00:00:00+00:00",
-      "LunchTime": "Klo 10.30-18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "Opiskelija 1,60 € / Henkilökunta 4,12 € / Vierailija 4,29 €",
-          "Components": [
-            "Quornia Aurajuustokastikkeessa (* ,A ,G ,ILM ,L)",
-            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto",
-          "Price": "Opiskelija 1,25 € / Henkilökunta 3,81 € / Vieras 3,92 €",
-          "Components": [
-            "Kolmen sipulin keittoa krutongeilla (* ,A ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kotiruokalounas",
-          "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vierailija 5,36 €",
-          "Components": [
-            "Jauheliha-makaronilaatikkoa (A ,L)",
-            "Tomaattiketsuppia (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Erikoisannos",
-          "Price": "Opiskelija 5,85 € / Henkilökunta 8,73 € / Vieras 11,40 €",
-          "Components": [
-            "Briossihampurilainen vuohenjuustolla (A ,VL)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
-            "BBQ -majoneesia (A ,G ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "Opiskelija 0,57 € / Henkilökunta 0,57 € / Vieras 1,20 €",
-          "Components": [
-            "Ruusunmarjakiisseliä (G ,L ,M ,Veg)",
-            "Kauravaahtoa (A ,G ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-16T00:00:00+00:00",
       "LunchTime": "Klo 10.30-18.00",
       "SetMenus": [
@@ -123,7 +72,7 @@
         },
         {
           "SortOrder": 0,
-          "Name": "Mexico-teema",
+          "Name": "Afrikka-teema",
           "Price": null,
           "Components": [
             "Falafel-pyöryköitä (A ,L ,M ,Veg ,VS)",
@@ -133,23 +82,27 @@
         },
         {
           "SortOrder": 0,
-          "Name": "Mexico-teema",
+          "Name": "Afrikka-teema",
           "Price": null,
           "Components": [
-            "Pähkinä-hedelmäpiirakkaa ja suolaista karamellikastiketta (A ,L)"
+            "Domoda- maapähkinäkeittoa (A ,G ,ILM ,L ,M ,Veg ,VS)"
           ]
         },
         {
           "SortOrder": 0,
-          "Name": "Mexico-teema",
+          "Name": "Afrikka-teema",
           "Price": null,
           "Components": [
-            "Kaali-punakaalisalaattia (G ,L ,M ,Veg)",
-            "Appelsiinia (G ,L ,M ,Veg)",
-            "Couscous-kasvissalaattia (A ,L ,M ,Veg)",
-            "Taboulleh (A ,L ,M ,Veg)",
-            "Limemaustettua vesimelonia (G ,L ,M)",
-            "Pistaasidukkah (A ,G ,L ,M ,Veg)"
+            "Broileri tagine (* ,A ,G ,L ,M ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Afrikka-teema",
+          "Price": null,
+          "Components": [
+            "Pähkinä-hedelmäpiirakkaa ja suolaista karamellikastiketta (A ,L)"
           ]
         }
       ]
