@@ -5,57 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-11-16T00:00:00+00:00",
-      "LunchTime": "Klo 10.30-18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "Opiskelija 1,60 € / Henkilökunta 4,12 € / Vierailija 4,29 €",
-          "Components": [
-            "Herne-kasvispihvejä (A ,L ,M)",
-            "Ruohosipulikermaviilikastiketta (A ,G ,ILM ,L)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto",
-          "Price": "Opiskelija 1,25 € / Henkilökunta 3,81 € / Vieras 3,92 €",
-          "Components": [
-            "Pinaattista juusto-perunasosekeittoa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kotiruokalounas",
-          "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vierailija 5,36 €",
-          "Components": [
-            "Kirjolohikiusausta (* ,A ,G ,ILM ,L)",
-            "Punajuurta (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Erikoisannos",
-          "Price": "Opiskelija 5,85 € / Henkilökunta 8,73 € / Vieras 11,40 €",
-          "Components": [
-            "Metsästäjänleike (A ,L)",
-            "Paahdettuja yrttiperunoita (G ,ILM ,L ,M ,Veg)",
-            "Kauden kasviksia (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "Opiskelija 0,57 € / Henkilökunta 0,57 € / Vieras 1,20 €",
-          "Components": [
-            "Mariannerahkaa (A ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-17T00:00:00+00:00",
       "LunchTime": "Klo 10.30-17.00",
       "SetMenus": [
@@ -125,7 +74,7 @@
           "Name": "Kotiruokalounas",
           "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vierailija 5,36 €",
           "Components": [
-            "Broilerinugetteja (A ,L ,M)",
+            "Jauhelihapyöryköitä (* ,A ,L ,M)",
             "Currymajoneesia (A ,G ,L ,M ,Veg)",
             "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
           ]
@@ -186,7 +135,7 @@
           "Name": "Erikoisannos",
           "Price": "Opiskelija 5,85 € / Henkilökunta 8,73 € / Vieras 11,40 €",
           "Components": [
-            "Kassleria cajunkastikkeessa (A ,G ,L ,VS)",
+            "Ylikypsää porsasta cajunkastikkeessa (A ,G ,L ,VS)",
             "Paahdettuja perunoita (G ,ILM ,L ,M ,Veg)"
           ]
         },

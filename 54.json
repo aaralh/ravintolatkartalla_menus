@@ -5,66 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-11-16T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Porkkanaohukaisia (G ,ILM ,L ,M ,Veg)",
-            "Puolukkahilloa (G ,L ,M ,Veg)",
-            "Paahdettua rosmariini-valkosipuliperunaa (G ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Talon porkkanaohukaisia (* ,A ,ILM ,L)",
-            "Puolukkahilloa (G ,L ,M ,Veg)",
-            "Paahdettua rosmariini-valkosipuliperunaa (G ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Broilerikiusausta (* ,A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "KEITTOLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Kirjolohi-seitikeittoa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "PAISTOPISTE",
-          "Price": "5,70/10,40",
-          "Components": [
-            "Pippurituorejuustotäytteinen porsaanlehtipihvi (A ,G ,L)",
-            "Valkosipuli-lohkoperunoita (G ,ILM ,L ,M ,Veg ,VS)",
-            "Paahdettuja rakuuna-porkkanoita (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mariannerahkaa (A ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-17T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
@@ -107,9 +47,9 @@
           "Name": "PAISTOPISTE",
           "Price": "5,70/10,40",
           "Components": [
-            "Vuohenjuustolla täytettyä broileria (A ,G ,VL)",
-            "Kookos-sitruunaruohokastiketta (G ,L ,M)",
-            "Salaatti paahdetuista juureksista (G ,L ,M ,Veg)"
+            "Porsaanleike (A ,L ,M)",
+            "Bearnaisekastiketta (A ,G)",
+            "Maalaisranskalaisia (G ,L ,M ,Veg)"
           ]
         },
         {

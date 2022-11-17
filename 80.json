@@ -5,61 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-11-16T00:00:00+00:00",
-      "LunchTime": "10.30 - 15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Soija-kasvisbolognesea (* ,A ,G ,ILM ,L ,M ,Veg)",
-            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto (KASVISBISTRO)",
-          "Price": "2,50/ 5,14 / 8,00 €",
-          "Components": [
-            "Täyteläistä mustajuurisosekeittoa (A ,G ,ILM ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Broilerinugetteja (A ,L ,M)",
-            "Currymajoneesia (A ,G ,L ,M ,Veg)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Kebablihakiusausta (A ,G ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Salaattiaterian proteiiniosa",
-          "Price": "2,50 / 5,14 / 8,00 €",
-          "Components": [
-            "Leipäjuustoa (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2022-11-17T00:00:00+00:00",
       "LunchTime": "10.30 - 15.00",
       "SetMenus": [
