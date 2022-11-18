@@ -5,38 +5,6 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nRuokalistamuutokset ovat mahdollisia.",
   "MenusForDays": [
     {
-      "Date": "2022-11-17T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 2,
-          "Name": "BUFFEE VEGAANINEN KASVISLOUNAS",
-          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
-          "Components": [
-            "Härkistä ja kasviksia teriyakiakastikkeessa (A ,G ,ILM ,L ,M ,Veg)",
-            "Jasminriisiä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 4,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
-          "Components": [
-            "Broileria Intialaisittain (A ,G ,L ,VS)",
-            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
-          "Components": [
-            "Kylmäsavulohipastaa (A ,ILM ,L ,VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-18T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [

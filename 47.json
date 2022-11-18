@@ -5,54 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2022-11-17T00:00:00+00:00",
-      "LunchTime": "10.30 -1 8.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Vegaanista soija-kasvis-nachovuokaa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISKEITTO",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Tomaattikeittoa (* ,A ,ILM ,L)",
-            "Paahdettuja siemeniä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Rapea seitifile *, A, L, M ()"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "4,90 / 7,20 / 7,70 / 9,60",
-          "Components": [
-            "Alkaen klo 15.00: Briossihampurilainen (A ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Banaanikakkua (A ,L ,M)",
-            "Kermavaahtoa (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-18T00:00:00+00:00",
       "LunchTime": "10.30 - 18.00",
       "SetMenus": [

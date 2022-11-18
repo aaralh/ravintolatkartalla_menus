@@ -5,64 +5,6 @@
   "Footer": "Ravintolamme on kelan ateriatuen piirissä 3,20 €/ ateria. Opiskelijahintaisen aterian edellytyksenä on voimassa oleva opiskelijakortti.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-11-17T00:00:00+00:00",
-      "LunchTime": "11.00-15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": null,
-          "Components": [
-            "Dal - Linssimuhennosta (* ,G ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas I",
-          "Price": null,
-          "Components": [
-            "Broileri-kookoskastiketta (A ,G ,L ,VS)",
-            "Intialaista mausteriisiä (G ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Papu-pinaattikeittoa (* ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas II",
-          "Price": null,
-          "Components": [
-            "Porsas Vindaloo (A ,G ,L ,M ,VS)",
-            "Kurkkuraitaa (A ,G ,ILM ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 29,
-          "Name": "Grillistä",
-          "Price": "5,80€ / 8,50€ / 11,50€",
-          "Components": [
-            "Paahdettua broileria ja ratatouillea (A ,G ,L ,M ,VS)",
-            "Papas arrugadas -perunoita (* ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 30,
-          "Name": "Grillistä",
-          "Price": "5,80€ / 8,50€ / 11,50€",
-          "Components": [
-            "Tomaatti-savumozzarellapizza (A ,VL)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-18T00:00:00+00:00",
       "LunchTime": "11.00 - 15.00",
       "SetMenus": [
