@@ -5,50 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-18T00:00:00+00:00",
-      "LunchTime": "11:00-14:30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": [
-            "Kauden salaattisekoitusta (G ,L ,M ,Veg)",
-            "Valkosipulimaustettuja kikherneitä (G ,L ,M ,Veg ,VS)",
-            "Kauden kasvis (G ,L ,M ,Veg)",
-            "Kauden kasvis (G ,L ,M ,Veg)",
-            "Kauden hedelmä (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "Vegaaninen kasviskeitto",
-          "Price": "6,40€/ Aalto henkilökunta 5,00€ / Opiskelija 2,80€€",
-          "Components": [
-            "Juustoista porkkanasosekeittoa (* ,A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "Vegaaninen Kasvislounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 3,20€",
-          "Components": [
-            "Soija-kasvistäytettä (* ,A ,G ,L ,M ,Veg ,VS)",
-            "Chili-kermaviilikastiketta (A ,G ,ILM ,L)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "Lounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 3,200€",
-          "Components": [
-            "Kinkku-ananaspizzaa (A ,L ,VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-19T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []

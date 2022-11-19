@@ -5,36 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-11-18T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Tahu goreng Indonesia (A ,G ,ILM ,L ,M ,Veg ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Jauhelihalasagnea (* ,A ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Kirjolohikeittoa (* ,A ,G ,ILM ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-19T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
