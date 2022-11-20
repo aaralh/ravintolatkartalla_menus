@@ -5,51 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-11-19T00:00:00+00:00",
-      "LunchTime": "12:00-17:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Mausteista paputäytettä (* ,A ,L ,M ,Veg ,VS)",
-            "Tacoja (G ,L ,M ,Veg)",
-            "Vegaanista barbequemajoneesia (A ,G ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Mausteista paputäytettä (* ,A ,L ,M ,Veg ,VS)",
-            "Tacoja (G ,L ,M ,Veg)",
-            "Chili-kermaviilikastiketta (A ,G ,ILM ,L)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Kebablihaa ja kasviksia (* ,A ,G ,L ,M ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "PAISTOPISTE",
-          "Price": "5,70/10,40",
-          "Components": [
-            "Tulinen nyhtöpossu briossihampurilainen (A ,L ,M)",
-            "BBQ -majoneesia (A ,G ,L ,M ,Veg ,VS)",
-            "Ranskalaisia perunoita (G ,ILM ,L ,M ,Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-20T00:00:00+00:00",
       "LunchTime": "12:00-17:00",
       "SetMenus": [
