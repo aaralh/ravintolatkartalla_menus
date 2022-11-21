@@ -5,7 +5,178 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nRuokalistamuutokset ovat mahdollisia.",
   "MenusForDays": [
     {
-      "Date": "2022-11-20T00:00:00+00:00",
+      "Date": "2022-11-21T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 2,
+          "Name": "BUFFEE KASVISLOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Tomaatti-vuohenjuustokastiketta (* ,A ,G ,ILM ,L ,VS)",
+            "Luomutäysjyväpennepastaa (* ,A ,ILM ,L ,M ,Veg)",
+            "Pastajuustoraastetta (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Broilerikiusausta (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Jauhelihapyöryköitä ja tomaatti-pekonikastiketta (A ,L ,M ,VS)",
+            "Luomutäysjyväpennepastaa (* ,A ,ILM ,L ,M ,Veg)",
+            "Pastajuustoraastetta (A ,G ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-22T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 2,
+          "Name": "BUFFEE KASVISLOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Härkistä ja nyhtökauraa tikka masala (* ,A ,G ,L ,VS)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Seitiä smetanakastikkeessa (* ,A ,G ,ILM ,L)",
+            "Perunasosetta (A ,G ,L)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Makkaravalikoima (A ,L)",
+            "Sinappirelish-kermaviilikastiketta (A ,G ,L)",
+            "Perunasosetta (A ,G ,L)",
+            "Puolukkahilloa (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-23T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 2,
+          "Name": "BUFFEE VEGAANINEN KASVISLOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Kikherne-kukkakaalicurrya (* ,G ,ILM ,L ,M ,Veg ,VS)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Kaali-jauhelihalaatikkoa (* ,G ,L ,M)",
+            "Puolukkahilloa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Juustoista broileri-paprikakastiketta (* ,A ,G ,L)",
+            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-24T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 2,
+          "Name": "BUFFEE KASVISLOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Talon porkkanaohukaisia (A ,ILM ,L)",
+            "Tartarkastiketta (A ,G ,L ,M ,Veg)",
+            "Paahdettuja yrttiperunoita (G ,ILM ,L ,M ,Veg)",
+            "Puolukkahilloa (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Talon kirjolohimureketta (A ,G ,ILM ,L)",
+            "Tartarkastiketta (A ,G ,L ,M ,Veg)",
+            "Paahdettuja yrttiperunoita (G ,ILM ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Pippurista possupataa (* ,A ,L)",
+            "Höyrytettyä riisiä (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-25T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 2,
+          "Name": "BUFFEE VEGAANINEN KASVISLOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Tacoja (G ,L ,M ,Veg)",
+            "Vöner- täytettä (* ,ILM ,L ,M ,Veg ,VS)",
+            "BBQ -majoneesia (A ,G ,L ,M ,Veg ,VS)",
+            "Kurkumariisiä (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Tacoja (G ,L ,M ,Veg)",
+            "Jauheliha-chilitäytettä (G ,L ,M)",
+            "BBQ -majoneesia (A ,G ,L ,M ,Veg ,VS)",
+            "Kurkumariisiä (G ,L ,M ,Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-26T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-11-27T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
