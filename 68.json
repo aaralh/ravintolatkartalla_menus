@@ -5,40 +5,6 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nRuokalistamuutokset ovat mahdollisia.",
   "MenusForDays": [
     {
-      "Date": "2022-11-21T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 2,
-          "Name": "BUFFEE KASVISLOUNAS",
-          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
-          "Components": [
-            "Tomaatti-vuohenjuustokastiketta (* ,A ,G ,ILM ,L ,VS)",
-            "Luomutäysjyväpennepastaa (* ,A ,ILM ,L ,M ,Veg)",
-            "Pastajuustoraastetta (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 4,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
-          "Components": [
-            "Broilerikiusausta (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "BUFFEE LOUNAS",
-          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
-          "Components": [
-            "Jauhelihapyöryköitä ja tomaatti-pekonikastiketta (A ,L ,M ,VS)",
-            "Luomutäysjyväpennepastaa (* ,A ,ILM ,L ,M ,Veg)",
-            "Pastajuustoraastetta (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-22T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
