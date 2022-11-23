@@ -5,62 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-11-22T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "11,30€",
-          "Components": [
-            "Punajuuri-Aurajuustokastiketta/ Op. 3,20€ (* ,A ,G ,ILM ,L)",
-            "Luomutäysjyväkierrepastaa (* ,A ,ILM ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "11,30€",
-          "Components": [
-            "Sinappikastiketta (* ,A ,G ,L)",
-            "Perunasosetta (* ,A ,G ,ILM ,L)",
-            "TexMex-uunimakkaraa/ Op. 5,85€ (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": null,
-          "Components": [
-            "Lohipastaa / Op.3,20€ (* ,A ,G ,ILM ,L ,M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": null,
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": null,
-          "Components": [
-            "Marja-kauramurupaistosta (A ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KoKoa Bowl",
-          "Price": "10,50€",
-          "Components": [
-            "KoKoa Bowl ()",
-            "KoKoa Salaatti ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-23T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [

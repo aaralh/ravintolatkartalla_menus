@@ -5,56 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-11-22T00:00:00+00:00",
-      "LunchTime": "10.30-14.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
-          "Price": "Opiskelija 1,60 € / Henkilökunta 4,12 € / Vieras 4,29 €",
-          "Components": [
-            "Kikherne-bataattipataa (* ,A ,G ,ILM ,L ,M ,Veg ,VS)",
-            "Höyrytettyä tummaa riisiä (* ,G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto",
-          "Price": "Opiskelija 1,25 € / Henkilökunta 3,81 € / Vieras 3,92 €",
-          "Components": [
-            "Tomaattikeittoa ja välimerellistä juustoa (A ,G ,L ,VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kotiruokalounas",
-          "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vieras 5,36 €",
-          "Components": [
-            "Kinkkukiusausta (* ,A ,G ,ILM ,L)",
-            "Punajuurta (G ,L ,M ,Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Erikoisannos",
-          "Price": "Opiskelija 5,85 € / Henkilökunta 8,73 € / Vieras 11,40 €",
-          "Components": [
-            "Pulled chicken briossihampurilainen kimchillä (A ,L ,M ,VS)",
-            "Paahdettuja uuniperunoita (* ,G ,ILM ,L ,M ,Veg)",
-            "Chilimajoneesia (A ,G ,L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "Opiskelija 0,57 € / Henkilökunta 0,57 € / Vieras 1,20 €",
-          "Components": [
-            "Mangosmoothie (A ,G ,L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-23T00:00:00+00:00",
       "LunchTime": "10.30-14.30",
       "SetMenus": [
