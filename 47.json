@@ -1,8 +1,74 @@
 {
-  "RestaurantName": null,
-  "RestaurantUrl": null,
+  "RestaurantName": "Ravintola Lozzi",
+  "RestaurantUrl": "https://www.semma.fi/ravintolat2/seminaarimaki/lozzi/",
   "PriceHeader": null,
-  "Footer": null,
-  "MenusForDays": null,
-  "ErrorText": "No menu found with selected cost number/language/date: 1401/fi/24.11.2022"
+  "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
+  "MenusForDays": [
+    {
+      "Date": "2022-11-25T00:00:00+00:00",
+      "LunchTime": "10.30 - 18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kasvispyöryköitä (*, A, G, ILM, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Punajuuripihvejä (G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Jauhelihalasagnea (A, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "4,90 / 7,20 / 7,70 / 9,60",
+          "Components": [
+            "Soija-coleslawhampurilainen (A, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "3,20 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Makkarakeittoa (*, A, G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Omena-puolukkapiirakkaa (A, L)",
+            "Vaniljakermavaahtoa (A, G, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-26T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-11-27T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
+  "ErrorText": null
 }

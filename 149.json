@@ -1,8 +1,143 @@
 {
-  "RestaurantName": null,
-  "RestaurantUrl": null,
+  "RestaurantName": "Itä-Suomen yliopisto / Mediteknia",
+  "RestaurantUrl": "https://www.foodandco.fi/ravintolat/Ravintolat-kaupungeittain/kuopio/ita-suomen-yliopisto--mediteknia/",
   "PriceHeader": null,
-  "Footer": null,
-  "MenusForDays": null,
-  "ErrorText": "No menu found with selected cost number/language/date: 0442/fi/24.11.2022"
+  "Footer": "Opiskelijalounas 1,25 – 4,50 e, henkilökunta 3,81 – 7,28 e, vierailijat 3,92 – 7,40 e.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
+  "MenusForDays": [
+    {
+      "Date": "2022-11-25T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "Op1,60€/Hk 4,21€/Vieras 4,29€",
+          "Components": [
+            "Rapeita kasvispuikkoja (G, L, M, Veg)",
+            "Kurkkusalsaa (*, A, G, ILM, L, M, Veg, VS)",
+            "Paahdettuja uuniperunoita (*, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto",
+          "Price": "Op 1,25€/Hk 3,81€/Vieras 3,92€",
+          "Components": [
+            "Kasvis-hernekeittoa (*, A, ILM, L, M, Veg)",
+            "Suolapähkinöitä (A, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "Op 2,60€/ Hk 5,24€/Vieras 5,36€",
+          "Components": [
+            "Jauheliha-makaronilaatikkoa (A, L)",
+            "Tomaattiketsuppia (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": [
+            "Rakuunamaustettu broileria (G, L, M)",
+            "Tillimarinoituja katkarapuja (A, G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": [
+            "Broilerikolmioleipä (A, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Op0,57€/Hk 0,57€/Vieras 0,57€",
+          "Components": [
+            "Mansikkapannacottaa (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": [
+            "Amerikansalaattia (G, L, M, Veg)",
+            "Herne-tilli-cappelipastasalaattia (A, L, M, Veg)",
+            "Chilimarinoituja kidneypapuja (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden hedelmä (G, L, M, Veg)",
+            "Tomaattisalaatinkastike (*, A, G, L, M, Veg, VS)",
+            "Balsamiviinietikkaa (G, L, M)",
+            "Oliiviöljyä (G, L, M, Veg)",
+            "Maapähkinöitä (A, G, L, M, Veg)",
+            "Nachoja (G, L, M, Veg)",
+            "Leipäpöytä (kg) ()",
+            "Ruokajuoma (kg) ()"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Wicked rabbit",
+          "Price": "Op 5,35€/Hk 8,90€/Vieras 11,00€",
+          "Components": [
+            "Nyhtökaura-aurajuustolasagnea (A, L, VS)",
+            "Pinaattia ja suolapähkinää (A, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": [
+            "Paahdettua punajuurta (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": [
+            "Tandoorilla maustettua porkkana-juustokeittoa (*, A, G, ILM, L)",
+            "Suolapähkinöitä (A, G, L, M, Veg)",
+            "Soijapaahdettuja auringonkukan- ja seesaminsiemeniä (A, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": [
+            "Kauden salaattisekoitusta (G, L, M, Veg)",
+            "Omena-mantelisalaattia (A, G, L, M)",
+            "Herne-linssisalaattia (A, L, M, Veg)",
+            "Chilipastaa (A, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden hedelmä (G, L, M, Veg)",
+            "Hunaja-sitruunakastiketta (*, G, L, M)",
+            "Mango-pinaattishotti (G, L, M, Veg)",
+            "Leipäpöytä (kg) ()",
+            "Ruokajuoma (kg) ()"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-26T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-11-27T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
+  "ErrorText": null
 }

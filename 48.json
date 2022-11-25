@@ -1,8 +1,63 @@
 {
-  "RestaurantName": null,
-  "RestaurantUrl": null,
+  "RestaurantName": "Ravintola Maija",
+  "RestaurantUrl": "https://www.semma.fi/ravintolat2/mattilanniemi/maija/",
   "PriceHeader": null,
-  "Footer": null,
-  "MenusForDays": null,
-  "ErrorText": "No menu found with selected cost number/language/date: 1402/fi/24.11.2022"
+  "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
+  "MenusForDays": [
+    {
+      "Date": "2022-11-25T00:00:00+00:00",
+      "LunchTime": "10.30-14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20 /6,30 /8,40",
+          "Components": [
+            "Herne-kasvispihvejä (A, ILM, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "3,20 /6,30 /8,40",
+          "Components": [
+            "Talon Lindströminpihvi (A, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "3,20 /6,30 /8,40",
+          "Components": [
+            "Meksikolaista chorizo-kasviskeittoa (*, A, G, L, M, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Amerikansalaattia (G, L, M, Veg)",
+            "Herne-tilli-cappelipastasalaattia (A, L, M, Veg)",
+            "Chilimarinoituja kidneypapuja (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden hedelmä (G, L, M, Veg)",
+            "Sinappisalaatinkastike (*, A, G, L, M, Veg)",
+            "Tomaattisalaatinkastike (*, A, G, L, M, Veg, VS)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-26T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-11-27T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
+  "ErrorText": null
 }

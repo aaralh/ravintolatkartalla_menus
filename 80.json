@@ -5,54 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-11-24T00:00:00+00:00",
-      "LunchTime": "10.30 - 15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Halloumi-kasvisbolognese-pennevuokaa (*, A, ILM)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasviskeitto (KASVISBISTRO)",
-          "Price": "2,50 / 5,14 / 8,00 €",
-          "Components": [
-            "Kasvis-hernekeittoa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Saksanhirvi-juurespataa (*, G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Lindströminpihvejä (A, L, M)",
-            "Meiramikastiketta (A, ILM, L)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Salaattiaterian proteiiniosa",
-          "Price": "2,50 / 5,14 / 8,00 €",
-          "Components": [
-            "Raejuustoa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-25T00:00:00+00:00",
       "LunchTime": "10.30 - 15.00",
       "SetMenus": [
@@ -97,6 +49,14 @@
           "Price": "2,50 / 5,14 / 8,00 €",
           "Components": [
             "Raejuustoa (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Kauden kasviksia (G, L, M, Veg)"
           ]
         }
       ]
