@@ -5,65 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-11-25T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Tofu-kasviswokkia (*, A, G, ILM, L, M, Veg)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Tofu-kasviswokkia (*, A, G, ILM, L, M, Veg)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Tonnikala-pinaattilasagnettea (A, L)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "PAISTOPISTE",
-          "Price": "5,70/10,40",
-          "Components": [
-            "Sveitsinleike (A, L)",
-            "Sitruuna-perunasosetta (A, G, ILM, L, M, Veg)",
-            "Timjamipaahdettua porkkanaa (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mustikka-ruismurupaistosta (A, L, M, Veg)",
-            "Kauravaahtoa (A, G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-26T00:00:00+00:00",
       "LunchTime": "12:00-17:00",
       "SetMenus": [
@@ -156,8 +97,7 @@
           "Components": [
             "Porsaan grillipihvi (*, G, L, M)",
             "Punaviinikastiketta (G, L, M, VS)",
-            "Juustoperunaa (A, G, L)",
-            "Kauden kasviksia (G, L, M, Veg)"
+            "Juustoperunaa (A, G, L)"
           ]
         }
       ]

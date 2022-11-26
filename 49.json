@@ -5,60 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-11-25T00:00:00+00:00",
-      "LunchTime": "10.30 - 15.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Luomutofu-kasvishöystöä (*, A, G, ILM, L, M, Veg, VS)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Tonnikala-pinaattilasagnettea (A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,70/ 9,30 / 9,60",
-          "Components": [
-            "Paahdettua broileria mustapippurikastikeella (G, L, M)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)",
-            "Kauden kasviksia (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Sitruunakiisseliä (G, L, M, Veg)",
-            "Kermavaahtoa (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": [
-            "Kauden salaattisekoitusta (G, L, M, Veg)",
-            "Herne-tilli-cappelipastasalaattia (A, L, M, Veg)",
-            "Chilimarinoituja kidneypapuja (G, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)",
-            "Vihreitä oliiveja (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-26T00:00:00+00:00",
       "LunchTime": "10.30 - 14.00",
       "SetMenus": [
