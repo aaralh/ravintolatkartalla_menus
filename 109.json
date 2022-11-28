@@ -5,7 +5,467 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-11-27T00:00:00+00:00",
+      "Date": "2022-11-28T00:00:00+00:00",
+      "LunchTime": "Klo 10.30-18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "Opiskelija 1,60 € / Henkilökunta 4,12 € / Vierailija 4,29 €",
+          "Components": [
+            "Punajuurikroketteja (*, G, ILM, L, M, Veg)",
+            "Paahdettuja uuniperunoita (*, G, ILM, L, M, Veg)",
+            "Ruohosipulikermaviilikastiketta (A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto",
+          "Price": "Opiskelija 1,25 € / Henkilökunta 3,81 € / Vieras 3,92 €",
+          "Components": [
+            "Kurpitsasosekeittoa (*, A, G, ILM, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kotiruokalounas",
+          "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Butter Chicken (*, A, G, L)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Erikoisannos",
+          "Price": "Opiskelija 5,85 € / Henkilökunta 8,73 € / Vieras 11,40 €",
+          "Components": [
+            "Saksanhirvikäristystä (*, G, L, M)",
+            "Perunasosetta (*, A, G, ILM, L)",
+            "Puolukkahilloa (G, L, M, Veg)",
+            "Suolakurkkua (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Opiskelija 0,57 € / Henkilökunta 0,57 € / Vieras 1,20 €",
+          "Components": [
+            "Vaahtokarkki-kinuskirahkaa (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Amerikansalaattia (G, L, M, Veg)",
+            "Porkkana-kukkakaaliraastetta (G, L, M, Veg)",
+            "Yrtti-bulgursalaattia (A, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Appelsiinilohkoja (G, L, M, Veg)",
+            "Tomaattisalaatinkastike (*, A, G, L, M, Veg, VS)",
+            "Sinappisalaatinkastike (*, A, G, L, M, Veg)",
+            "Hunaja-sitruunakastiketta (*, G, L, M)",
+            "Harissa-popcornia (A, G, L, M, Veg, VS)",
+            "Paahdettuja siemeniä (G, L, M, Veg)",
+            "Punajuuri-hummusta (G, L, M, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Onnenleipää (*, A, L, M, Veg)",
+            "Ruisreikäleipää (A, L, M, Veg)",
+            "Saarentytön-luomuleipää (A, L, M, Veg)",
+            "Artesaani vehnäleipä (A, L, Veg)",
+            "Kauraleipä (A, L, M, Veg)",
+            "Luomukauraleipä (A, L, M, Veg)",
+            "Siemenleipä (A, L)",
+            "Rouheleipä (A, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-29T00:00:00+00:00",
+      "LunchTime": "Klo 10.30-18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "Opiskelija 1,60 € / Henkilökunta 4,12 € / Vierailija 4,29 €",
+          "Components": [
+            "Kikherne-kukkakaalicurrya (*, G, ILM, L, M, Veg, VS)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kotiruokalounas",
+          "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Skandinaavista seitiä (*, A, G, L)",
+            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Keittolounas",
+          "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Jauheliha-gulassikeittoa (*, A, G, L, M, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Erikoisannos",
+          "Price": "Opiskelija 5,85 € / Henkilökunta 8,73 € / Vieras 11,40 €",
+          "Components": [
+            "Kanaa Kiovan tapaan (A, L, VS)",
+            "Currykermaviilikastiketta (A, G, L)",
+            "Sitruuna-perunasosetta (A, G, ILM, L, M, Veg)",
+            "Kauden kasviksia (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Opiskelija 0,57 € / Henkilökunta 0,57 € / Vieras 1,20 €",
+          "Components": [
+            "Omenavispipuuroa (A, L, M, Veg)",
+            "Vaniljakermavaahtoa (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Amerikansalaattia (G, L, M, Veg)",
+            "Seesam-punakaalisalaattia (A, G, L, M, Veg)",
+            "Saksalaista perunasalaattia (A, G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden hedelmä (G, L, M, Veg)",
+            "Paprikasalaattia (G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Onnenleipää (*, A, L, M, Veg)",
+            "Ruisreikäleipää (A, L, M, Veg)",
+            "Saarentytön-luomuleipää (A, L, M, Veg)",
+            "Artesaani vehnäleipä (A, L, Veg)",
+            "Kauraleipä (A, L, M, Veg)",
+            "Luomukauraleipä (A, L, M, Veg)",
+            "Siemenleipä (A, L)",
+            "Rouheleipä (A, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-30T00:00:00+00:00",
+      "LunchTime": "Klo 10.30-18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "Opiskelija 1,60 € / Henkilökunta 4,12 € / Vierailija 4,29 €",
+          "Components": [
+            "Kasvisbolognese-pennevuokaa (*, A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasviskeitto",
+          "Price": "Opiskelija 1,25 € / Henkilökunta 3,81 € / Vieras 3,92 €",
+          "Components": [
+            "Vegaanista pinaattikeittoa (A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kotiruokalounas",
+          "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Kebabrisottoa (*, G, L, M, VS)",
+            "Kurkku-tomaattisalsaa (A, G, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Erikoisannos",
+          "Price": "Opiskelija 5,85 € / Henkilökunta 8,73 € / Vieras 11,40 €",
+          "Components": [
+            "Kirjolohta tandoori-smetanakastikkeessa (A, G, L)",
+            "Purjo-perunasosetta (A, G, L)",
+            "Kauden kasviksia (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Opiskelija 0,57 € / Henkilökunta 0,57 € / Vieras 1,20 €",
+          "Components": [
+            "Valkosuklaamoussea (A, G)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Amerikansalaattia (G, L, M, Veg)",
+            "Lanttu-porkkana-retiisisalaattia (G, L, M, Veg)",
+            "Sinappi-pastasalaattia (A, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kurpitsa-mangosalaattia (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Onnenleipää (*, A, L, M, Veg)",
+            "Ruisreikäleipää (A, L, M, Veg)",
+            "Saarentytön-luomuleipää (A, L, M, Veg)",
+            "Artesaani vehnäleipä (A, L, Veg)",
+            "Kauraleipä (A, L, M, Veg)",
+            "Luomukauraleipä (A, L, M, Veg)",
+            "Siemenleipä (A, L)",
+            "Rouheleipä (A, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-01T00:00:00+00:00",
+      "LunchTime": "Klo 10.30-17.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "Opiskelija 1,60 € / Henkilökunta 4,12 € / Vierailija 4,29 €",
+          "Components": [
+            "Juurespihvejä (*, A, G, ILM, L, M, Veg)",
+            "Aurinkokuivatuilla tomaateilla maustettua majoneesia (A, G, ILM, L, M, Veg)",
+            "Paahdettuja lohkoperunoita (G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kotiruokalounas",
+          "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Kalaa smetana-kasviskastikkeessa (*, A, G, ILM, L, VS)",
+            "Paahdettuja uuniperunoita (*, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Keittolounas",
+          "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Hernekeittoa (*, A, ILM, L, M)",
+            "Hienonnettua sipulia (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Erikoisannos",
+          "Price": "Opiskelija 5,85 € / Henkilökunta 8,73 € / Vieras 11,40 €",
+          "Components": [
+            "Porsaan grillipihvi (*, G, L, M)",
+            "Salviavoi (A, G, L)",
+            "Punaviinikastiketta (G, L, M, VS)",
+            "Juustoperunaa (A, G, L)",
+            "Kauden kasviksia (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Opiskelija 0,57 € / Henkilökunta 0,57 € / Vieras 1,20 €",
+          "Components": [
+            "Pannukakkua (A, L)",
+            "Mansikkahilloa (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Amerikansalaattia (G, L, M, Veg)",
+            "Kukkakaali-couscoussalaattia (A, L, M, Veg)",
+            "Chilimarinoituja mustapapuja (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden hedelmä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Onnenleipää (*, A, L, M, Veg)",
+            "Ruisreikäleipää (A, L, M, Veg)",
+            "Saarentytön-luomuleipää (A, L, M, Veg)",
+            "Artesaani vehnäleipä (A, L, Veg)",
+            "Kauraleipä (A, L, M, Veg)",
+            "Luomukauraleipä (A, L, M, Veg)",
+            "Siemenleipä (A, L)",
+            "Rouheleipä (A, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-02T00:00:00+00:00",
+      "LunchTime": "Klo 10.30-16.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "Opiskelija 1,60 € / Henkilökunta 4,12 € / Vierailija 4,29 €",
+          "Components": [
+            "Tofu-kasviswokkia (*, A, G, ILM, L, M, Veg)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto",
+          "Price": "Opiskelija 1,25 € / Henkilökunta 3,81 € / Vieras 3,92 €",
+          "Components": [
+            "Juusto-paprikakeittoa (A, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kotiruokalounas",
+          "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Jauhelihatäytettä (*, A, L, M, VS)",
+            "Tacoja (G, L, M, Veg)",
+            "Chili-kermaviilikastiketta (A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Erikoisannos",
+          "Price": "Opiskelija 5,85 € / Henkilökunta 8,73 € / Vieras 11,40 €",
+          "Components": [
+            "Briossihampurilainen chilipaahdetulla lohella (A, L, M)",
+            "Paahdettuja uuniperunoita (*, G, ILM, L, M, Veg)",
+            "Tomaatti-chilimajoneesia (A, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Opiskelija 0,57 € / Henkilökunta 0,57 € / Vieras 1,20 €",
+          "Components": [
+            "Mustikka-ruismurupaistosta (A, L, M, Veg)",
+            "Kauravaahtoa (A, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Amerikansalaattia (G, L, M, Veg)",
+            "Porkkana-persikkasalaattia (G, L, M, Veg)",
+            "Paahdettua parsakaalia (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden hedelmä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Onnenleipää (*, A, L, M, Veg)",
+            "Ruisreikäleipää (A, L, M, Veg)",
+            "Saarentytön-luomuleipää (A, L, M, Veg)",
+            "Artesaani vehnäleipä (A, L, Veg)",
+            "Kauraleipä (A, L, M, Veg)",
+            "Luomukauraleipä (A, L, M, Veg)",
+            "Siemenleipä (A, L)",
+            "Rouheleipä (A, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-03T00:00:00+00:00",
+      "LunchTime": "Klo 11.00-15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "Opiskelija 1,60 € / Henkilökunta 4,12 € / Vierailija 4,29 €",
+          "Components": [
+            "Paneroidut kasvispihvit (*, A, G, ILM, L)",
+            "Jogurtti-kurkkukastiketta (A, G, ILM, L, VS)",
+            "Persiljaperunoita (*, A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kotiruokalounas",
+          "Price": "Opiskelija 2,60 € / Henkilökunta 5,24 € / Vierailija 5,36 €",
+          "Components": [
+            "Broilerikiusausta (*, A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Erikoisannos",
+          "Price": "Opiskelija 5,85 € / Henkilökunta 8,73 € / Vieras 11,40 €",
+          "Components": [
+            "Paahdettua broileria ja ratatouillea (A, G, L, M, VS)",
+            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)",
+            "Kauden kasviksia (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "Opiskelija 0,57 € / Henkilökunta 0,57 € / Vieras 1,20 €",
+          "Components": [
+            "Marjakiisseliä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Amerikansalaattia (G, L, M, Veg)",
+            "Porkkana-persikkasalaattia (G, L, M, Veg)",
+            "Paahdettua parsakaalia (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden hedelmä (G, L, M, Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-04T00:00:00+00:00",
       "LunchTime": "Suljettu/closed",
       "SetMenus": []
     }

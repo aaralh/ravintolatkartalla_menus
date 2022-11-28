@@ -5,7 +5,224 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nRuokalistamuutokset ovat mahdollisia.",
   "MenusForDays": [
     {
-      "Date": "2022-11-27T00:00:00+00:00",
+      "Date": "2022-11-28T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 2,
+          "Name": "BUFFEE KASVISLOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Kaura-punajuuripyöryköitä (*, A, ILM, L, M, Veg)",
+            "Ruohosipuli-kermaviilikastiketta (A, G, L)",
+            "Paahdettuja lohkoperunoita (G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Kylmäsavukirjolohi-juustokastiketta\n (A, ILM, L)",
+            "Luomutäysjyväpennepastaa (*, A, ILM, L, M, Veg)",
+            "Pastajuustoraastetta (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Jauhelihapyöryköitä (A, L, M)",
+            "Sinappikastiketta (A, G, L)",
+            "Paahdettuja lohkoperunoita (G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 7,
+          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
+          "Price": null,
+          "Components": [
+            "Paahdettua punajuurta (G, L, M, Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-29T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 1,
+          "Name": "BUFFEE KASVISKEITTO",
+          "Price": "VIERAILIJA 10,80€/ OPISK. 3,20€ / TAW 14.90€",
+          "Components": [
+            "Pinaattikeittoa (*, A, ILM, L)",
+            "Keitetty kananmuna (A, G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Broileria ja kasviksia teriyakikastikkeessa (A, G, L, M, VS)",
+            "Höyrytettyä riisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Porsaanlihastroganoffia (A, G, L, VS)",
+            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 7,
+          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
+          "Price": null,
+          "Components": [
+            "Kauden kasviksia (G, L, M, Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-30T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 2,
+          "Name": "BUFFEE VEGAANINEN KASVISLOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Kasvis-vehnärisottoa ja tofua (*, A, ILM, L, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Lahna-haukimurekepihvejä (A, G, ILM, L, M)",
+            "Kurkkukermaviilikastiketta (A, G, ILM, L)",
+            "Tilliperunoita (*, A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Jauhelihalasagnettea (A, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 7,
+          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
+          "Price": null,
+          "Components": [
+            "Paahdettua kukkakaalia (G, L, M, Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-01T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 2,
+          "Name": "BUFFEE KASVISLOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Maissi-kvinoapihvejä (*, A, ILM, L, M, VS)",
+            "Currykermaviilikastiketta (A, G, L)",
+            "Paprikariisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Juustoista savupalvikastiketta (*, A, G, ILM, L)",
+            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "11,30/ 4,50",
+          "Components": [
+            "Kanaa Kiovan tapaan (A, L, VS)",
+            "Currykermaviilikastiketta (A, G, L)",
+            "Paprikariisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 7,
+          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
+          "Price": null,
+          "Components": [
+            "Höyrytettyjä kasviksia (*, G, L, M, Veg)",
+            "Persiljaöljyä (*, G, L, M, Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-02T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 2,
+          "Name": "BUFFEE KASVISLOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Halloumi-porkkanahummuspizzaa (A, ILM, VS)",
+            "Valkosipulimurskaa (G, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Haukipyöryköitä (A, G, ILM, L, M)",
+            "Tartarkastiketta (A, G, L, M, Veg)",
+            "Paahdettuja yrttiperunoita (G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Name": "BUFFEE LOUNAS",
+          "Price": "VIERAILIJA 11,30€/ OPISK. 3,20€ / TAW 14,90/16,90",
+          "Components": [
+            "Yrttimaustettua porsaanfileetä (*, G, L, M)",
+            "Mausteista sinappikastiketta (A, G, ILM, L, VS)",
+            "Paahdettuja yrttiperunoita (G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 7,
+          "Name": "PÄIVÄN LÄMMINKASVISLISÄKE",
+          "Price": null,
+          "Components": [
+            "Kauden kasviksia (G, L, M, Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-03T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-12-04T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

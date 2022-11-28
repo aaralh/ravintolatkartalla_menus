@@ -5,7 +5,287 @@
   "Footer": "Ravintolamme on kelan ateriatuen piirissä 3,20 €/ ateria. Opiskelijahintaisen aterian edellytyksenä on voimassa oleva opiskelijakortti.\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-11-27T00:00:00+00:00",
+      "Date": "2022-11-28T00:00:00+00:00",
+      "LunchTime": "11.00-15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": []
+        },
+        {
+          "SortOrder": 13,
+          "Name": "Kasvislounas",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Kikherneitä ja kasviksia kormakastikkeessa (*, A, G, ILM, L, VS)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 22,
+          "Name": "Lounas  II",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Jauheliha-pastavuokaa (*, A, L)"
+          ]
+        },
+        {
+          "SortOrder": 23,
+          "Name": "Lounas III",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Lohimurekepihvejä (*, A, G, L, M)",
+            "Perunasosetta (*, A, G, ILM, L)",
+            "Tillikermaviilikastiketta (A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": "1,40€",
+          "Components": [
+            "Mariannerahkaa (A, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-29T00:00:00+00:00",
+      "LunchTime": "11.00-15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Chili sin carnea (*, A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": []
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Lounas I",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Kinkkukiusausta (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 23,
+          "Name": "Lounas III",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Jauhelihamureketta (A, L, M)",
+            "Perunasosetta (*, A, G, ILM, L)",
+            "Ruskeaa kastiketta (A, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 29,
+          "Name": "Grillistä",
+          "Price": "5,80€ / 8,50€ / 11,50€",
+          "Components": [
+            "Pekonipannupizza (A, L)"
+          ]
+        },
+        {
+          "SortOrder": 30,
+          "Name": "Grillistä",
+          "Price": "5,80€ / 8,50€ / 11,50€",
+          "Components": [
+            "Tulinen nyhtöpossu briossihampurilainen (A, L, M)",
+            "Paahdettuja uuniperunoita (*, G, ILM, L, M, Veg)",
+            "BBQ -majoneesia (A, G, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": "1,40€",
+          "Components": [
+            "Omena-kaurapiirakkaa (A, L)",
+            "Kanelikermavaahtoa (A, G, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-11-30T00:00:00+00:00",
+      "LunchTime": "11.00-15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Vöner- täytettä (*, ILM, L, M, Veg, VS)",
+            "Täysjyvävehnätortilla (A, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": []
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Lounas I",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Lindströminpihvejä (A, L, M)",
+            "Sipulikastiketta (*, A, L)",
+            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 23,
+          "Name": "Lounas III",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Broileri-Aurajuustokastiketta (*, A, G, L)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 30,
+          "Name": "Grillistä",
+          "Price": "5,80€ / 8,50€ / 11,50€",
+          "Components": [
+            "BBQ -majoneesia (A, G, L, M, Veg, VS)",
+            "Pekonipannupizza (A, L)",
+            "Juustohampurilainen (A)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": "1,40€",
+          "Components": [
+            "Suklaamoussea (A, G, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-01T00:00:00+00:00",
+      "LunchTime": "11.00-15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Kasviskiusausta (*, A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": []
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Lounas I",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Jauheliha-makaronilaatikkoa (A, L)",
+            "Tomaattiketsuppia (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 26,
+          "Name": "Päivän keitto",
+          "Price": "",
+          "Components": [
+            "Hernekeittoa (*, A, ILM, L, M)",
+            "Hienonnettua sipulia (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 30,
+          "Name": "Grillistä",
+          "Price": "5,80€ / 8,50€ / 11,50€",
+          "Components": [
+            "Briossihampurilainen vuohenjuustolla (A, VL)",
+            "Paahdettuja uuniperunoita (*, G, ILM, L, M, Veg)",
+            "BBQ -majoneesia (A, G, L, M, Veg, VS)",
+            "Pekonipannupizza (A, L)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": "1,40€",
+          "Components": [
+            "Pannukakkua (A, L)",
+            "Mansikkahilloa (G, L, M, Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-02T00:00:00+00:00",
+      "LunchTime": "11.00 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": []
+        },
+        {
+          "SortOrder": 13,
+          "Name": "Kasvislounas",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Herne-kasvispihvejä (A, ILM, L, M)",
+            "Harissalla maustettua jogurttikastiketta (A, G, ILM, L)",
+            "Paahdettuja uuniperunoita (*, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 21,
+          "Name": "Lounas I",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Teriyakimaustettua seitiä ja paahdettuja kasviksia (*, A, G, ILM, L, M, VS)",
+            "Paahdettuja uuniperunoita (*, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 23,
+          "Name": "Lounas III",
+          "Price": "3,20€ / 6,50€ / 9,30€",
+          "Components": [
+            "Jauheliha-paprikapizzaa (A, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 100,
+          "Name": "Jälkiruoka",
+          "Price": "1,40€",
+          "Components": [
+            "Passionpannacottaa (A, G, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-03T00:00:00+00:00",
+      "LunchTime": "Suljettu",
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-12-04T00:00:00+00:00",
       "LunchTime": "Suljettu",
       "SetMenus": []
     }
