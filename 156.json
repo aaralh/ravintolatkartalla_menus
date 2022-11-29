@@ -5,68 +5,6 @@
   "Footer": "Opiskelijahinta 3,20€/5,85€ sisältää yhden (1) lämminruokavaihtoehdon, salaattibuffan, leivän ja yhden (1) ruokajuoman. Opiskelijabuffet 11,30€ (ei sisällä kelatukea). Joka päivä saatavilla gluteeniton ja vegaaninen vaihtoehto, jos ruokalistalla ei ole automaattisesti. Kysythän henkilökunnalta! \nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-28T00:00:00+00:00",
-      "LunchTime": "10:30-14:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS BUFFA",
-          "Price": "11,30 €/ opisk. 3,20€",
-          "Components": [
-            "Mifu-linssiragulla täytetyt uuniperunat (*, A, G, ILM, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PÄIVÄN SOPPA",
-          "Price": "10,00 € / opisk. 3,20 €",
-          "Components": [
-            "Parsakaalisosekeittoa (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS BUFFA",
-          "Price": "11,30 € / opisk. 3,20 €",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS BUFFA",
-          "Price": "11,30 € /opisk. 3,20  €",
-          "Components": [
-            "Jauhelihapyöryköitä (A, L, M)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)",
-            "Dijonsinappikastiketta (A, G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "POP UP GRILL",
-          "Price": "11,30 €",
-          "Components": [
-            "Juustolla ja paprikalla täytetty broilerinfilee (*, A, G, L)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)",
-            "Tomaattimajoneesia (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKKÄRI MAKEAT",
-          "Price": "opisk. 1,70€",
-          "Components": [
-            "Mustikkarahkaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-29T00:00:00+00:00",
       "LunchTime": "10:30-14:00",
       "SetMenus": [

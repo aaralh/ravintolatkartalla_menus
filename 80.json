@@ -5,75 +5,8 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-11-28T00:00:00+00:00",
-      "LunchTime": "10.30 - 15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Quornia tomaatti-kasviskastikkeessa (*, A, G, ILM, L, M, VS)",
-            "Luomutäysjyväpennepastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasviskeitto (KASVISBISTRO)",
-          "Price": "2,50 / 5,14 / 8,00 €",
-          "Components": [
-            "Vegaanista pinaattikeittoa (A, ILM, L, M, Veg)",
-            "Paahdettuja siemeniä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Tonnikala-katkarapukastiketta (*, A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Jauhelihapyöryköitä (*, A, L, M)",
-            "Rosepippurikastiketta (*, A, ILM, L)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Salaattiaterian proteiiniosa",
-          "Price": "2,50 / 5,14 / 8,00 €",
-          "Components": [
-            "Serranokinkkua (G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": [
-            "Kauden kasviksia (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": [
-            "Annos, Kiovan kanaa ja perunasosetta, 320 g, Food&Co ()",
-            "Annos, Härkis ragu alla bolognese, 320 g, Food&Co ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-29T00:00:00+00:00",
-      "LunchTime": "10.30 - 15.00",
+      "LunchTime": "10.30 - 14.30",
       "SetMenus": [
         {
           "SortOrder": 0,
