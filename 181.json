@@ -5,52 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-29T00:00:00+00:00",
-      "LunchTime": "11:00-14:30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "Kasviskeitto",
-          "Price": "6,40€ / Aalto henkilökunta 5,00€/ Opiskelija 2,80€",
-          "Components": [
-            "Bataattisosekeittoa (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "Kasvislounas",
-          "Price": "",
-          "Components": [
-            "Halloumi-kasvispataa (*, A, ILM)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 4,
-          "Name": "Lounas",
-          "Price": "",
-          "Components": [
-            "Broilerikiusausta (*, A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "Lounas",
-          "Price": "8,45€/ Aalto henkilökunta 6,00€ / Opiskelija 3,20€",
-          "Components": [
-            "Bolognesekastiketta (*, A, G, L, M, VS)",
-            "Kierrepastaa (A, ILM, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-30T00:00:00+00:00",
       "LunchTime": "11:00-14:30",
       "SetMenus": [

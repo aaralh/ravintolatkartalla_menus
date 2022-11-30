@@ -5,69 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-11-29T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kikherne-kukkakaalicurrya (*, G, ILM, L, M, Veg, VS)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Perinteistä jauhelihakastiketta (*, A, L, M)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Broilerikiusausta (*, A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "1,00",
-          "Components": [
-            "Mustaherukka-rosmariinishotti (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Suklaamoussea (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Seesam-punakaalisalaattia (A, G, L, M, Veg)",
-            "Saksalaista perunasalaattia (A, G, L, M, Veg)",
-            "Linssi-tomaattisalaattia (A, L, M, Veg)",
-            "Kauden hedelmä (G, L, M, Veg)",
-            "Paprikasalaattia (G, L, M)",
-            "Tomaattisalaatinkastike (*, A, G, L, M, Veg, VS)",
-            "Sinappisalaatinkastike (*, A, G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-11-30T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
