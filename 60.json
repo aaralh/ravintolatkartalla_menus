@@ -5,47 +5,6 @@
   "Footer": "Hyvää ruokahalua!\n\nKELA - tukee jokaista opiskelija-ateriaa 2,30€ / päivä.\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-11-30T00:00:00+00:00",
-      "LunchTime": "10.30-13.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "3,20€ / 9,70€",
-          "Components": [
-            "Pinaattiohukaisia (*, A, ILM)",
-            "Puolukkahilloa (G, L, M, Veg)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20€ /9,70€",
-          "Components": [
-            "Porsaanliha-juureskastiketta (*, A, G, L, M, VS)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20€/9,70€",
-          "Components": [
-            "Villikalakiusausta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "1,80€",
-          "Components": [
-            "Vaahtokarkki-kinuskirahkaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-01T00:00:00+00:00",
       "LunchTime": "10.30-13.30",
       "SetMenus": [
