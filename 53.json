@@ -5,68 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-12-01T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Juurespihvejä (*, A, G, ILM, L, M, Veg)",
-            "Aurinkokuivatuilla tomaateilla maustettua majoneesia (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kalkkunaa ja vihanneksia kookoskastikkeessa (*, A, G, L, M)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kirjolohimurekepihvejä (A, ILM, L)",
-            "Paahdettuja lohkoperunoita (G, ILM, L, M, Veg)",
-            "Kananmuna-tillikastiketta (*, A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "1,00",
-          "Components": [
-            "Mustaherukka-rosmariinishotti (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Appelsiinipannacottaa ja marinoituja appelsiineja (A, G)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Kaali-kesäkurpitsa-retiisisalaattia (G, L, M, Veg)",
-            "Kukkakaali-couscoussalaattia (A, L, M, Veg)",
-            "Chilimarinoituja mustapapuja (G, L, M, Veg)",
-            "Kauden hedelmä (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-02T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [

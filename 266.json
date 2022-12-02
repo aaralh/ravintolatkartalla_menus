@@ -5,76 +5,6 @@
   "Footer": "Opiskelijalounas edellyttää voimassa olevaa kelan ateriatukeen oikeuttavaa opiskelijakorttia. \nMuulla kuin kelan tukemalla opiskelijatodistuksella: opiskelijalounas 6,50 € \ngrillipisteen erikoislounas 11,20 €.\n \nNordic Buffet on kaikille 10,20 € hintainen. Nordic Buffet sisältää liha-, kala- tai kanaruuan lisäksi päivittäin myös kasvisruokavaihtoehdon. _________________________________________  \n\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-12-01T00:00:00+00:00",
-      "LunchTime": "11-13",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Päivän keitto",
-          "Price": "7,10 €",
-          "Components": [
-            "Tomaattikeittoa (*, A, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "Nordic buffet",
-          "Price": "10,20€",
-          "Components": [
-            "Kasvispyöryköitä (*, A, G, ILM, L, M)",
-            "Tzatsikia (A, G, ILM, L, VS)",
-            "Bolognesekastiketta (*, A, G, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "Grillipisteessä",
-          "Price": "11,20 €",
-          "Components": [
-            "Briossihampurilainen rotukarjapihvi ja savujuusto (A, L)",
-            "Jauhelihapihvi (G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "Kasvislounas opiskelija",
-          "Price": "",
-          "Components": [
-            "Kasvispyöryköitä (*, A, G, ILM, L, M)",
-            "Tzatsikia (A, G, ILM, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "Opiskelijalounas",
-          "Price": "",
-          "Components": [
-            "Bolognesekastiketta (*, A, G, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "Jälkiruoka",
-          "Price": "1,50 €",
-          "Components": [
-            "Mustikkarahkaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-02T00:00:00+00:00",
       "LunchTime": "11-13",
       "SetMenus": [
@@ -89,13 +19,13 @@
         {
           "SortOrder": 0,
           "Name": "",
-          "Price": "",
+          "Price": null,
           "Components": []
         },
         {
           "SortOrder": 0,
           "Name": "",
-          "Price": "",
+          "Price": null,
           "Components": []
         },
         {
@@ -119,7 +49,7 @@
         {
           "SortOrder": 2,
           "Name": "Kasvislounas opiskelija",
-          "Price": "",
+          "Price": null,
           "Components": [
             "Kreikkalaista kasvis-juustokiusausta (*, A, G, ILM, L)"
           ]
@@ -127,7 +57,7 @@
         {
           "SortOrder": 3,
           "Name": "Opiskelijalounas",
-          "Price": "",
+          "Price": null,
           "Components": [
             "Kalapyöryköitä (*, A, G, ILM, L, M)",
             "Tillikastiketta (*, A, ILM, L)"

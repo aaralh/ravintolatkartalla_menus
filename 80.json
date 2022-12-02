@@ -5,65 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-12-01T00:00:00+00:00",
-      "LunchTime": "10.30 - 15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Kasvislounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Maissi-kvinoapihvejä (*, A, ILM, L, M, VS)",
-            "Tzatsikia (A, G, ILM, L, VS)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasviskeitto (KASVISBISTRO)",
-          "Price": "2,50 / 5,14 / 8,00 €",
-          "Components": [
-            "Tomaattikeittoa (A, G, ILM, L, M, Veg, VS)",
-            "Paahdettuja siemeniä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Harissalla maustettua kalkkunapataa (*, A, G, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Salaattiaterian proteiiniosa",
-          "Price": "2,50 / 5,14 / 8,00 €",
-          "Components": [
-            "Kinkku, palvi, rouhe (G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Joululounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Rosollia (G, L, M, Veg)",
-            "Punajuurikermaa (A, G, ILM, L)",
-            "Sienisalaattia (A, G, L)",
-            "Lanttulaatikkoa (A, G, L)",
-            "Imellettyä perunalaatikkoa (A, L)",
-            "Porkkanalaatikkoa (A, G, L)",
-            "Joulukinkkua (G, L, M)",
-            "Sinappikastiketta (A, G, L)",
-            "Höyrytettyjä herneitä (G, L, M, Veg)",
-            "Luumu-piparirahkaa (A, L)",
-            "Juhlalimppua ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-02T00:00:00+00:00",
       "LunchTime": "10.30 - 15.00",
       "SetMenus": [
@@ -101,14 +42,6 @@
           "Price": "3,20 / 5,97 / 8,80 €",
           "Components": [
             "Broileri-nuudelivuokaa (*, A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Salaattiaterian proteiiniosa",
-          "Price": "2,50 / 5,14 / 8,00 €",
-          "Components": [
-            "Kinkku, palvi, rouhe (G, L, M)"
           ]
         }
       ]
