@@ -5,42 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-12-02T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Soija-kasvismoussakaa (A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Soija-kasvismoussakaa (A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Kinkku-ananas-aurajuustopizzaa (A, L, VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-03T00:00:00+00:00",
       "LunchTime": "12:00-17:00",
       "SetMenus": [
@@ -80,10 +44,7 @@
           "SortOrder": 5,
           "Name": "PAISTOPISTE",
           "Price": "5,70/10,40",
-          "Components": [
-            "Briossihampurilainen rotukarjapihvi ja savujuusto (A, L)",
-            "Ranskalaisia perunoita (G, ILM, L, M, Veg)"
-          ]
+          "Components": []
         }
       ]
     },
