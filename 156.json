@@ -5,11 +5,6 @@
   "Footer": "Opiskelijahinta 3,20€/5,85€ sisältää yhden (1) lämminruokavaihtoehdon, salaattibuffan, leivän ja yhden (1) ruokajuoman. Opiskelijabuffet 11,30€ (ei sisällä kelatukea). Joka päivä saatavilla gluteeniton ja vegaaninen vaihtoehto, jos ruokalistalla ei ole automaattisesti. Kysythän henkilökunnalta! \nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-12-03T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": []
-    },
-    {
       "Date": "2022-12-04T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
