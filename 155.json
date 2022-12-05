@@ -1,14 +1,8 @@
 {
-  "RestaurantName": "Itä-Suomen yliopisto Snellmania",
-  "RestaurantUrl": "https://www.foodandco.fi/ravintolat/Ravintolat-kaupungeittain/kuopio/ita-suomen-yliopisto--snellmania/",
+  "RestaurantName": null,
+  "RestaurantUrl": null,
   "PriceHeader": null,
-  "Footer": "Opiskelijalounas 1,25– 4,00 €, henkilökunta 3,81 – 6,75 €, vierailijat 3,92 – 6,86 €. Hyvää ruokahalua! \n\nMuistathan noudattaa ohjeitamme turvallisesta ruokailusta!\n\n\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.",
-  "MenusForDays": [
-    {
-      "Date": "2022-12-04T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": []
-    }
-  ],
-  "ErrorText": null
+  "Footer": null,
+  "MenusForDays": null,
+  "ErrorText": "No menu found with selected cost number/language/date: 0437/fi/05.12.2022"
 }

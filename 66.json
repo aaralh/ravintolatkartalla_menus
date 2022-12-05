@@ -5,7 +5,170 @@
   "Footer": "Hyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\n*= korkeakouluopiskelijoiden ruokailusuosituksen mukainen ateriavaihtoehto",
   "MenusForDays": [
     {
-      "Date": "2022-12-04T00:00:00+00:00",
+      "Date": "2022-12-05T00:00:00+00:00",
+      "LunchTime": "10.30-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "3,20 / 9,30",
+          "Components": [
+            "Halloumi-kasvispataa (*, A, ILM)",
+            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 9,30",
+          "Components": [
+            "Chili con Carnea jauhelihasta (*, G, L, M)",
+            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-06T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-12-07T00:00:00+00:00",
+      "LunchTime": "10.30-14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "3,20 / 9,30",
+          "Components": [
+            "Kasvispyöryköitä (*, A, G, ILM, L, M)",
+            "Sinappirelishkermaviilikastiketta (A, G, L)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Kasviskeitto",
+          "Price": "3,20 / 9,30",
+          "Components": [
+            "Täyteläistä mustajuurisosekeittoa (A, G, ILM, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 9,30",
+          "Components": [
+            "Ruotsalaista pyttipannua (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 9,30",
+          "Components": [
+            "Kalaa kormakastikkeessa (*, A, G, ILM, L, VS)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-08T00:00:00+00:00",
+      "LunchTime": "10.30-14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasvislounas",
+          "Price": "3,20 / 9,30",
+          "Components": [
+            "Chili con vege (*, A, ILM, L, M, Veg, VS)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 9,30",
+          "Components": [
+            "Broileria teriyakikastikkeessa (*, A, G, ILM, L, M, VS)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Joululounas",
+          "Price": "5,85 / 9,80 / 13,50",
+          "Components": [
+            "Lasimestarin vihanneksia (G, L, M, Veg)",
+            "Vihersalaattia (G, L, M, Veg)",
+            "Mustaherukkasilliä (A, G, L, M)",
+            "Mausteista silliä (A, G, L, M)",
+            "Rosollia (G, L, M, Veg)",
+            "Punajuurikermaa (A, G, ILM, L)",
+            "Sienisalaattia (A, G, L)",
+            "Joulukinkkua (G, L, M)",
+            "Sinappikastiketta (A, G, L)",
+            "Lanttulaatikkoa (A, G, L)",
+            "Porkkanalaatikkoa (A, G, L)",
+            "Tilliperunoita (*, A, G, ILM, L, M, Veg)",
+            "Höyrytettyjä herneitä (G, L, M, Veg)",
+            "Sinappia (A, G, L, M, Veg)",
+            "Luumukiisseliä (G, L, M, Veg)",
+            "Kermavaahtoa (A, G, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-09T00:00:00+00:00",
+      "LunchTime": "10.30-14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "3,20 / 9,30",
+          "Components": [
+            "Raastepihvejä (*, A, ILM, L, M)",
+            "Ruohosipulikermaviilikastiketta (A, G, ILM, L)",
+            "Paahdettuja lohkoperunoita (G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Vegaaninen kasviskeitto",
+          "Price": "3,20 / 9,30",
+          "Components": [
+            "Linssi-kasviskeittoa (*, A, G, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "3,20 / 9,30",
+          "Components": [
+            "Pekoni-tomaattikuorrutettuja jauhelihapihvejä (A, L, M, VS)",
+            "Paahdettuja lohkoperunoita (G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Keittolounas",
+          "Price": "3,20 / 9,30",
+          "Components": [
+            "Seitikeittoa (*, A, G, ILM)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-10T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-12-11T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
