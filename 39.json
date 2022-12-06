@@ -1,8 +1,242 @@
 {
-  "RestaurantName": null,
-  "RestaurantUrl": null,
+  "RestaurantName": "Fiilu",
+  "RestaurantUrl": "https://www.foodandco.fi/ravintolat/Ravintolat-kaupungeittain/jyvaskyla/fiilu/",
   "PriceHeader": null,
   "Footer": null,
-  "MenusForDays": null,
-  "ErrorText": "No menu found with selected cost number/language/date: 3364/fi/05.12.2022"
+  "MenusForDays": [
+    {
+      "Date": "2022-12-06T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-12-07T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "11,30€",
+          "Components": [
+            "Luomutofu-kasvishöystöä/ Op.3,20€ (*, A, G, ILM, L, M, Veg, VS)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Naudanliha-smetanakastiketta/ Op.3,20€ (*, A, L)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "",
+          "Components": [
+            "Sitruuna-yrttimaustettua broileria/ Op.5,85€ (G, L, M)",
+            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Chef´s corner",
+          "Price": "",
+          "Components": [
+            "Vuohenjuustolla täytettyä broileria (A, G, VL)",
+            "Paholaisenhilloa (*, A, G, ILM, L, M, Veg)",
+            "Basmatiriisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "",
+          "Components": [
+            "Puolukka-karpalokiisseliä (G, L, M, Veg)",
+            "Kermavaahtoa (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-08T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "11,30€",
+          "Components": [
+            "Linssi-kasvislasagnea/ Op.3,20€ (*, A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "9,10€",
+          "Components": [
+            "Parsakaalisosekeittoa/ Op.3,20€ (*, A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Jauhelihakebakoita/ Op.5,85€ (A, L, M)",
+            "Chilimajoneesia (A, G, L)",
+            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Kirjolohikiusausta/ Op.3,20€ (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Chef´s corner",
+          "Price": "",
+          "Components": [
+            "Kebab iskender (A, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": [
+            "Paahdettua broileria (G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": [
+            "Couscous-punajuurisalaatti (A, L, M, Veg)",
+            "Kikherne-hernesalaattia (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden hedelmä (G, L, M, Veg)",
+            "Leipäpöytä (kg) ()",
+            "Ruokajuoma (kg) ()"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-09T00:00:00+00:00",
+      "LunchTime": "11.00-13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "11,30€",
+          "Components": [
+            "Talon porkkanaohukaisia/ Op. 3,20€ (*, A, ILM, L)",
+            "Puolukkahilloa (G, L, M, Veg)",
+            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "11,30€",
+          "Components": [
+            "Kebabliha-sipulipataa/ Op.3,20€ (*, A, G, L, VS)",
+            "Paahdettuja lohkoperunoita (G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas",
+          "Price": "",
+          "Components": [
+            "Paahdettuja juureksia ja perunaa (G, ILM, L, M, Veg)",
+            "Broilerinpaistia curry-smetanakastikeessa/ Op.5,85€ (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": [
+            "Kauden kasviksia (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "",
+          "Components": [
+            "Valkosuklaamoussea (A, G)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": [
+            "Amerikansalaattia (G, L, M, Veg)",
+            "Fenkolilla maustettua kaalisalaattia (G, L, M, Veg)",
+            "Herne-tilli-cappelipastasalaattia (A, L, M, Veg)",
+            "Chilimarinoituja kidneypapuja (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden hedelmä (G, L, M, Veg)",
+            "Leipäpöytä (kg) ()",
+            "Ruokajuoma (kg) ()"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-10T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2022-12-11T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
+  "ErrorText": null
 }

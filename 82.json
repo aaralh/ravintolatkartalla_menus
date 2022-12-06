@@ -5,40 +5,6 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja \nsiten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. \nKehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. \nKiitos ymmärryksestänne.",
   "MenusForDays": [
     {
-      "Date": "2022-12-05T00:00:00+00:00",
-      "LunchTime": "11-15",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas 6,80€/ opisk. 3,20€",
-          "Price": null,
-          "Components": [
-            "Kasviskroketteja (G, ILM, L, M, Veg, VS)",
-            "Persiljamajoneesia (A, G, ILM, L, M, Veg)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 3,20 €",
-          "Price": null,
-          "Components": [
-            "Villikala-kylmäsavukirjolohikiusausta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas 6,80 €/ opisk. 3,20€",
-          "Price": null,
-          "Components": [
-            "Karjalanpaistia (*, G, L, M)",
-            "Puolukkahilloa (G, L, M, Veg)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-06T00:00:00+00:00",
       "LunchTime": "11-15",
       "SetMenus": []

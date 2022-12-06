@@ -5,58 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-12-05T00:00:00+00:00",
-      "LunchTime": "10.30 - 16.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Punajuurikroketteja (*, G, ILM, L, M, Veg)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)",
-            "Persilja-limemajoneesia (A, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Jauhelihakastiketta (*, A, G, L)",
-            "Cappellipastaa (A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,70/ 9,30 / 9,60",
-          "Components": [
-            "Paahdettua broileria ja ratatouillea (A, G, L, M, VS)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)",
-            "Bearnaisekastiketta (A, G)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Porkkana-kukkakaaliraastetta (G, L, M, Veg)",
-            "Linssi-tomaattisalaattia (A, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-06T00:00:00+00:00",
       "LunchTime": "10.30 - 16.30",
       "SetMenus": []

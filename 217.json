@@ -5,38 +5,6 @@
   "Footer": "Opiskelijalounas 2,36€, henkilökunta 5,00 €, vieraat 8,90 €.\n\nHyvää ruokahalua!\n\nHuomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymmärryksestänne.\n\nPlease, kindly note that the raw materials used in the restaurants may vary from the planned and therefore the product specifications and dietary labels published at web sites may differ from the final and correct information that will be given at the restaurant. Persons with allergies are advised every time to check the suitability of the offered food choices to their diet at the restaurant. Thank you for your understanding.\n\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "MenusForDays": [
     {
-      "Date": "2022-12-05T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 13,
-          "Name": "Linjasto 2 & 3 & 4 & 5",
-          "Price": "",
-          "Components": [
-            "Kikherneitä ja kasviksia kormakastikkeessa (*, A, G, ILM, L, VS)",
-            "Höyrytettyä riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 21,
-          "Name": "Linjasto 2 & 3 & 4 & 5",
-          "Price": "",
-          "Components": [
-            "Saksanhirvi-sipulipataa (*, A, G, L, VS)",
-            "Persiljaperunoita (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 100,
-          "Name": "Jälkiruoka",
-          "Price": "",
-          "Components": [
-            "Mangorahkaa kerroksittain (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-06T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
