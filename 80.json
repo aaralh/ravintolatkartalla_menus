@@ -5,55 +5,12 @@
   "Footer": "Huomioithan, että ravintolassa käytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinnät ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkilöitä aina tarkastamaan tarjotun ruoan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos  ymmärryksestänne!",
   "MenusForDays": [
     {
-      "Date": "2022-12-07T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Kasviswokkia (*, A, G, ILM, L, M, Veg)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Kasviskeitto (KASVISBISTRO)",
-          "Price": "2,50/ 5,14 / 8,00 €",
-          "Components": [
-            "Täyteläistä mustajuurisosekeittoa (A, G, ILM, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": [
-            "Ruotsalaista pyttipannua (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2022-12-08T00:00:00+00:00",
       "LunchTime": "10.30 - 14.30",
       "SetMenus": [
         {
           "SortOrder": 0,
-          "Name": "Kasvislounas",
+          "Name": "Kasvislounas (LINJASTO)",
           "Price": "3,20 / 5,97 / 8,80 €",
           "Components": [
             "Raastepihvejä (*, A, L, M)",
@@ -76,12 +33,10 @@
         },
         {
           "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "3,20 / 5,97 / 8,80 €",
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,50 / 5,14 / 8,00 €",
           "Components": [
-            "Uunibroilerinuijia (G, L, M)",
-            "Chilimajoneesia (A, G, L)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+            "Broilerin paistia (G, L, M)"
           ]
         }
       ]
@@ -92,7 +47,7 @@
       "SetMenus": [
         {
           "SortOrder": 0,
-          "Name": "Vegaaninen kasvislounas",
+          "Name": "Vegaaninen kasvislounas (LINJASTO)",
           "Price": "3,20 / 5,97 / 8,80 €",
           "Components": [
             "Tahu goreng Indonesia (A, G, ILM, L, M, Veg, VS)",
@@ -119,6 +74,14 @@
           "Price": "3,20 / 5,97 / 8,80 €",
           "Components": [
             "Pekoni-tomaattikuorrutettuja jauhelihapihvejä (A, L, M, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattiaterian proteiiniosa",
+          "Price": "2,50 / 5,14 / 8,00 €",
+          "Components": [
+            "Broilerin paistia (G, L, M)"
           ]
         }
       ]

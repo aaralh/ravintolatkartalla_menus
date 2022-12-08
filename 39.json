@@ -5,76 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-12-07T00:00:00+00:00",
-      "LunchTime": "11.00-13.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "11,30€",
-          "Components": [
-            "Luomutofu-kasvishöystöä/ Op.3,20€ (*, A, G, ILM, L, M, Veg, VS)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "11,30€",
-          "Components": [
-            "Naudanliha-smetanakastiketta/ Op.3,20€ (*, A, L)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Lounas",
-          "Price": "",
-          "Components": [
-            "Sitruuna-yrttimaustettua broileria/ Op.5,85€ (G, L, M)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Chef´s corner",
-          "Price": "",
-          "Components": [
-            "Vuohenjuustolla täytettyä broileria (A, G, VL)",
-            "Paholaisenhilloa (*, A, G, ILM, L, M, Veg)",
-            "Basmatiriisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "",
-          "Components": [
-            "Puolukka-karpalokiisseliä (G, L, M, Veg)",
-            "Kermavaahtoa (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2022-12-08T00:00:00+00:00",
       "LunchTime": "11.00-13.00",
       "SetMenus": [
@@ -122,37 +52,27 @@
           "SortOrder": 0,
           "Name": "Chef´s corner",
           "Price": "",
-          "Components": [
-            "Kebab iskender (A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": [
-            "Paahdettua broileria (G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Jälkiruoka",
-          "Price": "",
           "Components": []
         },
         {
           "SortOrder": 0,
           "Name": "",
           "Price": "",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "",
           "Components": [
-            "Couscous-punajuurisalaatti (A, L, M, Veg)",
-            "Kikherne-hernesalaattia (G, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)",
-            "Kauden hedelmä (G, L, M, Veg)",
-            "Leipäpöytä (kg) ()",
-            "Ruokajuoma (kg) ()"
+            "Mariannerahkaa (A, L)"
           ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": []
         }
       ]
     },
@@ -192,9 +112,7 @@
           "SortOrder": 0,
           "Name": "",
           "Price": "",
-          "Components": [
-            "Kauden kasviksia (G, L, M, Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
@@ -208,17 +126,7 @@
           "SortOrder": 0,
           "Name": "",
           "Price": "",
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Fenkolilla maustettua kaalisalaattia (G, L, M, Veg)",
-            "Herne-tilli-cappelipastasalaattia (A, L, M, Veg)",
-            "Chilimarinoituja kidneypapuja (G, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)",
-            "Kauden hedelmä (G, L, M, Veg)",
-            "Leipäpöytä (kg) ()",
-            "Ruokajuoma (kg) ()"
-          ]
+          "Components": []
         }
       ]
     },
