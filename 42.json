@@ -5,68 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-12-08T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kreikkalaista juusto-kasvispataa (*, A, G, ILM, L)",
-            "Luomutäysjyväkierrepastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Mausteista linssisosekeittoa (A, G, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Uunimakkara sipuli-juustotäytteellä (A, G, L)",
-            "Sinappikastiketta (A, G, L)",
-            "Perunasosetta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "1,00",
-          "Components": [
-            "Mustaherukka-ananasshotti (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Suklaamoussea (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Coleslaw-salaattia (A, G, L, M, Veg)",
-            "Tomaatti-pestopastasalaattia (A, VL, VS)",
-            "Mausteisia jättipapuja (G, L, M, Veg)",
-            "Kauden hedelmä (G, L, M, Veg)",
-            "Ananaspaloja (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-09T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
