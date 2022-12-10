@@ -5,57 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-12-09T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Chili con vege (*, A, ILM, L, M, Veg, VS)",
-            "Höyrytettyä riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Fenkolilla maustettua kaalisalaattia (G, L, M, Veg)",
-            "Herne-tilli-cappelipastasalaattia (A, L, M, Veg)",
-            "Chilimarinoituja kidneypapuja (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Chili con vege (*, A, ILM, L, M, Veg, VS)",
-            "Höyrytettyä riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Meetvursti-ananaspizzaa (A, L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mansikkapannacottaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-10T00:00:00+00:00",
       "LunchTime": "12:00-17:00",
       "SetMenus": [

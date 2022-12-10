@@ -5,45 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2022-12-09T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Tahu goreng Indonesia (A, G, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Savulohitäytettä uuniperunalle (A, G, L)",
-            "Uuniperunaa (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Portugalilaista makkarakeittoa (A, G, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "TEEMALOUNAS",
-          "Price": "4,90 / 7,60 / 9,60",
-          "Components": [
-            "Burgeri perjantai ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-10T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
