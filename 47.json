@@ -5,47 +5,8 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2022-12-13T00:00:00+00:00",
-      "LunchTime": "10.30 -1 8.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Feta-pinaatti-cashewpähkinäpizzaa (A, VL)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISKEITTO",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Bataattisosekeittoa (*, A, G, ILM, L, M, Veg)",
-            "Paahdettuja siemeniä (A, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Sinappista porsaspataa (*, A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Tyrni-jogurttipannacottaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-14T00:00:00+00:00",
-      "LunchTime": "10.30 - 18.00",
+      "LunchTime": "10.30- 16.00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -84,7 +45,7 @@
     },
     {
       "Date": "2022-12-15T00:00:00+00:00",
-      "LunchTime": "10.30 -1 8.00",
+      "LunchTime": "10.30-1 6.00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -117,7 +78,7 @@
     },
     {
       "Date": "2022-12-16T00:00:00+00:00",
-      "LunchTime": "10.30 - 18.00",
+      "LunchTime": "10.30-14.30",
       "SetMenus": [
         {
           "SortOrder": 0,
