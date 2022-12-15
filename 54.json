@@ -5,49 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-12-14T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Kasviswokkia (*, A, G, ILM, L, M, Veg)",
-            "Höyrytettyä riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20/8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Kasviswokkia (*, A, G, ILM, L, M, Veg)",
-            "Höyrytettyä riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Porkkanalaatikkoa (*, A, G, ILM)",
-            "Lanttulaatikkoa (A, L)",
-            "Joulukinkkua (G, L, M)",
-            "Sinappikastiketta (A, G, L)",
-            "Punajuuri-Aurajuustokiusausta (A, G, ILM, L)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-15T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
