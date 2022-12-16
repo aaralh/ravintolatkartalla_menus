@@ -5,58 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-12-15T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Lanttulaatikkoa (A, L)",
-            "Porkkanalaatikkoa (*, A, G, ILM)",
-            "Imellettyä perunalaatikkoa (A)",
-            "Joulukinkkua (G, L, M)",
-            "Sinappikastiketta (A, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Sekahedelmäkiisseliä (G, L, M, Veg)",
-            "Kanelikermavaahtoa (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Tomaattisalaatinkastike (*, A, G, L, M, Veg, VS)",
-            "Sinappisalaatinkastike (*, A, G, L, M, Veg)",
-            "Höyrytettyjä herneitä (G, L, M, Veg)",
-            "Rosollia (G, L, M, Veg)",
-            "Metsäsienisalaattia (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-16T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [

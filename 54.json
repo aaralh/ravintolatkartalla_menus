@@ -5,62 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-12-15T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Tahu goreng Indonesia (A, G, ILM, L, M, Veg, VS)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Tahu goreng Indonesia (A, G, ILM, L, M, Veg, VS)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Broileripastavuokaa (*, A, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "PAISTOPISTE",
-          "Price": "5,70/10,40",
-          "Components": [
-            "Metsästäjänleike (A, L)",
-            "Ranskalaisia perunoita (G, ILM, L, M, Veg)",
-            "Paahdettua porkkanaa (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Ruusunmarjarahkaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-16T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
@@ -76,7 +20,12 @@
           "SortOrder": 0,
           "Name": "",
           "Price": "",
-          "Components": []
+          "Components": [
+            "Amerikansalaattia (G, L, M, Veg)",
+            "Retikka-retiisisalaattia (G, L, M, Veg)",
+            "Valkosipulimaustettuja kikherneitä (G, L, M, Veg, VS)",
+            "Kauden kasvis (G, L, M, Veg)"
+          ]
         },
         {
           "SortOrder": 1,
@@ -131,7 +80,13 @@
           "SortOrder": 0,
           "Name": "",
           "Price": "",
-          "Components": []
+          "Components": [
+            "Amerikansalaattia (G, L, M, Veg)",
+            "Seesam-maustettua papusalaattia (A, G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)",
+            "Kauden hedelmä (G, L, M, Veg)",
+            "Mandariinilohkoja (G, L, M, Veg)"
+          ]
         },
         {
           "SortOrder": 1,
@@ -169,7 +124,12 @@
           "SortOrder": 0,
           "Name": "",
           "Price": "",
-          "Components": []
+          "Components": [
+            "Amerikansalaattia (G, L, M, Veg)",
+            "Porkkana-kesäkurpitsasalaattia (G, L, M, Veg)",
+            "Perunasalaattia (A, G, L, M, Veg)",
+            "Seesam-maustettua papusalaattia (A, G, L, M, Veg)"
+          ]
         },
         {
           "SortOrder": 1,
