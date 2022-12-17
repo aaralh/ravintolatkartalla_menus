@@ -5,66 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-12-16T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Papu-vihannespastaa (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Retikka-retiisisalaattia (G, L, M, Veg)",
-            "Valkosipulimaustettuja kikherneitä (G, L, M, Veg, VS)",
-            "Kauden kasvis (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Papu-vihannespastaa (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Pepperonipizzaa (A, L)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "PAISTOPISTE",
-          "Price": "5,70/10,40",
-          "Components": [
-            "Pippurituorejuustotäytteinen porsaanlehtipihvi (A, G, L)",
-            "Ranskalaisia perunoita (G, ILM, L, M, Veg)",
-            "Paahdettuja juureksia (G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Omena-puolukkapiirakkaa (A, L)",
-            "Vaniljakermavaahtoa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-17T00:00:00+00:00",
       "LunchTime": "12:00-17:00",
       "SetMenus": [

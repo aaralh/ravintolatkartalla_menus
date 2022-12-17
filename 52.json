@@ -5,57 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2022-12-16T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Paputacoja A, L, M, Veg, VS, saattaa sis. gluteenia ()"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kalkkunaa rakuunakastikkeessa (*, A, G, L)",
-            "Luomutäysjyväkierrepastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Riisipuuroa (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": [
-            "Kauden salaattisekoitusta (G, L, M, Veg)",
-            "Herne-tilli-cappelipastasalaattia (A, L, M, Veg)",
-            "Chilimarinoituja kidneypapuja (G, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)",
-            "Vihreitä oliiveja (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTELOUNAS LINJASTA",
-          "Price": "5,70/8,30/9,30/9,60",
-          "Components": [
-            "Paahdettua broilerifileetä ja curry-kermaviilikastiketta A, G, L ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-17T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []

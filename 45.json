@@ -5,36 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2022-12-16T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Paputacoja ja smetanaa (A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Kalkkunaa rakuunakastikkeessa (*, A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Riisipuuroa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-17T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
