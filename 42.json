@@ -1,14 +1,8 @@
 {
-  "RestaurantName": "Kahvila Kvarkki",
-  "RestaurantUrl": "https://www.semma.fi/ravintolat2/ylistonrinne/kahvila-kvarkki/",
+  "RestaurantName": null,
+  "RestaurantUrl": null,
   "PriceHeader": null,
-  "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
-  "MenusForDays": [
-    {
-      "Date": "2022-12-18T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": []
-    }
-  ],
-  "ErrorText": null
+  "Footer": null,
+  "MenusForDays": null,
+  "ErrorText": "No menu found with selected cost number/language/date: 140301/fi/19.12.2022"
 }
