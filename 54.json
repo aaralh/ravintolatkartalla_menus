@@ -1,8 +1,178 @@
 {
-  "RestaurantName": null,
-  "RestaurantUrl": null,
+  "RestaurantName": "Ravintola Rentukka",
+  "RestaurantUrl": "https://www.semma.fi/ravintolat2/muut/ravintola-rentukka/",
   "PriceHeader": null,
-  "Footer": null,
-  "MenusForDays": null,
-  "ErrorText": "No menu found with selected cost number/language/date: 1416/fi/27.12.2022"
+  "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
+  "MenusForDays": [
+    {
+      "Date": "2022-12-28T00:00:00+00:00",
+      "LunchTime": "11:00-15:00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "3,20/8,40",
+          "Components": [
+            "Papu-paprika-maissitäytettä (A, G, ILM, L, M, Veg, VS)",
+            "Vehnätortillat (A, L, M, Veg)",
+            "Vegaanista barbequemajoneesia (A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": []
+        },
+        {
+          "SortOrder": 1,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20/8,40",
+          "Components": [
+            "Papu-paprika-maissitäytettä (A, G, ILM, L, M, Veg, VS)",
+            "Vehnätortillat (A, L, M, Veg)",
+            "Vegaanista barbequemajoneesia (A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Name": "LOUNAS",
+          "Price": "3,20/8,40",
+          "Components": [
+            "Jauhelihatäytettä (*, A, L, M, VS)",
+            "Vehnätortillat (A, L, M, Veg)",
+            "Vegaanista barbequemajoneesia (A, G, ILM, L, M, Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-29T00:00:00+00:00",
+      "LunchTime": "11:00-14:00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "3,20/8,40",
+          "Components": [
+            "Chili sin carnea (*, A, ILM, L, M, Veg)",
+            "Höyrytettyä riisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": [
+            "Kaali-kesäkurpitsa-retiisisalaattia (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 1,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20/8,40",
+          "Components": [
+            "Chili sin carnea (*, A, ILM, L, M, Veg)",
+            "Höyrytettyä riisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Name": "LOUNAS",
+          "Price": "3,20/8,40",
+          "Components": [
+            "Ruotsalaista pyttipannua (A, G, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-30T00:00:00+00:00",
+      "LunchTime": "11:00-15:00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "3,20/8,40",
+          "Components": [
+            "Tofu-kasviswokkia (*, A, G, ILM, L, M, Veg)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": []
+        },
+        {
+          "SortOrder": 1,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20/8,40",
+          "Components": [
+            "Tofu-kasviswokkia (*, A, G, ILM, L, M, Veg)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Name": "LOUNAS",
+          "Price": "3,20/8,40",
+          "Components": [
+            "Tonnikala-pinaattilasagnettea (A, L)"
+          ]
+        },
+        {
+          "SortOrder": 6,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2022-12-31T00:00:00+00:00",
+      "LunchTime": "11:00-15:00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "3,20/8,40",
+          "Components": [
+            "Bataatti-kookoscurryä (G, ILM, L, M, Veg, VS)",
+            "Höyrytettyä riisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": "",
+          "Components": []
+        },
+        {
+          "SortOrder": 1,
+          "Name": "KASVISLOUNAS",
+          "Price": "3,20/8,40",
+          "Components": [
+            "Bataatti-kookoscurryä (G, ILM, L, M, Veg, VS)",
+            "Höyrytettyä riisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Name": "LOUNAS",
+          "Price": "3,20/8,40",
+          "Components": [
+            "Mausteista makkara-pastavuokaa (A, L, VS)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-01-01T00:00:00+00:00",
+      "LunchTime": "11:00-15:00",
+      "SetMenus": []
+    }
+  ],
+  "ErrorText": null
 }
