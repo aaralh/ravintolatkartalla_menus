@@ -5,48 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2022-12-28T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Papu-paprika-maissitäytettä (A, G, ILM, L, M, Veg, VS)",
-            "Vehnätortillat (A, L, M, Veg)",
-            "Vegaanista barbequemajoneesia (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Papu-paprika-maissitäytettä (A, G, ILM, L, M, Veg, VS)",
-            "Vehnätortillat (A, L, M, Veg)",
-            "Vegaanista barbequemajoneesia (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "3,20/8,40",
-          "Components": [
-            "Jauhelihatäytettä (*, A, L, M, VS)",
-            "Vehnätortillat (A, L, M, Veg)",
-            "Vegaanista barbequemajoneesia (A, G, ILM, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2022-12-29T00:00:00+00:00",
       "LunchTime": "11:00-14:00",
       "SetMenus": [
