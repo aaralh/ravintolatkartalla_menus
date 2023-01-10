@@ -5,52 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-01-09T00:00:00+00:00",
-      "LunchTime": "10.30 - 16.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Quornia tomaatti-kasviskastikkeessa (*, A, ILM, L, M, VS)",
-            "Luomutäysjyväpennepastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Jauhelihatäyte meksikolaisittain (A, G, L, M, VS)",
-            "Täysjyvävehnätortilla (A, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,70/ 9,30 / 9,60",
-          "Components": [
-            "Kanaa Kiovan tapaan (A, L, VS)",
-            "Currykermaviilikastiketta (A, G, L)",
-            "Paahdettua bataattia ja paprikaa (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "",
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-01-10T00:00:00+00:00",
       "LunchTime": "10.30 - 16.30",
       "SetMenus": [
@@ -66,7 +20,7 @@
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
+          "Price": "2,95 / 6,30 / 8,40",
           "Components": [
             "Kalkkunaa ja vihanneksia kookoskastikkeessa (*, A, G, L, M)",
             "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
@@ -75,7 +29,7 @@
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "5,70/ 9,30 / 9,60",
+          "Price": "5,60/ 9,30 / 9,60",
           "Components": [
             "Karamellisoitua ylikypsää porsasta ja kasvispaistosta\n (A, G, L, M, VS)",
             "Paahdettuja lohkoperunoita (*, G, ILM, L, M, Veg)"
@@ -84,7 +38,7 @@
         {
           "SortOrder": 0,
           "Name": "",
-          "Price": "",
+          "Price": null,
           "Components": []
         }
       ]
@@ -96,7 +50,7 @@
         {
           "SortOrder": 0,
           "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
+          "Price": "2,95 / 6,30 / 8,40",
           "Components": [
             "Härkäpapu-makaronilaatikkoa (A, ILM, L)"
           ]
@@ -104,7 +58,7 @@
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
+          "Price": "2,95 / 6,30 / 8,40",
           "Components": [
             "Rapeita kalapaloja (*, A, ILM, L, M)",
             "Tillikermaviilikastiketta (A, G, ILM, L)",
@@ -114,7 +68,7 @@
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "5,70/ 9,30 / 9,60",
+          "Price": "5,60/ 9,30 / 9,60",
           "Components": [
             "Paahdettua broileria mustapippurikastikeella (G, L, M)",
             "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)",
@@ -130,7 +84,7 @@
         {
           "SortOrder": 0,
           "Name": "",
-          "Price": "",
+          "Price": null,
           "Components": [
             "Sinappi-pastasalaattia (A, L, M, Veg)"
           ]
@@ -154,7 +108,7 @@
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
+          "Price": "2,95 / 6,30 / 8,40",
           "Components": [
             "Broileripastavuokaa (*, A, ILM, L)"
           ]
@@ -162,7 +116,7 @@
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "5,70/ 9,30 / 9,60",
+          "Price": "5,60/ 9,30 / 9,60",
           "Components": [
             "Serranonkinkkupannupizza (A, VL, VS)"
           ]
@@ -178,7 +132,7 @@
         {
           "SortOrder": 0,
           "Name": "",
-          "Price": "",
+          "Price": null,
           "Components": []
         }
       ]
@@ -199,7 +153,7 @@
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
+          "Price": "2,95 / 6,30 / 8,40",
           "Components": [
             "Jauhelihapyöryköitä (*, A, L, M)",
             "Ruskeaa kastiketta (*, A, L)",
@@ -209,7 +163,7 @@
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "5,70/ 9,30 / 9,60",
+          "Price": "5,60/ 9,30 / 9,60",
           "Components": [
             "Paneroitu kampelafilee (*, A, L, M)",
             "Kaprismajoneesia (A, G, L)",
@@ -226,7 +180,7 @@
         {
           "SortOrder": 0,
           "Name": "",
-          "Price": "",
+          "Price": null,
           "Components": []
         }
       ]
@@ -238,7 +192,7 @@
         {
           "SortOrder": 0,
           "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
+          "Price": "2,95 / 6,30 / 8,40",
           "Components": [
             "Kreikkalaista kasvis-juustokiusausta (*, A, G, ILM, L)"
           ]
@@ -246,7 +200,7 @@
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
+          "Price": "2,95 / 6,30 / 8,40",
           "Components": [
             "Broileri-nuudelivuokaa (*, A, L)"
           ]
@@ -254,7 +208,7 @@
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "5,70/ 9,30 / 9,60",
+          "Price": "5,60/ 9,30 / 9,60",
           "Components": [
             "Mureaksi haudutettua nautaa ja porsasta punaviini-tattikastikkeessa (G, L, M)",
             "Paahdettua perunaa (*, G, ILM, L, M, Veg)",

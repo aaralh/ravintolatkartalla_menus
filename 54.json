@@ -5,62 +5,8 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2023-01-09T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Juurespihvejä (*, A, G, ILM, L, M, Veg)",
-            "Vegaanista barbequemajoneesia (A, G, ILM, L, M, Veg)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Porkkana-persikkasalaattia (G, L, M, Veg)",
-            "Pinaatti-pestopastasalaattia (A, VL, VS)",
-            "Appelsiinilohkoja (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Juurespihvejä (*, A, G, ILM, L, M, Veg)",
-            "Vegaanista barbequemajoneesia (A, G, ILM, L, M, Veg)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Makkarastroganoffia (*, A, L)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Vaahtokarkki-kinuskirahkaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-01-10T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
+      "LunchTime": "11:00-19:00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -123,15 +69,13 @@
     },
     {
       "Date": "2023-01-11T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
+      "LunchTime": "11:00-19:00",
       "SetMenus": [
         {
           "SortOrder": 0,
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/8,40",
-          "Components": [
-            "Kasvisbolognese-pennevuokaa (*, A, ILM, L, M, Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
@@ -145,12 +89,18 @@
           ]
         },
         {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95/8,40",
+          "Components": [
+            "Nyhtökaurapastavuoka ()"
+          ]
+        },
+        {
           "SortOrder": 1,
           "Name": "KASVISLOUNAS",
           "Price": "2,95/8,40",
-          "Components": [
-            "Kasvisbolognese-pennevuokaa (*, A, ILM, L, M, Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 2,
@@ -182,7 +132,7 @@
     },
     {
       "Date": "2023-01-12T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
+      "LunchTime": "11:00-19:00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -246,7 +196,7 @@
     },
     {
       "Date": "2023-01-13T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
+      "LunchTime": "11:00-19:00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -311,7 +261,7 @@
     },
     {
       "Date": "2023-01-14T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
+      "LunchTime": "12:00-17:00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -366,7 +316,7 @@
     },
     {
       "Date": "2023-01-15T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
+      "LunchTime": "12:00-17:00",
       "SetMenus": [
         {
           "SortOrder": 0,
