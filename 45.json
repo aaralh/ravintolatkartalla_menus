@@ -5,43 +5,13 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-01-10T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Linssi-kasvislasagnea (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Jauheliha-makaronilaatikkoa (A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
-          "Components": [
-            "Aasialaista lohi-seitikeittoa (*, A, G, ILM, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-01-11T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
         {
           "SortOrder": 0,
           "Name": "KASVISLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
+          "Price": "2,95 /6,30 /8,40",
           "Components": [
             "Inkivääri-kasvispataa (*, A, G, ILM, L, M, Veg)"
           ]
@@ -49,7 +19,7 @@
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
+          "Price": "2,95 /6,30 /8,40",
           "Components": [
             "Jauhelihapizzaa (A, L)"
           ]
@@ -57,7 +27,7 @@
         {
           "SortOrder": 0,
           "Name": "KEITTOLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
+          "Price": "2,95 /6,30 /8,40",
           "Components": [
             "Meksikolaista chorizo-kasviskeittoa (*, A, G, L, M, VS)"
           ]
@@ -71,7 +41,7 @@
         {
           "SortOrder": 0,
           "Name": "KASVISLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
+          "Price": "2,95 /6,30 /8,40",
           "Components": [
             "Porkkanaohukaisia (*, A, ILM)",
             "Puolukkahilloa (G, L, M, Veg)"
@@ -80,7 +50,7 @@
         {
           "SortOrder": 0,
           "Name": "",
-          "Price": "",
+          "Price": null,
           "Components": [
             "Tomaattikeittoa ja välimerellistä juustoa (A, G, L, VS)"
           ]
@@ -88,7 +58,7 @@
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
+          "Price": "2,95 /6,30 /8,40",
           "Components": [
             "Broileri-basilika-fenkolipastaa (*, A, L)"
           ]
@@ -102,7 +72,7 @@
         {
           "SortOrder": 0,
           "Name": "KASVISLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
+          "Price": "2,95 /6,30 /8,40",
           "Components": [
             "Tofua ja kasviksia teriyakikastikkeessa (*, A, G, ILM, L, M, Veg, VS)"
           ]
@@ -110,7 +80,7 @@
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
-          "Price": "3,20 /6,30 /8,40",
+          "Price": "2,95 /6,30 /8,40",
           "Components": [
             "Paneroitua seitifilettä (*, A, ILM, L, M)",
             "Jogurtti-yrttikastiketta (A, G, L)"
@@ -119,7 +89,7 @@
         {
           "SortOrder": 0,
           "Name": "KEITTOLOUNAS",
-          "Price": "3,20 /6,30 /8,40",
+          "Price": "2,95 /6,30 /8,40",
           "Components": [
             "Broileri-juustokeittoa (A, G, ILM, L)"
           ]
