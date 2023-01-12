@@ -5,43 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-01-11T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Pinaatti-fetapiirakka (A)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Inkivääri-kasvispataa (*, A, G, ILM, L, M, Veg)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Meksikolaista chorizo-kasviskeittoa (*, A, G, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-01-12T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -67,7 +30,8 @@
           "Name": "KEITTOLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Tomaattikeittoa ja välimerellistä juustoa (A, G, L, VS)"
+            "Pinaattikeittoa (*, A, ILM, L)",
+            "Keitetty kananmuna (A, G, L, M)"
           ]
         },
         {
@@ -76,7 +40,7 @@
           "Price": "5,60/8,30/9,30/9,60",
           "Components": [
             "Ylikypsää porsasta punaviinikastikkeessa (G, L, M, VS)",
-            "Peruna-juuressärää (*, G, ILM, L, M, Veg)"
+            "Paahdettua perunaa ja kasviksia (*, G, ILM, L, M, Veg)"
           ]
         },
         {
@@ -114,14 +78,21 @@
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
             "Paneroitua seitifilettä (*, A, ILM, L, M)",
-            "Jogurtti-yrttikastiketta (A, G, L)"
+            "Jogurtti-yrttikastiketta (A, G, L)",
+            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "",
           "Price": null,
-          "Components": []
+          "Components": [
+            "Kauden salaattisekoitusta (G, L, M, Veg)",
+            "Seesam-punakaalisalaattia (A, G, L, M, Veg)",
+            "Oliivi-yrttipastaa (A, L, M, Veg)",
+            "Chilimarinoituja kidneypapuja (G, L, M, Veg)",
+            "Kauden kasvis (G, L, M, Veg)"
+          ]
         }
       ]
     },
