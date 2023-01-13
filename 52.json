@@ -5,53 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-01-12T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Porkkanaohukaisia (*, A, ILM)",
-            "Puolukkahilloa (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Herkkusieni-soija-kasviscurrya kookoksella (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Pinaattikeittoa (*, A, ILM, L)",
-            "Keitetty kananmuna (A, G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTELOUNAS LINJASTA",
-          "Price": "5,60/8,30/9,30/9,60",
-          "Components": [
-            "Ylikypsää porsasta punaviinikastikkeessa (G, L, M, VS)",
-            "Paahdettua perunaa ja kasviksia (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-01-13T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -86,13 +39,7 @@
           "SortOrder": 0,
           "Name": "",
           "Price": null,
-          "Components": [
-            "Kauden salaattisekoitusta (G, L, M, Veg)",
-            "Seesam-punakaalisalaattia (A, G, L, M, Veg)",
-            "Oliivi-yrttipastaa (A, L, M, Veg)",
-            "Chilimarinoituja kidneypapuja (G, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)"
-          ]
+          "Components": []
         }
       ]
     },
