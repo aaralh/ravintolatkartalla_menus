@@ -5,62 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-01-25T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Inkivääri-kasvispataa (*, A, G, ILM, L, M, Veg)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Jauhelihakebakoita (A, L, M)",
-            "Chilimajoneesia (A, G, L)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kirjolohi-seititomaattikastiketta (*, A, G, ILM, L, VS)",
-            "Luomutäysjyväpennepastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mariannerahkaa (A, L)",
-            "Chilillä maustettua hedelmäsalaattia (G, L, M, Veg)",
-            "Kauravaahtoa (A, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Mustaherukka-kaaliraastetta (G, L, M, Veg)",
-            "Kikherne-hernesalaattia (G, L, M, Veg)",
-            "Kauden hedelmä (G, L, M, Veg)",
-            "Punajuurta (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-01-26T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -97,21 +41,7 @@
           "SortOrder": 0,
           "Name": "JÄLKIRUOKA",
           "Price": "1,20",
-          "Components": [
-            "Omena-kauramurupaistosta (A, L, M, Veg)",
-            "Kookoskinuskia (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Kirkasta coleslaw salaattia (A, G, L, M, Veg)",
-            "Couscous-kurpitsa-porkkanasalaattia (A, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)"
-          ]
+          "Components": []
         }
       ]
     },
@@ -155,18 +85,6 @@
           "Components": [
             "Mustikkavispipuuroa (A, L, M, Veg)",
             "Vaniljakastiketta (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Seesam-punakaalisalaattia (A, G, L, M, Veg)",
-            "Oliivi-yrttipastaa (A, L, M, Veg)",
-            "Chilimarinoituja kidneypapuja (G, L, M, Veg)",
-            "Kauden hedelmä (G, L, M, Veg)"
           ]
         }
       ]
