@@ -5,53 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-01-26T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Talon porkkanaohukaisia (*, A, ILM, L)",
-            "Puolukkahilloa (G, L, M, Veg)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Herkkusieni-soija-kasviscurrya kookoksella (*, A, ILM, L, M, Veg, VS)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Maksakastiketta (*, A, L)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)",
-            "Puolukkahilloa (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-01-27T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
