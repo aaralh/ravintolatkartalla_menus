@@ -5,39 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-02-04T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Talon juurespihvejä (*, A, G, ILM, L, M, VS)",
-            "Aurinkokuivatuilla tomaateilla maustettua majoneesia (A, G, ILM, L, M, Veg)",
-            "Perunasosetta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Porsasta ja nautaa soija-chilikastikkeessa (A, G, L, M)",
-            "Höyrytettyä riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60/ 9,30 / 9,60",
-          "Components": [
-            "Paahdettua broileria mustapippurikastikeella (G, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-02-05T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
