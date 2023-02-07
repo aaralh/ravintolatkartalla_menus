@@ -5,55 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2023-02-06T00:00:00+00:00",
-      "LunchTime": "10.30 -18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Soija-kasvisbolognesea (*, A, G, ILM, L, M, Veg)",
-            "Luomutäysjyväkierrepastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISKEITTO",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Porkkanasosekeittoa (*, A, G, ILM, L)",
-            "Raejuustoa (A, G, L)",
-            "Paahdettuja auringonkukansiemeniä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Jauhelihapihvejä ja metsäsienikastiketta (*, A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "4,90 / 7,20 / 7,70 / 9,60",
-          "Components": [
-            "Alkaen klo 15.00: Kebab valkosipuliperunoilla (A, G, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Omena-kanelirahkaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-02-07T00:00:00+00:00",
       "LunchTime": "10.30-18.00",
       "SetMenus": [
@@ -61,17 +12,13 @@
           "SortOrder": 0,
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Quornia kookoskastikkeessa (*, A, G, ILM, L)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Pekoninakkeja (G, L, M)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
@@ -93,7 +40,7 @@
         {
           "SortOrder": 0,
           "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
+          "Price": "4,50",
           "Components": [
             "Päivän jälkiruoka ()"
           ]
@@ -104,6 +51,14 @@
           "Price": "2,95/ 5,70 / 6,30 / 8,40",
           "Components": [
             "Tofua-kookoskastikkeessa (A, G, L, M, Veg, ILM) ()",
+            " ()"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
             " ()"
           ]
         }
@@ -117,16 +72,14 @@
           "SortOrder": 0,
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Parsakaali-mantelipihviä (*, A, G, ILM, L, M)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/ 5,70 / 6,30 / 8,40",
           "Components": [
-            "Kasvispihvejä A, L, M, Veg ()"
+            "Punajuurikroketti  *, A, G, L, M, Veg ()"
           ]
         },
         {
@@ -141,17 +94,14 @@
           "SortOrder": 0,
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Savuriista-palvirouhetäytettä (A, G, L)",
-            "Paahdettuja uuniperunoita (*, G, ILM, L, M, Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
           "Price": "4,90 / 7,20 / 7,70 / 9,60",
           "Components": [
-            "Alkaen klo 15.00: Pulled chicken briossihampurilainen kimchillä (A, L, M, VS)"
+            "Alkaen klo 15.00: Broilerihampurilainen (A, L, M, VS)"
           ]
         },
         {
@@ -161,6 +111,14 @@
           "Components": [
             "Suklaakiisseliä (A, G, L)",
             "Kermavaahtoa (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Sitruunaturskaa A, G, L ()"
           ]
         }
       ]
