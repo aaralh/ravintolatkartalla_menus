@@ -5,67 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2023-02-09T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Yrttistä soija-kasviskiusausta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Kirkasta coleslaw salaattia (A, G, L, M, Veg)",
-            "Kikherne-hernesalaattia (G, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Kasviskiusausta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Rapeita kalapaloja (*, A, ILM, L, M)",
-            "Tillikermaviilikastiketta (A, G, ILM, L)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Omena-kauramurupaistosta (A, L, M, Veg)",
-            "Kookoskinuskia (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 7,
-          "Name": "LOUNAS",
-          "Price": "4,40/9,40",
-          "Components": [
-            "Pulled pork -hotdog (A, L, VS)",
-            "Lohkoperunoita (G, ILM, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-02-10T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
@@ -112,12 +51,7 @@
           "SortOrder": 0,
           "Name": "",
           "Price": null,
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Porkkana-lanttu-kesäkurpitsasalaattia (G, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)",
-            "Maissia (G, L, M, Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 1,
@@ -168,12 +102,7 @@
           "SortOrder": 0,
           "Name": "",
           "Price": null,
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Saksalaista perunasalaattia (A, G, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 1,
