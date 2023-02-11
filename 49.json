@@ -5,50 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-02-10T00:00:00+00:00",
-      "LunchTime": "10.30 - 15.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Tomaatti-vuohenjuustokastiketta (*, A, G, ILM, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Kirjolohikiusausta (A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60/ 9,30 / 9,60",
-          "Components": [
-            "Porsaanleike, paprikaa ja sipulia (A, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": [
-            "Kauden kasvis (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-02-11T00:00:00+00:00",
       "LunchTime": "10.30 - 14.00",
       "SetMenus": [
@@ -56,18 +12,13 @@
           "SortOrder": 0,
           "Name": "KASVISLOUNAS",
           "Price": "3,20 / 6,30 / 8,40",
-          "Components": [
-            "Rapeita kasvispuikkoja (G, L, M, Veg)",
-            "Aurinkokuivatuilla tomaateilla maustettua majoneesia (A, G, ILM, L, M, Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
           "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Aasialaista kookos-porsaspataa (A, G, L, M)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
@@ -77,6 +28,16 @@
             "Kanaa Kiovan tapaan (A, L, VS)",
             "Currykermaviilikastiketta (A, G, L)",
             "Sitruuna-perunasosetta (A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Lohikiusausta (G,L) ()",
+            "Makaronilaatikkoa (A,L) ()",
+            "Vuohenjuustokastiketta (G,L) ()"
           ]
         }
       ]
