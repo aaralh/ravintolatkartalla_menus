@@ -5,44 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-02-11T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "3,20 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60/ 9,30 / 9,60",
-          "Components": [
-            "Kanaa Kiovan tapaan (A, L, VS)",
-            "Currykermaviilikastiketta (A, G, L)",
-            "Sitruuna-perunasosetta (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Lohikiusausta (G,L) ()",
-            "Makaronilaatikkoa (A,L) ()",
-            "Vuohenjuustokastiketta (G,L) ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-02-12T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
