@@ -5,53 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2023-02-13T00:00:00+00:00",
-      "LunchTime": "10.30 -18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Falafel-pyöryköitä (A, ILM, L, M, Veg, VS)",
-            "Sitruuna-perunasosetta (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Makkarastroganoffia (*, A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Juustoista jauheliha-pastapannua (*, A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "4,90 / 7,20 / 7,70 / 9,60",
-          "Components": [
-            "Kanaa Kiovan tapaan (A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mariannetrifle ja vadelmaa (A, L, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-02-14T00:00:00+00:00",
       "LunchTime": "10.30-18.00",
       "SetMenus": [
@@ -84,7 +37,7 @@
           "Name": "LOUNAS",
           "Price": "4,90 / 7,20 / 7,70 / 9,60",
           "Components": [
-            "Porsaan grillipihvi (*, G, L, M)"
+            "Alkaen klo 15.00: Porsaan grillipihvi (*, G, L, M)"
           ]
         },
         {
@@ -131,7 +84,7 @@
           "Name": "LOUNAS",
           "Price": "4,90 / 7,20 / 7,70 / 9,60",
           "Components": [
-            "Pulled chicken -hot dog (A, L)",
+            "Alkaen klo 15.00: Pulled chicken -hot dog (A, L)",
             "Paahdettuja uuniperunoita (*, G, ILM, L, M, Veg)"
           ]
         },
@@ -180,7 +133,7 @@
           "Name": "LOUNAS",
           "Price": "4,90 / 7,20 / 7,70 / 9,60",
           "Components": [
-            "Feta-pinaattipannupizza (A, VL)"
+            "Alkaen klo 15.00: Feta-pinaattipannupizza (A, VL)"
           ]
         },
         {

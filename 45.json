@@ -5,38 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-02-13T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kasvispyöryköitä (*, A, G, ILM, L, M)",
-            "Ruohosipuli-jogurttikastiketta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Haukipyöryköitä (A, G, ILM, L, M)",
-            "Perunasosetta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Portugalilaista makkarakeittoa (A, G, L, M, VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-02-14T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
