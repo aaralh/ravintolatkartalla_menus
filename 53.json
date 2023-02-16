@@ -5,51 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-02-15T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Mausteista kasvistäytettä (*, A, ILM, L, M, Veg, VS)",
-            "Kermaviiliä (A, G, ILM, L)",
-            "Täysjyvävehnätortilla (A, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Sipulikastiketta (*, A, L)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)",
-            "Uunimakkara sipuli-juustotäytteellä (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Porsaswokkia (A, G, L, M, VS)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mariannerahkaa (A, L)",
-            "Chilillä maustettua hedelmäsalaattia (G, L, M, Veg)",
-            "Kauravaahtoa (A, G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-02-16T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
