@@ -5,42 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-03-16T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Punajuurikroketteja (*, G, ILM, L, M, Veg)",
-            "Hummus-kauragurttikastiketta (*, A, G, ILM, L, M, Veg, VS)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Hernekeittoa (*, A, ILM, L, M)",
-            "Pannukakkua (A)",
-            "Mansikkahilloa (G, L, M, Veg)",
-            "Kasvis-hernekeittoa (A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kapriksella ja tillillä maustettuja kalamurekepihvejä\n (*, A, ILM, L, M)",
-            "Ruohosipuli-kermaviilikastiketta (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-03-17T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
