@@ -5,42 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-03-20T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Paputacoja :) (A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Parsakaali-herkkusienivuokaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kermaista lohi-seitikeittoa :) (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-03-21T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -49,7 +13,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Soija-pinaattilasagnettea :) (A, ILM, L, M, Veg)"
+            "Soija-pinaattilasagnettea 🙂 (A, ILM, L, M, Veg)"
           ]
         },
         {
@@ -86,7 +50,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Lehtikaali-cashewpannupizzaa :) (A, L)"
+            "Lehtikaali-cashewpannupizzaa 🙂 (A, L)"
           ]
         },
         {
@@ -122,7 +86,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Pinaattiohukaisia :) (*, A, ILM)",
+            "Pinaattiohukaisia 🙂 (*, A, ILM)",
             "Puolukkahilloa (G, L, M, Veg)"
           ]
         },
@@ -170,7 +134,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Punajuurikroketteja :) (*, G, ILM, L, M, Veg)",
+            "Punajuurikroketteja 🙂 (*, G, ILM, L, M, Veg)",
             "Piparjuurimajoneesia (A, G, L, M, Veg)"
           ]
         },
@@ -187,7 +151,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Butter Chicken :) (*, A, G, L)"
+            "Butter Chicken 🙂 (*, A, G, L)"
           ]
         },
         {

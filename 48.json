@@ -5,52 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2023-03-20T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Juurespihvejä (*, A, G, ILM, L, M, Veg)",
-            "Mustapapu-tomaattisalsaa (A, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Juustoista broileri-paprikakastiketta (*, A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Jauhelihapyöryköitä (*, A, L, M)",
-            "Perunasosetta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kermaista lohi-seitikeittoa (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-03-21T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [
@@ -59,7 +13,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 /6,30 /8,40",
           "Components": [
-            "Soija-pinaattilasagnettea (A, ILM, L, M, Veg)"
+            "Soija-pinaattilasagnettea 🤩 (A, ILM, L, M, Veg)"
           ]
         },
         {
@@ -113,7 +67,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 /6,30 /8,40",
           "Components": [
-            "Kinkku-ananaspizzaa (A, L, VS)"
+            "Kinkku-ananaspizzaa 🤩 (A, L, VS)"
           ]
         },
         {
@@ -174,7 +128,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 /6,30 /8,40",
           "Components": [
-            "Uunimakkara sipuli-juustotäytteellä (A, G, L)",
+            "Uunimakkara sipuli-juustotäytteellä 🤩 (A, G, L)",
             "Perunasosetta (*, A, G, ILM, L)"
           ]
         },
@@ -205,7 +159,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 /6,30 /8,40",
           "Components": [
-            "Butter Chicken (*, A, G, L)"
+            "Butter Chicken 🤩 (*, A, G, L)"
           ]
         },
         {
