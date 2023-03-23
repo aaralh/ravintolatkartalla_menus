@@ -5,53 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-03-22T00:00:00+00:00",
-      "LunchTime": "10.30 - 16.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "😊 Kukkakaali-manchegojuustopihvejä (A, G, ILM, L)",
-            "Chilimajoneesia (A, G, ILM, L, M, Veg)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "😊 Jauheliha-makaronilaatikkoa (*, A, L)",
-            "Ketsuppia (G, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60/ 9,30 / 9,60",
-          "Components": [
-            "😊 Paneroitu kampelafilee (*, A, L, M)",
-            "Lohkoperunoita (G, ILM, L, M, Veg)",
-            "Valkosipulimajoneesia (A, G, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-03-23T00:00:00+00:00",
       "LunchTime": "10.30 - 16.30",
       "SetMenus": [
