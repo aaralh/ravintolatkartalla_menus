@@ -5,38 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2023-04-03T00:00:00+00:00",
-      "LunchTime": "10.30-14.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Ranch-kastiketta (A, G, L, M, Veg, VS)",
-            "Herne-kasvispihvejä (A, ILM, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Juustoista juuressosekeittoa (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Ruohosipuli-jogurttikastiketta (*, A, G, ILM, L)",
-            "Rapeita kalapaloja (*, A, ILM, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-04-04T00:00:00+00:00",
       "LunchTime": "10.30-14.30",
       "SetMenus": [
