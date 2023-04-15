@@ -5,53 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-04-14T00:00:00+00:00",
-      "LunchTime": "10.30 - 15.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Porkkana-pestolasagnettea (A, ILM, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Bolognesekastiketta (*, A, G, L, M, VS)",
-            "Pennepastaa (A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60/ 9,30 / 9,60",
-          "Components": [
-            "Kanaa Kiovan tapaan (A, L, VS)",
-            "Paahdettuja perunoita (*, G, ILM, L, M, Veg)",
-            "Currykermaviilikastiketta (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": [
-            "Leipäpöytä (kg) ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-04-15T00:00:00+00:00",
       "LunchTime": "10.30 - 14.00",
       "SetMenus": [
@@ -68,8 +21,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 6,30 / 8,40",
           "Components": [
-            "Mausteista makkara-kasviskastiketta (*, G, L, M, VS)",
-            "Muhennettua perunaa (A)"
+            "Mausteista makkara-kasviskastiketta (*, G, L, M, VS)"
           ]
         },
         {
