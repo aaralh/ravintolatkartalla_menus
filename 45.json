@@ -5,37 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-04-18T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kookos-kasviscurrya luomutofulla (*, A, G, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Broilerinugetteja (A, L, M)",
-            "Currymajoneesia (A, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kirjolohikeittoa (*, A, G, ILM, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-04-19T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [

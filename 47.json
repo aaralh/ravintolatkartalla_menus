@@ -5,46 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2023-04-18T00:00:00+00:00",
-      "LunchTime": "10.30-18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Vönerlasagnettea (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Makkara-juustopihvi (A, G, L)",
-            "Perunasosetta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Juustoista broileri-paprikakastiketta (*, A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "4,90 / 7,20 / 7,70 /9,60",
-          "Components": [
-            "Alkaen klo 15.00: Porsaanleike (A, L, M)",
-            "Paahdettua rosmariini-valkosipuliperunaa (G, L, M, Veg, VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-04-19T00:00:00+00:00",
       "LunchTime": "10.30- 18.00",
       "SetMenus": [
