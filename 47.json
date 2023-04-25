@@ -5,45 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2023-04-24T00:00:00+00:00",
-      "LunchTime": "10.30 -18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kikherne-bataattipataa (*, A, G, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Broileripyöryköitä (*, A, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Chili con Carnea jauhelihasta (*, A, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "4,90 / 7,20 / 7,70 / 9,60",
-          "Components": [
-            "Glaseerattua ylikypsää porsasta (A, G, L, M)",
-            "Paistettua nuudelia ja pähkinää (A, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-04-25T00:00:00+00:00",
       "LunchTime": "10.30-18.00",
       "SetMenus": [
@@ -76,7 +37,7 @@
           "Name": "LOUNAS",
           "Price": "4,90 / 7,20 / 7,70 / 9,60",
           "Components": [
-            "Chicken & chips (A, G, L, M)"
+            "Alkaen klo 15.00: Chicken & chips (A, G, L, M)"
           ]
         }
       ]
@@ -106,7 +67,7 @@
           "Name": "LOUNAS",
           "Price": "4,90 / 7,20 / 7,70 / 9,60",
           "Components": [
-            "Metsästäjänleipä (A, L)",
+            "Alkaen klo 15.00: Metsästäjänleipä (A, L)",
             "Lohkoperunoita (G, ILM, L, M, Veg)"
           ]
         },
@@ -144,9 +105,7 @@
           "SortOrder": 0,
           "Name": "LOUNAS",
           "Price": "4,90 / 7,20 / 7,70 / 9,60",
-          "Components": [
-            "Tulinen nyhtöpossu briossihampurilainen (A, L, M)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
