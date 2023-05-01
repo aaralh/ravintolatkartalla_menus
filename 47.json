@@ -1,14 +1,8 @@
 {
-  "RestaurantName": "Ravintola Lozzi",
-  "RestaurantUrl": "https://www.semma.fi/ravintolat2/seminaarimaki/lozzi/",
+  "RestaurantName": null,
+  "RestaurantUrl": null,
   "PriceHeader": null,
-  "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
-  "MenusForDays": [
-    {
-      "Date": "2023-04-30T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": []
-    }
-  ],
-  "ErrorText": null
+  "Footer": null,
+  "MenusForDays": null,
+  "ErrorText": "No menu found with selected cost number/language/date: 1401/fi/01.5.2023"
 }
