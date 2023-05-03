@@ -5,49 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-05-02T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Porkkana-pestolasagnettea (A, ILM, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Chilimaustettua porsaspataa (*, A, G, L, M, VS)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Rapeita kalapaloja (*, A, ILM, L, M)",
-            "Tartarkastiketta (A, L)",
-            "Ruohosipulikermaviilikastiketta (A, G, ILM, L)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Puutarhamarja-ruismurupaistosta (A, L, M, Veg)",
-            "Kinuskikermavaahtoa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-05-03T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -56,9 +13,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Punajuuripihvejä (*, G, ILM, L, M, Veg)",
-            "Kaprismajoneesia (A, ILM, L, M, Veg)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+            "Soija-pastavuokaa (*, G, ILM, L, M, Veg)"
           ]
         },
         {
@@ -66,19 +21,22 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Lindströminpihvejä (A, L, M)",
-            "Perunasosetta (*, A, G, ILM, L)",
-            "Ruskeaa kastiketta (A, ILM, L)"
+            "Sinappiseitiä (A, L, M)",
+            "Perunasosetta (*, A, G, ILM, L)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
           "Price": "5,60 / 8,30 / 9,20 / 10,20",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Paahdettuja uuniperunoita (*, G, ILM, L, M, Veg)",
-            "Chilimajoneesia (A, L)",
-            "Briossihampurilainen rotukarjapihvi ja savujuusto (A, L)"
+            "Mandras chicken (A,G,L) ()"
           ]
         }
       ]
