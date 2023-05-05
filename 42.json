@@ -5,42 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-05-04T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Punajuuripihvejä (*, G, ILM, L, M, Veg)",
-            "Kaprismajoneesia (A, ILM, L, M, Veg)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Lindströminpihvejä (A, L, M)",
-            "Perunasosetta (*, A, G, ILM, L)",
-            "Ruskeaa kastiketta (A, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60/ 8,30 / 9,30 / 10,20",
-          "Components": [
-            "Paahdettuja uuniperunoita (*, G, ILM, L, M, Veg)",
-            "Chilimajoneesia (A, L)",
-            "Briossihampurilainen rotukarjapihvi ja savujuusto (A, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-05-05T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
