@@ -5,44 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2023-05-08T00:00:00+00:00",
-      "LunchTime": "10.30 -18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Falafel-pyöryköitä (A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Makkarastroganoffia (*, A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Savupalvi-pekonipastaa (A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "4,90 / 7,20 / 7,70 / 9,60",
-          "Components": [
-            "Alkaen klo 15.00: Kanaa Kiovan tapaan (A, L, VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-05-09T00:00:00+00:00",
       "LunchTime": "10.30-18.00",
       "SetMenus": [
@@ -50,9 +12,7 @@
           "SortOrder": 0,
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Quornia pestokastikkeessa (*, A, G, ILM, L, VS)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
@@ -66,9 +26,7 @@
           "SortOrder": 0,
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Porsasta hapanimeläkastikkeessa (*, A, G, L, M)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
@@ -78,6 +36,22 @@
             "Alkaen klo 15.00: Paistettuja muikkuja (A, ILM, L, M)",
             "Perunasosetta (*, A, G, ILM, L)",
             "Tilli-kermaviilikastiketta (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kikherneitä ja kasviksia kormakastikkeessa G, L, * ()"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70/ 6,30 /8,40",
+          "Components": [
+            "Naudanliha-smetanakastiketta  L, * ()"
           ]
         }
       ]
