@@ -5,7 +5,162 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-05-14T00:00:00+00:00",
+      "Date": "2023-05-15T00:00:00+00:00",
+      "LunchTime": "10.30 - 16.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Kookos-kasviscurrya luomutofulla (*, A, G, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Makkarastroganoffia (*, A, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,60/ 9,30 / 9,60",
+          "Components": [
+            "Pähkinäkuorrutettua ylikypsää porsasta (A, G, L, M)",
+            "Chili-inkivääririisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2023-05-16T00:00:00+00:00",
+      "LunchTime": "10.30 - 16.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Paneroidut kasvispihvit (A, G, ILM, L, M, Veg)",
+            "Currykermaviilikastiketta (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Paneroidut kasvispihvit (A, G, ILM, L, M, Veg)",
+            "Valkosipulimajoneesia (A, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Broileri-pekonikastiketta (*, A, G, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,60/ 9,30 / 9,60",
+          "Components": [
+            "Paneroitu kampelafilee (*, A, L, M)",
+            "Lohkoperunoita (G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Ruokajuoma (kg) ()"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-05-17T00:00:00+00:00",
+      "LunchTime": "10.30 - 16.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Kasvis-juustopataa (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Ratatouillea (*, A, G, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Jauhelihapihvejä ja sipuli-paprikalisäkettä (*, A, L, M)",
+            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,60/ 9,30 / 9,60",
+          "Components": [
+            "Kanaa Kiovan tapaan (A, L, VS)",
+            "Currykermaviilikastiketta (A, G, L)",
+            "Täyteläisiä valkosipuliperunoita (A, G, ILM, L, VS)",
+            "Paahdettua bataattia ja paprikaa (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2023-05-18T00:00:00+00:00",
+      "LunchTime": "10.30 - 16.30",
+      "SetMenus": []
+    },
+    {
+      "Date": "2023-05-19T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.30",
+      "SetMenus": []
+    },
+    {
+      "Date": "2023-05-20T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.00",
+      "SetMenus": []
+    },
+    {
+      "Date": "2023-05-21T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
