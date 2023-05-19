@@ -5,11 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2023-05-18T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
-      "SetMenus": []
-    },
-    {
       "Date": "2023-05-19T00:00:00+00:00",
       "LunchTime": "11:00-15:00",
       "SetMenus": [
@@ -17,11 +12,7 @@
           "SortOrder": 0,
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/8,40",
-          "Components": [
-            "Kasviskroketteja (*, G, ILM, L, M, Veg, VS)",
-            "Sambal Oelek -kauragurttikastike (*, A, G, ILM, L, M, Veg)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
@@ -34,9 +25,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95/8,40",
           "Components": [
-            "Kasviskroketteja (*, G, ILM, L, M, Veg, VS)",
-            "Sambal Oelek -kauragurttikastike (*, A, G, ILM, L, M, Veg)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+            "Kasvispataa G, L, ()"
           ]
         },
         {
