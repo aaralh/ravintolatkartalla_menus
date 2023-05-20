@@ -5,49 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2023-05-19T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Kasvispataa G, L, ()"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Kinkku-ananas-aurajuustopizzaa (A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Omena-puolukkapiirakkaa (A, L)",
-            "Vaniljakastiketta (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-05-20T00:00:00+00:00",
       "LunchTime": "12:00-15:00",
       "SetMenus": [
