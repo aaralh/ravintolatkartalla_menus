@@ -5,46 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-05-22T00:00:00+00:00",
-      "LunchTime": "10.30 - 16.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Juurespihvejä (*, A, G, ILM, L, M, Veg)",
-            "Inkivääri-sitruunaruohodressing (A, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Jauhelihatäytettä (*, A, L, M, VS)",
-            "Tacoja (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60/ 9,30 / 9,60",
-          "Components": [
-            "Paneroitu kampelafilee (*, A, L, M)",
-            "Yrttimaustettua perunaa (A, G, L, M, Veg)",
-            "Ruohosipuli-jogurttikastiketta (*, A, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-05-23T00:00:00+00:00",
       "LunchTime": "10.30 - 16.30",
       "SetMenus": [

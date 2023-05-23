@@ -5,44 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2023-05-22T00:00:00+00:00",
-      "LunchTime": "10.30 -18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Quornia curry-cashewkasviskastikkeessa (*, A, G, ILM, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Lohimurekepihvejä (*, A, G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Butter Chicken (*, A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Tofu-pähkinäkastiketta A, G, L, M, Veg, VS ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-05-23T00:00:00+00:00",
       "LunchTime": "10.30-18.00",
       "SetMenus": [
@@ -127,8 +89,8 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Jauheliha-makaronilaatikkoa (A, L)",
-            "Tomaattiketsuppia (G, L, M, Veg)"
+            "Kaali-jauhelihalaatikkoa (*, G, L, M)",
+            "Puolukkahilloa (A, L, M, Veg)"
           ]
         },
         {
