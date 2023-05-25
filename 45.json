@@ -5,39 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-05-24T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kasvisbolognese-pennevuokaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Pinaattikeittoa (*, A, ILM, L)",
-            "Keitetty kananmuna (A, G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Broileritäytettä (*, G, L, M)",
-            "Tacoja (G, L, M, Veg)",
-            "Smetanaa (A, G, ILM, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-05-25T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [

@@ -5,53 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2023-05-24T00:00:00+00:00",
-      "LunchTime": "10.30-14.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kasvisbolognese-pennevuokaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Pinaattikeittoa (*, A, ILM, L)",
-            "Keitetty kananmuna (A, G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Makkarastroganoffia (*, A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Broileritäytettä (*, G, L, M)",
-            "Tacoja (G, L, M, Veg)",
-            "Smetanaa (A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-05-25T00:00:00+00:00",
       "LunchTime": "10.30-14.30",
       "SetMenus": [
@@ -70,7 +23,7 @@
           "Price": "2,95 /6,30 /8,40",
           "Components": [
             "Currymaustettu broilerinkoipi (G, L, M)",
-            "Valkosipulimajoneesia (A, L, VS)"
+            "Currymajoneesi (A, L, VS)"
           ]
         },
         {
@@ -88,6 +41,14 @@
           "Price": "2,95 /6,30 /8,40",
           "Components": [
             "Jauheliha-gulassikeittoa (*, A, G, L, M, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "4,50€",
+          "Components": [
+            "Jäätelöbuffa ()"
           ]
         }
       ]

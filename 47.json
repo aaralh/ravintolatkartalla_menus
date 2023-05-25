@@ -5,46 +5,8 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2023-05-24T00:00:00+00:00",
-      "LunchTime": "10.30- 18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Papu-kasviskroketteja (A, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Porsasta kookoskastikkeessa (A, G, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Pekoni-tomaattikuorrutettuja jauhelihapihvejä (A, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kasvispihvejä A, L, M, Veg ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-05-25T00:00:00+00:00",
-      "LunchTime": "10.30-18.00",
+      "LunchTime": "10.30-14.30",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -83,7 +45,7 @@
     },
     {
       "Date": "2023-05-26T00:00:00+00:00",
-      "LunchTime": "10.30-16.00",
+      "LunchTime": "10.30-14.30",
       "SetMenus": [
         {
           "SortOrder": 0,
