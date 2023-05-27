@@ -5,41 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-05-26T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Pinaattiohukaisia (*, A, ILM)",
-            "Puolukkahilloa (G, L, M, Veg)",
-            "Perunasosetta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISKEITTO",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Porkkanasosekeittoa (*, A, G, ILM, L, M, Veg)",
-            "Tillipopcornia (A, G, L, M, Veg)",
-            "Paahdettuja siemeniä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Perunasosetta (*, A, G, ILM, L)",
-            "Lindströminpihvejä (A, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-05-27T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []

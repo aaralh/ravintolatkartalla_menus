@@ -5,50 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2023-05-26T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Juurespyttipannua (*, A, G, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Juurespyttipannua (*, A, G, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Meetvursti-ananaspizzaa (A, L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mariannerahkaa (A, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-05-27T00:00:00+00:00",
       "LunchTime": "12:00-15:00",
       "SetMenus": [
