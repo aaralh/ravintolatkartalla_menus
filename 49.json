@@ -5,7 +5,246 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-05-28T00:00:00+00:00",
+      "Date": "2023-05-29T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Espanjalaista munakasta (A, G, ILM, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Kasvispyttipannua (*, A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Broileri-kookoskastiketta (*, A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,60/ 9,30 / 9,60",
+          "Components": [
+            "Metsästäjänleike (A, L)",
+            "Paahdettuja yrttiperunoita (*, G, ILM, L, M, Veg)",
+            "Kauden kasviksia (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2023-05-30T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Porkkanapihvejä (A, G, ILM, L, M)",
+            "Basilikakermaviilikastiketta (A, G, ILM, L)",
+            "Chili-inkivääririisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Kasviskroketteja (*, G, ILM, L, M, Veg, VS)",
+            "Chili-inkivääririisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Uunimakkara sipuli-juustotäytteellä (A, G, L)",
+            "Perunasosetta (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,60/ 9,30 / 9,60",
+          "Components": [
+            "Lämmin broilerileipä (A, L)",
+            "Maalaislohkoperunoita (G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": [
+            "Punajuuri-omenaraastetta (G, L, M, Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-05-31T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Paputacoja ja smetanaa (A, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Tonnikala-pastavuokaa (*, A, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,60/ 9,30 / 9,60",
+          "Components": [
+            "Ylikypsää porsasta pähkinä-kookoskastikkeessa (A, G, L, M, VS)",
+            "Kasvisriisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2023-06-01T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Chili con vege (*, A, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Broileri-fetapizzaa BBQ (A, VL, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,60/ 9,30 / 9,60",
+          "Components": [
+            "Halloumihotdog chimichurrisalsalla (A, L, VS)",
+            "Maalaisranskalaisia (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2023-06-02T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Kasvis-jalapenopastaa (*, A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 6,30 / 8,40",
+          "Components": [
+            "Riistalla maustettua jauhelihapihviä (A, L, M)",
+            "Perunasosetta (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,60/ 9,30 / 9,60",
+          "Components": [
+            "Paahdettua broileria mustapippurikastikeella (G, L, M)",
+            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)",
+            "Kauden kasviksia (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2023-06-03T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2023-06-04T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
