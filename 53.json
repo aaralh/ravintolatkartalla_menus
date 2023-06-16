@@ -5,49 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-06-15T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Punajuurikroketteja (*, G, ILM, L, M, Veg)",
-            "Hummus-kauragurttikastiketta (*, A, ILM, L, M, Veg, VS)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Vegaanista hernesosekeittoa (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Hernekeittoa (*, A, G, ILM, L, M)",
-            "Pannukakkua (A)",
-            "Mansikkahilloa (L, M, Veg)",
-            "Kasvis-hernekeittoa (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kalkkunaa ja kasviksia kookoskastikkeessa (*, A, ILM, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-06-16T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -64,7 +21,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Kalkkunaa ja vihanneksia kookoskastikkeessa (*, A, G, L, M)"
+            "Seitimurekepihvi (*, A, G, L, M)"
           ]
         },
         {
