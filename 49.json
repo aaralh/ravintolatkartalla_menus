@@ -5,46 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-06-27T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Paneroidut porkkanapihvit (A, G, ILM, L, M, Veg)",
-            "Valkosipulimajoneesia (A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Ruotsalaista pyttipannua (A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60/ 9,30 / 9,60",
-          "Components": [
-            "Kanaa Kiovan tapaan (A, L, VS)",
-            "Currykermaviilikastiketta (A, G, L)",
-            "Täyteläisiä valkosipuliperunoita (A, G, ILM, L, VS)",
-            "Paahdettua bataattia ja paprikaa (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-06-28T00:00:00+00:00",
       "LunchTime": "10.30 - 14.00",
       "SetMenus": [
