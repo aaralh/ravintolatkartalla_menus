@@ -5,44 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2023-07-12T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Harissalla maustettua tomaattikastiketta (A, G, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Tomaatti-vuohenjuustokastiketta (*, A, G, ILM, L, VS)",
-            "Kierrepastaa (A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Butter Chicken (*, A, G, L)",
-            "Höyrytettyä riisiä (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-07-13T00:00:00+00:00",
       "LunchTime": "11:00-15:00",
       "SetMenus": [
@@ -100,6 +62,14 @@
           ]
         },
         {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95/8,40",
+          "Components": [
+            "Makkara-kaalipata *; A, G, L, M, VS ()"
+          ]
+        },
+        {
           "SortOrder": 1,
           "Name": "KASVISLOUNAS",
           "Price": "2,95/8,40",
@@ -111,9 +81,7 @@
           "SortOrder": 2,
           "Name": "LOUNAS",
           "Price": "2,95/8,40",
-          "Components": [
-            "Meetvursti-sipulipizza (A, L)"
-          ]
+          "Components": []
         }
       ]
     },
