@@ -5,47 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2023-07-19T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Täysjyvävehnätortilla (A, L, M, Veg)",
-            "Vegaanista barbequemajoneesia (A, ILM, L, M, Veg)",
-            "Härkäpapu-paprikatäytettä (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Täysjyvävehnätortilla (A, L, M, Veg)",
-            "Vegaanista barbequemajoneesia (A, ILM, L, M, Veg)",
-            "Härkäpapu-paprikatäytettä (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Talon jauhelihamureketta (A, L, M)",
-            "Porkkana-perunasosetta (*, A, G, ILM, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-07-20T00:00:00+00:00",
       "LunchTime": "11:00-15:00",
       "SetMenus": [
