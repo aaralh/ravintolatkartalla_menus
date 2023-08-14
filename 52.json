@@ -1,8 +1,222 @@
 {
-  "RestaurantName": null,
-  "RestaurantUrl": null,
+  "RestaurantName": "Ravintola Uno",
+  "RestaurantUrl": "https://www.semma.fi/ravintolat2/ruusupuisto/ravintola-uno/",
   "PriceHeader": null,
-  "Footer": null,
-  "MenusForDays": null,
-  "ErrorText": "No menu found with selected cost number/language/date: 1414/fi/13.8.2023"
+  "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
+  "MenusForDays": [
+    {
+      "Date": "2023-08-14T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Paneroidut porkkanapihvit (A, G, ILM, L, M, Veg)",
+            "Ranch-kastiketta (A, G, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Tofua ja kasviksia teriyakikastikkeessa (*, A, G, ILM, L, M, Veg, VS)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Broileri-juureskeittoa (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2023-08-15T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Vönerkormaa (A, ILM, L, M, Veg, VS)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Juustoista juuressosekeittoa (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Paneroitua seitifilettä (*, A, ILM, L, M)",
+            "Jogurtti-yrttikastiketta (A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2023-08-16T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Luomutofua Aurajuustokastikkeessa (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Härkismusakaa (*, A, G, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kirjolohi-seitikeittoa (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PAISTOPISTELOUNAS LINJASTA",
+          "Price": "5,60/8,30/9,30/9,60",
+          "Components": [
+            "Ylikypsää porsasta punaviinikastikkeessa (G, L, M, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2023-08-17T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Tomaatti-vuohenjuustokastiketta (*, A, G, ILM, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Soija-kauratäytteiset paprikat (*, A, ILM, L, M, Veg)",
+            "Seesamimajoneesia (A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Broileri-kasviskiusausta (*, A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Nakkikeittoa (*, A, G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2023-08-18T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Luomukasvis-spelttirisottoa ja luomutofua (*, A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Pinaattikeittoa (*, A, ILM, L)",
+            "Keitetty kananmuna (A, G, ILM, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PAISTOPISTELOUNAS LINJASTA",
+          "Price": "5,60/8,30/9,30/9,60",
+          "Components": [
+            "Tandoorimaustettua broileria (A, G, L, M)",
+            "Mintturaitaa (A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2023-08-19T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2023-08-20T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
+  "ErrorText": null
 }
