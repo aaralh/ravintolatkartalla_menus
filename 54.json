@@ -5,52 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2023-08-14T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Kasvis-perunapannua (*, A, ILM, L, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Kasvis-perunapannua (*, A, ILM, L, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Lahna-haukimurekepihvejä (*, A, G, L, M)",
-            "Ruohosipuli-jogurttikastiketta (*, A, ILM, L)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mustaherukkarahkaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-08-15T00:00:00+00:00",
       "LunchTime": "11:00-15:00",
       "SetMenus": [
@@ -58,11 +12,7 @@
           "SortOrder": 0,
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/8,40",
-          "Components": [
-            "Pinaattiohukaisia (*, A, G, ILM, L, M, Veg)",
-            "Puolukkahilloa (A, L, M, Veg)",
-            "Paprikariisiä (G, L, M, Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
@@ -75,9 +25,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95/8,40",
           "Components": [
-            "Talon pinaattiohukaisia (*, A, ILM, L)",
-            "Puolukkahilloa (A, L, M, Veg)",
-            "Paprikariisiä (G, L, M, Veg)"
+            "Porkkananapit G, L, M, Veg, ILM ()"
           ]
         },
         {
@@ -108,8 +56,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/8,40",
           "Components": [
-            "Kikhernepataa (*, A, ILM, L, M, Veg, VS)",
-            "Höyrytettyä riisi-kauraseosta (*, A, G, L, M, Veg)"
+            "Pinaattiohukaiset A, L, M, Veg ()"
           ]
         },
         {
@@ -123,8 +70,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95/8,40",
           "Components": [
-            "Kikhernepataa (*, A, ILM, L, M, Veg, VS)",
-            "Höyrytettyä riisi-kauraseosta (*, A, G, L, M, Veg)"
+            "Pinaattiohukaiset A, L ()"
           ]
         },
         {
