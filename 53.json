@@ -5,51 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-08-29T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Soija-kasvisbolognesea (*, A, G, ILM, L, M, Veg)",
-            "Luomutäysjyväkierrepastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Porsaanliha-juureskastiketta (*, A, G, L, M, VS)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Rapeita kalapaloja (*, A, ILM, L, M)",
-            "Tilli-jogurttikastiketta (*, A, G, ILM, L)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Puutarhamarja-ruismurupaistosta (A, L, M, Veg)",
-            "Kinuskikermavaahtoa (A, G, L)",
-            "Marianne- kauravaahtoa (A, L, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-08-30T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
