@@ -5,60 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-08-30T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Kasvispyöryköitä (*, A, G, ILM, L, M)",
-            "Basilika-valkosipuli-jogurttikastiketta (*, A, G, ILM, L, VS)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Kasviskroketteja (*, G, ILM, L, M, Veg, VS)",
-            "Hummus-kauragurttikastiketta (*, A, G, ILM, L, M, Veg, VS)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Burgundin broileripataa (*, A, G, ILM, L, M, VS)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60 / 9,60 / 10,50",
-          "Components": [
-            "Halloumihotdog chimichurrisalsalla (A, L, VS)",
-            "Paahdettuja lohkoperunoita (*, G, ILM, L, M, Veg)",
-            "Ruohosipulimajoneesia (A, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": [
-            "Yrtti-bulgursalaattia (A, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-08-31T00:00:00+00:00",
       "LunchTime": "10.30 - 14.30",
       "SetMenus": [
