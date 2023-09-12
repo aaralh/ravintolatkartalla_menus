@@ -5,50 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-09-11T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Juurespihvejä (*, A, G, ILM, L, M, Veg)",
-            "Sambal Oelek -kauragurttikastike (*, A, G, ILM, L, M, Veg)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Pinaattikeittoa (*, A, ILM, L)",
-            "Keitetty kananmuna (A, G, ILM, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Uunimakkara sipuli-juustotäytteellä (A, G, L)",
-            "Perunasosetta (*, A, G, ILM, L)",
-            "Sinappia (*, A, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Vaahtokarkki-kinuskirahkaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-09-12T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
