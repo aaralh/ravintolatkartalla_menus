@@ -5,50 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-09-15T00:00:00+00:00",
-      "LunchTime": "10.30 - 15.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Paputacoja ja smetanaa (A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Porsasta ja nautaa soija-chilikastikkeessa (A, G, L, M)",
-            "Höyrytettyä riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60 / 9,60 / 10,50",
-          "Components": [
-            "Paahdettua broileria ja ratatouillea (A, G, L, M, VS)",
-            "Chili-inkivääririisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-09-16T00:00:00+00:00",
       "LunchTime": "10.30 - 14.00",
       "SetMenus": [
