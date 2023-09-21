@@ -5,62 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2023-09-20T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Ratatouillea (*, A, G, ILM, L, M, Veg, VS)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Ratatouillea (*, A, G, ILM, L, M, Veg, VS)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Talon broilerimurekepihvi (*, A, L, M)",
-            "Currykastiketta (*, A, ILM, L)",
-            "Paprikariisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Kermaista lohi-seitikeittoa (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mansikkapannacottaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-09-21T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
@@ -86,14 +30,6 @@
           "Name": "",
           "Price": null,
           "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/10,40",
-          "Components": [
-            "Renen rieska kebabilla L, M ()"
-          ]
         },
         {
           "SortOrder": 1,
@@ -125,6 +61,7 @@
           "Name": "PAISTOPISTE",
           "Price": "5,60/10,40",
           "Components": [
+            "Nyhtökaura-chimichurrihampurilainen (A, L, M, Veg, VS)",
             "Maalaisranskalaisia (G, L, M, Veg)"
           ]
         },
@@ -157,7 +94,10 @@
           "SortOrder": 0,
           "Name": "",
           "Price": null,
-          "Components": []
+          "Components": [
+            "Kauden kasvis (G, L, M, Veg)",
+            "Leipäpöytä (kg) ()"
+          ]
         },
         {
           "SortOrder": 1,
@@ -196,21 +136,25 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/8,40",
           "Components": [
-            "Härkäpapu-kasvispaellaa (*, A, G, L, M, Veg)"
+            "Couscous-kasviswrap (A, L)",
+            "Paprikariisiä (G, L, M, Veg)"
           ]
         },
         {
           "SortOrder": 0,
           "Name": "",
           "Price": null,
-          "Components": []
+          "Components": [
+            "Tomaattinen salaatinkastike (*, A, G, L, M, Veg, VS)"
+          ]
         },
         {
           "SortOrder": 1,
           "Name": "KASVISLOUNAS",
           "Price": "2,95/8,40",
           "Components": [
-            "Härkäpapu-kasvispaellaa (*, A, G, L, M, Veg)"
+            "Couscous-kasviswrap (A, L)",
+            "Paprikariisiä (G, L, M, Veg)"
           ]
         },
         {
@@ -218,8 +162,9 @@
           "Name": "LOUNAS",
           "Price": "2,95/8,40",
           "Components": [
-            "Broileria Madras Chicken (*, A, G, ILM, L, VS)",
-            "Paprikariisiä (G, L, M, Veg)"
+            "Kalapuikkoja (*, A, L, M)",
+            "Tilli-jogurttikastiketta (*, A, G, ILM, L)",
+            "Perunasosetta (*, A, G, ILM, L)"
           ]
         },
         {
@@ -266,9 +211,8 @@
           "Name": "LOUNAS",
           "Price": "2,95/8,40",
           "Components": [
-            "Kalapuikkoja (*, A, L, M)",
-            "Tilli-jogurttikastiketta (*, A, G, ILM, L)",
-            "Perunasosetta (*, A, G, ILM, L)"
+            "Broileria Madras Chicken (*, A, G, ILM, L, VS)",
+            "Paprikariisiä (G, L, M, Veg)"
           ]
         },
         {
