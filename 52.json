@@ -5,47 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-09-21T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Bataatti-maissipihvejä (*, A, G, ILM, L, M, VS)",
-            "Yrttikermaviilikastiketta (A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Herkkusieni-soija-kasviscurrya kookoksella (A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Aasialaista lohi-seitikeittoa (*, A, G, ILM, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTELOUNAS LINJASTA",
-          "Price": "5,60/8,30/9,30/9,60",
-          "Components": [
-            "Metsästäjänleike (A, L)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)",
-            "Kauden kasviksia (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-09-22T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
