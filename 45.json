@@ -5,69 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-09-25T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Punajuurikroketteja (*, G, ILM, L, M, Veg)",
-            "Hummus-kauragurttikastiketta (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kalapuikkoja (*, A, L, M)",
-            "Tilli-jogurttikastiketta (*, A, G, ILM, L)",
-            "Perunasosetta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Lihakeittoa (*, A, G, L, M)"
-          ]
-        }
-      ]
-    },
-    {
-      "Date": "2023-09-26T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Vöner-linssikastiketta (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Jauhelihalasagnettea (A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kalaseljankaa (*, A, ILM, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-09-27T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
