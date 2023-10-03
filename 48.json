@@ -5,53 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2023-10-02T00:00:00+00:00",
-      "LunchTime": "10.30-15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Ranch-kastiketta (A, L, M, Veg, VS)",
-            "Punajuuripihvejä (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Tomaatti-vuohenjuustokeittoa (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Luomutäysjyväkierrepastaa (*, A, ILM, L, M, Veg)",
-            "Tonnikalakastiketta (*, A, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Jauhelihapyöryköitä (*, A, L, M)",
-            "Pippurikastiketta (*, A, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-10-03T00:00:00+00:00",
       "LunchTime": "10.30-15.00",
       "SetMenus": [
