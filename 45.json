@@ -5,7 +5,167 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-10-08T00:00:00+00:00",
+      "Date": "2023-10-09T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Juures-papupyöryköitä (*, A, G, L, M, Veg)",
+            "Lime-kurkkugurttikastiketta (*, A, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Savujuustokeittoa (A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Gluteenittomia kalakepukoita (*, A, G, L, M)",
+            "Ruohosipuli-jogurttikastiketta (*, A, G, ILM, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-10-10T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Tofu-kasviswokkia (*, A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Jauheliha-makaronilaatikkoa (A, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Kirjolohi-seitikeittoa (*, A, G, ILM, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-10-11T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Feta-pinaatti-cashewpähkinäpizzaa (A, VL)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Kasvissosekeittoa (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Broileripyöryköitä (*, A, L, M)",
+            "Harissa-jogurttikastiketta (*, A, G, ILM, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-10-12T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Härkislasagnettea (*, A, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Broileria Madras Chicken (*, A, G, ILM, L, VS)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Meksikolaista chorizo-kasviskeittoa (*, A, G, L, M, VS)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-10-13T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Inkivääri-kasvispataa (*, A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Talon Lindströminpihvi (A, L, M)",
+            "Sipulikastiketta (*, A, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Broileri-nuudelikeittoa (*, A, ILM, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-10-14T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2023-10-15T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
