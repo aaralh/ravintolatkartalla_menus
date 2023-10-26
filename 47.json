@@ -5,52 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2023-10-25T00:00:00+00:00",
-      "LunchTime": "10.30- 18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Porkkana-pestolasagnea (*, A, ILM, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Jauhelihakebakoita (A, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kalaa curry-kookoskastikkeessa (*, A, ILM, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Päivällinen  klo 15 - 18",
-          "Price": "4,90 / 7,20 / 7,70 /9,60",
-          "Components": [
-            "Alkaen klo 15.00: Paahdettua broileria sekä currylla maustettua kukkakaalia ja kikherneitä (A, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Porkkanalasagnettea (*, A, L, M, Veg, VS) ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-10-26T00:00:00+00:00",
       "LunchTime": "10.30-18.00",
       "SetMenus": [
