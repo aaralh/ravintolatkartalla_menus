@@ -5,7 +5,216 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-10-29T00:00:00+00:00",
+      "Date": "2023-10-30T00:00:00+00:00",
+      "LunchTime": "10.30–14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Härkäpapu-makaronilaatikkoa (*, A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Jauheliha-herkkusienikastiketta (A, L, M)",
+            "Spagettia (A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,60 / 8,30 / 9,20 / 10,20",
+          "Components": [
+            "Pariloitu broilerinfilee (G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Mustaherukkarahkaa (A, G, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-10-31T00:00:00+00:00",
+      "LunchTime": "10.30–14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Madras Tofu (*, A, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Paneroitua yrttikalaa (*, A, ILM, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,60 / 8,30 / 9,20 / 10,20",
+          "Components": [
+            "Metsästäjänleipä (A, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Puutarhamarja-ruismurupaistosta (A, L, M, Veg)",
+            "Marianne- kauravaahtoa (A, L, Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-11-01T00:00:00+00:00",
+      "LunchTime": "10.30–14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kebab-pastavuokaa (*, A, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Burgundin broileripataa (*, A, G, ILM, L, M, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Mariannetrifle ja vadelmaa (A, L, Veg)",
+            "Suklaakiisseliä (A, G, L, M, Veg)",
+            "Kauravaahtoa (A, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Mustapapupihvi *, A, G, L, M, Veg, VS ()"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-11-02T00:00:00+00:00",
+      "LunchTime": "10.30–14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Mausteista soija-luomuporkkana-perunalaatikkoa (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Nakkistroganoffia (*, A, L)",
+            "Perunasosetta (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,60 / 8,30 / 9,20 / 10,20",
+          "Components": [
+            "Briossihampurilainen rotukarjapihvillä (A, L, M)",
+            "Maalaisranskalaisia (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Mango-jogurttipannacottaa (A, G, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-11-03T00:00:00+00:00",
+      "LunchTime": "10.30–14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Täysjyvävehnätortilla (A, L, M, Veg)",
+            "Soija-kasvistäytettä (*, A, G, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kylmäsavukirjolohi-juustokastiketta (A, ILM, L)",
+            "Kierrepastaa (A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,60 / 8,30 / 9,20 / 10,20",
+          "Components": [
+            "Broilerinugetteja (A, L, M)",
+            "Mustaamakkaraa (A, L, M)",
+            "Prinssinakkeja ja bratukkaa (A, G, L, M)",
+            "Paprikahilloa (G, L, M, Veg)",
+            "Currymajoneesia (A, G, L, M)",
+            "Täyteläisiä valkosipuliperunoita (A, G, ILM, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Omena-puolukkapiirakkaa (A, L)",
+            "Vaniljakastiketta (A, G, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-11-04T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2023-11-05T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

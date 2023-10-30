@@ -5,7 +5,196 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2023-10-29T00:00:00+00:00",
+      "Date": "2023-10-30T00:00:00+00:00",
+      "LunchTime": "10.30 -18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Marokkolaisia kasvispihvejä (*, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Lindströminpihvejä (A, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Broileria Madras Chicken (*, A, G, ILM, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Päivällinen  klo 15 - 18",
+          "Price": "4,90 / 7,20 / 7,70 /9,60",
+          "Components": [
+            "Alkaen klo 15 : Paneroitu kampelafilee (A, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-10-31T00:00:00+00:00",
+      "LunchTime": "10.30-18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Tofu-kasviswokkia (*, A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Villikala-kylmäsavukirjolohikiusausta (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Uunimakkara sipuli-juustotäytteellä (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Päivällinen  klo 15 - 18",
+          "Price": "4,90 / 7,20 / 7,70 /9,60",
+          "Components": [
+            "Alkaen klo 15: Briossihampurilainen mustapapupihvillä (A, L, M, Veg, VS)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-11-01T00:00:00+00:00",
+      "LunchTime": "10.30- 18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Täysjyvävehnätortilla (A, L, M, Veg)",
+            "Vöner- täytettä (*, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Hedelmäistä broileripastaa (*, A, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kirjolohikeittoa (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Päivällinen  klo 15 - 18",
+          "Price": "4,90 / 7,20 / 7,70 /9,60",
+          "Components": [
+            "Alkaen klo 15 : Pekonipannupizza (A, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-11-02T00:00:00+00:00",
+      "LunchTime": "10.30-18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Chakalaka- kasvispataa (A, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISKEITTO",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kasvis-hernekeittoa (A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Gluteenittomia kalakepukoita (*, A, G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Hernekeittoa (*, A, G, ILM, L, M)",
+            "Pannukakkua (A, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Päivällinen  klo 15 - 18",
+          "Price": "4,90 / 7,20 / 7,70 /9,60",
+          "Components": [
+            "Alkaen klo 15: Kanaa Kiovan tapaan (A, L, VS)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-11-03T00:00:00+00:00",
+      "LunchTime": "10.30-16.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Falafel-pyöryköitä (A, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Jauheliha-makaronilaatikkoa (A, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2023-11-04T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2023-11-05T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
