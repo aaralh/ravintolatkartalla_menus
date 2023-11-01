@@ -5,37 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-10-31T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Vöneriä, papuja ja nuudelia (A, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Paneroitua seitifilettä (*, A, ILM, L, M)",
-            "Tilli-jogurttikastiketta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Broileri-kookoskeittoa (A, G, ILM, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-11-01T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
