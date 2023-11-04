@@ -5,44 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2023-11-03T00:00:00+00:00",
-      "LunchTime": "10.30-14.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Tofua ja kasviksia teriyakikastikkeessa (*, A, G, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kebablihaa ja kasviksia (*, A, G, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Bratvursti-kaalikeittoa (A, G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "BURGERI",
-          "Price": "4,90 /7,60 /9,60",
-          "Components": [
-            "Burgeri perjantai ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-11-04T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
