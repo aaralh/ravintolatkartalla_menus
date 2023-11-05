@@ -5,48 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2023-11-04T00:00:00+00:00",
-      "LunchTime": "12:00-15:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Friteerattuja falafeleita (A, ILM, L, M, Veg, VS)",
-            "Kookosriisiä (A, L, M, Veg)",
-            "Aurinkokuivatuilla tomaateilla maustettua majoneesia (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Friteerattuja falafeleita (A, ILM, L, M, Veg, VS)",
-            "Kookosriisiä (A, L, M, Veg)",
-            "Aurinkokuivatuilla tomaateilla maustettua majoneesia (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Kalapuikkoja (*, A, L, M)",
-            "Perunasosetta (*, A, G, ILM, L)",
-            "Tomaattimajoneesia (A, G, ILM, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-11-05T00:00:00+00:00",
       "LunchTime": "12:00 - 17:00",
       "SetMenus": [
