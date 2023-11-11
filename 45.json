@@ -5,36 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-11-10T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Paputacoja ja smetanaa (A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Bataattisosekeittoa (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Broilerikiusausta (*, A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-11-11T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
