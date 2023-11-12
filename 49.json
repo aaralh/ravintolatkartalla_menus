@@ -5,43 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-11-11T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Chili con vege (*, A, ILM, L, M, Veg, VS)",
-            "Höyrytettyä riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Broileri-nuudelivuokaa (*, A, ILM, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60 / 9,60 / 10,50",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60 / 9,60 / 10,50",
-          "Components": [
-            "Paneroitua kampelaa ja kermaperunaa (L, A) ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-11-12T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
