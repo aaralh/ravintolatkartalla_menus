@@ -5,51 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-11-13T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Quornia Aurajuustokastikkeessa (*, A, G, ILM, L)",
-            "Luomutäysjyväkierrepastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Härkäpapu-kasvispaellaa (*, A, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Broileri-katkarapupaellaa (*, A, G, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Lihakeittoa (*, A, G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-11-14T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -58,7 +13,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Burgundinpataa soijalla ja kasviksilla (*, A, ILM, L, VS)"
+            "Burgundinpataa soijalla ja kasviksilla 🌎 (*, A, ILM, L, VS)"
           ]
         },
         {
@@ -74,7 +29,7 @@
           "Name": "KEITTOLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Ranskalaista broilerikeittoa (A, G, ILM, L, VS)"
+            "Ranskalaista broilerikeittoa 🌎 (A, G, ILM, L, VS)"
           ]
         },
         {
@@ -104,7 +59,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Feta-pinaatti-cashewpähkinäpizzaa (A, VL)"
+            "Feta-pinaatti-cashewpähkinäpizzaa 🌎 (A, VL)"
           ]
         },
         {
@@ -120,7 +75,7 @@
           "Name": "KEITTOLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Minestronekeittoa (A, ILM, L, M, VS)"
+            "Minestronekeittoa 🌎 (A, ILM, L, M, VS)"
           ]
         },
         {
@@ -133,9 +88,7 @@
           "SortOrder": 0,
           "Name": "",
           "Price": null,
-          "Components": [
-            "Kauden salaattisekoitusta (G, L, M, Veg)"
-          ]
+          "Components": []
         }
       ]
     },
@@ -148,7 +101,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Shahi Paneer (*, A, G, ILM)",
+            "Shahi Paneer 🌎 (*, A, G, ILM)",
             "Höyrytettyä riisiä (G, L, M, Veg)"
           ]
         },
@@ -167,7 +120,7 @@
           "Name": "KEITTOLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Katkarapu-kookoskeittoa (A, G, L, M)"
+            "Katkarapu-kookoskeittoa 🌎 (A, G, L, M)"
           ]
         },
         {
@@ -175,7 +128,7 @@
           "Name": "PAISTOPISTELOUNAS LINJASTA",
           "Price": "5,60/8,30/9,30/9,60",
           "Components": [
-            "Tandoorimaustettua broileria (A, G, L, M)",
+            "Tandoorimaustettua broileria 🌎 (A, G, L, M)",
             "Höyrytettyä riisiä (G, L, M, Veg)"
           ]
         },
@@ -196,7 +149,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Kreikkalaista kasvispataa (*, A, G, ILM, L, M, Veg, VS)",
+            "Kreikkalaista kasvispataa 🌎 (*, A, G, ILM, L, M, Veg, VS)",
             "Kierrepastaa (A, ILM, L, M, Veg)"
           ]
         },

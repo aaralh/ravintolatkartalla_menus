@@ -5,59 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2023-11-13T00:00:00+00:00",
-      "LunchTime": "10.30 -18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Paputacoja ja smetanaa (A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Hapanimelää broileria thaimaalaisittain (*, A, G, ILM, L, M, VS)",
-            "Basmatiriisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Paneroitua yrttikalaa (*, A, ILM, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Päivällinen  klo 15 - 18",
-          "Price": "4,90 / 7,20 / 7,70 /9,60",
-          "Components": [
-            "Alkaen klo 15.00: Pitaleipä falafelilla (A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PÄIVÄLLINEN klo 17.00 alk",
-          "Price": "3,20 / 5,70 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Paputacoja A, L, M, Veg, VS ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-11-14T00:00:00+00:00",
       "LunchTime": "10.30-18.00",
       "SetMenus": [
