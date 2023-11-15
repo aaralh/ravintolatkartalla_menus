@@ -5,58 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2023-11-14T00:00:00+00:00",
-      "LunchTime": "10.30-18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Feta-pinaatti-cashewpähkinäpizzaa (A, VL)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISKEITTO",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Juustoista porkkanasosekeittoa (*, A, G, ILM, L)",
-            "Paahdettuja kurpitsansiemeniä (G, L, M, Veg)",
-            "Raejuustoa (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Burgundinpataa (*, A, G, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Päivällinen  klo 15 - 18",
-          "Price": "4,90 / 7,20 / 7,70 /9,60",
-          "Components": [
-            "Alkaen klo 15.00: Jauhelihatortilla (*, A, L, M, VS)",
-            "Maustekastike, salsa, chunky, Stadion ()",
-            "Jääsalaattia (G, L, M, Veg)",
-            "Tomaattia (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Tofu-pinaatti-pähkinäpizzaa A, L, M, Veg ()",
-            " ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-11-15T00:00:00+00:00",
       "LunchTime": "10.30- 18.00",
       "SetMenus": [
@@ -65,7 +13,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Shahi Paneer (*, A, G, ILM)"
+            "Shahi Paneer 🌍 (*, A, G, ILM)"
           ]
         },
         {
@@ -81,7 +29,7 @@
           "Name": "KEITTOLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Naudanliha-borssikeittoa (A, G, L, VS)"
+            "Naudanliha-borssikeittoa 🌍 (A, G, L, VS)"
           ]
         },
         {
@@ -89,7 +37,7 @@
           "Name": "Päivällinen  klo 15 - 18",
           "Price": "4,90 / 7,20 / 7,70 /9,60",
           "Components": [
-            "Alkaen klo 15.00: Chicken & chips (A, G, L, M)"
+            "Alkaen klo 15.00: Chicken & chips 🌍 (A, G, L, M)"
           ]
         },
         {
@@ -111,7 +59,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/ 5,70 / 6,30 / 8,40",
           "Components": [
-            "Härkäpapu-kasvispaellaa (*, A, G, L, M, Veg)"
+            "Tofu-kasvispaellaa 🌍 (*, A, G, L, M, Veg)"
           ]
         },
         {
@@ -135,7 +83,7 @@
           "Name": "Päivällinen  klo 15 - 18",
           "Price": "4,90 / 7,20 / 7,70 /9,60",
           "Components": [
-            "Alkaen klo 15.00: Chorizo-paprikapizza (A, VL)"
+            "Alkaen klo 15.00: Chorizo-paprikapizza 🌍 (A, VL)"
           ]
         }
       ]
@@ -149,8 +97,8 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Mac & Cheese (A, L)",
-            "Papu-pestolasagnettea (A, ILM, L)"
+            "Mac & Cheese 🌍 (A, L)",
+            "Papu-pestolasagnettea 🌍 (A, ILM, L)"
           ]
         },
         {
@@ -158,7 +106,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Broileria ja jogurttia Madras Chicken (A, G, L, VS)",
+            "Broileria ja jogurttia Madras Chicken 🌍 (A, G, L, VS)",
             "Basmatiriisiä (G, L, M, Veg)"
           ]
         },
@@ -167,7 +115,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/ 5,70 / 6,30 / 8,40",
           "Components": [
-            "Papu-kasvislasagnette A, l, M, Veg ()"
+            "Papu-kasvislasagnette A, l, M, Veg 🌍 ()"
           ]
         }
       ]
