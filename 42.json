@@ -5,50 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-11-17T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Madras Tofu 🌍 (*, A, ILM, L, M, Veg, VS)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Täysjyvävehnätortilla (A, L, M, Veg)",
-            "Jauhelihatäytettä (*, A, L, M, VS)",
-            "Chili-kermaviilikastiketta (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60/ 8,30 / 9,30 / 10,20",
-          "Components": [
-            "Porsaan grillipihvi (*, G, L, M)",
-            "Punaviinikastiketta (G, L, M, VS)",
-            "Juustoperunaa (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Puutarhamarja-ruismurupaistosta (A, L, M, Veg)",
-            "Kauravaahtoa (A, G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-11-18T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []

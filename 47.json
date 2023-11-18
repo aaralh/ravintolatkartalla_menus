@@ -5,38 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2023-11-17T00:00:00+00:00",
-      "LunchTime": "10.30-16.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Mac & Cheese 🌍 (A, L)",
-            "Papu-pestolasagnettea 🌍 (A, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Broileria ja jogurttia Madras Chicken 🌍 (A, G, L, VS)",
-            "Basmatiriisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Papu-kasvislasagnette A, l, M, Veg 🌍 ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-11-18T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
