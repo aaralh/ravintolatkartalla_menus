@@ -5,38 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-11-18T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Tahu goreng Indonesia 🌍 (A, G, ILM, L, M, Veg, VS)",
-            "Höyrytettyä riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Broileripaellaa 🌍 (A, G, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60 / 9,60 / 10,50",
-          "Components": [
-            "Ylikypsää porsasta vihreässä currykastikkeessa 🌍 (G, L, M, VS)",
-            "Paistettua chili-inkivääririisiä (A, G, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-11-19T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
