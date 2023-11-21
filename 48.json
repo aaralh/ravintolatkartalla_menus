@@ -5,54 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2023-11-20T00:00:00+00:00",
-      "LunchTime": "10.30-15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Juures-papupyöryköitä (*, A, G, L, M, Veg)",
-            "Lime-kurkkugurttikastiketta (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Tilli-kermaviilikastiketta (A, G, L)",
-            "Hauskat kalapihvit (A, ILM, L, M)",
-            "Perunasosetta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Broileri-Aurajuustokastiketta (*, A, G, ILM, L)",
-            "Luomutäysjyväkierrepastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kaali-karitsanjauhelihakeittoa (*, A, G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-11-21T00:00:00+00:00",
       "LunchTime": "10.30-15.00",
       "SetMenus": [
