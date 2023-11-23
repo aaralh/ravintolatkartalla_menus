@@ -5,60 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2023-11-22T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Kasvispastavuokaa (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Porkkana-kesäkurpitsa-hernesalaattia (G, L, M, Veg)",
-            "Basilikamarinoituja papuja (A, ILM, L, M, Veg)",
-            "Kauden hedelmä (G, L, M, Veg)",
-            "Kurpitsa-mangosalaattia (G, L, M, Veg)",
-            "Tomaattinen salaatinkastike (*, A, G, L, M, Veg, VS)",
-            "Valkosipulinen salaatinkastike (*, A, G, L, M)",
-            "Leipäpöytä (kg) ()",
-            "Ruokajuoma (kg) ()"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Kasvispastavuokaa (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Jauhelihalasagnettea (*, A, L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mansikkapannacottaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-11-23T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
