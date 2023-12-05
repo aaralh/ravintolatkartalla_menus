@@ -5,42 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-12-04T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Aurajuusto-kasviskiusausta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Paputacoja A, L, M, Veg, VS ()"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Makkarakeittoa (*, A, G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-12-05T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -65,6 +29,14 @@
           "SortOrder": 0,
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Broileri-nuudelivuokaa (*, A, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PAISTOPISTELOUNAS LINJASTA",
+          "Price": "5,60/8,30/9,30/9,60",
           "Components": [
             "Saksanhirvikäristystä (*, G, L, M)",
             "Perunasosetta (*, A, G, ILM, L)",
@@ -138,8 +110,7 @@
           "Name": "KEITTOLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Bataattisosekeittoa (*, A, G, ILM, L)",
-            "Maapähkinöitä (A, G, L, M, Veg)"
+            "Bataattisosekeittoa (*, A, G, ILM, L)"
           ]
         },
         {
