@@ -5,50 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-12-09T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Pasharahkaa (A, G, L)",
-            "Reduktio (A, G, L, M)",
-            "Rosepaistettua poronpaistia, puikulaperunasosetta ja rosmariinibearnaise (A, G, L)",
-            "Pulled pork-bearnaisepizza (A, L)",
-            "Bataatti-kasvisvuoka\n (*, A, G, ILM, L, M, Veg, VS)",
-            "Bataattisosekeittoa (*, A, G, ILM, L, M, Veg)",
-            "Chili con vegeä (*, A, ILM, L, M, Veg, VS)",
-            "Ceasar salaattia vönerillä (A, L, Veg, VS)",
-            "Artisokka-tomaattileipä (A, L, M, Veg)",
-            "Kormakastiketta (A, G, ILM, L, M, Veg, VS)",
-            "Kurpitsa-soijapalalasagnettea (A, ILM, L, M, Veg)",
-            "Hollandaisekastiketta (A, G, L, M, Veg)",
-            "Tummasuklaacookie (A, L, Veg)",
-            "Soijahampurilainen (A, L, M, Veg, VS)",
-            "Linssi-kasvismuhennosta (*, A, G, ILM, L, M, Veg, VS)",
-            "Kasviskeittoa (*, A, G, ILM, L, M, Veg)",
-            "Lehtikaalilasagnea (A, ILM, L, Veg, VS)",
-            "Soija-kasviswokkia (*, A, ILM, L, M, Veg, VS)",
-            "Omena-sellerisalaattia (A, G, L, M, Veg)",
-            "Valkopapusosekeittoa (*, A, ILM, L, M, Veg)",
-            "Vegaaninen energiapatukka (A, L, M, Veg)",
-            "Tyrnijäädykettä (A, G, L, M, Veg)",
-            "Korvapuusti (A, L, M, Veg)",
-            "Kikhernelasagnettea (*, A, ILM, L, M, Veg)",
-            "Vegaaninen ananas-kookospiiras (G, L, M, Veg)",
-            "Ananas-kookosriisiä (G, L, M, Veg)",
-            "Vegaanista kirsikka-kookospiirakkaa (G, L, M, Veg)",
-            "Vegaaninen sokerisilmäpulla (A, L, M, Veg)",
-            "Vegaaninen maustekakku (A, L, M, Veg)",
-            "Vegaaninen laskiaispulla mansikkahillolla (A, L, M, Veg)",
-            "Punajuuri-tuorepuuroa (A, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-12-10T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
