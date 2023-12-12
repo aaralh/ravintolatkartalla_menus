@@ -5,47 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2023-12-11T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Härkäpapu-makaronilaatikkoa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Jauheliha-herkkusienikastiketta (A, L, M)",
-            "Spagettia (A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60/ 8,30 / 9,30 / 10,20",
-          "Components": [
-            "Kauden kasviksia (G, L, M, Veg)",
-            "Pariloitu broilerinfilee (G, L, M)",
-            "Bearnaisekastiketta (A, G)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mustaherukkarahkaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2023-12-12T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
