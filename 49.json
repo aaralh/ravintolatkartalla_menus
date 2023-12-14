@@ -5,44 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2023-12-13T00:00:00+00:00",
-      "LunchTime": "10.30 - 16.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Kasvispastavuokaa (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Kalkkuna-juustokastiketta (*, A, G, L)",
-            "Höyrytettyä riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60 / 9,60 / 10,50",
-          "Components": [
-            "Harissamaustettua ylikypsää porsasta (A, G, L, VS)",
-            "Paahdettuja juureksia (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-12-14T00:00:00+00:00",
       "LunchTime": "10.30 - 16.30",
       "SetMenus": [
