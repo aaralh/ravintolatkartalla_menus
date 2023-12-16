@@ -5,50 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2023-12-15T00:00:00+00:00",
-      "LunchTime": "12:00-17:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Burgundinpataa soijalla ja kasviksilla (*, A, ILM, L, VS)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Broilerimureketta L, M ()"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Burgundinpataa soijalla ja kasviksilla (*, A, ILM, L, VS)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2023-12-16T00:00:00+00:00",
       "LunchTime": "12:00-17:00",
       "SetMenus": [
@@ -87,10 +43,7 @@
           "SortOrder": 5,
           "Name": "PAISTOPISTE",
           "Price": "5,60/10,40",
-          "Components": [
-            "Briossihampurilainen rotukarjapihvi ja savujuusto (A, L)",
-            "Maalaisranskalaisia (G, L, M, Veg)"
-          ]
+          "Components": []
         }
       ]
     },
