@@ -1,8 +1,174 @@
 {
-  "RestaurantName": null,
-  "RestaurantUrl": null,
+  "RestaurantName": "Kahvila Syke",
+  "RestaurantUrl": "https://www.semma.fi/ravintolat2/seminaarimaki/kahvila-syke/",
   "PriceHeader": null,
   "Footer": null,
-  "MenusForDays": null,
-  "ErrorText": "No menu found with selected cost number/language/date: 1405/fi/07.1.2024"
+  "MenusForDays": [
+    {
+      "Date": "2024-01-08T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Kasviskroketteja (*, G, ILM, L, M, Veg, VS)",
+            "Hummus-kauragurttikastiketta (*, A, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Kotimaisia kirjolohipyöryköitä (A, ILM, L)",
+            "Sinappirelish-kermaviilikastiketta (A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Broileri-juureskeittoa (*, A, G, ILM, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-01-09T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Chili con vege (*, A, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Kinkkukiusausta (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Jauheliha-kasviskeittoa (*, A, G, ILM, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-01-10T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Shahi Paneer (*, A, G, ILM)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Kinkku-ananaspizzaa (A, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Seitikeittoa (*, A, G, ILM)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-01-11T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Kasviswokkia (*, A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Kebab-pastavuokaa (*, A, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Portugalilaista makkarakeittoa (A, L, M, VS)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-01-12T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Täysjyvävehnätortilla (A, L, M, Veg)",
+            "Nyhtökauratäytettä (*, A, ILM, L, M, Veg)",
+            "Persiljamajoneesia (A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Bataattisosekeittoa (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 /6,30 /8,40",
+          "Components": [
+            "Tilli-jogurttikastiketta (*, A, G, ILM, L)",
+            "Hauskat kalapihvit (A, ILM, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-01-13T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-01-14T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
+  "ErrorText": null
 }
