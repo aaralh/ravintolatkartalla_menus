@@ -5,56 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-01-09T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Porkkanaohukaisia (G, ILM, L, M, Veg)",
-            "Puolukkahilloa (A, G, L, M, Veg)",
-            "Paprikariisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Talon porkkanaohukaisia (*, A, ILM, L)",
-            "Puolukkahilloa (A, G, L, M, Veg)",
-            "Paprikariisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Lahna-kikherne pyöryköitä (A, G, ILM, L)",
-            "Sinappista kananmuna-kermaviilikastiketta (A, G, L)",
-            "Perunasosetta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Passionhedelmä-jogurttipannacottaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-01-10T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
