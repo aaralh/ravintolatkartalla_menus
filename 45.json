@@ -5,36 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-01-11T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kasviswokkia (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kebab-pastavuokaa (*, A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Portugalilaista makkarakeittoa (A, L, M, VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-01-12T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
@@ -44,7 +14,7 @@
           "Price": "2,95 /6,30 /8,40",
           "Components": [
             "Täysjyvävehnätortilla (A, L, M, Veg)",
-            "Nyhtökauratäytettä (*, A, ILM, L, M, Veg)",
+            "Linssi-kasvistäytettä (*, A, ILM, L, M, Veg)",
             "Persiljamajoneesia (A, G, ILM, L, M, Veg)"
           ]
         },
@@ -53,7 +23,7 @@
           "Name": "KEITTOLOUNAS",
           "Price": "2,95 /6,30 /8,40",
           "Components": [
-            "Bataattisosekeittoa (*, A, G, ILM, L)"
+            "Bataatti-Porkkanasosekeittoa (*, A, G, ILM, L)"
           ]
         },
         {

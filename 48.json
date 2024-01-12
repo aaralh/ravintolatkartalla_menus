@@ -5,45 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2024-01-11T00:00:00+00:00",
-      "LunchTime": "10.30-15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kasviswokkia (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Nakkikastiketta (*, A, L, M)",
-            "Perunasosetta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kebab-pastavuokaa (*, A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Portugalilaista makkarakeittoa (A, L, M, VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-01-12T00:00:00+00:00",
       "LunchTime": "10.30-14.30",
       "SetMenus": [
@@ -53,7 +14,7 @@
           "Price": "2,95 /6,30 /8,40",
           "Components": [
             "Täysjyvävehnätortilla (A, L, M, Veg)",
-            "Nyhtökauratäytettä (*, A, ILM, L, M, Veg)"
+            "Linssi-kasvistäytettä (*, A, ILM, L, M, Veg)"
           ]
         },
         {
@@ -61,7 +22,7 @@
           "Name": "KEITTOLOUNAS",
           "Price": "2,95 /6,30 /8,40",
           "Components": [
-            "Bataattisosekeittoa (*, A, G, ILM, L)"
+            "Bataatti-Porkkanasosekeittoa (*, A, G, ILM, L)"
           ]
         },
         {
