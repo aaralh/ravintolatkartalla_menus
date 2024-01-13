@@ -5,39 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-01-12T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Täysjyvävehnätortilla (A, L, M, Veg)",
-            "Linssi-kasvistäytettä (*, A, ILM, L, M, Veg)",
-            "Persiljamajoneesia (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Bataatti-Porkkanasosekeittoa (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Tilli-jogurttikastiketta (*, A, G, ILM, L)",
-            "Hauskat kalapihvit (A, ILM, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-01-13T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
