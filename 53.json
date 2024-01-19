@@ -5,48 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-01-18T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Pinaatti-kasvispataa (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Hernekeittoa (*, A, G, ILM, L, M)",
-            "Hienonnettua sipulia (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60 / 8,30 / 9,20 / 10,20",
-          "Components": [
-            "Puna-ahventa rakuunakastikkeessa (A, G, L)",
-            "Perunasosetta (*, A, G, ILM, L)",
-            "Kauden kasviksia (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Pannukakkua (A, L)",
-            "Mansikkahilloa (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-01-19T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
