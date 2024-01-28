@@ -5,41 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-01-27T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Juurespihvejä (*, A, G, ILM, L, M, Veg)",
-            "Kurkku-kauragurttikastiketta (*, A, ILM, L, M, Veg, VS)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 6,30 / 8,40",
-          "Components": [
-            "Itämaista naudanliha-kasvispataa (*, A, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/ 9,30 / 9,60",
-          "Components": [
-            "Juustokuorrutettu broilerinfilee (*, A, L)",
-            "Tzatsikia (A, G, ILM, L, VS)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)",
-            "Kauden kasviksia (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-01-28T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
