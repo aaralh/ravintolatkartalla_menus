@@ -5,46 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2024-02-05T00:00:00+00:00",
-      "LunchTime": "10.30-15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Juures-papupyöryköitä (*, A, G, L, M, Veg)",
-            "Lime-kurkkugurttikastiketta (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Broileria Madras Chicken (*, A, G, ILM, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Rapeaa siemen paneroitua kalaa (*, A, ILM, L, M)",
-            "Ruohosipuli-jogurttikastiketta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Makkarakeittoa (*, A, G, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-02-06T00:00:00+00:00",
       "LunchTime": "10.30-15.00",
       "SetMenus": [
@@ -157,6 +117,14 @@
           "Price": "2,95 /6,30 /8,40",
           "Components": [
             "Bratvursti-kaalikeittoa (A, G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "4,50",
+          "Components": [
+            "'Tuunaa laskiaspullasi' -jälkkäripöytä ()"
           ]
         }
       ]
