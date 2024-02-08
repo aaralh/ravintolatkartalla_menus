@@ -5,48 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-02-07T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Tex Mex-kasvispyöryköitä (A, G, ILM, L, M, Veg)",
-            "Harissa-jogurttikastiketta (*, A, G, ILM, L)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Mausteista makkara-pastavuokaa (A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60 / 8,30 / 9,20 / 10,20",
-          "Components": [
-            "Kanaa Kiovan tapaan (A, L, VS)",
-            "Sitruunamajoneesia (A, G, ILM, L)",
-            "Paahdetulla sipulilla maustettua perunasosetta (A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Limepannacottaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-02-08T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
