@@ -5,49 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-02-22T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Tacoja (G, L, M, Veg)",
-            "Härkäpapu-paprikatäytettä (*, A, ILM, L, M, Veg)",
-            "Vöner-linssikastiketta (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Jauheliha-makaronilaatikkoa (*, A, L)",
-            "Tomaattiketsuppia (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Aasialaista lohi-seitikeittoa (*, A, G, ILM, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Puolukka-kauramurupaistosta (A, L, M, Veg)",
-            "Kinuskikermavaahtoa (A, G, L)",
-            "Kookoskinuskia (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-02-23T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
