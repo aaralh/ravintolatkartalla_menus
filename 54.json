@@ -5,55 +5,8 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-02-26T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Soijapala Butter (*, A, ILM, L, Veg, VS)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Tofua ja kasviksia teriakikastikkeessa (A, L, M, G, Veg, ILM, VS, *) ()",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Bolognesekastiketta (*, A, G, L, M, VS)",
-            "Luomutäysjyväpennepastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Vaahtokarkki-kinuskirahkaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-02-27T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
+      "LunchTime": "11:00-17:00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -112,7 +65,7 @@
     },
     {
       "Date": "2024-02-28T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
+      "LunchTime": "11:00-17:00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -158,7 +111,7 @@
     },
     {
       "Date": "2024-02-29T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
+      "LunchTime": "11:00-17:00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -207,7 +160,7 @@
     },
     {
       "Date": "2024-03-01T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
+      "LunchTime": "11:00-17:00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -255,7 +208,7 @@
     },
     {
       "Date": "2024-03-02T00:00:00+00:00",
-      "LunchTime": "12:00 - 17:00",
+      "LunchTime": "12:00 - 16:00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -299,7 +252,7 @@
     },
     {
       "Date": "2024-03-03T00:00:00+00:00",
-      "LunchTime": "12:00 - 17:00",
+      "LunchTime": "12:00 - 16:00",
       "SetMenus": [
         {
           "SortOrder": 0,
