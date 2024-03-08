@@ -5,72 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2024-03-07T00:00:00+00:00",
-      "LunchTime": "10.30-18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Soija-makaronilaatikkoa (*, A, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISKEITTO",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kasvis-hernekeittoa (A, G, ILM, L, M, Veg)",
-            "Hienonnettua sipulia (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Seitiä intialaisittain (*, A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Hernekeittoa (*, A, G, ILM, L, M)",
-            "Hienonnettua sipulia (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Päivällinen  klo 15 - 18",
-          "Price": "4,90 / 7,20 / 7,70 /9,60",
-          "Components": [
-            "Alkaen klo 15.00: Feta-pinaattipannupizza (A, VL)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Pannukakkua (A, L)",
-            "Mansikkahilloa (G, L, M, Veg)",
-            "Kermavaahtoa (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Soija-makaronilaatikkoa *, A, L, M, Veg ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-03-08T00:00:00+00:00",
       "LunchTime": "10.30-16.00",
       "SetMenus": [
@@ -87,15 +21,21 @@
           "SortOrder": 0,
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Talon jauhelihapihvi ja haudutettua sipulia (A, L, M)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
           "Name": "JÄLKIRUOKA",
           "Price": "1,20",
           "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Lihapyöryköitä A, L ()"
+          ]
         }
       ]
     },

@@ -5,61 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-03-07T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Soijabolognese-makaronilaatikkoa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Soijabolognese-makaronilaatikkoa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Jauhelihakebakoita (A, L, M)",
-            "Valkosipulimajoneesia (A, G, L, M, VS)",
-            "Juustoperunoita (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Hernekeittoa (*, A, G, ILM, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Pannukakkua (A, L)",
-            "Mansikkahilloa (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-03-08T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
@@ -114,9 +59,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/8,40",
           "Components": [
-            "Juurespihvejä (*, A, G, ILM, L, M, Veg)",
-            "Kurkku-kauragurttikastiketta (*, A, ILM, L, M, Veg, VS)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+            "Herkkusieni-pastavuoka L, M, VEG ()"
           ]
         },
         {
@@ -124,6 +67,14 @@
           "Name": "",
           "Price": null,
           "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PAISTOPISTE",
+          "Price": "5,60/10,40",
+          "Components": [
+            "Juustoburgeri A ()"
+          ]
         },
         {
           "SortOrder": 1,
@@ -145,10 +96,7 @@
           "SortOrder": 5,
           "Name": "PAISTOPISTE",
           "Price": "5,60/10,40",
-          "Components": [
-            "Briossihampurilainen broileriwallenberg ja pekoni (A, L)",
-            "Maalaisranskalaisia (G, L, M, Veg)"
-          ]
+          "Components": []
         }
       ]
     },
