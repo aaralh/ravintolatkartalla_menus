@@ -5,43 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-03-09T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Juurespihvejä (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/ 8,30 / 9,30 / 9,60",
-          "Components": [
-            "Paneroitu kampelafilee (A, L, M)",
-            "Maalaislohkoperunoita (G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Smetana-lihapataa (G, L) ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-03-10T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
