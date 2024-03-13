@@ -5,54 +5,8 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2024-03-12T00:00:00+00:00",
-      "LunchTime": "10.30-15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Soija-kasvisbolognesea (*, A, G, ILM, L, M, Veg)",
-            "Luomutäysjyväkierrepastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Ruotsalaista pyttipannua (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kaali-jauhelihakeittoa (*, A, G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60 / 9,30 /9,60",
-          "Components": [
-            "Smetanakirjolohta ja kesäkurpitsaa (A, G, ILM, L)",
-            "Perunasosetta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2024-03-13T00:00:00+00:00",
-      "LunchTime": "10.30-15.00",
+      "LunchTime": "10.30-14.30",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -97,7 +51,7 @@
     },
     {
       "Date": "2024-03-14T00:00:00+00:00",
-      "LunchTime": "10.30-15.00",
+      "LunchTime": "10.30-14.30",
       "SetMenus": [
         {
           "SortOrder": 0,
