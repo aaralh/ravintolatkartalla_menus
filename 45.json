@@ -5,37 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-03-21T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Tofu-auringonkukansiemenmureketta (A, ILM, L, M, Veg)",
-            "Persiljamajoneesia (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Paprikakeittoa paahdetusta paprikasta (*, A, G, ILM, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kebabrisottoa (*, G, L, M, VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-03-22T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
