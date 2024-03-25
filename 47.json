@@ -5,7 +5,106 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2024-03-24T00:00:00+00:00",
+      "Date": "2024-03-25T00:00:00+00:00",
+      "LunchTime": "10.30 -18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Paneroidut porkkanapihvit (A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Jauheliha-pastavuokaa (*, A, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2024-03-26T00:00:00+00:00",
+      "LunchTime": "10.30-18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Tahu goreng Indonesia (A, G, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Manteliseitiä (*, A, G, ILM, L)",
+            "Perunasosetta (*, A, G, ILM, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-03-27T00:00:00+00:00",
+      "LunchTime": "10.30-18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Siemenkuorrutettua tofua (A, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Lammaspihvejä (A, L, M, VS)",
+            "Täyteläisiä valkosipuliperunoita (A, G, ILM, L, VS)",
+            "Tummaa appelsiinikastiketta (A, G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,20",
+          "Components": [
+            "Mämmiä (A, L, M, Veg)",
+            "Vaniljakermavaahtoa (A, G, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-03-28T00:00:00+00:00",
+      "LunchTime": "10.30-18.00",
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-03-29T00:00:00+00:00",
+      "LunchTime": "10.30-14.00",
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-03-30T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-03-31T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }

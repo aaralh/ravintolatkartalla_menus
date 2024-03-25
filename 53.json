@@ -5,7 +5,165 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-03-24T00:00:00+00:00",
+      "Date": "2024-03-25T00:00:00+00:00",
+      "LunchTime": "10.30–14.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Broileri-nuudelivuokaa (*, A, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Herkuttelijan nautapataa (*, A, L)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,50",
+          "Components": [
+            "Pasharahkaa (A, G, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-03-26T00:00:00+00:00",
+      "LunchTime": "10.30–14.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Seitancurrya (*, A, ILM, L, M, Veg, VS)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Liha-makaronilaatikkoa (A, L)",
+            "Tomaattiketsuppia (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Hapanimelää broilerikastiketta (*, A, G, L, M, VS)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,50",
+          "Components": [
+            "Karamellisoitua päärynää (A, G, L)",
+            "Vaniljakastiketta (A, G, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-03-27T00:00:00+00:00",
+      "LunchTime": "10.30–14.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Tex Mex-kasvispyöryköitä (A, G, ILM, L, M, Veg)",
+            "Harissa-jogurttikastiketta (*, A, G, ILM, L)",
+            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Tonnikalakastiketta (A, ILM, L, M)",
+            "Kierrepastaa (A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,60 / 8,30 / 9,20 / 10,20",
+          "Components": [
+            "Lammaspihvejä (A, L, M, VS)",
+            "Valkosipuliperunoita (A, G, ILM, L, M, Veg, VS)",
+            "Punaviinikastiketta (G, L, M, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,50",
+          "Components": [
+            "Limepannacottaa (A, G, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-03-28T00:00:00+00:00",
+      "LunchTime": "10.30–14.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Tahu goreng Indonesia (*, A, G, ILM, L, M, Veg, VS)",
+            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kebablihaa ja kasviksia (*, A, G, L, M, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "TexMex-uunimakkaraa (A, G, L)",
+            "Perunasosetta (*, A, G, ILM, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-03-29T00:00:00+00:00",
+      "LunchTime": "10.30–14.00",
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-03-30T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-03-31T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
