@@ -1,8 +1,65 @@
 {
-  "RestaurantName": null,
-  "RestaurantUrl": null,
+  "RestaurantName": "Ravintola Piato",
+  "RestaurantUrl": "https://www.semma.fi/ravintolat2/mattilanniemi/piato/",
   "PriceHeader": null,
   "Footer": null,
-  "MenusForDays": null,
-  "ErrorText": "No menu found with selected cost number/language/date: 1408/fi/27.3.2024"
+  "MenusForDays": [
+    {
+      "Date": "2024-03-28T00:00:00+00:00",
+      "LunchTime": "10.30 - 16.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kikherne-bataattipataa (*, A, ILM, L, M, Veg, VS)",
+            "Höyrytettyä riisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Jauhelihapyöryköitä (*, A, L, M)",
+            "Pippurikastiketta (*, A, ILM, L)",
+            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PAISTOPISTE",
+          "Price": "5,60/ 8,30 / 9,30 / 9,60",
+          "Components": [
+            "Kanaa Kiovan tapaan (A, L, VS)",
+            "Lohkoperunoita (G, ILM, L, M, Veg)",
+            "Wasabimajoneesia (A, G, ILM, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-03-29T00:00:00+00:00",
+      "LunchTime": "10.30 - 15.30",
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-03-30T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.00",
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-03-31T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
+  "ErrorText": null
 }
