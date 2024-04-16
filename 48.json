@@ -5,53 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2024-04-15T00:00:00+00:00",
-      "LunchTime": "10.30-14.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Punajuuripihvejä 🙂 (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Pinaattikeittoa (*, A, ILM, L)",
-            "Keitetty kananmuna (A, G, ILM, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Bolognesekastiketta (*, A, G, L, M, VS)",
-            "Luomutäysjyväpennepastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Tartarkastiketta (A, G, L, M, Veg)",
-            "Hauskat kalapihvit 🙂 (A, ILM, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2024-04-16T00:00:00+00:00",
       "LunchTime": "10.30-14.30",
       "SetMenus": [
@@ -83,16 +36,21 @@
           "SortOrder": 0,
           "Name": "LOUNAS",
           "Price": "5,60 / 9,30 /9,60",
-          "Components": [
-            "Porsaan grillipihvi 🙂 (*, G, L, M)",
-            "Bearnaisekastiketta (A, G)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
           "Name": "JÄLKIRUOKA",
           "Price": "1,50",
           "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "5,60 / 9,30 /9,60",
+          "Components": [
+            "Karitsanpaahtopaistia A, G, L, M ()"
+          ]
         }
       ]
     },

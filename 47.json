@@ -5,60 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2024-04-15T00:00:00+00:00",
-      "LunchTime": "10.30 -18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Porkkanaohukaisia  😀 (*, A, ILM, L)",
-            "Puolukkahilloa (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Porkkanaohukaisia (G, ILM, L, M, Veg)",
-            "Puolukkahilloa (A, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Tonnikala-pinaattilasagnettea 😀 (*, A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Jauhelihapyöryköitä mausteisessa harissakastikkeessa (*, A, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Päivällinen  klo 15 - 18",
-          "Price": "4,90 / 7,20 / 7,70 /9,60",
-          "Components": [
-            "Alkaen 15.00: Kanaa Kiovan tapaan (A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2024-04-16T00:00:00+00:00",
       "LunchTime": "10.30-18.00",
       "SetMenus": [
@@ -67,7 +13,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Feta-pinaatti-cashewpähkinäpizzaa (A, VL)"
+            "Feta-pinaatti-cashewpähkinäpizzaa 😀 (A, VL)"
           ]
         },
         {
@@ -83,7 +29,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Butter Chicken (*, A, G, L)"
+            "Butter Chicken😀 (*, A, G, L)"
           ]
         },
         {
@@ -121,7 +67,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/ 5,70 / 6,30 / 8,40",
           "Components": [
-            "Tahu goreng Indonesia (*, A, G, ILM, L, M, Veg, VS)"
+            "Tahu goreng Indonesia😀 (*, A, G, ILM, L, M, Veg, VS)"
           ]
         },
         {
@@ -129,7 +75,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Liha-makaronilaatikkoa (A, L)",
+            "Liha-makaronilaatikkoa😀 (A, L)",
             "Tomaattiketsuppia (G, L, M, Veg)"
           ]
         },
@@ -138,7 +84,7 @@
           "Name": "KEITTOLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Kirjolohikeittoa (*, A, G, ILM, L)"
+            "Kirjolohikeittoa 😀 (*, A, G, ILM, L)"
           ]
         },
         {
@@ -158,7 +104,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/ 5,70 / 6,30 / 8,40",
           "Components": [
-            "Rapeita kasvispuikkoja (*, G, L, M, Veg)"
+            "Rapeita kasvispuikkoja😀 (*, G, L, M, Veg)"
           ]
         },
         {
@@ -174,7 +120,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Broilerinugetteja (A, L, M)"
+            "Broilerinugetteja 😀 (A, L, M)"
           ]
         },
         {
@@ -196,7 +142,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/ 5,70 / 6,30 / 8,40",
           "Components": [
-            "Vönerlasagnettea (*, A, ILM, L, M, Veg, VS)"
+            "Vönerlasagnettea 😀 (*, A, ILM, L, M, Veg, VS)"
           ]
         },
         {
@@ -204,7 +150,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Hauskat kalapihvit (A, ILM, L, M)"
+            "Hauskat kalapihvit 😀 (A, ILM, L, M)"
           ]
         },
         {
