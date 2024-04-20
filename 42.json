@@ -5,47 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-04-19T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Madras Tofu 😊 (*, A, ILM, L, M, Veg, VS)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Feta-pinaatti-cashewpähkinäpizzaa 😊 (A, VL)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Mansikkapiirakkaa (A, L)",
-            "Vaniljakermavaahtoa (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Broileripyöryköitä A, L, M 😊 ()",
-            "Currykastiketta *, A, ILM, L ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-04-20T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
