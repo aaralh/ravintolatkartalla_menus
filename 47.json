@@ -5,7 +5,173 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2024-04-28T00:00:00+00:00",
+      "Date": "2024-04-29T00:00:00+00:00",
+      "LunchTime": "10.30 -18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Butter Mifua (*, A, ILM, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kotimaisia kirjolohipyöryköitä (A, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Jauheliha-chilikastiketta (*, A, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Päivällinen  klo 15 - 18",
+          "Price": "4,90 / 7,20 / 7,70 /9,60",
+          "Components": [
+            "Alkaen klo 15.00: Porsaanleike (A, G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,50",
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2024-04-30T00:00:00+00:00",
+      "LunchTime": "10.30-18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Rapeita kasvispuikkoja (*, G, L, M, Veg)",
+            "Falafel-pyöryköitä (A, ILM, L, M, Veg, VS)",
+            "Lohkoperunoita (G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Jauhelihapyöryköitä (*, A, L, M)",
+            "Prinssinakkeja (G, L, M)",
+            "Lohkoperunoita (G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,50",
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2024-05-01T00:00:00+00:00",
+      "LunchTime": "10.30-18.00",
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-05-02T00:00:00+00:00",
+      "LunchTime": "10.30-18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Mausteista vönerkastiketta ja pikkelöityä punasipulia (*, A, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Ruotsalaista pyttipannua (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KEITTOLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kirjolohikeittoa (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Päivällinen  klo 15 - 18",
+          "Price": "4,90 / 7,20 / 7,70 /9,60",
+          "Components": [
+            "Alkaen klo 15.00: Pepperonipannupizza (A, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,50",
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2024-05-03T00:00:00+00:00",
+      "LunchTime": "10.30-14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kasvisbolognesetäytteiset paprikat (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Soija-kauratäytteiset paprikat (*, A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Jauheliha-pastavuokaa (*, A, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,50",
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2024-05-04T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-05-05T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
