@@ -5,7 +5,155 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2024-05-05T00:00:00+00:00",
+      "Date": "2024-05-06T00:00:00+00:00",
+      "LunchTime": "10.30 -18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Quornia pestokastikkeessa (*, A, G, ILM, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Broileripyöryköitä (*, A, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Porsasta sinappikastikkeessa (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Päivällinen  klo 15 - 18",
+          "Price": "4,90 / 7,20 / 7,70 /9,60",
+          "Components": [
+            "Alkaen klo 15.00: Paneroitu kampelafilee (A, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,50",
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2024-05-07T00:00:00+00:00",
+      "LunchTime": "10.30-15.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Punajuuripihvejä (*, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Tonnikala-ananaspannupizzaa (A, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Bolognesekastiketta (*, A, G, L, M, VS)",
+            "Luomutäysjyväpennepastaa (*, A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Päivällinen  klo 15 - 18",
+          "Price": "4,90 / 7,20 / 7,70 /9,60",
+          "Components": [
+            "Alkaen klo 15.00: Pippurista kalkkunan sisäfileetä (*, G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,50",
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2024-05-08T00:00:00+00:00",
+      "LunchTime": "10.30-18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Madras Tofu (*, A, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kylmäsavulohikiusausta (A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Uunimakkaraa juustokuorrutteella (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Päivällinen  klo 15 - 18",
+          "Price": "4,90 / 7,20 / 7,70 /9,60",
+          "Components": [
+            "Alkaen klo 15.00: Porsaan grillipihvi (*, G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "1,50",
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2024-05-09T00:00:00+00:00",
+      "LunchTime": "10.30-18.00",
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-05-10T00:00:00+00:00",
+      "LunchTime": "10.30-14.00",
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-05-11T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-05-12T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
