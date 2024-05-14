@@ -5,38 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-05-13T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Marokkolaisia kasvispihvejä (*, G, ILM, L, M, Veg)",
-            "Harissa-jogurttikastiketta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kalapyöryköitä (*, A, G, ILM, L, M)",
-            "Sinappirelish-kermaviilikastiketta (A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Naudanliha-borssikeittoa (A, G, L, VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-05-14T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
