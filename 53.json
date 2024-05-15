@@ -5,38 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-05-14T00:00:00+00:00",
-      "LunchTime": "10.30–14.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Chili con vege (*, A, ILM, L, M, Veg, VS)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kinkkukiusausta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kalkkunaa ja kasviksia inkiväärikastikkeessa (*, A, G, L, M)",
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-05-15T00:00:00+00:00",
       "LunchTime": "10.30–14.30",
       "SetMenus": [
