@@ -5,43 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-05-15T00:00:00+00:00",
-      "LunchTime": "10.30 - 16.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Inkivääri-kasvispataa (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Broileri-kookoskastiketta (A, G, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "Grilli",
-          "Price": "5,60 / 8,80 / 9,60 / 10,50",
-          "Components": [
-            "Briossihampurilainen burgerpihvi ja pekoni (A, L, M)",
-            "Ranskalaisia perunoita (G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2024-05-16T00:00:00+00:00",
       "LunchTime": "10.30 - 16.30",
       "SetMenus": [
