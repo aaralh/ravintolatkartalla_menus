@@ -5,48 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-05-20T00:00:00+00:00",
-      "LunchTime": "10.30–14.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Falafel-pyöryköitä (A, ILM, L, M, Veg, VS)",
-            "Kurkkuraitaa (A, G, ILM, L, VS)",
-            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Höyrytettyä tummaa riisiä (*, G, L, M, Veg)",
-            "Soija-kasvisbolognesea (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Uunimakkara sipuli-juustotäytteellä (A, G, L)",
-            "Perunasosetta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Suklaamoussea (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-05-21T00:00:00+00:00",
       "LunchTime": "10.30–14.30",
       "SetMenus": [
