@@ -1,14 +1,8 @@
 {
-  "RestaurantName": "Kahvila Syke",
-  "RestaurantUrl": "https://www.semma.fi/ravintolat2/seminaarimaki/kahvila-syke/",
+  "RestaurantName": null,
+  "RestaurantUrl": null,
   "PriceHeader": null,
   "Footer": null,
-  "MenusForDays": [
-    {
-      "Date": "2024-05-26T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": []
-    }
-  ],
-  "ErrorText": null
+  "MenusForDays": null,
+  "ErrorText": "No menu found with selected cost number/language/date: 1405/fi/27.5.2024"
 }
