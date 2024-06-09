@@ -5,41 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-06-08T00:00:00+00:00",
-      "LunchTime": "11:00 - 15:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Dal linssimuhennos (A, L, M, G, Veg ()"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Uunimakkaraa juustokuorrutteella (A, G, L)",
-            "Perunasosetta (*, A, G, ILM, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-06-09T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
