@@ -5,68 +5,45 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-06-30T00:00:00+00:00",
-      "LunchTime": null,
+      "Date": "2024-07-01T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.00",
       "SetMenus": [
         {
           "SortOrder": 0,
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": []
+          "Components": [
+            "Pinaattiohukaisia (A, ILM, L)",
+            "Pinaattiohukaisia (*, A, ILM, L)",
+            "Puolukkahilloa (G, L, M, Veg)",
+            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+          ]
         },
         {
           "SortOrder": 0,
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
+          "Components": [
+            "Pinaattiohukaisia (A, G, ILM, L, M, Veg)"
+          ]
         },
         {
           "SortOrder": 0,
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS 2",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": []
+          "Components": [
+            "Broileria Kung Po (*, A, G, L, M, VS)",
+            "Höyrytettyä riisiä (G, L, M, Veg)"
+          ]
         },
         {
           "SortOrder": 0,
           "Name": "PAISTOPISTE",
           "Price": "5,60/ 8,30 / 9,30 / 9,60",
-          "Components": []
+          "Components": [
+            "Porsaanleike (A, G, L, M)",
+            "Pippurista tuorejuustokastiketta (A, G, L)"
+          ]
         },
         {
           "SortOrder": 0,
@@ -75,6 +52,176 @@
           "Components": []
         }
       ]
+    },
+    {
+      "Date": "2024-07-02T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Tofu-kasviswokkia (*, A, G, ILM, L, M, Veg)",
+            "Höyrytettyä riisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Hauskat kalapihvit (A, ILM, L, M)",
+            "Perunamuusia (*, A, G, ILM, L)",
+            "Sinappirelish-kermaviiliä (A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PAISTOPISTE",
+          "Price": "5,60/ 8,30 / 9,30 / 9,60",
+          "Components": [
+            "Butter Chicken (A, G, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2024-07-03T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Rapeita kasvispuikkoja (*, G, L, M, Veg)",
+            "Tomaatti-chilimajoneesia (A, G, L, M, Veg)",
+            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Broileri-pekonikastiketta (*, A, G, L, VS)",
+            "Pennepastaa (A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PAISTOPISTE",
+          "Price": "5,60/ 8,30 / 9,30 / 9,60",
+          "Components": [
+            "Pitkään haudutettua porsasta yrttikastikkeessa (G, L, M, VS)",
+            "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2024-07-04T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Soija-kasvisbolognesea (*, A, G, ILM, L, M, Veg)",
+            "Höyrytettyä riisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Kalkkunaa ja vihanneksia kookoskastikkeessa (*, A, G, L, M)",
+            "Höyrytettyä riisiä (G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PAISTOPISTE",
+          "Price": "5,60/ 8,30 / 9,30 / 9,60",
+          "Components": [
+            "Paneroitu kampelafilee (A, L, M)",
+            "Maalaislohkoperunoita (G, ILM, L, M, Veg)",
+            "Paahdettuja kasviksia (G, L, M, Veg)",
+            "Ruohosipuli-kermaviilikastiketta (A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2024-07-05T00:00:00+00:00",
+      "LunchTime": "10.30 - 14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Tahu goreng Indonesia (*, A, G, ILM, L, M, Veg, VS)",
+            "Tummaa riisiä (*, G, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40",
+          "Components": [
+            "Yrttiöljymaustettuja jauhelihapyöryköitä (A, L, M)",
+            "Chili-kermaviilikastiketta (A, G, L)",
+            "Valkosipuli-lohkoperunoita (*, G, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PAISTOPISTE",
+          "Price": "5,60/ 8,30 / 9,30 / 9,60",
+          "Components": [
+            "Juusto-pinaattitäytteinen broilerinfileetasku (*, A, G, L)",
+            "Paistettua riisiä ja munaa (A, G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "",
+          "Price": null,
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2024-07-06T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-07-07T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
     }
   ],
   "ErrorText": null
