@@ -5,54 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-07-09T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Juurespihvejä (*, A, G, ILM, L, M, Veg)",
-            "Kurkku-kauragurttikastiketta (*, A, ILM, L, M, Veg, VS)",
-            "Paahdettua perunaa (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Herkkusienipastaa ja yrttejä (*, A, ILM, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Makkara-juustopihvi (A, G, L)",
-            "Porkkana-perunasosetta (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Puutarhamarja-ruismurupaistosta (A, L, M, Veg)",
-            "Kinuskikermavaahtoa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-07-10T00:00:00+00:00",
       "LunchTime": "11:00-15:00",
       "SetMenus": [
