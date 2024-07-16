@@ -5,52 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-07-15T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Soijapala Butter (*, A, ILM, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Soijapala Butter (*, A, ILM, M, Veg, VS)",
-            "Cappellipastaa (A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Täyteläistä jauhelihakastiketta (*, A, G, L)",
-            "Cappellipastaa (A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Suklaamoussea (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-07-16T00:00:00+00:00",
       "LunchTime": "11:00-15:00",
       "SetMenus": [
@@ -156,7 +110,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/8,40",
           "Components": [
-            "Härkislasagnettea (*, A, ILM, L, M, Veg, VS)"
+            "Herkkusienipastaa ja yrttejä (*, A, ILM, L, VS)"
           ]
         },
         {
@@ -170,14 +124,16 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95/8,40",
           "Components": [
-            "Bolognan mummon kasvislasagnette (A, L, VS)"
+            "Herkkusienipastaa ja yrttejä (*, A, ILM, L, VS)"
           ]
         },
         {
           "SortOrder": 2,
           "Name": "LOUNAS",
           "Price": "2,95/8,40",
-          "Components": []
+          "Components": [
+            "Savupalvi-pekonipastaa (A, L)"
+          ]
         },
         {
           "SortOrder": 6,
@@ -206,9 +162,7 @@
           "SortOrder": 0,
           "Name": "",
           "Price": null,
-          "Components": [
-            "Ruokajuoma (kg) ()"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 1,
