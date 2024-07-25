@@ -5,56 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-07-24T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Talon juurespihvejä (*, A, G, ILM, L, M, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)",
-            "Aurinkokuivatuilla tomaateilla maustettua majoneesia (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Talon juurespihvejä (*, A, G, ILM, L, M, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)",
-            "Aurinkokuivatuilla tomaateilla maustettua majoneesia (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Uunimakkaraa juustokuorrutteella (A, G, L)",
-            "Perunamuusia (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Puutarhamarja-ruismurupaistosta (A, L, M, Veg)",
-            "Vaniljakastiketta (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-07-25T00:00:00+00:00",
       "LunchTime": "11:00-15:00",
       "SetMenus": [
@@ -71,8 +21,14 @@
           "SortOrder": 0,
           "Name": "",
           "Price": null,
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95/8,40",
           "Components": [
-            "Valkosipulinen salaatinkastike (*, A, G, L, M)"
+            "Renen kalakastike A,ILM,L ()"
           ]
         },
         {
@@ -89,7 +45,6 @@
           "Name": "LOUNAS",
           "Price": "2,95/8,40",
           "Components": [
-            "Kylmäsavukirjolohi-juustokastiketta (*, A, ILM, L)",
             "Luomutäysjyväkierrepastaa (*, A, ILM, L, M, Veg)"
           ]
         },
