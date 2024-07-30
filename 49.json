@@ -5,56 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-07-29T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kasviskroketteja (*, G, ILM, L, M, Veg, VS)",
-            "Hummuksella maustettua kauragurttia (*, A, ILM, L, M, Veg, VS)",
-            "Paahdettua perunaa (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Bolognesekastiketta (*, A, G, L, M, VS)",
-            "Spagettia (A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/ 8,30 / 9,30 / 9,60",
-          "Components": [
-            "Ylikypsää porsasta \n (G, L, M)",
-            "BBQ-kastiketta (A, L)",
-            "Muhennettua perunaa (A, G, ILM, L)",
-            "Paahdettuja juureksia (G, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Mustaherukka-kaaliraastetta (A, G, L, M, Veg)",
-            "Couscous-hernesalaattia (A, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)",
-            "Kauden kasvis (G, L, M, Veg)",
-            "Leipäpöytä (kg) ()",
-            "Ruokajuoma (kg) ()"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-07-30T00:00:00+00:00",
       "LunchTime": "10.30 - 14.00",
       "SetMenus": [
@@ -82,7 +32,7 @@
           "Name": "PAISTOPISTE",
           "Price": "5,60/ 8,30 / 9,30 / 9,60",
           "Components": [
-            "Paneroitua kampelafileetä\n (A, L, M)",
+            "Paneroitua kampelafileetä (A, L, M)",
             "Sitruunalohko (G, L, M, Veg)",
             "Paahdettua perunaa ja kukkakaalia (A, G, ILM, L, M, Veg)",
             "Persilja-limemajoneesia (A, G, L, M)"
@@ -92,15 +42,7 @@
           "SortOrder": 0,
           "Name": "",
           "Price": null,
-          "Components": [
-            "Amerikansalaattia (G, L, M, Veg)",
-            "Porkkana-kesäkurpitsasalaattia (G, L, M, Veg)",
-            "Tomaatti-pestopastasalaattia (A, L, VS)",
-            "Kauden kasvis (G, L, M, Veg)",
-            "Kauden hedelmä (G, L, M, Veg)",
-            "Leipäpöytä (kg) ()",
-            "Ruokajuoma (kg) ()"
-          ]
+          "Components": []
         }
       ]
     },
