@@ -1,14 +1,8 @@
 {
-  "RestaurantName": "Ravintola Piato",
-  "RestaurantUrl": "https://www.semma.fi/ravintolat2/mattilanniemi/piato/",
+  "RestaurantName": null,
+  "RestaurantUrl": null,
   "PriceHeader": null,
   "Footer": null,
-  "MenusForDays": [
-    {
-      "Date": "2024-08-04T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": []
-    }
-  ],
-  "ErrorText": null
+  "MenusForDays": null,
+  "ErrorText": "No menu found with selected cost number/language/date: 1408/fi/05.8.2024"
 }
