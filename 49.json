@@ -5,21 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-08-10T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Aasialaista broileripataa ja tuoretta korianteria (*, A, L, M, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-08-11T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
