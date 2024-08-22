@@ -5,52 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-08-21T00:00:00+00:00",
-      "LunchTime": "11:00-15:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Sisilialaista seitanpastaa (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Sisilialaista seitanpastaa (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Broileria currykastikkeessa (*, A, G, L)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Suklaakiisseliä (A, G, L)",
-            "Kermavaahtoa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-08-22T00:00:00+00:00",
       "LunchTime": "11:00-15:00",
       "SetMenus": [
@@ -59,7 +13,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/8,40",
           "Components": [
-            "Kreikkalaista kasviskiusausta (*, A, G, ILM, L, M, Veg)"
+            "Kikhernepataa L, M, G, Veg, ILM, * ()"
           ]
         },
         {
@@ -73,7 +27,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95/8,40",
           "Components": [
-            "Kreikkalaista kasviskiusausta (*, A, G, ILM, L, M, Veg)"
+            "Kikhernepataa L, M, G, Veg, ILM, * ()"
           ]
         },
         {
