@@ -5,41 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-08-22T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Seitania tomaatti-valkosipulikastikkeessa (*, A, ILM, L, M, Veg, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Broilerinugetteja (A, L, M)",
-            "Aiolia (A, G, L, M, VS)",
-            "Paahdettua perunaa (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/ 8,30 / 9,30 / 9,60",
-          "Components": [
-            "Puna-ahventa rakuunakastikkeessa (A, G, L)",
-            "Perunamuusia (*, A, G, ILM, L)",
-            "Satokauden kasviksia (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-08-23T00:00:00+00:00",
       "LunchTime": "10.30 - 14.30",
       "SetMenus": [
