@@ -5,47 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-08-28T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kreikkalaista fetapataa (*, A, ILM, VL)",
-            "Luomutäysjyväpastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Broileria Kung Po (*, A, G, ILM, L, M, VS)",
-            "Riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/ 8,30 / 9,30 / 9,60",
-          "Components": [
-            "Paneroitua kampelafileetä (A, L, M)",
-            "Lohkoperunoita (G, ILM, L, M, Veg)",
-            "Valkosipulimajoneesia (A, G, L, VS)",
-            "Sitruunaa (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2024-08-29T00:00:00+00:00",
       "LunchTime": "10.30 - 14.30",
       "SetMenus": [
