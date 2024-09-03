@@ -5,48 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-09-02T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Halloumi-kasvispataa ja lehtipinaattia\n (*, A, ILM)",
-            "Luomutäysjyväpastaa\n (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Punajuuripihvejä (*, G, ILM, L, M, Veg)",
-            "Sambal Oelek -gurttia\n (*, A, G, ILM, L, M, Veg)",
-            "Paahdettua perunaa (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Bolognesekastiketta (*, A, G, L, M, VS)",
-            "Luomutäysjyväpastaa\n (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,20",
-          "Components": [
-            "Vaahtokarkkirahkaa & kinuskia (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-09-03T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
