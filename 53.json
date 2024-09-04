@@ -5,50 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-09-03T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Seitania tomaatti-valkosipulikastikkeessa\n (*, A, ILM, L, M, Veg, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Tillijogurttia\n (*, A, G, ILM, L)",
-            "Perunamuusia (*, A, G, ILM, L)",
-            "Meripelastajan kalapyöryköitä\n (A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60 / 8,30 / 9,20 / 10,20",
-          "Components": [
-            "Kanaa Kiovan tapaan (A, L, VS)",
-            "Sitruuna-ruohosipulimajoneesia (A, G, L, M)",
-            "Maalaislohkoperunoita (G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Karamellisoitua päärynää (A, G, L)",
-            "Vaniljakastiketta (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-09-04T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -57,7 +13,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Kasvisbolognese-pastavuokaa\n (*, A, ILM, L, M, Veg)"
+            "Kasvisbolognese-pastavuokaa (*, A, ILM, L, M, Veg)"
           ]
         },
         {
@@ -65,7 +21,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Jauhelihapihvejä, paistettua sipulia ja paprikaa\n (*, A, L, M)",
+            "Jauhelihapihvejä, paistettua sipulia ja paprikaa (*, A, L, M)",
             "Paahdettua perunaa (*, G, ILM, L, M, Veg)"
           ]
         },
@@ -75,7 +31,7 @@
           "Price": "5,60 / 8,30 / 9,20 / 10,20",
           "Components": [
             "Paahdettua broileria (G, L, M)",
-            "Lämmintä BBQ-kastiketta\n (*, A, G, L, M)"
+            "Lämmintä BBQ-kastiketta (*, A, G, L, M)"
           ]
         },
         {
@@ -83,8 +39,7 @@
           "Name": "JÄLKIRUOKA",
           "Price": "1,50",
           "Components": [
-            "Limepannacottaa (A, G, L)",
-            "Kaakaomoussea (G, L, M, Veg)"
+            "Limepannacottaa (A, G, L)"
           ]
         }
       ]
@@ -118,7 +73,7 @@
           "Components": [
             "Perunamuusia (*, A, G, ILM, L)",
             "Paahdettu broilerinfilee (*, G, L, M)",
-            "Bearnaisea\n (A, G)"
+            "Bearnaisea (A, G)"
           ]
         }
       ]
@@ -142,7 +97,7 @@
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
             "Savupalvikastiketta (*, A, ILM, L)",
-            "Luomutäysjyväpastaa\n (*, A, ILM, L, M, Veg)"
+            "Luomutäysjyväpastaa (*, A, ILM, L, M, Veg)"
           ]
         },
         {
@@ -150,7 +105,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Kirjolohi-silakkamurekepihvejä\n (*, A, ILM, L)",
+            "Kirjolohi-silakkamurekepihvejä (*, A, ILM, L)",
             "Ruohosipulijogurttia (*, A, G, ILM, L)",
             "Paahdettua perunaa (*, G, ILM, L, M, Veg)"
           ]
@@ -160,8 +115,7 @@
           "Name": "JÄLKIRUOKA",
           "Price": "1,50",
           "Components": [
-            "Mansikkapiirakkaa (A, L)",
-            "Vaniljakermavaahtoa (A, G, L)"
+            "Mansikkapiirakkaa (A, L)"
           ]
         }
       ]
