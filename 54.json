@@ -5,50 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-09-06T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Paneroitua porkkanapihvejä G, L, M, Veg ()"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Paneroitua porkkanapihvejä G, L, M, Veg ()"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Kinkku-ananas-aurajuustopizzaa (A, L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Mustikkarahkaa kerroksittain (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-09-07T00:00:00+00:00",
       "LunchTime": "12:00 - 17:00",
       "SetMenus": [
@@ -56,15 +12,21 @@
           "SortOrder": 0,
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/8,40",
-          "Components": [
-            "Vihannespastaa (*, A, ILM, L, M, Veg, VS)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
           "Name": "",
           "Price": null,
           "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95/8,40",
+          "Components": [
+            "Herkkusienipastaa ja yrttejä *, A, ILM, L, VS, Veg ()"
+          ]
         },
         {
           "SortOrder": 1,
