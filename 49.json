@@ -5,52 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-09-10T00:00:00+00:00",
-      "LunchTime": "10.30 - 16.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Seitan-kookoscurrya ja korianteria (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Rapeita kalapuikkoja (*, A, L, M)",
-            "Tillikermaviiliä (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS 2",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/8,80/9,60/10,50",
-          "Components": [
-            "Porsaan lehtipihvi (G, L, M)",
-            "Valkosipuli-persiljavoita (A, G, L, VS)",
-            "Grillattuja kasviksia (G, L, M, Veg, VS)",
-            "Juustoperunaa (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2024-09-11T00:00:00+00:00",
       "LunchTime": "10.30 - 16.30",
       "SetMenus": [
