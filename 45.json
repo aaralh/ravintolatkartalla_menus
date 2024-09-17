@@ -5,38 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-09-16T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Punajuuripihvejä (*, G, ILM, L, M, Veg)",
-            "Basilika-sitruunagurttia\n (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Broilerinugetteja (A, L, M)",
-            "Aiolia (A, G, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Täyteläistä katkarapukeittoa ja tilliä\n (*, A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-09-17T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
