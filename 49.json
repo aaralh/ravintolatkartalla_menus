@@ -5,50 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-09-19T00:00:00+00:00",
-      "LunchTime": "10.30 - 16.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Halloumipizzaa, semikuivattua tomaattia ja pikkelöityä punasipulia (A, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kasvispizzaa (A, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Aasialaista broileripataa ja tuoretta korianteria (*, A, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,95/8,30/9,30/9,60",
-          "Components": [
-            "Paistettua puna-ahventa ja skånenperunaa (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2024-09-20T00:00:00+00:00",
       "LunchTime": "10.30 - 15.30",
       "SetMenus": [
