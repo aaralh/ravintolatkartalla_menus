@@ -5,62 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-09-20T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Täyteläistä kesäkurpitsakastiketta ja maustettua soijaa (*, A, G, ILM, L, M, Veg, VS)",
-            "Riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/10,40",
-          "Components": [
-            "Paistettua lohta G,L,M ()",
-            "Paistettua lohta L, M, G rajoitettu erä ()"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Tomaatti-vuohenjuustokastiketta (*, A, G, ILM, L, VS)",
-            "Luomutäysjyväpastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Broileri-ananaspizzaa (A, L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Mustikkavispipuuroa (A, L, M, Veg)",
-            "Vaniljakastiketta (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-09-21T00:00:00+00:00",
       "LunchTime": "12:00 - 17:00",
       "SetMenus": [
