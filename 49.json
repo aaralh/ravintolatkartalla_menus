@@ -5,40 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-09-21T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Luomutofucurrya (*, A, G, ILM, L, M, Veg, VS)",
-            "Riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Pippurista porsaspataa (*, A, L)",
-            "Riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/ 8,30 / 9,30 / 9,60",
-          "Components": [
-            "Paahdettua broileria gruusialaisittain (A, G, L, VS)",
-            "Yrttiriisiä (G, L, M, Veg)",
-            "Wokattuja kasviksia (A, G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-09-22T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
