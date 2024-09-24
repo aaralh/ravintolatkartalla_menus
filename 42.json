@@ -5,42 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-09-23T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Soija-makaronilaatikkoa (*, A, ILM)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Rapeita kalapaloja (*, A, ILM, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60/ 8,30 / 9,30 / 10,20",
-          "Components": [
-            "Porsaanfileetä sinappikastikkeessa (A, G, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2024-09-24T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
@@ -186,7 +150,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Uunimakkara sipuli-juustotäytteellä (A, G, L)"
+            "Uunimakkara juustotäytteellä (A, G, L)"
           ]
         },
         {

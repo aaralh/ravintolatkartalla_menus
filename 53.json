@@ -5,43 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-09-23T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Soija-makaronilaatikkoa (*, A, ILM)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Rapeita kalapaloja (*, A, ILM, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60 / 8,30 / 9,30 / 10,20",
-          "Components": [
-            "Porsaanfileetä sinappikastikkeessa (A, G, L, VS)",
-            "Paahdettua rosmariini-valkosipuliperunaa (G, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2024-09-24T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -187,7 +150,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Uunimakkara sipuli-juustotäytteellä (A, G, L)"
+            "Uunimakkara juustotäytteellä (A, G, L)"
           ]
         },
         {
@@ -205,8 +168,8 @@
           "Name": "Tutkijoiden yön päivällinen klo 15.00 - 20.00",
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
-            "Tarjolla klo 15 - 20: Mausteista vönertortillaa (A, ILM, L, M, Veg, VS)",
-            "Tarjolla klo 10.30 - 20.00: Uunimakkara sipuli-juustotäytteellä (A, G, L)"
+            "Tarjolla klo 15 - 20: Mausteista kasvistortillaa (A, ILM, L, M, Veg, VS)",
+            "Tarjolla klo 10.30 - 20.00: Uunimakkara juustotäytteellä (A, G, L)"
           ]
         }
       ]
