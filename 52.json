@@ -5,47 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-09-30T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Punajuuripihvejä (*, G, ILM, L, M, Veg)",
-            "Kauramajoneesia (A, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kasvissosekeittoa (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Broileri-smetanakastiketta (*, A, G, L)",
-            "Luomutäysjyväpastaa (*, A, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTELOUNAS LINJASTA",
-          "Price": "5,60/8,30/9,30/9,60",
-          "Components": [
-            "Paneroitua kampelafileetä (A, L, M)",
-            "Sitruunasmetanaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-10-01T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -102,6 +61,14 @@
           "Price": "2,95 / 5,70 / 6,30 / 8,40",
           "Components": [
             "Lihakeittoa (*, A, G, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "JÄLKIRUOKA",
+          "Price": "4,90 €",
+          "Components": [
+            "Herkkupöytä ()"
           ]
         }
       ]
