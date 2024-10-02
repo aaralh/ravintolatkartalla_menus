@@ -5,42 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2024-10-01T00:00:00+00:00",
-      "LunchTime": "10.30-18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40€",
-          "Components": [
-            "Kasvisbolognesea (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
-          "Components": [
-            "Broileripataa Mexicali (*, A, L, M, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40 €",
-          "Components": [
-            "Kinkku-ananaspizzaa (A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS  klo 15.00 alk",
-          "Price": "5,60 / 8,30 /9,30 /9,60€",
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2024-10-02T00:00:00+00:00",
       "LunchTime": "10.30-18.00",
       "SetMenus": [
@@ -125,7 +89,8 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40€",
           "Components": [
-            "Ruotsi-teema: Juurespyöryköitä (*, A, G, ILM, L, M)"
+            "Ruotsi-teema: Juurespyöryköitä (*, A, G, ILM, L, M)",
+            "Perunamuusia ja Muhennettua makaronia (A, L)"
           ]
         },
         {
@@ -134,7 +99,7 @@
           "Price": "2,95 / 5,70 / 6,30 / 8,40€",
           "Components": [
             "Ruotsi: \"Falunin makkaraa\" Makkarapihvi (G, L, M)",
-            "Perunamuusia (*, A, G, ILM, L)"
+            "Perunamuusia ja Muhennettua makaronia (*, A, G, ILM, L)"
           ]
         }
       ]

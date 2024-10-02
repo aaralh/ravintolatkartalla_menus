@@ -5,69 +5,13 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-10-01T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Inkiväärillä ja chilillä maustettua kikhernepataa (*, A, G, ILM, L, M, Veg, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Inkiväärillä ja chilillä maustettua kikhernepataa (*, A, G, ILM, L, M, Veg, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Uunimakkaraa juustokuorrutteella (A, G, L)",
-            "Perunamuusia (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95/8,40",
-          "Components": [
-            "Täyteläistä kalakeittoa L, M, G, ILM, * ()"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Ruismurupaistosta ja mustikkaa (A, L, M, Veg)",
-            "Vaniljakastiketta (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-10-02T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
         {
           "SortOrder": 0,
           "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Pinaattiohukaisia (A, G, ILM, L, M, Veg)",
             "Puolukkahilloa (A, G, L, M, Veg)",
@@ -83,7 +27,7 @@
         {
           "SortOrder": 1,
           "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Talon pinaattiohukaisia (*, A, ILM, L)",
             "Puolukkahilloa (A, G, L, M, Veg)",
@@ -93,7 +37,7 @@
         {
           "SortOrder": 2,
           "Name": "LOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Talon jauhelihapihvi ja metsäsienikastiketta (A, L)",
             "Paahdettua perunaa (*, G, ILM, L, M, Veg)"
@@ -102,7 +46,7 @@
         {
           "SortOrder": 3,
           "Name": "KEITTOLOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": []
         },
         {
@@ -123,7 +67,7 @@
         {
           "SortOrder": 0,
           "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Kreikkalaista kasviskiusausta (*, A, G, ILM, L, M, Veg)"
           ]
@@ -137,7 +81,7 @@
         {
           "SortOrder": 1,
           "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Kreikkalaista kasviskiusausta (*, A, G, ILM, L, M, Veg)"
           ]
@@ -145,7 +89,7 @@
         {
           "SortOrder": 2,
           "Name": "LOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Rapeita kalapuikkoja (*, A, L, M)",
             "Pinaatti-perunasosetta (A, G, L)"
@@ -168,7 +112,7 @@
         {
           "SortOrder": 0,
           "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Vegetable curry A, ILM, *, L, M; Veg, VS ()"
           ]
@@ -182,7 +126,7 @@
         {
           "SortOrder": 1,
           "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Kasviscurry A, ILM, *, L, M; Veg, VS ()"
           ]
@@ -190,7 +134,7 @@
         {
           "SortOrder": 2,
           "Name": "LOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Broileri-ananaspizzaa (A, L)"
           ]
@@ -213,7 +157,7 @@
         {
           "SortOrder": 0,
           "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Chili sin carnea (*, A, ILM, L, M, Veg)",
             "Cappellipastaa (A, ILM, L, M, Veg)"
@@ -228,7 +172,7 @@
         {
           "SortOrder": 1,
           "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Chili sin carnea (*, A, ILM, L, M, Veg)",
             "Cappellipastaa (A, ILM, L, M, Veg)"
@@ -237,7 +181,7 @@
         {
           "SortOrder": 2,
           "Name": "LOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Ruotsalaista pyttipannua (A, G, L)"
           ]
@@ -245,7 +189,7 @@
         {
           "SortOrder": 5,
           "Name": "PAISTOPISTE",
-          "Price": "5,60/10,40",
+          "Price": "5,60/10,50",
           "Components": [
             "Briossihampurilainen burgerpihvi ja pekoni (A, L, M)",
             "Maalaisranskalaisia (G, L, M, Veg)"
@@ -260,7 +204,7 @@
         {
           "SortOrder": 0,
           "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Kasviskroketteja (*, G, ILM, L, M, Veg, VS)",
             "Sambal Oelek -gurttia (*, A, G, ILM, L, M, Veg)",
@@ -276,7 +220,7 @@
         {
           "SortOrder": 1,
           "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Kasviskroketteja (*, G, ILM, L, M, Veg, VS)",
             "Sambal Oelek -gurttia (*, A, G, ILM, L, M, Veg)",
@@ -286,7 +230,7 @@
         {
           "SortOrder": 2,
           "Name": "LOUNAS",
-          "Price": "2,95/8,40",
+          "Price": "2,95/8,50",
           "Components": [
             "Butter Chicken (*, A, G, L)",
             "Tummaa riisiä (*, G, L, M, Veg)"
@@ -295,7 +239,7 @@
         {
           "SortOrder": 5,
           "Name": "PAISTOPISTE",
-          "Price": "5,60/10,40",
+          "Price": "5,60/10,50",
           "Components": [
             "Metsästäjänleike (A, L)",
             "Lohkoperunoita (G, ILM, L, M, Veg)",
