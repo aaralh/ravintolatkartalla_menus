@@ -5,37 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-10-03T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Härkistä ja paahdettuja kasviksia teriyakiakastikkeessa\n (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Rapeaa seitifilettä (*, A, ILM, L, M)",
-            "Ruohosipulijogurttia (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Perinteistä hernekeittoa (*, A, G, ILM, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-10-04T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
