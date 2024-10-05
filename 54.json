@@ -5,51 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-10-04T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Vegetable curry A, ILM, *, L, M; Veg, VS ()"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Kasviscurry A, ILM, *, L, M; Veg, VS ()"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Broileri-ananaspizzaa (A, L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Toscapiirakkaa (A, L)",
-            "Vaniljakermavaahtoa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-10-05T00:00:00+00:00",
       "LunchTime": "12:00 - 17:00",
       "SetMenus": [
@@ -58,8 +13,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/8,50",
           "Components": [
-            "Chili sin carnea (*, A, ILM, L, M, Veg)",
-            "Cappellipastaa (A, ILM, L, M, Veg)"
+            "Kreikkalaista kasviskiusausta  A, G, L, M, ILM, Veg ()"
           ]
         },
         {
@@ -73,8 +27,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95/8,50",
           "Components": [
-            "Chili sin carnea (*, A, ILM, L, M, Veg)",
-            "Cappellipastaa (A, ILM, L, M, Veg)"
+            "Kreikkalaista kasviskiusausta  A, G, L, M, ILM, Veg ()"
           ]
         },
         {
