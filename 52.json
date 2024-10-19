@@ -5,29 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-10-18T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Talon rapeita tofu-parsakaalipihvejä (A, L, M, Veg, VS)",
-            "Limellä maustettua kurkku-kauragurttia (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Broileri-pekonikastiketta (*, A, G, L, VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-10-19T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
