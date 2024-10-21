@@ -5,7 +5,180 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2024-10-20T00:00:00+00:00",
+      "Date": "2024-10-21T00:00:00+00:00",
+      "LunchTime": "10.30 -16.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Butter vege (*, A, ILM, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Jauhelihapyöryköitä (*, A, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Sitruunalla ja tillillä maustettua tonnikalakastiketta (A, ILM, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS  klo 15.00 alk",
+          "Price": "5,60 / 8,30 /9,30 /9,60€",
+          "Components": [
+            "Alkaen klo 15.00: Kanaa Kiovan tapaan (A, L, VS)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-10-22T00:00:00+00:00",
+      "LunchTime": "10.30-16.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Pannupizza, fetaa, pinaattia & cashew (A, VL)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Manteliseitiä (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Broileria teriyakikastikkeessa (*, A, G, ILM, L, M, VS)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-10-23T00:00:00+00:00",
+      "LunchTime": "10.30-14.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Kasviskroketteja (*, G, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISKEITTO",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Kipparikallen pinaattikeittoa (*, A, ILM, L)",
+            "Keitetty kananmunaa (A, G, ILM, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Talon lasagnettea (A, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS  klo 15.00 alk",
+          "Price": "5,60 / 8,30 /9,30 /9,60€",
+          "Components": [
+            "Paahdettua kirjolohta (*, A, G, ILM, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-10-24T00:00:00+00:00",
+      "LunchTime": "10.30-14.30",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Halloumi-kasvispataa ja lehtipinaattia (*, A, ILM)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Broilerinugetteja (A, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Lohikiusausta (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS  klo 15.00 alk",
+          "Price": "5,60 / 8,30 /9,30 /9,60€",
+          "Components": [
+            "Pulled pork-hampurilainen (A, L, M, VS)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-10-25T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Peruna-juustopihvejä (A, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Artesaanimakkaraa ja bratvurstia (G, L, M)",
+            "Lämmintä perunasalaattia ja pikkelöityä punasipulia (G, L, M, Veg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2024-10-26T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2024-10-27T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
