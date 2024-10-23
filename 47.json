@@ -5,36 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2024-10-22T00:00:00+00:00",
-      "LunchTime": "10.30-18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
-          "Components": [
-            "Pannupizza, fetaa, pinaattia & cashew (A, VL)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
-          "Components": [
-            "Manteliseitiä (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
-          "Components": [
-            "Broileria teriyakikastikkeessa (*, A, G, ILM, L, M, VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-10-23T00:00:00+00:00",
       "LunchTime": "10.30-18.00",
       "SetMenus": [
