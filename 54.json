@@ -5,65 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-10-31T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Dal - Linssimuhennosta (*, G, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/10,50",
-          "Components": [
-            "G.O.A.T.BURGER, HELL`S HALLOUM BURGER, BLOODY VEGAN BURGER ()"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Dal - Linssimuhennosta (*, G, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Jauhelihakastiketta (*, G, L, M)",
-            "Paahdettua perunaa (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/10,50",
-          "Components": []
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Lakritsivaahtoa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-11-01T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
@@ -111,7 +52,7 @@
     },
     {
       "Date": "2024-11-02T00:00:00+00:00",
-      "LunchTime": "12:00 - 17:00",
+      "LunchTime": "12:00 - 15:00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -150,7 +91,7 @@
     },
     {
       "Date": "2024-11-03T00:00:00+00:00",
-      "LunchTime": "12:00 - 17:00",
+      "LunchTime": "12:00 - 15:00",
       "SetMenus": [
         {
           "SortOrder": 0,
