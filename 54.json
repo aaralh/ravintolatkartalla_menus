@@ -5,52 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-11-01T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Kasvispizzaa (A, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Tomaatti-pestopannupizzaa (A, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Broilericurrya (A, G, ILM, L)",
-            "Riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Mustikka-ruiskukkoa (A, L, M)",
-            "Vaniljakastiketta (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-11-02T00:00:00+00:00",
       "LunchTime": "12:00 - 15:00",
       "SetMenus": [
@@ -98,7 +52,7 @@
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/8,50",
           "Components": [
-            "Kreikkalaista kasviskiusausta (*, A, G, ILM, L, M, Veg)"
+            "Kasviskroketti L, M, G, Veg ()"
           ]
         },
         {
@@ -112,7 +66,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95/8,50",
           "Components": [
-            "Kreikkalaista kasviskiusausta (*, A, G, ILM, L, M, Veg)"
+            "Kasvispyörykkä L, M, G ()"
           ]
         },
         {
