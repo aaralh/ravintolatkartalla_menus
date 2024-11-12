@@ -5,52 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2024-11-11T00:00:00+00:00",
-      "LunchTime": "10.30 -18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
-          "Components": [
-            "Pinaattiohukaisia (*, A, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/ 5,70 / 6,30 / 8,40€",
-          "Components": [
-            "Pinaattiohukaisia (A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
-          "Components": [
-            "Broileria pekonikastikkeessa (*, A, G, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40 €",
-          "Components": [
-            "Jauhelihapyöryköitä (*, A, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS  klo 15.00 alk",
-          "Price": "5,60 / 8,30 /9,30 /9,60€",
-          "Components": [
-            "Alkaen klo 15.00: Porsaan grillipihvi (*, G, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-11-12T00:00:00+00:00",
       "LunchTime": "10.30-18.00",
       "SetMenus": [
@@ -59,7 +13,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40€",
           "Components": [
-            "Välimerellistä juusto-paprikapizzaa (A, L)"
+            "Välimerellistä juusto-paprikapizzaa ❤️ (A, L)"
           ]
         },
         {
@@ -97,7 +51,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40€",
           "Components": [
-            "Nakkikastiketta (*, A, L, M)"
+            "Nakkikastiketta ❤️ (*, A, L, M)"
           ]
         },
         {
@@ -113,7 +67,7 @@
           "Name": "LOUNAS  klo 15.00 alk",
           "Price": "5,60 / 8,30 /9,30 /9,60€",
           "Components": [
-            "Alkaen klo 15.00: Tapolan mustaamakkaraa (A, L, M)"
+            "Alkaen klo 15.00: Mustaamakkaraa (A, L, M)"
           ]
         }
       ]
@@ -143,7 +97,7 @@
           "Name": "LOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40 €",
           "Components": [
-            "Talon lasagnea (A, L, VS)"
+            "Talon lasagnea ❤️ (A, L, VS)"
           ]
         },
         {
@@ -151,7 +105,7 @@
           "Name": "LOUNAS  klo 15.00 alk",
           "Price": "5,60 / 8,30 /9,30 /9,60€",
           "Components": [
-            "Alkaen klo 15.00: Punajuuri-sinihomejuustohampurilainen (A, L)"
+            "Alkaen klo 15.00: Punajuuri-vuohenjuustohampurilainen (A, L)"
           ]
         }
       ]
@@ -165,7 +119,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95 / 5,70 / 6,30 / 8,40€",
           "Components": [
-            "Talon kukkakaali-manchegopihvejä (A, ILM, L)"
+            "Talon kukkakaali-manchegopihvejä ❤️ (A, ILM, L)"
           ]
         },
         {
