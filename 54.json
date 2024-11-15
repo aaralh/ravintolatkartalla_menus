@@ -5,56 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-11-14T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Härkäpapu-chilitäytettä (A, L, M, Veg, VS)",
-            "Vehnätortillat (A, L, M, Veg)",
-            "Pico De Gallo -salsaa (G, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Härkäpapu-chilitäytettä ❤️ (A, L, M, Veg, VS)",
-            "Vehnätortillat ❤️ (A, L, M, Veg)",
-            "Pico De Gallo -salsaa (G, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Hauskat kalapihvit ❤️ (A, ILM, L, M)",
-            "Porkkana-perunasosetta ❤️ (*, A, G, ILM, L)",
-            "Sinappirelish-kermaviiliä ❤️ (A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Tyrni-jogurttipannacottaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-11-15T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
@@ -172,9 +122,7 @@
           "SortOrder": 0,
           "Name": "",
           "Price": null,
-          "Components": [
-            "Valkosipulinen salaatinkastike (*, A, G, L, M)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 1,
