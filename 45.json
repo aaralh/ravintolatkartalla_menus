@@ -5,38 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-11-15T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Falafelpihvejä (G, ILM, L, M, Veg)",
-            "Sambal Oelek -gurttia (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Jauheliha-kaalilaatikkoa ❤️ (*, G, L, M)",
-            "Puolukkahilloa ❤️ (A, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Perinteistä kalakeittoa (*, A, G, ILM, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-11-16T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
