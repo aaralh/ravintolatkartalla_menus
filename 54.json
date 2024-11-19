@@ -5,56 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-11-18T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Punajuurikroketteja (*, G, ILM, L, M, Veg)",
-            "Tartarkastiketta (A, G, L, M, Veg)",
-            "Riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Punajuurikroketteja (*, G, ILM, L, M, Veg)",
-            "Tartarkastiketta (A, G, L, M, Veg)",
-            "Riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Broileripyöryköitä (*, A, L, M)",
-            "Currykastiketta (*, A, ILM, L)",
-            "Paahdettua perunaa (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Suklaamoussea (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-11-19T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
@@ -62,9 +12,7 @@
           "SortOrder": 0,
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/8,50",
-          "Components": [
-            "Kreikkalaista tomaatti-kasvispastavuokaa (*, A, G, ILM, L, M, Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,
@@ -77,6 +25,7 @@
           "Name": "KASVISLOUNAS",
           "Price": "2,95/8,50",
           "Components": [
+            "Punajuuripihvejä  (A, L, M, G, Veg, ILM), tartarkastiketta (A, L,  G) ja riisiä (A, L, M, G, Veg, ILM) ()",
             "Gratinoitua halloumi-kasvispastaa (*, A, ILM)"
           ]
         },
@@ -298,10 +247,7 @@
           "SortOrder": 5,
           "Name": "PAISTOPISTE",
           "Price": "5,60/10,50",
-          "Components": [
-            "Classic Briossi BRG ja savujuustoa (A, L)",
-            "Maalaisranskalaisia (G, L, M, Veg)"
-          ]
+          "Components": []
         }
       ]
     },
