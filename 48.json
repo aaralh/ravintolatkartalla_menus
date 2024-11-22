@@ -5,47 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2024-11-21T00:00:00+00:00",
-      "LunchTime": "10.30-14.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Smetanaista kaalivuokaa (A, G, ILM, L, VS)",
-            "Puolukkahilloa (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Juustoista porkkanasosekeittoa (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kalapyöryköitä (*, A, G, ILM, L, M)",
-            "Tartarjogurttia (*, A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60 / 9,30 /9,60",
-          "Components": [
-            "Porsaan grillipihviä (*, G, L, M)",
-            "Pippurista tuorejuustokastiketta (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-11-22T00:00:00+00:00",
       "LunchTime": "10.30-14.30",
       "SetMenus": [
