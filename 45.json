@@ -5,38 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-11-25T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Juurespyöryköitä (*, A, G, ILM, L, M)",
-            "Ruohosipulijogurttia (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kierrepastaa (A, ILM, L, M, Veg)",
-            "Broileri-smetanakastiketta (*, A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Meksikolaista chorizokeittoa (*, A, G, L, M, VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-11-26T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
