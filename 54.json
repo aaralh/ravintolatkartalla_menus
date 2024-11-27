@@ -5,63 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-11-26T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Seitan-kookoscurrya ja korianteria (*, A, ILM, L, M, Veg, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Seitan-kookoscurrya ja korianteria (*, A, ILM, L, M, Veg, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Makkara-juustopihvi (A, G, L)",
-            "Juustoperunoita (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "GLUTEENITON",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Kiinalainen kikhernepata A,G,ILM,L,M,Veg,VS ()"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Uuniomenaa (G, L, M, Veg)",
-            "Vaniljakastiketta (A, G, L)",
-            "Vegaanista vaniljakastiketta (A, G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-11-27T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
