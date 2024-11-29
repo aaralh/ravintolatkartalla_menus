@@ -5,44 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2024-11-28T00:00:00+00:00",
-      "LunchTime": "10.30-18.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
-          "Components": [
-            "Punajuuri-tattaripihvejä (*, A, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
-          "Components": [
-            "Kalkkuna-broileri-pastavuokaa (*, A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
-          "Components": [
-            "Täyteläistä kirjolohikeittoa (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS  klo 15.00 alk",
-          "Price": "5,60 / 8,30 /9,30 /9,60€",
-          "Components": [
-            "Alkaen klo 15: Classic Briossi BRG (A, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-11-29T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [
