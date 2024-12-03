@@ -5,52 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-12-02T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kikherne-bataattipataa (*, A, G, ILM, L, M, Veg, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kotimaisia kirjolohipyöryköitä (A, ILM, L)",
-            "Sinappirelish-kermaviiliä\n (A, G, ILM, L)",
-            "Perunamuusia (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60 / 8,30 / 9,30 / 10,20",
-          "Components": [
-            "Juustopaneroitua broilerinfileetä\n (*, A, L)",
-            "Bearnaisea\n (A, G)",
-            "Basmatia (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Hedelmärahkaa (A, G, L)",
-            "Aprikoosivispipuuroa (A, L, M, Veg)",
-            "Vaniljavaahtoa (A, G, L, M, Veg)",
-            "Mansikkarahkaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-12-03T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
