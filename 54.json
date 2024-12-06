@@ -5,63 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-12-05T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Tomaattista munakoisopataa ja gremolataa (*, A, ILM, L, M, Veg, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": [
-            "Ranskalaista salaattikastiketta (*, A, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Tomaattista munakoisopataa ja gremolataa (*, A, ILM, L, M, Veg, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Karjalanpaistia (*, G, L, M)",
-            "Paahdettuja juureksia (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 3,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Kirjolohi-seitikeittoa (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Tyrni-jogurttipannacottaa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-12-06T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": []

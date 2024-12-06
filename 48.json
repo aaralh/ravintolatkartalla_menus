@@ -5,39 +5,6 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2024-12-05T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Yrttikermaviilikastiketta (A, G, ILM, L)",
-            "Talon kukkakaali-manchegopihvejä (A, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Karjalanpaistia (*, G, L, M)",
-            "Perunamuusia (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Rusinakeittoa (G, L, M, Veg)",
-            "Riisipuuroa (*, A, G, ILM, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-12-06T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": []

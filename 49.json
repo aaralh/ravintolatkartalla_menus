@@ -5,41 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2024-12-05T00:00:00+00:00",
-      "LunchTime": "10.30 - 16.30",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Pinaattiohukaisia (*, A, ILM, L)",
-            "Perunamuusia (*, A, G, ILM, L)",
-            "Puolukkahilloa (A, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Karjalanpaistia (*, G, L, M)",
-            "Perunamuusia (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/ 8,30 / 9,30 / 9,60",
-          "Components": [
-            "Kirjolohta, sinappia ja smetanaa (A, G, ILM, L)",
-            "Perunamuusia (*, A, G, ILM, L)",
-            "Paahdettuja juureksia (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-12-06T00:00:00+00:00",
       "LunchTime": "10.30 - 15.30",
       "SetMenus": []
