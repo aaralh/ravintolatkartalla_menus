@@ -5,38 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-12-10T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Porkkanaohukaisia (*, A, ILM, L)",
-            "Puolukkahilloa (A, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Mausteista kikhernepataa ja herkkusieniä (*, A, G, ILM, L, M, Veg)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Naudanlihagulassikeittoa (*, A, G, L, M, VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-12-11T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
@@ -53,7 +21,8 @@
           "Name": "",
           "Price": "5,60/ 8,30/ 9,30/ 9,60 €",
           "Components": [
-            "Perinteinen jouluateria, saatavilla myös vegaanisena (A, L, M)"
+            "Perinteinen jouluateria (A, L, M)",
+            "Vegaaninen jouluateria (G, L, M, Veg)"
           ]
         }
       ]
