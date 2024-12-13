@@ -5,34 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2024-12-12T00:00:00+00:00",
-      "LunchTime": "10.30-15.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
-          "Components": [
-            "Kylmäsavukirjolohikeittoa (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JOULULOUNAS",
-          "Price": "5,60 /8,30/9,30 /9,60 €",
-          "Components": [
-            "Perinteinen jouluateria/ Vegaaninen jouluateria (A, G, ILM, L, M)"
-          ]
-        },
-        {
-          "SortOrder": 340,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        }
-      ]
-    },
-    {
       "Date": "2024-12-13T00:00:00+00:00",
       "LunchTime": "10.30-14.00",
       "SetMenus": [

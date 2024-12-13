@@ -5,54 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-12-12T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kikherneitä ja kasviksia kormakastikkeessa (*, A, G, ILM, L, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Kermaista kirjolohikeittoa (A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60 / 8,30 / 9,30 / 10,20",
-          "Components": [
-            "Joulukinkkua (G, L, M)",
-            "Perunalaatikkoa (A, G, L)",
-            "Porkkanalaatikkoa (A, G, L, M, Veg)",
-            "Lanttulaatikkoa (A, G, L)",
-            "Bataattilaatikkoa (A, G, L)",
-            "Rosollia (G, L, M, Veg)",
-            "Punajuurikermaa (A, G, L)",
-            "Mausteista silliä (A, G, ILM, L, M)",
-            "Höyrytettyjä herneitä (G, L, M, Veg)",
-            "Metsäsienisalaattia (A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Valkosuklaapannacottaa (A, G)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-12-13T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
