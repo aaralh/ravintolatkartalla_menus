@@ -5,42 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-12-13T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Tofu-auringonkukansiemenmureketta (A, ILM, L, M, Veg)",
-            "Ranch-kastiketta (A, L, M, Veg, VS)",
-            "Paahdettua perunaa (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Madras Chicken (*, A, G, ILM, L, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Puolukka-kauraherkkua (A, L)",
-            "Vaniljakastiketta (A, G, L)",
-            "Vaniljavaahtoa (A, G, L, M, Veg)",
-            "Mustikkavispipuuroa (A, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-12-14T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
