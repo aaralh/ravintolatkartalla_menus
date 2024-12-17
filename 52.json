@@ -5,39 +5,8 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2024-12-16T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Punajuuri-juustokiusausta (A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Chili sin carnea (*, A, ILM, L, M, Veg)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Madras Chicken (*, A, G, ILM, L, VS)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-12-17T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
+      "LunchTime": "10.30–13.30",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -68,7 +37,7 @@
     },
     {
       "Date": "2024-12-18T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
+      "LunchTime": "110.30–13.30",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -100,12 +69,12 @@
     },
     {
       "Date": "2024-12-19T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
+      "LunchTime": "10.30–13.30",
       "SetMenus": []
     },
     {
       "Date": "2024-12-20T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
+      "LunchTime": "10.30–13.30",
       "SetMenus": []
     },
     {
