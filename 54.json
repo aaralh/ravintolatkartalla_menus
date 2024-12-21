@@ -5,46 +5,8 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2024-12-20T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Madras Tofu (*, A, G, ILM, L, M, Veg, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Madras Tofu (*, A, G, ILM, L, M, Veg, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Jauheliha-tomaattipizzaa (A, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2024-12-21T00:00:00+00:00",
-      "LunchTime": "12:00 - 17:00",
+      "LunchTime": "11:00-14:00",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -86,7 +48,7 @@
     },
     {
       "Date": "2024-12-22T00:00:00+00:00",
-      "LunchTime": "12:00 - 17:00",
+      "LunchTime": null,
       "SetMenus": []
     }
   ],
