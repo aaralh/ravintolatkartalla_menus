@@ -5,64 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2025-01-11T00:00:00+00:00",
-      "LunchTime": "12:00-17:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Falafelpuikkoja (G, ILM, L, M, Veg, VS)",
-            "Riisiä (G, L, M, Veg)",
-            "Basilikamajoneesi (A, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/10,50",
-          "Components": [
-            "Gluteeniton ja vegaaninen burgeri saatavilla grillistä ()"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Falafelpuikkoja (G, ILM, L, M, Veg, VS)",
-            "Riisiä (G, L, M, Veg)",
-            "Basilikamajoneesi (A, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Pekonilla ja sipulilla täytettyä uunimakkaraa (A, G, L)",
-            "Perunamuusia (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/10,50",
-          "Components": [
-            "Classic Briossi BRG ja savujuustoa (A, L)",
-            "Maalaisranskalaisia (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2025-01-12T00:00:00+00:00",
       "LunchTime": "12:00-17:00",
       "SetMenus": [
@@ -102,7 +44,9 @@
           "SortOrder": 2,
           "Name": "LOUNAS",
           "Price": "2,95/8,50",
-          "Components": []
+          "Components": [
+            "Jauhelihakebakoita (A, L, M)"
+          ]
         },
         {
           "SortOrder": 5,
