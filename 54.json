@@ -5,53 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2025-01-13T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Punajuurikroketteja (*, G, ILM, L, M, Veg)",
-            "Basilika-sitruunagurttia (*, A, G, ILM, L, M, Veg)",
-            "Paahdettua perunaa (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Mifu-halloum pataa gochujangilla A, L, VS, ILM, * ()"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Broileria teriyakikastikkeessa (*, A, G, ILM, L, M, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Lakritsivaahtoa (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2025-01-14T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
@@ -59,10 +12,7 @@
           "SortOrder": 0,
           "Name": "VEGAANINEN KASVISLOUNAS",
           "Price": "2,95/8,50",
-          "Components": [
-            "Seitan-kookoscurrya ja korianteria (*, A, ILM, L, M, Veg, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 0,

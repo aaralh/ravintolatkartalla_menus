@@ -5,48 +5,8 @@
   "Footer": "Vegaaninen ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.\nHyvää ruokahalua!",
   "MenusForDays": [
     {
-      "Date": "2025-01-13T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Kasviskroketteja (*, G, ILM, L, M, Veg, VS)",
-            "Limellä maustettua kurkku-kauragurttia (*, A, ILM, L, M, Veg, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Butter Chicken (*, A, G, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Jauhelihapyöryköitä (*, A, L, M)",
-            "Pippurikastiketta (*, A, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Ahvenkeittoa (A, G, ILM, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2025-01-14T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
+      "LunchTime": "10.30-14.30",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -86,7 +46,7 @@
     },
     {
       "Date": "2025-01-15T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
+      "LunchTime": "10.30-14.30",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -126,7 +86,7 @@
     },
     {
       "Date": "2025-01-16T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
+      "LunchTime": "10.30-14.30",
       "SetMenus": [
         {
           "SortOrder": 0,
@@ -166,7 +126,7 @@
     },
     {
       "Date": "2025-01-17T00:00:00+00:00",
-      "LunchTime": "10.30-14.00",
+      "LunchTime": "10.30-14.30",
       "SetMenus": [
         {
           "SortOrder": 0,
