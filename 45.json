@@ -5,37 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2025-01-15T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Halloumipizzaa, semikuivattua tomaattia ja pikkelöityä punasipulia\n (A, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Rapeita kalapuikkoja\n (*, A, L, M)",
-            "Tzatsiki-jogurttia\n (*, A, G, ILM, L, VS)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Perinteistä lihakeittoa (*, A, G, L, M)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2025-01-16T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
