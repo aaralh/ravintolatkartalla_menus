@@ -5,54 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2025-01-18T00:00:00+00:00",
-      "LunchTime": "12:00-17:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Mausteista soija-kasvispataa (*, A, ILM, L, M, Veg, VS)",
-            "Riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": []
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Mausteista soija-kasvispataa (*, A, ILM, L, M, Veg, VS)",
-            "Riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Broileripataa Sweet & Sour (*, A, G, L, M, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 5,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/10,50",
-          "Components": [
-            "Briossihampurilainen burgerpihvi ja pekoni (A, L, M)",
-            "Maalaisranskalaisia (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2025-01-19T00:00:00+00:00",
       "LunchTime": "12:00-17:00",
       "SetMenus": [
