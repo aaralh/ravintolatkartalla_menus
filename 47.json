@@ -1,8 +1,154 @@
 {
-  "RestaurantName": null,
-  "RestaurantUrl": null,
+  "RestaurantName": "Ravintola Lozzi",
+  "RestaurantUrl": "https://www.semma.fi/ravintolat2/seminaarimaki/lozzi/",
   "PriceHeader": null,
-  "Footer": null,
-  "MenusForDays": null,
-  "ErrorText": "No menu found with selected cost number/language/date: 1401/fi/20.1.2025"
+  "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
+  "MenusForDays": [
+    {
+      "Date": "2025-01-21T00:00:00+00:00",
+      "LunchTime": "10.30- 18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Kasvisgumboa (*, A, G, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Perinteistä makkarakastiketta\n (*, A, G, L, M)",
+            "Perunamuusia (*, A, G, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Broileribolognesepannupizzaa (A, L, VS)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2025-01-22T00:00:00+00:00",
+      "LunchTime": "10.30-18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Härkäpapu-kasvisbolognesea (*, A, G, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Butter Chicken (*, A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Lohilasagnettea (*, A, ILM, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS  klo 15.00 alk",
+          "Price": "5,60 / 8,30 /9,30 /9,60€",
+          "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS klo 15.00 alk.",
+          "Price": "5,60/ 8,30 /9,30 /9,60€",
+          "Components": [
+            "Alkaen klo 15: Fetapannupizza ja cashewpähkinää VL ()"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2025-01-23T00:00:00+00:00",
+      "LunchTime": "10.30-18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Madras Tofu (*, A, G, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "KASVISKEITTO",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Kipparikallen pinaattikeittoa (*, A, ILM, L)",
+            "Keitetty kananmunaa (A, G, ILM, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40 €",
+          "Components": [
+            "Broilerinugetteja (A, L, M)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS  klo 15.00 alk",
+          "Price": "5,60 / 8,30 /9,30 /9,60€",
+          "Components": []
+        }
+      ]
+    },
+    {
+      "Date": "2025-01-24T00:00:00+00:00",
+      "LunchTime": "10.30-14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Täysjyvävehnätortillaa (A, L, M, Veg)",
+            "TexMex paprikatäytettä (*, A, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40 €",
+          "Components": [
+            "Rapeita kalapaloja (*, A, ILM, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2025-01-25T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2025-01-26T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
+  "ErrorText": null
 }

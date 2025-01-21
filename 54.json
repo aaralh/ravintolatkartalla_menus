@@ -5,66 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto pyydettäessä.",
   "MenusForDays": [
     {
-      "Date": "2025-01-20T00:00:00+00:00",
-      "LunchTime": "11:00-19:00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Paneroituja porkkanapihvejä (A, G, ILM, L, M, Veg)",
-            "Tartarkastiketta (A, L, M, Veg)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "",
-          "Price": null,
-          "Components": [
-            "Herne-tilli-cappelipastasalaattia (A, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/10,50",
-          "Components": [
-            "Halloumpita ja ranskalaisia ()"
-          ]
-        },
-        {
-          "SortOrder": 1,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Paneroituja porkkanapihvejä (A, G, ILM, L, M, Veg)",
-            "Tartarkastiketta (A, L, M, Veg)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 2,
-          "Name": "LOUNAS",
-          "Price": "2,95/8,50",
-          "Components": [
-            "Jauhelihapyöryköitä (*, A, L, M)",
-            "Pippurikastiketta (*, A, ILM, L)",
-            "Perunamuusia (*, A, G, ILM, L)"
-          ]
-        },
-        {
-          "SortOrder": 6,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Suklaamoussea, kinuskia ja pähkinää (A, G, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2025-01-21T00:00:00+00:00",
       "LunchTime": "11:00-19:00",
       "SetMenus": [
@@ -83,6 +23,14 @@
           "Name": "",
           "Price": null,
           "Components": []
+        },
+        {
+          "SortOrder": 0,
+          "Name": "PAISTOPISTE",
+          "Price": "5,60/10,50",
+          "Components": [
+            "Gochujang-kana pitaleipä ja ranskalaisia ()"
+          ]
         },
         {
           "SortOrder": 1,
@@ -108,12 +56,7 @@
           "SortOrder": 5,
           "Name": "PAISTOPISTE",
           "Price": "5,60/10,50",
-          "Components": [
-            "Crispy chicken (G, L, M)",
-            "Gochujang-majoneesia (A, L, M, VS)",
-            "Rosmariini-lohkoperunoita (G, ILM, L, M, Veg)",
-            "Limeä (G, L, M, Veg)"
-          ]
+          "Components": []
         },
         {
           "SortOrder": 6,
