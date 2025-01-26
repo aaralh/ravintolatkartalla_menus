@@ -5,41 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2025-01-25T00:00:00+00:00",
-      "LunchTime": "10.30 - 14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Shahi Paneer (*, A, G, ILM, VS)",
-            "Riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Broileripataa Sweet & Sour (*, A, G, L, M, VS)",
-            "Riisiä (G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "PAISTOPISTE",
-          "Price": "5,60/ 8,30 / 9,30 / 9,60",
-          "Components": [
-            "Rapea porsaanleike (A, L, M)",
-            "Choronkastiketta (A, G)",
-            "Lämmintä perunasalaattia ja pikkelöityä punasipulia (G, L, M, Veg)",
-            "Satokauden kasviksia (G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2025-01-26T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
