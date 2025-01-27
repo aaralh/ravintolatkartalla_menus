@@ -5,7 +5,178 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme. ",
   "MenusForDays": [
     {
-      "Date": "2025-01-26T00:00:00+00:00",
+      "Date": "2025-01-27T00:00:00+00:00",
+      "LunchTime": "10.30 -18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Soija-kasvisbolognesea (*, A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Broileripyöryköitä (*, A, L, M, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Bolognesekastiketta (*, A, G, L, M, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS  klo 15.00 alk",
+          "Price": "5,60 / 8,30 /9,30 /9,60€",
+          "Components": [
+            "Alkaen klo 15: Taco Fried Chicken (A, G, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2025-01-28T00:00:00+00:00",
+      "LunchTime": "10.30- 18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Pannupizza, vuohenjuustoa & punajuurihummusta (A, VL)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Naudanlihaa paprika-herkkusienikastikkeessa (*, A, G, L, M, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Kotimaisia kirjolohipyöryköitä (A, ILM, L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2025-01-29T00:00:00+00:00",
+      "LunchTime": "10.30-18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "VEGAANINEN KASVISLOUNAS",
+          "Price": "2,95/ 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Butter vege (*, A, ILM, L, M, Veg, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Broileria currykastikkeessa (*, A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Ruotsalaista pyttipannua (A, G, L)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS  klo 15.00 alk",
+          "Price": "5,60 / 8,30 /9,30 /9,60€",
+          "Components": [
+            "Alkaen klo 15: Paahdettua kirjolohta (*, A, G, ILM, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2025-01-30T00:00:00+00:00",
+      "LunchTime": "10.30-18.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Paneroituja porkkanapihvejä (A, G, ILM, L, M, Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Madras Chicken (*, A, G, ILM, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Tonnikala-lehtipinaattilasagnettea (*, A, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS  klo 15.00 alk",
+          "Price": "5,60 / 8,30 /9,30 /9,60€",
+          "Components": [
+            "Alkaen klo 15: Porsaan grillipihvi (*, G, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2025-01-31T00:00:00+00:00",
+      "LunchTime": "10.30-14.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "KASVISLOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Falafelhotdog tsatzikilla ja lohkoperunoita (A, L, VS)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "LOUNAS",
+          "Price": "2,95 / 5,70 / 6,30 / 8,40€",
+          "Components": [
+            "Hot dog ja lohkoperunoita (A, L, M)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2025-02-01T00:00:00+00:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2025-02-02T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": []
     }
