@@ -5,50 +5,6 @@
   "Footer": "Vegaani ja gluteeniton vaihtoehto saatavilla päivittäin! Kysy lisätietoja henkilökunnaltamme.",
   "MenusForDays": [
     {
-      "Date": "2025-01-28T00:00:00+00:00",
-      "LunchTime": "10.30–14.00",
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "VEGAANINEN KASVISLOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Tomaattista munakoisopataa ja gremolataa (*, A, ILM, L, M, Veg, VS)",
-            "Tummaa riisiä (*, G, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 / 5,70 / 6,30 / 8,40",
-          "Components": [
-            "Juustogratinoitua seitiä\n (*, A, L)",
-            "Keitettyjä perunoita (*, A, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "5,60 / 8,30 / 9,30 / 10,20",
-          "Components": [
-            "Seesampaneroitua broilerinfileetä (A, G, L, M)",
-            "Piparjuurimajoneesia (A, G, L, M)",
-            "Paahdettua perunaa ja juureksia (*, G, ILM, L, M, Veg)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "JÄLKIRUOKA",
-          "Price": "1,50",
-          "Components": [
-            "Puutarhamarja-ruismurupaistosta (A, L, M, Veg)",
-            "Vaniljakastiketta (A, G, L)",
-            "Vegaanista vaniljakastiketta (A, G, L, M, Veg)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2025-01-29T00:00:00+00:00",
       "LunchTime": "10.30–14.00",
       "SetMenus": [
