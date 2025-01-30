@@ -5,36 +5,6 @@
   "Footer": null,
   "MenusForDays": [
     {
-      "Date": "2025-01-29T00:00:00+00:00",
-      "LunchTime": null,
-      "SetMenus": [
-        {
-          "SortOrder": 0,
-          "Name": "KASVISLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Pannupizza, fetaa, pinaattia & cashew (A, VL)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "LOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Broilerin-jauhelihalasagnettea (*, A, L)"
-          ]
-        },
-        {
-          "SortOrder": 0,
-          "Name": "KEITTOLOUNAS",
-          "Price": "2,95 /6,30 /8,40",
-          "Components": [
-            "Täyteläistä kalakeittoa\n (*, A, G, ILM, L)"
-          ]
-        }
-      ]
-    },
-    {
       "Date": "2025-01-30T00:00:00+00:00",
       "LunchTime": null,
       "SetMenus": [
